@@ -31,18 +31,18 @@
 [[main]]
   name = "Team"
   url = "#team"
-  weight = 60
-
-[[main]]
-  name = "Talks"
-  url = "#talks"
-  weight = 85
-
+  weight = 35
 
 [[main]]
   name = "Publications"
   url = "#featured"
   weight = 70
+
+
+[[main]]
+  name = "Talks"
+  url = "#talks"
+  weight = 85
 
 [[main]]
   name = "Data&Lyrics Blog"

@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 85
+weight: 50
 
 title: Open-Source Software
 subtitle: 'Our peer-reviewed, open source statistical software packages'
