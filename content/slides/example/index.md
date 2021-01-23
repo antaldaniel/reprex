@@ -1,10 +1,10 @@
 ---
 title: Slides
-summary: An introduction to using Wowchemy's Slides feature.
+summary: Data Curation With Reprex
 authors: []
 tags: []
 categories: []
-date: "2019-02-05T00:00:00Z"
+date: "2020-01-21T00:00:00Z"
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black
@@ -15,7 +15,7 @@ slides:
 
 # Data Curation With Reprex
 
-[Wowchemy](https://wowchemy.com/) | [Documentation](https://owchemy.com/docs/managing-content/#create-slides)
+[Reprex](https://wowchemy.com/) | [Data Curation](https://owchemy.com/docs/managing-content/#create-slides)
 
 ---
 
