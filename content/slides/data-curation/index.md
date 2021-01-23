@@ -1,10 +1,10 @@
 ---
 title: Slides
-summary: An introduction to using Wowchemy's Slides feature.
+summary: Data Curation As Service
 authors: []
 tags: []
 categories: []
-date: "2019-02-05T00:00:00Z"
+date: "2021-02-05T00:00:00Z"
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black
@@ -13,13 +13,22 @@ slides:
   highlight_style: dracula
 ---
 
-# Data Curation With Reprex
+# Create slides in Markdown with Wowchemy
 
 [Wowchemy](https://wowchemy.com/) | [Documentation](https://owchemy.com/docs/managing-content/#create-slides)
 
 ---
 
-## Presentation Controls
+## Features
+
+- Efficiently write slides in Markdown
+- 3-in-1: Create, Present, and Publish your slides
+- Supports speaker notes
+- Mobile friendly slides
+
+---
+
+## Controls
 
 - Next: `Right Arrow` or `Space`
 - Previous: `Left Arrow`
@@ -33,9 +42,28 @@ slides:
 
 ---
 
-## Data Curation
+## Code Highlighting
 
-If you do not find the data for your research, reporting or evaluation project, it does not mean that the data does not exist. It does not mean that the data is not available for *free*.
+Inline code: `variable`
+
+Code block:
+```python
+porridge = "blueberry"
+if porridge == "blueberry":
+    print("Eating...")
+```
+
+---
+
+## Math
+
+In-line math: $x + y = z$
+
+Block math:
+
+$$
+f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$
 
 ---
 
@@ -43,13 +71,17 @@ If you do not find the data for your research, reporting or evaluation project, 
 
 Make content appear incrementally
 
+```
+{{%/* fragment */%}} One {{%/* /fragment */%}}
+{{%/* fragment */%}} **Two** {{%/* /fragment */%}}
+{{%/* fragment */%}} Three {{%/* /fragment */%}}
+```
 
+Press `Space` to play!
 
 {{% fragment %}} One {{% /fragment %}}
 {{% fragment %}} **Two** {{% /fragment %}}
 {{% fragment %}} Three {{% /fragment %}}
-
-<Press `Space` to play!>
 
 ---
 

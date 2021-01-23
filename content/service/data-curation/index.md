@@ -27,7 +27,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: data-curation
 ---
 
 If you do not find the right data for your policy evaluation, your consulting project, your PhD thesis, your market research, or scientific research project, it does not mean that the data does not exist.  It does not mean that the data is not available for free. 
