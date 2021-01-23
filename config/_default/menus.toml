@@ -24,14 +24,20 @@
   weight = 40
 
 [[main]]
+  name = "Software"
+  url = "#software"
+  weight = 50
+
+[[main]]
+  name = "Team"
+  url = "#team"
+  weight = 60
+
+[[main]]
   name = "Talks"
   url = "#talks"
   weight = 85
 
-[[main]]
-  name = "Software"
-  url = "#software"
-  weight = 60
 
 [[main]]
   name = "Publications"
@@ -40,8 +46,8 @@
 
 [[main]]
   name = "Data&Lyrics Blog"
-  url = "#featured"
-  weight = 55
+  url = "https://dataandlyrics.com/"
+  weight = 95
 
 [[main]]
   name = "Contact"

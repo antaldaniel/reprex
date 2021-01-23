@@ -8,12 +8,12 @@ authors:
 - Daniel Antal
 
 # Author notes (optional)
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
-doi: ""
+date: "2020-06-03T17:00:00"
+doi: "10.5281/zenodo.3825696"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"

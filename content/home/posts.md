@@ -7,10 +7,10 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 60
+weight: 20
 
-title: Recent Posts
-subtitle:
+title: Recent News
+subtitle: For more posts, visit our blog  [Data&Lyrics](https://dataandlyrics.com/)
 
 content:
   # Page type to display. E.g. post, talk, publication...
