@@ -6,3 +6,5 @@
 public/
 jsconfig.json
 .Rproj.user
+.Rhistory
+.RData
