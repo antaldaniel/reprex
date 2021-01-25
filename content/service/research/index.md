@@ -27,7 +27,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: research-automation
 ---
 
 we can provide our clients with document, presentation, website, newsletter templates that are auto-refreshing their data contents, visualizations, citations and other technical documentation items, taking care of error-prone and time consuming revisions of technical documents, such as consulting reports, scientific publications, litigation documents and regulatory filings. 
