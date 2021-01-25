@@ -1,6 +1,6 @@
 ---
 title: Open Data
-summary: We provide our clients with simple datasets, databases, harmonized survey data, and various other rich data applications; access to high-quality, re-processed, re-usable public sector and scientific data.
+summary: We provide our clients with simple datasets, databases, harmonized survey data, and various other rich data applications; we provide continous access to high-quality, re-processed, re-usable public sector and scientific data.
 tags:
 - Open Data
 date: "2021-01-21T00:00:00Z"
