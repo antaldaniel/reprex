@@ -1,6 +1,6 @@
 ---
 title: Turstworhty AI
-summary: The algorithm should work for you, ethically.
+summary: The algorithm should ethically work for any small or large organization.
 tags:
 - AI
 date: "2021-01-21T00:00:00Z"
