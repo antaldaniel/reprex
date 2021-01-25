@@ -19,6 +19,12 @@
   weight = 30
 
 [[main]]
+  name = "Team"
+  url = "#team"
+  weight = 35
+
+
+[[main]]
   name = "Projects"
   url = "#projects"
   weight = 40
@@ -28,10 +34,6 @@
   url = "#software"
   weight = 50
 
-[[main]]
-  name = "Team"
-  url = "#team"
-  weight = 35
 
 [[main]]
   name = "Publications"

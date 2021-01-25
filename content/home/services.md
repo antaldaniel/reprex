@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 62
+weight: 30
 
 title: Services
 subtitle: ''
