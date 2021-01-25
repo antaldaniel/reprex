@@ -1,6 +1,6 @@
 ---
 title: Reproducible Research
-summary: Automate data processing, validation, docuementation for error-free research output.
+summary: Automate data processing, validation, documentation for error-free research output.
 tags:
 - Deep Learning
 date: "2021-01-21T00:00:00Z"
@@ -9,7 +9,7 @@ date: "2021-01-21T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: ""
   focal_point: Smart
 
 links:
