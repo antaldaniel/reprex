@@ -1,6 +1,6 @@
 ---
 title: Data Curation
-summary: We find the relevant data for your business or policy scorecard, market or scientific research project
+summary: We find the relevant data for your business or policy scorecard, market or scientific research project. We are constantly mapping, testing, validating new data sources in the creative and cultural industries.
 tags:
 - Data Curation
 date: "2021-01-21T00:00:00Z"
