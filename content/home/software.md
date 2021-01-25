@@ -34,8 +34,16 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 2
+  view: 3
 ---
+
+We believe that transparency is the key to the highest data quality. We use only open source software. We open up the critical elements of our software for peer-review.  
+
+- We use open-source software, there is no vendor lock-in.
+
+- Our data products go through many, automated (unit) tests, replacing countless error-prone human validation working hours.
+
+- The critical elements of our code go through external validation and peer-review by computational statisticians and data scientists.
 
 {{% callout note %}}
 Quickly discover relevant content by [filtering our software releases.](./software/).

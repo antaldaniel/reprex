@@ -53,4 +53,4 @@ highlight_name: false
 
 Reprex is a reproducible research company.  We bring the benefits of big data to small organizations: SMEs, NGOs, university research labs, to benefit from continuous presence of high-quality and timely data. We help them pooling data to build trustworthy AI solutions, or to validate the AI algorithms that are handling their product. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}introduction{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download our {{< staticref "media/demo_resume.pdf" "newtab" >}}introduction{{< /staticref >}}.
