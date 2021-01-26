@@ -26,7 +26,7 @@ font = ""
 
 # Choose a font size.
 # Sizes: XS (extra small), S (small), M (medium), L (large - DEFAULT), XL (extra large)
-font_size = "L"
+font_size = "M"
 
 ############################
 ## Basic Info
@@ -48,7 +48,7 @@ local_business_type = ""
 org_name = "Reprex B.V."
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Reprex: big data for small organizations. A reproducible research company for automated data access and trustworthy AI."
+description = "Reprex: big data for small organizations. We bring the benefits of big data to small organizations: SMEs, NGOs, university research labs, management and policy consultants. Our continuous data curation, collection and processing allows them to be competitive with large organizations. We help them pooling data to build scientifically valid models, analytics, trustworthy AI solutions, or to validate the AI algorithms that are handling their products."
 
 ############################
 ## Site Features
@@ -88,12 +88,12 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
-phone = "888 888 88 88"
+email = ""
+phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Granaathorst", city = "the Hague", region = "NL-ZH", postcode = "2592TA", country = "Netherlands", country_code = "NL"}
+address = {city = "the Hague", region = "NL-ZH", postcode = "2592TA", country = "Netherlands", country_code = "NL"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
