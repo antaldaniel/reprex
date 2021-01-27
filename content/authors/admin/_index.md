@@ -45,17 +45,13 @@ email: ""
 highlight_name: false
 ---
 
-We bring the benefits of big data to small organizations: SMEs, NGOs, university research labs, management and policy consultants. Our continuous data curation, collection and processing allows them to be competitive with large organizations. We help them pooling data to build scientifically valid models, analytics, trustworthy AI solutions, or to validate the AI algorithms that are handling their products. 
-
-- [Data Curation](/service/data-curation/): find the best value for money data solution to your research or evaluation project.
-- [Open Data](/service/open-data/): access to thousands of statistical, business and policy indicators in the cultural and creative industries and sustainability.
-- [Survey harmonization](/software/retroharmonize/): re-use already asked survey questions, use harmonized questions banks, create longitudinal and cross-sectional datasets.
-- [Reproducible Research](/service/research/): automate data collections, processing, validation, corrections, documentation to save error-prone human work.
-- [Trustworthy AI](/service/trustworthy-ai/): validated, trustworthy AI applications or detect the biases of algorithms working against you.
+We bring the benefits of big data to small organizations: SMEs, NGOs, university research labs, management and policy consultants. We help our clients to get access to large enough datasets, and to build trustworthy scientific, policy, business, or AI applications with the data.  Reprex grew out of CEEMID, a project that connected data and pooled surveys across 12 countries and more than 50 music industry stakeholders, creating thousands of relevant policies, statistical and scientific indicators for the music and creative industries.
 
 Our flagship demo projects are the [Listen Local](/project/listen-local/) ethical music recommendation system based on our [Demo Music Observatory](/project/music-observatory/) data integration and knowledge sharing platform.
 
-{{< icon name="download" pack="fas" >}} Download our {{< staticref "media/demo_resume.pdf" "newtab" >}}introduction{{< /staticref >}}.
+{{< icon name="hand-point-right" pack="fas" >}} See our {{< staticref  "/#services" "newtab"  >}}services{{< /staticref >}}: [data curation](/service/data-curation/), [open data access](/service/open-data/), [survey harmonization](/software/retroharmonize/), [reproducible research](/service/research/) and validated [trustworthy AI applications](/service/trustworthy-ai/).
+
+{{< icon name="download" pack="fas" >}} Download our {{< staticref "media/docs/reprex_introduction.pdf" "newtab" >}}introduction{{< /staticref >}}.
 
 {{< icon name="rss" pack="fas" >}} Follow {{< staticref "/#news" "newtab" >}}news about us{{< /staticref >}} or the more comprehensive {{< staticref "https://dataandlyrics.com/" "newtab" >}}Data & Lyrics{{< /staticref >}}  blog.
 
