@@ -30,20 +30,27 @@ url_code = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
+url_custom = [{icon_pack = "fab", icon="play-circle", name="Demo Music Observatory", url = "https://music.dataobservatory.eu/"}]
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
-  caption = "The royalty gap within Europe"
+  caption = "The royalty gap within Europe - calculated with our indicators"
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
 
-We launched our [Demo Music Observatory](https://dataandlyrics.com/post/2020-09-15-music-observatory-launch/) in September 2020 and got into the presitgious [Yes!Delft AI Validation Lab](https://dataandlyrics.com/post/2020-09-25-yesdelft-validation/). Our demo observatory is an example how we believe the European Data Observatory should be built. An observatory is a permanent observation point for social and economic data. We want to prove that this process can be made cost-effectively and efficiently, providing a high-quality, valuable and timely product by employing best practices in research automation and open source software, using open data in open collaboration with the music industry, artists, technicians and managers.
+We launched our [Demo Music Observatory](https://dataandlyrics.com/post/2020-09-15-music-observatory-launch/) in September 2020 and got into the presitgious [Yes!Delft AI Validation Lab](https://dataandlyrics.com/post/2020-09-25-yesdelft-validation/). Our demo observatory is a subjective example on how we believe the European Data Observatory should be built, and follows the structure laid out in the Feasibility study for the establishment of a European Music Observatory.
+
+The Demo Music Observatory has four pillars - click through to get our demo indicators, descriptions, and methodological notes.
+
+1. [Music Economy](https://data.music.dataobservatory.eu/music-economy.html) 
+2. [Diversity & Circulation](https://data.music.dataobservatory.eu/music-diversity.html)
+3. [Music & Society](https://data.music.dataobservatory.eu/music-society.html)
+4. [Innovation - innovative data applications](https://data.music.dataobservatory.eu/innovation.html)
+
+An observatory is a permanent observation point for social and economic data. We want to prove that this process can be made cost-effectively and efficiently, providing a high-quality, valuable and timely product by employing best practices in research automation and open source software, using open data in open collaboration with the music industry, artists, technicians and managers.
 
 We are working on a broader, creative industry observatory and another one related to the challenges of new sustainability regulations.
 
