@@ -31,3 +31,5 @@ slides: research-automation
 ---
 
 we can provide our clients with document, presentation, website, newsletter templates that are auto-refreshing their data contents, visualizations, citations and other technical documentation items, taking care of error-prone and time consuming revisions of technical documents, such as consulting reports, scientific publications, litigation documents and regulatory filings. 
+
+[Creating An Automated Data Observatory](https://dataandlyrics.com/post/2020-09-11-creating-automated-observatory/) --- [Reproducible research in practice: empirical study on the structural conditions of book piracy in global and European academia](https://dataandlyrics.com/post/2020-12-04-pirate-libraries/)
