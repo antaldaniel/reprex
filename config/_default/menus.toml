@@ -9,18 +9,18 @@
   weight = 10
 
 [[main]]
-  name = "News"
-  url = "#posts"
-  weight = 20
-
-[[main]]
   name = "Services"
   url = "#services"
-  weight = 30
+  weight = 20
 
 [[main]]
   name = "Team"
   url = "#team"
+  weight = 30
+
+[[main]]
+  name = "News"
+  url = "#posts"
   weight = 35
 
 

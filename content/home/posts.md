@@ -7,7 +7,7 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 35
 
 title: Recent News
 subtitle: For more posts, visit our blog  [Data&Lyrics](https://dataandlyrics.com/)
