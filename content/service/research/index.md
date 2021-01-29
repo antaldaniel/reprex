@@ -2,7 +2,7 @@
 title: Reproducible Research
 summary: We create document-, presentation-, website-, and newsletter templates that are auto-refreshing their data contents, visualizations, citations, and other technical documentation items, taking care of error-prone and time-consuming revisions of technical documents, such as consulting reports, scientific publications, litigation documents and regulatory filings. 
 tags:
-- Deep Learning
+- reproducible
 date: "2021-01-21T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

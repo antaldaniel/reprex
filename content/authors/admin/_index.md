@@ -45,9 +45,9 @@ email: ""
 highlight_name: false
 ---
 
-We bring the benefits of big data to small organizations: SMEs, NGOs, university research labs, management and policy consultants. We help our clients to get access to large enough datasets, and to build trustworthy scientific, policy, business, or AI applications with the data.  Reprex grew out of CEEMID, a project that connected data and pooled surveys across 12 countries and more than 50 music industry stakeholders, creating thousands of relevant policies, statistical and scientific indicators for the music and creative industries.
+We are a Netherlands-based start-up company that brings the benefits of big data to small organizations.  We want to make sure that small organizations can remain competitive in the era big data, they have access to trustworthy AI, and they can validate with regulators if third-party, corporate sales and marketing algorithms do not have negative biases against them. Our diverse team is particularly experienced in music, the creative industries, and digital humanities.
 
-Our flagship demo projects are the [Listen Local](/project/listen-local/) ethical music recommendation system based on our [Demo Music Observatory](/project/music-observatory/) data integration and knowledge sharing platform.
+Our flagship demo projects are the [Listen Local](/project/listen-local/) ethical music recommendation system based on our [Demo Music Observatory](/project/music-observatory/) data integration and knowledge sharing platform. We have validated our product/market fit in the prestigious [Yes!Delft AI+Blockchain Lab](/post/2020-09-25-yesdelft-validation/)
 
 {{< icon name="hand-point-right" pack="fas" >}} See our {{< staticref  "/#services" "newtab"  >}}services{{< /staticref >}}: [data curation](/service/data-curation/), [open data access](/service/open-data/), [survey harmonization](/software/retroharmonize/), [reproducible research](/service/research/) and validated [trustworthy AI applications](/service/trustworthy-ai/).
 
