@@ -30,6 +30,14 @@ url_video: ""
 slides: example
 ---
 
+
+**Everyday, thousands of new datasets are becoming available via the EU open data regime, US and other jurisdictions freedom of information legislation, or open science and scientific reproducibility requirements.**
+
+These datasets are usually very reliable, high value datasets, and their cumulated estimated value is close to 100 billion euros in the EU alone.  But they offer no free lunch: originally collected to evaluate policies, measure the inflation, control tax returns, predict the weather or traffic jams, they usually require a thorough reprocessing for their re-use in the music industry or another new context. Our software solutions automate this process – for example, whenever price data is collected to measure the inflation in EU countries, we take out the price data of cultural products automatically.
+
+The creative and cultural industries are often not participating in government statistical programs, because they almost exclusively consist of microenterprises that are exempted from statistical reporting and file only simplified financial statements and tax returns.  In the creative & cultural sector, industry-organized data collection is particularly important.  We are mapping all important global and European data collection, and we often carry out primary data collection for European stakeholders. Access and sharing these data on a continuous, programmatic basis is similarly possible (after the necessary approvals of data owners), just like in the case of open data, open science, or freedom-of-information sources. 
+
+
 ## European open data
 
 The European data regulation uses the expression `open data` for anonymized or non-confidential data that has been collected by a public sector organization. Such data is usually open for re-use.
