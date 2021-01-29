@@ -6,7 +6,7 @@ title = "Listen Local"
 date = 2020-09-29T10:00:00
 
 # Project summary to display on homepage.
-summary = "Connecting local bands with local fans, joining scenes across the globe."
+summary = "Listen Local is our experimental project to create trustworthy AI applications that are locally relevant for independent labels and artists, and small nation export offices.  Our first demo application was supported by the Slovak Arts Council, and we are currently working with Slovak, Hungarian, Dutch and Estonian music."
 
 # Tags: can be used for filtering projects.
 tags = ["listen-local"]

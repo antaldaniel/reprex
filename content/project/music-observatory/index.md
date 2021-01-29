@@ -6,7 +6,7 @@ title = "Music Observatory"
 date = 2019-08-26T08:00:00
 
 # Project summary to display on homepage.
-summary = "Collaborative reproducible research in the music industry"
+summary = "We launched our Demo Music Observatory on 15 September 2020 and got into the prestigious Yes!Delft AI Validation Lab. Our demo observatory is a subjective example on how we believe the European Data Observatory should be built, and follows the structure laid out in the Feasibility study for the establishment of a European Music Observatory."
 
 # Tags: can be used for filtering projects.
 tags = ["ceemid", "surveys", "music-industry", "data-observatory", "music-observatory", "reproducible-research"]
@@ -41,9 +41,12 @@ url_custom = [{icon_pack = "fab", icon="play-circle", name="Demo Music Observato
   focal_point = "Smart"
 +++
 
-We launched our [Demo Music Observatory](https://dataandlyrics.com/post/2020-09-15-music-observatory-launch/) in September 2020 and got into the presitgious [Yes!Delft AI Validation Lab](https://dataandlyrics.com/post/2020-09-25-yesdelft-validation/). Our demo observatory is a subjective example on how we believe the European Data Observatory should be built, and follows the structure laid out in the Feasibility study for the establishment of a European Music Observatory.
+We launched our [Demo Music Observatory](https://music.dataobservatory.eu/) on 15 September 2020 and got into the prestigious Yes!Delft AI Validation Lab. Our demo observatory is a subjective example on how we believe the European Data Observatory should be built, and follows the structure laid out in the Feasibility study for the establishment of a European Music Observatory.
 
-The Demo Music Observatory has four pillars - click through to get our demo indicators, descriptions, and methodological notes.
+<span style="text-decoration:underline">Related on our Data&Lyrics blog</span>:
+[Launching Our Demo Music Observatory](https://dataandlyrics.com/post/2020-09-15-music-observatory-launch/)) --- [Yes!Delft AI Validation Lab](https://dataandlyrics.com/post/2020-09-25-yesdelft-validation/)
+
+The Demo Music Observatory has four pillars --- click through to get our demo indicators, descriptions, and methodological notes.
 
 1. [Music Economy](https://data.music.dataobservatory.eu/music-economy.html) 
 2. [Diversity & Circulation](https://data.music.dataobservatory.eu/music-diversity.html)
@@ -54,7 +57,7 @@ An observatory is a permanent observation point for social and economic data. We
 
 We are working on a broader, creative industry observatory and another one related to the challenges of new sustainability regulations.
 
-Our data observatories are loose collaborations without a permanent budget.  They serve as a basis to share investment and maintenance costs for permanent data collections, and to allow access to new research and granting opportunities. 
+Our data observatories are loose collaborations without a permanent budget.  They serve as a basis to share investment and maintenance costs for permanent data collections, and to allow access to new research and granting opportunities. They are open for trade associations, collective management societies, university research groups, music industry companies, consultancies, and even for individual researchers, too. 
 
 ## What do we expect from our observatory partners?
 
@@ -70,4 +73,4 @@ Our data observatories are loose collaborations without a permanent budget.  The
 
 Currently, we are tracking 71 existing and already closed observatories, and seek possibilities of joining, collaborating with existing ones, or to take over historical data assets from defunct observatories.
 
-Reprex has participated in the [Yes!Delft AI+Blockchain Validation Lab](https://happy-keller-822299.netlify.app/post/2020-09-25-yesdelft-validation/) to find a suitable business model for our automated, high value-for-money data observatories. In 2021 we will try to put validated ideas into practice, with a flexible adaptation.
+Reprex has participated in the [Yes!Delft AI+Blockchain Validation Lab](/post/2020-09-25-yesdelft-validation/) to find a suitable business model for our automated, high value-for-money data observatories. In 2021 we will try to put validated ideas into practice, with a flexible adaptation.
