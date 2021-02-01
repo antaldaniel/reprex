@@ -16,7 +16,7 @@ role: Co-Founder
 # Organizations/Affiliations
 organizations:
 - name: Reprex B.V.
-  url: "https://dataobservatory.eu/"
+  url: "https://reprex.nl/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My professional interests include localization and photography.
