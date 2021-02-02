@@ -14,18 +14,16 @@ authors = ["Daniel Antal, CFA"]
 abstract = "Save the Date: Open Data Day 2021 focusing on environmental, sustainability and public spending data mapping."
 
 # Name of event and optional event URL.
-event = "CCS Ecosystems: FLIPPING THE ODDS"
-event_url = "http://creativeflip.creativehubs.net/2019/12/03/flipping-the-odds/"
+event = "Open Data Day 2021"
+event_url = ""
 
 # Location of event
-location = "LaVallée Creative Hub - Molenbeek Rue Adolphe Lavallée 39, 1080 Brussels, Belgium"
+location = "Online"
 
 # Is this a selected talk? (true/false)
 selected = true
-projects = ["CEEMID"]
-
 # Tags (optional).
-tags = ["CEE","music-industry", "CEEMID", "CEEMID Observatory", "European Music Observatory", "value-gap", "PCR", "export", "pricing"]
+tags = ["open-data", "sustainability"]
 
 # Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -56,3 +54,5 @@ math = false
 Open Data Day is an annual celebration of open data all over the world. It is an opportunity to show the benefits of open data and encourage the adoption of open data policies in government, business, and civil society. Reprex is a start-up that utilizes open data with open-source reproducible research: please challenge us with your data requests and participate in our web events.
 
 **Details soon, save the day!**
+
+Link: [Open Data Day](https://opendataday.org/) 
