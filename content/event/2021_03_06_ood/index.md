@@ -53,6 +53,17 @@ math = false
 
 Open Data Day is an annual celebration of open data all over the world. It is an opportunity to show the benefits of open data and encourage the adoption of open data policies in government, business, and civil society. Reprex is a start-up that utilizes open data with open-source reproducible research: please challenge us with your data requests and participate in our web events.
 
-**Details soon, save the day!**
+## Webinar 1: Mapping air quality and perceptions of air quality
+
+_In this use case we will show you how you can access historic survey data about perceptions of air quality and attitudes towards environmental policies with the actual air quality measured where the survey respondents live.  We will put survey answers and air pollution measurements on detailed maps to see the interplay._
+
+* [Izabela Surwillo, PhD](https://www.diis.dk/en/node/24137) is a postdoctoral researcher in the Danish Institute for International Studies. She's going to discuss her data needs that we will try to address with our tutorials and webinar!
+
+* [Milos Popovic, PhD](https://milosp.info/) is a post-doctoral fellow at the Institute of Security and Global Affairs (ISGA) at Leiden University and a mapping an data visualization expert. 
+
+* [Daniel Antal, CFA](https://dataandlyrics.com/author/daniel/) is the co-founder of the Reprex and the author of the [retroharmonize](https://retroharmonize.dataobservatory.eu/) package that gives harmonized access to open survey databases and the [regions](https://regions.dataobservatory.eu/) package that handles sub-national geographical metadata.
+
+
+**More details soon, save the day!**
 
 Link: [Open Data Day](https://opendataday.org/) 
