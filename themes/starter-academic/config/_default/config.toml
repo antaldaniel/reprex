@@ -1,4 +1,3 @@
-theme = "starter-academic"
 # Configuration of Hugo
 # Guide: https://wowchemy.com/docs/get-started/
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
@@ -7,7 +6,7 @@ theme = "starter-academic"
 # Each configuration section is defined by a name in square brackets (e.g. `[outputs]`).
 
 # Title of your site
-title = "Reprex"
+title = "Academic"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
@@ -15,7 +14,7 @@ baseurl = ""
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
-copyright = "&copy; 2020-{year}."
+copyright = ""
 
 ############################
 ## Advanced options below ##
@@ -30,12 +29,13 @@ hasCJKLanguage = false  # Set `true` for Chinese/Japanese/Korean languages.
 defaultContentLanguageInSubdir = false
 removePathAccents = true  # Workaround for https://github.com/gohugoio/hugo/issues/5687
 
-summaryLength = 40  # Listing summary length in words. Also, see `abstract_length` in `params.toml`.
+summaryLength = 30  # Listing summary length in words. Also, see `abstract_length` in `params.toml`.
 paginate = 10  # Number of items per page in paginated lists.
 enableEmoji = true
 enableRobotsTXT = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "_cache$"]
+disableAliases = true  # Disable aliases when `redirects` is added to the `outputs` below.
 
 [permalinks]
   # If only creating events which are talks, we can optimize event URLs for talks.
@@ -46,15 +46,8 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   publication_types = "/publication-type/:slug/"
 
 [outputs]
-  home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
-  section = [ "HTML", "RSS" ]
-
-[mediaTypes."application/manifest+json"]
-  suffixes = ["webmanifest"]
-
-[outputFormats.WebAppManifest]
-  mediaType = "application/manifest+json"
-  rel = "manifest"
+  home = ["HTML", "RSS", "JSON", "WebAppManifest", "headers", "redirects"]
+  section = ["HTML", "RSS"]
 
 # Configure the Markdown renderer.
 [markup]
@@ -102,13 +95,9 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
     name = "categories"
     weight = 70.0
 
-  [[related.indices]]
-    name = "authors"
-    weight = 20.0
-
 # Install Wowchemy
 [module]
   [[module.imports]]
-    path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy"
+    path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy-cms"
   [[module.imports]]
-    path = "github.com/wowchemy/wowchemy-hugo-modules/netlify-cms-academic"
+    path = "github.com/wowchemy/wowchemy-hugo-modules/wowchemy"

@@ -5,7 +5,4 @@
 /resources/
 public/
 jsconfig.json
-.Rproj.user
-.Rhistory
-.RData
-.Rprofile
+node_modules/
