@@ -63,7 +63,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Editors
+- Team
 ---
 
 Emily Hansell Clark is a researcher of ethnomusicology, and she is interested in ethnicity, migration, memory, governance, difference, and selfhood. Her ongoing research project follows Javanese musicians in Suriname and the Netherlands. She helps editing our blog and helps build bridges between quantitative and qualitative research areas in music and digital humanities.
