@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Editor
+role: Digital Humanities
 
 # Organizations/Affiliations
 organizations:
