@@ -61,7 +61,7 @@ We are preparing with a series of blogposts, i.e. short interviews, research int
 
 `11.00 EST / 17.00 CET`:  **Scaling up open collaboration: making small organizations competitive with big tech in the big data era.**  Data sharing, data pooling, data altruism and observatories. The new European trustworthy AI and data governance agenda. 
 
-Our collaborative agenda can be found [here](/presentations/00d21.html).  If you want to add your name, works, blogposts, send a pull request to github or send Daniel a message on [Keybase](https://keybase.io/antaldaniel), Whatsapp or [email](https://dataandlyrics.com/#contact).
+Our collaborative agenda can be found [here](/presentations/ood21.html).  If you want to add your name, works, blogposts, send a pull request to github or send Daniel a message on [Keybase](https://keybase.io/antaldaniel), Whatsapp or [email](https://dataandlyrics.com/#contact).
 
 **Registration** is not necessary, but if you want to include your topics, LinkedIn, Github or other credentials, please get in touch till 5th March, 2020 `12.00 EST / 18.00 CET`. We will publish the video conference link here at `9.15 EST / 15.15 CET` (and send it to all confirmed guests in an email beforehand.) 
 
