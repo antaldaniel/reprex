@@ -57,7 +57,7 @@ projects:
 
 [Open Data Day](https://opendataday.org/)  is an annual celebration of open data all over the world. It is an opportunity to show the benefits of open data and encourage the adoption of open data policies in government, business, and civil society. Reprex is a start-up that utilizes open data with open-source reproducible research: please challenge us with your data requests and participate in our web events.
 
-The `Reprex Open Data Day 2021` will be two informal conversations based on a series of run up introductory blogposts centerred around two themes.
+The `Reprex Open Data Day 2021` will be two informal conversations based on a series of run up introductory blogposts centered around two themes.
 
 We are preparing with a series of blogposts, i.e. short interviews, research introductions, tutorials and inspiring ideas for the 6th of March.   We want to create an informal, inclusive, collaborative online event on International Open Data Day 2021. Please, grab a tea, coffee, or even a beer, and join us for an informal conversation. We hope that we will finish the afternoon with ideas on new, open-data driven collaborations.
 
