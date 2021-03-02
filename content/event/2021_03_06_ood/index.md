@@ -2,7 +2,7 @@
 title: Reprex Open Data Day 2021
 
 event: Open Data Day 2021
-event_url: https://example.org
+event_url: https://reprex.nl/presentations/ood21.html
 
 location: Wowchemy HQ
 address:
