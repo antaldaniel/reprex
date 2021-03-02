@@ -4,15 +4,9 @@ title: Reprex Open Data Day 2021
 event: Open Data Day 2021
 event_url: https://reprex.nl/presentations/ood21.html
 
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: Online
 
-summary: Open Data Day 2021 focusing on environmental, sustainability and public spending data mapping.
+summary: "Open Data Day 2021 focusing on environmental, sustainability and public spending data mapping."
 
 abstract: "The `Reprex Open Data Day 2021` will be two informal conversations based on a series of run up introductory blogposts, tutorial, interviews centered around two themes: 1. Open collaboration in business, policy and science and 2. Scaling up open collaboration: making small organizations competitive with big tech in the big data era. Our case study will be based around the International Open Data Day 2021 themes, i.e. environmental, sustainability, public spending and data mapping."
 
