@@ -8,7 +8,7 @@ location: Online
 
 summary: "Open Data Day 2021 focusing on environmental, sustainability and public spending data mapping."
 
-abstract: "The `Reprex Open Data Day 2021` will be two informal conversations based on a series of run up introductory blogposts, tutorial, interviews centered around two themes: 1. Open collaboration in business, policy and science and 2. Scaling up open collaboration: making small organizations competitive with big tech in the big data era. Our case study will be based around the International Open Data Day 2021 themes, i.e. environmental, sustainability, public spending and data mapping."
+abstract: "The Reprex Open Data Day 2021 will be two informal conversations based on a series of run up introductory    blogposts, tutorial, interviews centered around two themes. 1. Open collaboration in business, policy and science      and 2. Scaling up open collaboration: making small organizations competitive with big tech in the big data era. Our    case study will be based around the International Open Data Day 2021 themes, i.e. environmental, sustainability,       public spending and data mapping."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
