@@ -51,19 +51,18 @@ math = false
   focal_point = "Center"
 +++
 
-Open Data Day is an annual celebration of open data all over the world. It is an opportunity to show the benefits of open data and encourage the adoption of open data policies in government, business, and civil society. Reprex is a start-up that utilizes open data with open-source reproducible research: please challenge us with your data requests and participate in our web events.
+[Open Data Day](https://opendataday.org/)  is an annual celebration of open data all over the world. It is an opportunity to show the benefits of open data and encourage the adoption of open data policies in government, business, and civil society. Reprex is a start-up that utilizes open data with open-source reproducible research: please challenge us with your data requests and participate in our web events.
 
-## Webinar 1: Mapping air quality and perceptions of air quality
+The `Reprex Open Data Day 2021` will be two informal conversations based on a series of run up introductory blogposts centerred around two themes:
 
-_In this use case we will show you how you can access historic survey data about perceptions of air quality and attitudes towards environmental policies with the actual air quality measured where the survey respondents live.  We will put survey answers and air pollution measurements on detailed maps to see the interplay._
+We are preparing with a series of blogposts, i.e. short interviews, research introductions, tutorials and inspiring ideas for the 6th of March.   We want to create an informal, inclusive, collaborative online event on International Open Data Day 2021. Please, grab a tea, coffee, or even a beer, and join us for an informal conversation. We hope that we will finish the afternoon with ideas on new, open-data driven collaborations.
 
-* [Izabela Surwillo, PhD](https://www.diis.dk/en/node/24137) is a postdoctoral researcher in the Danish Institute for International Studies. She's going to discuss her data needs that we will try to address with our tutorials and webinar!
+`9.30 EST / 15.30 CET`:  **Open collaboration in business, policy and science.**   Creating evidence-based policy, business strategy or scientific research with small contributions with independent components with incentives.  Short introduction with examples:  joining environmental sensory data and public opinion data on maps; creating harmonized datasets across the Arab world.  Survey harmonization, mapping, data products.
 
-* [Milos Popovic, PhD](https://milosp.info/) is a post-doctoral fellow at the Institute of Security and Global Affairs (ISGA) at Leiden University and a mapping an data visualization expert. 
+`11.00 EST / 17.00 CET`:  **Scaling up open collaboration: making small organizations competitive with big tech in the big data era.**  Data sharing, data pooling, data altruism and observatories. The new European trustworthy AI and data governance agenda. 
 
-* [Daniel Antal, CFA](https://dataandlyrics.com/author/daniel/) is the co-founder of the Reprex and the author of the [retroharmonize](https://retroharmonize.dataobservatory.eu/) package that gives harmonized access to open survey databases and the [regions](https://regions.dataobservatory.eu/) package that handles sub-national geographical metadata.
+Our collaborative agenda can be found [here](/presentations/00d21.html).  If you want to add your name, works, blogposts, send a pull request to github or send Daniel a message on [Keybase](https://keybase.io/antaldaniel), Whatsapp or [email](https://dataandlyrics.com/#contact).
 
-
-**More details soon, save the day!**
+**Registration** is not necessary, but if you want to include your topics, LinkedIn, Github or other credentials, please get in touch till 5th March, 2020 `12.00 EST / 18.00 CET`. We will publish the video conference link here at `9.15 EST / 15.15 CET` (and send it to all confirmed guests in an email beforehand.) 
 
 Link: [Open Data Day](https://opendataday.org/) 
