@@ -1,68 +1,59 @@
----
-title: Reprex Open Data Day 2021
-
-event: Open Data Day 2021
-event_url: https://example.org
-
-location: Wowchemy HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-
-summary: Save the Date: Open Data Day 2021 focusing on environmental, sustainability and public spending data mapping.
-abstract: "The `Reprex Open Data Day 2021` will be two informal conversations based on a series of run up introductory blogposts, tutorial, interviews centerred around two themes: 1. Open collaboration in business, policy and science and 2. Scaling up open collaboration: making small organizations competitive with big tech in the big data era."
++++
+title = "Open Data Day 2021"
+date = 2021-02-02T10:10:00  
+draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-03-06T10:10:00Z"
-date_end: "2021-03-06T18:00:00Z"
-all_day: false
+time_start = 2021-03-06T10:10:00
+time_end = 2021-03-06T18:00:00
 
-# Schedule page publish date (NOT talk date).
-publishDate: "2021-02-03T10:10:00Z"
+authors = ["Daniel Antal, CFA"]
 
-authors: []
-tags: []
+# Abstract and optional shortened version.
+abstract = "Save the Date: Open Data Day 2021 focusing on environmental, sustainability and public spending data mapping."
 
-# Is this a featured talk? (true/false)
-featured: false
+# Name of event and optional event URL.
+event = "Open Data Day 2021"
+event_url = ""
 
-image:
-  caption: ''
-  focal_point: Right
+# Location of event
+location = "Online"
 
-links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/dataandlyrics
-url_code: ""
-url_pdf: ""
-url_slides: ""
-url_video: ""
+# Is this a selected talk? (true/false)
+selected = true
+# Tags (optional).
+tags = ["open-data", "sustainability", "data-altruism", "open-collaboration"]
 
-# Markdown Slides (optional).
+# Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   E.g. `slides = "example-slides"` references 
+#   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides = ""
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects:
-- music-observatory
----
+# Links (optional).
+url_pdf = ""
+url_slides = ""
+url_video = ""
+url_code = ""
+
+# Does the content use math formatting?
+math = false
+
+# Featured image
+[image]
+  caption = "Open Data Day 2021"
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+  focal_point = "Center"
++++
 
 [Open Data Day](https://opendataday.org/)  is an annual celebration of open data all over the world. It is an opportunity to show the benefits of open data and encourage the adoption of open data policies in government, business, and civil society. Reprex is a start-up that utilizes open data with open-source reproducible research: please challenge us with your data requests and participate in our web events.
 
-The `Reprex Open Data Day 2021` will be two informal conversations based on a series of run up introductory blogposts centerred around two themes.
+The `Reprex Open Data Day 2021` will be two informal conversations based on a series of run up introductory blogposts centerred around two themes:
 
 We are preparing with a series of blogposts, i.e. short interviews, research introductions, tutorials and inspiring ideas for the 6th of March.   We want to create an informal, inclusive, collaborative online event on International Open Data Day 2021. Please, grab a tea, coffee, or even a beer, and join us for an informal conversation. We hope that we will finish the afternoon with ideas on new, open-data driven collaborations.
 
