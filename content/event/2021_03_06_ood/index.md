@@ -13,14 +13,14 @@ abstract: "The Reprex Open Data Day 2021 will be two informal conversations base
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: "2021-03-06T15:30:00+02:00"
-date_end: "2021-03-06T18:00:00+02:00"
+date_end: "2021-03-06T17:00:00+02:00"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2021-02-03T10:10:00Z"
 
 authors: []
-tags: []
+tags: [open-data]
 
 # Is this a featured talk? (true/false)
 featured: false
