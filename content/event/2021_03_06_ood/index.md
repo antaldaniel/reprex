@@ -71,7 +71,7 @@ See you [here](https://meet.jit.si/ReprexOpenDataDay2021).
 
 3. We will talk about how to join this with air pollution data and put it on the map with [Milos Popovic](https://dataandlyrics.com/post/2021-03-03-ood_interview_maps/), who prepared this nice choropleth animation.
 
-{{< figure src="https://reprex.nl/media/gif/eu_climate_change.gif" caption="Milos Popovic's maps made from the case study." >}}
+![Milos Popovic's maps made from the case study.](/media/gif/eu_climate_change.gif)
 
 4. We will discuss data observatories (permanent data collection programs), open collaboration (open-source inspired way of cooperation among small and large independent actors) and data altruism.
 
