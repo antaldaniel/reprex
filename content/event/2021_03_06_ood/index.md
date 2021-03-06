@@ -65,15 +65,14 @@ See you [here](https://meet.jit.si/ReprexOpenDataDay2021).
 
 **Case studies:**
 
-1. We are connecting raw survey data about Climate Awareness in Eurobarometer surveys.  Here is the [reproduction code](https://rpubs.com/antaldaniel/734594) (*intermediate to advanced R needed*.)
+1. We are connecting raw survey data about Climate Awareness in Eurobarometer surveys.  Here is the [reproduction code](https://rpubs.com/antaldaniel/734594) (*intermediate to advanced R needed*.) You should use the _development_ version of our [retroharmonize](retroharmonize.dataobservatory.eu) package at [github.com/antaldaniel/retroharmonize](https://github.com/antaldaniel/retroharmonize)
 
-2. We are tracking changes in the boundaries of provinces, states, counties, parishes with our regions open source software -- [reproduction code here](https://rpubs.com/antaldaniel/regions-OOD21)
+2. We are tracking changes in the boundaries of provinces, states, counties, parishes with our regions open source software -- [reproduction code here](https://rpubs.com/antaldaniel/regions-OOD21). You will need our [regions](regions.dataobservatory.eu) package which is available on CRAN or in the rOpenGov GitHub repo.
 
 3. We will talk about how to join this with air pollution data and put it on the map with [Milos Popovic](https://dataandlyrics.com/post/2021-03-03-ood_interview_maps/), who prepared this nice choropleth animation.
 
 ![Milos Popovic's maps made from the case study.](/media/gif/eu_climate_change.gif)
 
 4. We will discuss data observatories (permanent data collection programs), open collaboration (open-source inspired way of cooperation among small and large independent actors) and data altruism.
-
 
 Any questions: send Daniel a message on [Keybase](https://keybase.io/antaldaniel), Whatsapp or [email](https://dataandlyrics.com/#contact).
