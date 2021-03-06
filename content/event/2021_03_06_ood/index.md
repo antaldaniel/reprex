@@ -63,7 +63,7 @@ The `Reprex Open Data Day 2021` will be two informal conversations based on a se
 
 See you [here](https://meet.jit.si/ReprexOpenDataDay2021).
 
-Case studies:
+**Case studies:**
 
 1. We are connecting raw survey data about Climate Awareness in Eurobarometer surveys.  Here is the [reproduction code](https://rpubs.com/antaldaniel/734594) (*intermediate to advanced R needed*.)
 
@@ -71,13 +71,9 @@ Case studies:
 
 3. We will talk about how to join this with air pollution data and put it on the map with [Milos Popovic](https://dataandlyrics.com/post/2021-03-03-ood_interview_maps/), who prepared this nice choropleth animation.
 
-{{< figure src="media/gif/eu_climate_change.gif" caption="JUMP fellows building bridges between different key actors of the ecosystem." >}}
+{{< figure src="media/gif/eu_climate_change.gif" caption="Milos Popovic's maps made from the case study." >}}
 
 4. We will discuss data observatories (permanent data collection programs), open collaboration (open-source inspired way of cooperation among small and large independent actors) and data altruism.
 
 
-If you want to add your name, works, blogposts, send a pull request to github or send Daniel a message on [Keybase](https://keybase.io/antaldaniel), Whatsapp or [email](https://dataandlyrics.com/#contact).
-
-**Registration** is not necessary, but if you want to include your topics, LinkedIn, Github or other credentials, please get in touch till 5th March, 2020 `12.00 EST / 18.00 CET`. We will publish the video conference link here at `9.15 EST / 15.15 CET` (and send it to all confirmed guests in an email beforehand.) 
-
-Link: [Open Data Day](https://opendataday.org/) 
+Any questions: send Daniel a message on [Keybase](https://keybase.io/antaldaniel), Whatsapp or [email](https://dataandlyrics.com/#contact).
