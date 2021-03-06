@@ -57,15 +57,24 @@ projects:
 
 [Open Data Day](https://opendataday.org/)  is an annual celebration of open data all over the world. It is an opportunity to show the benefits of open data and encourage the adoption of open data policies in government, business, and civil society. Reprex is a start-up that utilizes open data with open-source reproducible research: please challenge us with your data requests and participate in our web events.
 
-The `Reprex Open Data Day 2021` will be two informal conversations based on a series of run up introductory blogposts centered around two themes.
+The `Reprex Open Data Day 2021` will be two informal conversations based on a series of run up introductory blogposts centered around two themes. Because important guests became ill in the last days, we are going to consolidate the two talks into one with less structure.  We want to create an informal, inclusive, collaborative online event on International Open Data Day 2021. Please, grab a tea, coffee, or even a beer, and join us for an informal conversation. We hope that we will finish the afternoon with ideas on new, open-data driven collaborations.
 
-We are preparing with a series of blogposts, i.e. short interviews, research introductions, tutorials and inspiring ideas for the 6th of March.   We want to create an informal, inclusive, collaborative online event on International Open Data Day 2021. Please, grab a tea, coffee, or even a beer, and join us for an informal conversation. We hope that we will finish the afternoon with ideas on new, open-data driven collaborations.
+`9.30 EST / 15.30 CET`:  **Open collaboration in business, policy and science.**   Creating evidence-based policy, business strategy or scientific research with small contributions with independent components with incentives.  Short introduction with examples:  joining environmental sensory data and public opinion data on maps; creating harmonized datasets across the Arab world.  Survey harmonization, mapping, data products.  **Scaling up open collaboration: making small organizations competitive with big tech in the big data era.**  Data sharing, data pooling, data altruism and observatories. The new European trustworthy AI and data governance agenda. 
 
-`9.30 EST / 15.30 CET`:  **Open collaboration in business, policy and science.**   Creating evidence-based policy, business strategy or scientific research with small contributions with independent components with incentives.  Short introduction with examples:  joining environmental sensory data and public opinion data on maps; creating harmonized datasets across the Arab world.  Survey harmonization, mapping, data products.
+Case studies:
 
-`11.00 EST / 17.00 CET`:  **Scaling up open collaboration: making small organizations competitive with big tech in the big data era.**  Data sharing, data pooling, data altruism and observatories. The new European trustworthy AI and data governance agenda. 
+1. We are connecting raw survey data about Climate Awareness in Eurobarometer surveys.  Here is the [reproduction code](https://rpubs.com/antaldaniel/734594) (*intermediate to advanced R needed*.)
 
-Our collaborative agenda can be found [here](/presentations/ood21.html).  If you want to add your name, works, blogposts, send a pull request to github or send Daniel a message on [Keybase](https://keybase.io/antaldaniel), Whatsapp or [email](https://dataandlyrics.com/#contact).
+2. We are tracking changes in the boundaries of provinces, states, counties, parishes with our regions open source software -- [reproduction code here](https://rpubs.com/antaldaniel/regions-OOD21)
+
+3. We will talk about how to join this with air pollution data and put it on the map with [Milos Popovic](https://dataandlyrics.com/post/2021-03-03-ood_interview_maps/), who prepared this nice choropleth animation.
+
+{{< figure src="media/gif/eu_climate_change.gif" caption="JUMP fellows building bridges between different key actors of the ecosystem." >}}
+
+4. We will discuss data observatories (permanent data collection programs), open collaboration (open-source inspired way of cooperation among small and large independent actors) and data altruism.
+
+
+If you want to add your name, works, blogposts, send a pull request to github or send Daniel a message on [Keybase](https://keybase.io/antaldaniel), Whatsapp or [email](https://dataandlyrics.com/#contact).
 
 **Registration** is not necessary, but if you want to include your topics, LinkedIn, Github or other credentials, please get in touch till 5th March, 2020 `12.00 EST / 18.00 CET`. We will publish the video conference link here at `9.15 EST / 15.15 CET` (and send it to all confirmed guests in an email beforehand.) 
 
