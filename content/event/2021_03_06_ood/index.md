@@ -61,6 +61,8 @@ The `Reprex Open Data Day 2021` will be two informal conversations based on a se
 
 `9.30 EST / 15.30 CET`:  **Open collaboration in business, policy and science.**   Creating evidence-based policy, business strategy or scientific research with small contributions with independent components with incentives.  Short introduction with examples:  joining environmental sensory data and public opinion data on maps; creating harmonized datasets across the Arab world.  Survey harmonization, mapping, data products.  **Scaling up open collaboration: making small organizations competitive with big tech in the big data era.**  Data sharing, data pooling, data altruism and observatories. The new European trustworthy AI and data governance agenda. 
 
+You can [click through](/presentations/reprex_open_data_day_2021.html#/reprex) a short presentation to familiarize yourself with our topics.
+
 See you [here](https://meet.jit.si/ReprexOpenDataDay2021).
 
 **Case studies:**
