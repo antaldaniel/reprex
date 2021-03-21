@@ -45,7 +45,7 @@ email: ""
 highlight_name: false
 ---
 
-We are a Netherlands-based start-up company that brings the benefits of big data to small organizations. In order to help small organizations remain competitive in the era of big data, we provide access to trustworthy AI, validation of third-party data, and strategies to combat the potentially negative effects of biased corporate sales and marketing algorithms. Our diverse team is particularly experienced in music, the creative industries, and digital humanities.
+We are a Netherlands-based start-up company that makes big data reliable, accountable, and delivers trustworthy analytics and AI solutions. We validate any data, combine it with open data, and bring novel insights into policy or business problems or scientific research. We help the fight against the potentially negative effects of untransparent, proprietary algorithms. Our diverse team is particularly experienced in music, the creative industries, and digital humanities, where data is scattered in small organizations.
 
 Our flagship demo projects are the [Listen Local](/project/listen-local/)  ethical music recommendation system based on our [Demo Music Observatory](/project/music-observatory/) data integration and knowledge sharing platform. We have validated our product/market fit in the prestigious [Yes!Delft AI+Blockchain Lab](/post/2020-09-25-yesdelft-validation/). We are members of the [Dutch AI Coalition](https://reprex.nl/post/2021-02-16-nlaic/) and participate in the work of the [European AI Alliance](https://digital-strategy.ec.europa.eu/en/policies/european-ai-alliance).
 
