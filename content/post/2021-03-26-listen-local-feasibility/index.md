@@ -77,6 +77,7 @@ The Reprex team who contributed to the English version:
 - **Kátya Nagy**, music journalist, research assistant; 
 
 and the Slovak version:
+
 - **Dáša Bulíková**, musician, translator
 - **Dominika Semaňáková**, musicologist, editor, layout.
 
