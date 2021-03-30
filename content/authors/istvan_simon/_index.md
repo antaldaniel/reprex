@@ -16,7 +16,7 @@ role: Reproducible Business Workflows
 # Organizations/Affiliations
 organizations:
 - name: Reprex B.V.
-  url: "https://dataobservatory.eu/"
+  url: "https://reprex.nl/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am interested in automating workflows on the basis of reproducible research principles from replication till audit.
@@ -28,9 +28,9 @@ topics:
 
 education:
   courses:
-  - course: EMBA Candidate 
+  - course: EMBA
     institution: Rotterdam School of Management
-    year: 2019-2021
+    year: 2021
   - course: M.Sc. Actuary Science
     institution: Corvinus University of Budapest
     year: 2005
