@@ -10,7 +10,7 @@ headless: true
 weight: 40
 
 title: Projects
-subtitle: 'Our demo projects'
+subtitle: ''
 
 content:
   # Page type to display. E.g. project.
@@ -29,8 +29,12 @@ content:
     tag: '*'
   - name: Listen Local
     tag: listen-local
-  - name: Demo Music Observatory
+  - name: EU Datathon 2021
+    tag: eu-datathon_2021
+  - name: Digital Music Observatory
     tag: music-observatory
+  - name: Green Deal Data Observatory
+    tag: green-deal-data-observatory
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
