@@ -8,8 +8,7 @@ authors = ["Daniel Antal"]
 
 tags = ["Slovakia", "trustworthy-AI", "recommendations", "music-distribution", "local-content-regulation"]
 
-summary = "Our new study opens the question of the local music promotion within the digital environment.
-The Slovak Performing and Mechanical Rights Society (SOZA), the State51 music group in the United Kingdom, and the Slovak Arts Council commissioned Reprex to created a feasibility study which provides recommendations for better use of quotas for Slovak radio stations and which also maps the share and promotion of Slovak music within large streaming and media platforms such as Spotify."
+summary = "Our new study opens the question of the local music promotion within the digital environment. The Slovak Performing and Mechanical Rights Society (SOZA), the State51 music group in the United Kingdom, and the Slovak Arts Council commissioned Reprex to created a feasibility study which provides recommendations for better use of quotas for Slovak radio stations and which also maps the share and promotion of Slovak music within large streaming and media platforms such as Spotify."
 
 projects = ["listen-local"]
 
