@@ -6,7 +6,7 @@ draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2021-04-96T16:00:00
+time_start = 2021-04-09T16:00:00
 time_end = 2021-04-09T17:00:00
 
 authors = ["Daniel Antal, CFA"]
