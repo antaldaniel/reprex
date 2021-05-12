@@ -1,9 +1,10 @@
 +++
 # Project title.
-title = "Music Observatory"
+title = "Digital Music Observatory"
 
 # Date this page was created.
-date = 2019-08-26T08:00:00
+date = 2020-08-26T08:00:00
+lastmod = 2021-05-12T18:00:00
 
 # Project summary to display on homepage.
 summary = "We launched our Demo Music Observatory on 15 September 2020 and got into the prestigious Yes!Delft AI Validation Lab. Our demo observatory is a subjective example on how we believe the European Data Observatory should be built, and follows the structure laid out in the Feasibility study for the establishment of a European Music Observatory."
