@@ -17,7 +17,7 @@ external_link = ""
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references
+#   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides = ""
@@ -35,7 +35,7 @@ url_custom = [{icon_pack = "fab", icon="play-circle", name="Demo Music Observato
 [image]
   # Caption (optional)
   caption = "The royalty gap within Europe - calculated with our indicators"
-
+  
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
@@ -56,7 +56,7 @@ We want to win at least one first prize in the EU Datathon 2021.
 *   Challenge 2: [An economy that works for people](https://ec.europa.eu/info/strategy/priorities-2019-2024/economy-works-people_en#:~:text=Individuals%20and%20businesses%20in%20the,needs%20of%20the%20EU's%20citizens.), with a particular focus on the [Single market strategy](https://ec.europa.eu/info/strategy/priorities-2019-2024/economy-works-people/internal-market_en), and particular attention to the strategy’s goals of 1. Modernising our standards system, 2. Consolidating Europe’s intellectual property framework, and 3. Enabling the balanced development of the collaborative economy strategic goals.
 *   Challenge 3: [A Europe fit for the digital age](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age_en), with a particular focus [Artificial Intelligence](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/excellence-trust-artificial-intelligence_en), the [European Data Strategy](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/european-data-strategy_en), the [Digital Services Act](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/digital-services-act-ensuring-safe-and-accountable-online-environment_en), [Digital Skills](https://digital-strategy.ec.europa.eu/en/policies/digital-skills-and-jobs) and [Connectivity](https://digital-strategy.ec.europa.eu/en/policies/connectivity). We will showcase these horizontal topics with our [Digital Music Observatory](https://music.dataobservatory.eu/).
 
-These are the EU’s official strategic policies for the next decade.
+These are the EU’s official strategic policies for the next decade. 
 
 ## Problem Statement
 
@@ -84,7 +84,7 @@ What we want to achieve with this project – and we believe such an accomplishm
 
 - [regions](https://regions.dataobservatory.eu/) corrects inconsistent geographical coding. Eurostat has no mandate to correct geographical coding, and member states do not historically adjust their data. With many thousands of parish, county, region, province, state boundary changes within states, regional and metropolitian area datasets are not usable without our software.
 
-- [iotables](https://iotables.dataobservatory.eu/) puts extremely complex national accounts data into actually useful environmental and economic impact indicators. Instead of working with each country separately, our standardized system can calculate direct, indirect effects, multipliers for every European country that works in the European statistical framework (EU member states, EEA, UK, member canidates.)
+- [iotables](https://iotables.dataobservatory.eu/) puts extremely complex national accounts data into actually useful environmental and economic impact indicators. Instead of working with each country separately, our standardized system can calculate direct, indirect effects, multipliers for every European country that works in the European statistical framework (EU member states, EEA, UK, member canidates.)  
 
 - [retroharmonize](https://retroharmonize.dataobservatory.eu/) connects cross-sectional surveys with non-European countries, puts pan-European surveys into time series, and corrects regional subsamples. We creating new indicators from Eurobarometer, Afrobarometer, Arab Barometer, and standardized CAP surveys, and other harmonized surveys. We help designing surveys that can utilize data from already existing, and openlly available surveys.
 
@@ -96,4 +96,4 @@ What we want to achieve with this project – and we believe such an accomplishm
 
 6. We are perfecting the agile open collaboration model in a triangular setting, where corporate users, scientific researchers, public and non-governmental policy makers and even citizen scientists can work around a single data ecoystem.
 
-7. We are validating a business model that allows the commercial, scientific and policy use of re-processed, high quality data products made from open and shared data.
+7. We are validating a business model that allows the commercial, scientific and policy use of re-processed, high quality data products made from open and shared data. 
