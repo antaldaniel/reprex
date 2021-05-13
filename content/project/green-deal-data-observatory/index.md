@@ -7,7 +7,7 @@ date = 2021-05-12T18:00:00
 lastmod = 2021-05-12T18:00:00
 
 # Project summary to display on homepage.
-summary = "Our Green Deal Data Observatory is competing in the EU Datathon 2021. We believe that introducing Open Policy Analysis standards with open data, open-source software and research automation can help the Green Deal policymaking process. Our collaboration is open for individuals, citizens scientists, research institutes, NGOS, companies."
+summary = "Our Green Deal Data Observatory is competing in the EU Datathon 2021. We believe that introducing Open Policy Analysis standards with open data, open-source software and research automation can help the Green Deal policymaking process. Our collaboration is open for individuals, citizens scientists, research institutes, NGOs, companies."
 
 # Tags: can be used for filtering projects.
 tags = ["surveys", "green-deal", "data-observatory", "net-zero", "climate-change", "reproducible-research"]
