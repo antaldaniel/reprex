@@ -58,6 +58,8 @@ We want to win at least one first prize in the EU Datathon 2021.
 
 These are the EU’s official strategic policies for the next decade.
 
+{{< figure src="/img/observatory_screenshots/eu_datathon_partners_2021.png" caption="Partners of the world's biggest open data challenge." numbered="true" >}}
+
 ## Problem Statement
 
 The EU has a 18-year-old open data regime and it makes public taxpayer-funded data in the values of tens of billions of euros per year; the Eurostat program alone handles 20,000 international data products, including at least 5000 pan-European environmental indicators.
