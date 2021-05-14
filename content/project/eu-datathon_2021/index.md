@@ -58,7 +58,7 @@ We want to win at least one first prize in the EU Datathon 2021.
 
 These are the EU’s official strategic policies for the next decade.
 
-{{< figure src="/img/observatory_screenshots/eu_datathon_partners_2021.png" caption="Partners of the world's biggest open data challenge." numbered="true" >}}
+{{< figure src="/media/img/observatory_screenshots/eu_datathon_partners_2021.png" caption="Partners of the world's biggest open data challenge." numbered="false" >}}
 
 ## Problem Statement
 
@@ -83,14 +83,9 @@ What we want to achieve with this project – and we believe such an accomplishm
 2. We create a research workflow that periodically (daily, weekly, monthly, quarterly or annually) collects, corrects and re-processes the data. We use peer-reviewed statistical software and unit-tests to make sure that the data is sound.
 
 3. We add value with correcting open (and proprietary!) data problems that make open data hard to use, and proprietary, in-house data hard to re-use.
-
-- [regions](https://regions.dataobservatory.eu/) corrects inconsistent geographical coding. Eurostat has no mandate to correct geographical coding, and member states do not historically adjust their data. With many thousands of parish, county, region, province, state boundary changes within states, regional and metropolitian area datasets are not usable without our software.
-
-- [iotables](https://iotables.dataobservatory.eu/) puts extremely complex national accounts data into actually useful environmental and economic impact indicators. Instead of working with each country separately, our standardized system can calculate direct, indirect effects, multipliers for every European country that works in the European statistical framework (EU member states, EEA, UK, member canidates.)
-
-- [retroharmonize](https://retroharmonize.dataobservatory.eu/) connects cross-sectional surveys with non-European countries, puts pan-European surveys into time series, and corrects regional subsamples. We creating new indicators from Eurobarometer, Afrobarometer, Arab Barometer, and standardized CAP surveys, and other harmonized surveys. We help designing surveys that can utilize data from already existing, and openlly available surveys.
-
-- **indicators**, in its early stage, attempts to bring to a common, tidy format the diverse and untidy indicators of European governmental open data.
+    - [regions](https://regions.dataobservatory.eu/) corrects inconsistent geographical coding. Eurostat has no mandate to correct geographical coding, and member states do not historically adjust their data. With many thousands of parish, county, region, province, state boundary changes within states, regional and metropolitian area datasets are not usable without our software.
+    - [iotables](https://iotables.dataobservatory.eu/) puts extremely complex national accounts data into actually useful environmental and economic impact indicators. Instead of working with each country separately, our standardized system can calculate direct, indirect effects, multipliers for every European country that works in the European statistical framework (EU member states, EEA, UK, member candidates.)
+    - [retroharmonize](https://retroharmonize.dataobservatory.eu/) connects cross-sectional surveys with non-European countries, puts pan-European surveys into time series, and corrects regional subsamples. We creating new indicators from Eurobarometer, Afrobarometer, Arab Barometer, and standardized CAP surveys, and other harmonized surveys. We help designing surveys that can utilize data from already existing, and openlly available surveys.
 
 4. We place the authoritative copy to a data repository (Zenodo or Dataverse), automatically document the data, and make it available in a modern API for SQL queries or CSV downloads.
 
