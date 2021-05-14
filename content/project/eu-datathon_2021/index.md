@@ -82,6 +82,8 @@ What we want to achieve with this project – and we believe such an accomplishm
 
 2. We create a research workflow that periodically (daily, weekly, monthly, quarterly or annually) collects, corrects and re-processes the data. We use peer-reviewed statistical software and unit-tests to make sure that the data is sound.
 
+{{< figure src="/media/img/slides/gold_panning_slide_notitle.png" caption="Panning out gold from muddy open sources - with automation technology." numbered="false" >}}
+
 3. We add value with correcting open (and proprietary!) data problems that make open data hard to use, and proprietary, in-house data hard to re-use.
     - [regions](https://regions.dataobservatory.eu/) corrects inconsistent geographical coding. Eurostat has no mandate to correct geographical coding, and member states do not historically adjust their data. With many thousands of parish, county, region, province, state boundary changes within states, regional and metropolitian area datasets are not usable without our software.
     - [iotables](https://iotables.dataobservatory.eu/) puts extremely complex national accounts data into actually useful environmental and economic impact indicators. Instead of working with each country separately, our standardized system can calculate direct, indirect effects, multipliers for every European country that works in the European statistical framework (EU member states, EEA, UK, member candidates.)
