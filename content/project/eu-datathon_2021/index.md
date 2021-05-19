@@ -43,6 +43,16 @@ url_custom = [{icon_pack = "fab", icon="play-circle", name="Demo Music Observato
 
 Reprex, a Dutch start-up enterprise formed to utilize open source software and open data, is looking for partners in an agile, open collaboration to win at least one of the three EU Datathon Prizes. We are looking for 4.1 [policy partners](#bookmark=id.qsh70q), 4.2 [academic partners](#bookmark=id.3as4poj) and 4.3 a [consultancy partner](#bookmark=id.1pxezwc).
 
+Our project is based on agile, open collaboration with three types of contributors.
+
+- *To take part, you should propose the development of an application that links and uses open datasets.* - our [data curator team](#data-curators)
+
+- *Your application ... is also expected to find suitable new approaches and solutions to help Europe achieve important goals set by the European Commission through the use of open data.*” - this application is developed by our [technology contributors](#tech-team)
+
+- *Your application should showcase opportunities for concrete business models or social enterprises.* - our [product development team](#product-team) is working to make this happen!
+
+- We use open source software, open data.  The applications are hosted on the cloud resources of [Reprex](#reprex), an early-stage technology startup that tries to build a viable, open-source, open-data business model to create reproducible research products.
+
 
 ## Mission statement
 
@@ -53,8 +63,15 @@ We want to win an [EU Datathon prize](https://op.europa.eu/en/web/eudatathon) by
 We want to win at least one first prize in the EU Datathon 2021.
 
 *   Challenge 1: [A European Green Deal](https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_en), with a particular focus on the [The European Climate Pact](https://ec.europa.eu/commission/presscorner/detail/en/ip_20_2323), the [Organic Action Plan](https://ec.europa.eu/info/food-farming-fisheries/farming/organic-farming/organic-action-plan_en), and the [New European Bauhaus](https://ec.europa.eu/commission/presscorner/detail/en/IP_21_111), i.e., mitigation strategies. We are going to compete with our [Green Deal Data Observatory](http://greendeal.dataobservatory.eu/).
+<<<<<<< Updated upstream
 *   Challenge 2: [An economy that works for people](https://ec.europa.eu/info/strategy/priorities-2019-2024/economy-works-people_en#:~:text=Individuals%20and%20businesses%20in%20the,needs%20of%20the%20EU's%20citizens.), with a particular focus on the [Single market strategy](https://ec.europa.eu/info/strategy/priorities-2019-2024/economy-works-people/internal-market_en), and particular attention to the strategy’s goals of boosting SME's and access to finance, modernizing our standards system, consolidating Europe’s intellectual property framework, and enabling the balanced development of the collaborative economy strategic goals.
 *   Challenge 3: [A Europe fit for the digital age](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age_en), with a particular focus [Artificial Intelligence](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/excellence-trust-artificial-intelligence_en), the [European Data Strategy](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/european-data-strategy_en), the [Digital Services Act](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/digital-services-act-ensuring-safe-and-accountable-online-environment_en), digital skills, connectivity. We will showcase these horizontal topics with our [Digital Music Observatory](https://music.dataobservatory.eu/).
+=======
+
+*   Challenge 2: [An economy that works for people](https://ec.europa.eu/info/strategy/priorities-2019-2024/economy-works-people_en#:~:text=Individuals%20and%20businesses%20in%20the,needs%20of%20the%20EU's%20citizens.), with a particular focus on the [Single market strategy](https://ec.europa.eu/info/strategy/priorities-2019-2024/economy-works-people/internal-market_en), and particular attention to the strategy’s goals of 1. Modernising our standards system, 2. Consolidating Europe’s intellectual property framework, and 3. Enabling the balanced development of the collaborative economy strategic goals.
+
+*   Challenge 3: [A Europe fit for the digital age](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age_en), with a particular focus [Artificial Intelligence](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/excellence-trust-artificial-intelligence_en), the [European Data Strategy](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/european-data-strategy_en), the [Digital Services Act](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/digital-services-act-ensuring-safe-and-accountable-online-environment_en), [Digital Skills](https://digital-strategy.ec.europa.eu/en/policies/digital-skills-and-jobs) and [Connectivity](https://digital-strategy.ec.europa.eu/en/policies/connectivity). We will showcase these horizontal topics with our [Digital Music Observatory](https://music.dataobservatory.eu/).
+>>>>>>> Stashed changes
 
 - For Challenge 1, we are preparing the [Green Deal Data Observatory](http://greendeal.dataobservatory.eu/). 
 
@@ -64,7 +81,7 @@ We want to win at least one first prize in the EU Datathon 2021.
 
 These are the EU’s official strategic policies for the next decade.
 
-{{< figure src="/media/img/observatory_screenshots/eu_datathon_partners_2021.png" caption="Partners of the world's biggest open data challenge." numbered="false" >}}
+
 
 ## Problem Statement
 
