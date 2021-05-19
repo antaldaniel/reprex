@@ -10,7 +10,9 @@ role: Big data for small organizations.
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Yes!Delft
+- name: Reprex BV
+  url: https://reprex.nl/
+- name: Yes!Delft AI+Blockchain Validation Lab
   url: https://yesdelft.nl/
 
 # Social/Academic Networking
@@ -55,4 +57,4 @@ Our flagship demo projects are the [Listen Local](/project/listen-local/)  ethic
 
 {{< icon name="rss" pack="fas" >}} Follow {{< staticref "/#news" "newtab" >}}news about us{{< /staticref >}} or the more comprehensive {{< staticref "https://dataandlyrics.com/" "newtab" >}}Data & Lyrics{{< /staticref >}}  blog.
 
-{{< icon name="phone" pack="fas" >}} Contact {{< staticref "/#contact" "newtab" >}}us{{< /staticref >}} .
+{{< icon name="phone" pack="fas" >}} Contact {{< staticref "/#contact" "newtab" >}}us{{< /staticref >}}.
