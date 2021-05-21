@@ -76,7 +76,7 @@ Challenge 2: [An economy that works for people](https://ec.europa.eu/info/strate
 
 ## Challenge 3: A Europe fit for the digital age
 
-{{< figure src="/media/img/observatory_screenshots/dmo_opening_screen.png" caption="" numbered="true" >}}
+{{< figure src="/media/img/observatory_screenshots/dmo_opening_screen.png" caption="Our Digital Music Observatory is not only a demo of the European Music Observatory, but a testing ground for data governance, Digital Servcies Act, and trustworthy AI problems." numbered="true" >}}
 
 Challenge 3: [A Europe fit for the digital age](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age_en), with a particular focus [Artificial Intelligence](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/excellence-trust-artificial-intelligence_en), the [European Data Strategy](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/european-data-strategy_en), the [Digital Services Act](https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/digital-services-act-ensuring-safe-and-accountable-online-environment_en), [Digital Skills](https://digital-strategy.ec.europa.eu/en/policies/digital-skills-and-jobs) and [Connectivity](https://digital-strategy.ec.europa.eu/en/policies/connectivity). We will showcase these horizontal topics with our [Digital Music Observatory](https://music.dataobservatory.eu/).
 
