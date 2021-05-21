@@ -70,7 +70,7 @@ Challenge 1: [A European Green Deal](https://ec.europa.eu/info/strategy/prioriti
 
 ## Challenge 2
 
-{{< figure src="/media/img/observatory_screenshots/edo_opening_screen.jpg" caption="Our Economy Data Observatory will focus on competition, small and medium sized enterprizes and robotization." numbered="true" >}}
+{{< figure src="/media/img/observatory_screenshots/edo_opening_page.jpg" caption="Our Economy Data Observatory will focus on competition, small and medium sized enterprizes and robotization." numbered="true" >}}
 
 Challenge 2: [An economy that works for people](https://ec.europa.eu/info/strategy/priorities-2019-2024/economy-works-people_en#:~:text=Individuals%20and%20businesses%20in%20the,needs%20of%20the%20EU's%20citizens.), with a particular focus on the [Single market strategy](https://ec.europa.eu/info/strategy/priorities-2019-2024/economy-works-people/internal-market_en), and particular attention to the strategy’s goals of 1. Modernising our standards system, 2. Consolidating Europe’s intellectual property framework, and 3. Enabling the balanced development of the collaborative economy strategic goals.
 
