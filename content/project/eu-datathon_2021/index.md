@@ -9,7 +9,7 @@ date = 2021-05-12T18:09:00
 summary = "Reprex, a Dutch start-up enterprise formed to utilize open source software and open data, is looking for partners in an agile, open collaboration to win at least one of the three EU Datathon Prizes."
 
 # Tags: can be used for filtering projects.
-tags = ["ceemid", "surveys", "data-observatory", "music-observatory", "reproducible-research", "green-deal", "digital-decade", "digital-age"]
+tags = ["ceemid", "surveys", "data-observatory", "music-observatory", "reproducible-research", "green-deal", "digital-decade", "digital-age", "economy-data-observatory"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
