@@ -45,11 +45,11 @@ Reprex, a Dutch start-up enterprise formed to utilize open source software and o
 
 Our project is based on agile, open collaboration with three types of contributors.
 
-- *To take part, you should propose the development of an application that links and uses open datasets.* - our [data curator team](#data-curators)
+- *To take part, you should propose the development of an application that links and uses open datasets.* - our [data curator team](https://music.dataobservatory.eu/#contributors)
 
-- *Your application ... is also expected to find suitable new approaches and solutions to help Europe achieve important goals set by the European Commission through the use of open data.*” - this application is developed by our [technology contributors](#tech-team)
+- *Your application ... is also expected to find suitable new approaches and solutions to help Europe achieve important goals set by the European Commission through the use of open data.*” - this application is developed by our [technology contributors](https://greendeal.dataobservatory.eu/#contributors)
 
-- *Your application should showcase opportunities for concrete business models or social enterprises.* - our [product development team](#product-team) is working to make this happen!
+- *Your application should showcase opportunities for concrete business models or social enterprises.* - our [service development team](https://economy.dataobservatory.eu/#contributors) is working to make this happen!
 
 - We use open source software, open data.  The applications are hosted on the cloud resources of [Reprex](#reprex), an early-stage technology startup that tries to build a viable, open-source, open-data business model to create reproducible research products.
 
