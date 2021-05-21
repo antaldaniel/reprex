@@ -41,7 +41,7 @@ url_custom = [{icon_pack = "fab", icon="play-circle", name="Demo Music Observato
   focal_point = "Smart"
 +++
 
-Reprex, a Dutch start-up enterprise formed to utilize open source software and open data, is looking for partners in an agile, open collaboration to win at least one of the three EU Datathon Prizes. We are looking for policy partners, academic partners and 4.3 a consultancy partner. Our project is based on agile, open collaboration with three types of contributors.
+Reprex, a Dutch start-up enterprise formed to utilize open source software and open data, is looking for partners in an agile, open collaboration to win at least one of the three EU Datathon Prizes. We are looking for policy partners, academic partners and a consultancy partner. Our project is based on agile, open collaboration with three types of contributors.
 
 With our competing prototypes we want to show that we have a research automation technology that can find open data, process it and validate it into high-quality business, policy or scientific indicators, and release it with daily refreshments in a modern API.
 
@@ -55,7 +55,7 @@ We are looking for institutions to challenge us with their data problems, and sp
 
 - *Your application should showcase opportunities for concrete business models or social enterprises.* - our [service development team](https://economy.dataobservatory.eu/#contributors) is working to make this happen!
 
-- We use open source software, open data.  The applications are hosted on the cloud resources of [Reprex](#reprex), an early-stage technology startup that tries to build a viable, open-source, open-data business model to create reproducible research products.
+- We use open source software and open data. The applications are hosted on the cloud resources of [Reprex](#reprex), an early-stage technology startup currently building a viable, open-source, open-data business model to create reproducible research products.
 
 - We are working together with experts in the domain as curators (check out our guidelines if you want to join: [Data Curators: Get Inspired!](https://curators.dataobservatory.eu/data-curators.html)).
 
@@ -90,9 +90,9 @@ Challenge 2: [An economy that works for people](https://ec.europa.eu/info/strate
 
 Big data and automation create new inequalities and injustices and have the potential to create a jobless growth economy. Our [Economy Data Observatory](https://economy.dataobservatory.eu/) is a fully automated, open source, open data observatory that produces new indicators from open data sources and experimental big data sources, with authoritative copies and a modern API.
 
-Our observatory monitors the European economy to protect consumers and small companies from unfair competition, both from data and knowledge monopolization and robotization. We take a critical SME-, intellectual property policy, and competition policy point of view of automation, robotization, and the AI revolution on the service-oriented European social market economy.
+Our observatory monitors the European economy to protect consumers and small companies from unfair competition, both from data and knowledge monopolization and robotization. We take a critical Small and Medium-Sized Enterprises (SME)-, intellectual property, and competition policy point of view of automation, robotization, and the AI revolution on the service-oriented European social market economy.
 
-We would like to create early-warning, risk, economic effect, and impact indicators that can be used in scientific, business, and policy contexts for professionals who are working on re-setting the European economy after a devastating pandemic and in the age of AI. We are particularly interested in designing indicators that can be early warnings for killer acquisitions, algorithmic and offline discrimination against consumers based on nationality or place of residence, and signs of undermining key economic and competition policy goals. Our goal is to help small and medium-sized enterprises and start-ups to grow, and to furnish data that encourages the financial sector to provide loans and equity funds for their growth.
+We would like to create early-warning, risk, economic effect, and impact indicators that can be used in scientific, business, and policy contexts for professionals who are working on re-setting the European economy after a devastating pandemic in the age of AI. We are particularly interested in designing indicators that can be early warnings for killer acquisitions, algorithmic and offline discrimination against consumers based on nationality or place of residence, and signs of undermining key economic and competition policy goals. Our goal is to help small and medium-sized enterprises and start-ups to grow, and to furnish data that encourages the financial sector to provide loans and equity funds for their growth.
 
 ## Challenge 3: A Europe fit for the digital age
 
@@ -110,7 +110,7 @@ Our Product/Market Fit was validated in the world’s 2nd ranked university-back
 
 ## Problem Statement
 
-The EU has a 18-year-old open data regime and it makes public taxpayer-funded data in the values of tens of billions of euros per year; the Eurostat program alone handles 20,000 international data products, including at least 5000 pan-European environmental indicators.
+The EU has an 18-year-old open data regime and it makes public taxpayer-funded data in the values of tens of billions of euros per year; the Eurostat program alone handles 20,000 international data products, including at least 5,000 pan-European environmental indicators.
 
 As open science principles gain increased acceptance, scientific researchers are making hundreds of thousands of valuable datasets public and available for replication every year.
 
@@ -122,7 +122,7 @@ The problem with the current EU data strategy is that while it produces enormous
 
 This is an absolute waste of resources and efforts. With a few R packages and our deep understanding of advanced data science techniques, we can create valuable datasets from unprocessed open data. In most domains, we are able to repurpose data originally created for other purposes at a historical cost of several billions of euros, converting these unused data assets into valuable datasets that can replace tens of millions’ worth of proprietary data.
 
-What we want to achieve with this project – and we believe such an accomplishment would merit one of the first prizes - is to add value to a significant portion of pre-existing EU open data (for example, available on [data.europa.eu/data](https://data.europa.eu/data/)) by re-processing and integrating them into a modern, tidy database with an API access, and to find a business model that emphasises a triangular use of data in 1. business, 2. science and 3. policy-making. Our mission was to modernize the concept of `data observatories.`
+What we want to achieve with this project – and we believe such an accomplishment would merit one of the first prizes - is to add value to a significant portion of pre-existing EU open data (for example, available on [data.europa.eu/data](https://data.europa.eu/data/)) by re-processing and integrating them into a modern, tidy database with an API access, and to find a business model that emphasises a triangular use of data in 1. business, 2. science and 3. policy-making. Our mission is to modernize the concept of `data observatories.`
 
 ## Our solution
 
@@ -134,13 +134,13 @@ What we want to achieve with this project – and we believe such an accomplishm
 
 3. We add value with correcting open (and proprietary!) data problems that make open data hard to use, and proprietary, in-house data hard to re-use.
     - [regions](https://regions.dataobservatory.eu/) corrects inconsistent geographical coding. Eurostat has no mandate to correct geographical coding, and member states do not historically adjust their data. With many thousands of parish, county, region, province, state boundary changes within states, regional and metropolitian area datasets are not usable without our software.
-    - [iotables](https://iotables.dataobservatory.eu/) puts extremely complex national accounts data into actually useful environmental and economic impact indicators. Instead of working with each country separately, our standardized system can calculate direct, indirect effects, multipliers for every European country that works in the European statistical framework (EU member states, EEA, UK, member candidates.)
-    - [retroharmonize](https://retroharmonize.dataobservatory.eu/) connects cross-sectional surveys with non-European countries, puts pan-European surveys into time series, and corrects regional subsamples. We creating new indicators from Eurobarometer, Afrobarometer, Arab Barometer, and standardized CAP surveys, and other harmonized surveys. We help designing surveys that can utilize data from already existing, and openlly available surveys.
+    - [iotables](https://iotables.dataobservatory.eu/) puts extremely complex national accounts data into actually useful environmental and economic impact indicators. Instead of working with each country separately, our standardized system can calculate direct and indirect effects, as well as multipliers for every European country that works in the European statistical framework (EU member states, EEA, UK, member candidates.)
+    - [retroharmonize](https://retroharmonize.dataobservatory.eu/) connects cross-sectional surveys with non-European countries, puts pan-European surveys into time series, and corrects regional subsamples. We are creating new indicators from Eurobarometer, Afrobarometer, Arab Barometer, and standardized CAP surveys, as well as other harmonized surveys. We help design surveys that can utilize data from already existing, openly available surveys.
 
 4. We place the authoritative copy to a data repository (Zenodo or Dataverse), automatically document the data, and make it available in a modern API for SQL queries or CSV downloads.
 
-5. We present the data with commentary, blog posts from our curators (see: [Is Drought Risk Uninsurable?](http://greendeal.dataobservatory.eu/post/2021-04-23-belgium-flood-insurance/) - solidarity and climate change in Belgium) and contributors on a semi-automatically refreshed, open source web portal.
+5. We present the data with commentary and blog posts from our curators (see: [Is Drought Risk Uninsurable?](http://greendeal.dataobservatory.eu/post/2021-04-23-belgium-flood-insurance/) - solidarity and climate change in Belgium) and contributors on a semi-automatically refreshed, open source web portal.
 
-6. We are perfecting the agile open collaboration model in a triangular setting, where corporate users, scientific researchers, public and non-governmental policy makers and even citizen scientists can work around a single data ecoystem.
+6. We are perfecting the agile open collaboration model in a triangular setting, where corporate users, scientific researchers, public and non-governmental policy makers, and even citizen scientists can work around a single data ecoystem.
 
-7. We are validating a business model that allows the commercial, scientific and policy use of re-processed, high quality data products made from open and shared data.
+7. We are validating a business model that allows the commercial, scientific, and policy use of re-processed, high quality data products made from open and shared data.
