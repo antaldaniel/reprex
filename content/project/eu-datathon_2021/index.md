@@ -41,11 +41,9 @@ url_custom = [{icon_pack = "fab", icon="play-circle", name="Demo Music Observato
   focal_point = "Smart"
 +++
 
-Reprex, a Dutch start-up enterprise formed to utilize open source software and open data, is looking for partners in an agile, open collaboration to win at least one of the three EU Datathon Prizes. We are looking for 4.1 [policy partners](#bookmark=id.qsh70q), 4.2 [academic partners](#bookmark=id.3as4poj) and 4.3 a [consultancy partner](#bookmark=id.1pxezwc).
+Reprex, a Dutch start-up enterprise formed to utilize open source software and open data, is looking for partners in an agile, open collaboration to win at least one of the three EU Datathon Prizes. We are looking for policy partners, academic partners and 4.3 a consultancy partner. Our project is based on agile, open collaboration with three types of contributors.
 
-Our project is based on agile, open collaboration with three types of contributors.
-
-We want to show that we have a research automation technology that can find open data, process it and validate it into high-quality business, policy or scientific indicators, and release it with daily refreshments in a modern API.
+With our competing prototypes we want to show that we have a research automation technology that can find open data, process it and validate it into high-quality business, policy or scientific indicators, and release it with daily refreshments in a modern API.
 
 We are looking for institutions to challenge us with their data problems, and sponsors to increase our capacity. Over then next 5 months, we need to find a sustainable business model for a high-quality and open alternative to other public data programs.
 
