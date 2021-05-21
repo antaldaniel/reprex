@@ -64,13 +64,13 @@ We aim to win at least one first prize in the EU Datathon 2021. We are contestin
 
 ## Challenge 1: A European Grean Deel
 
-{{< figure src="/media/img/observatory_screenshots/GD_Observatory_opening_page.png" caption="" numbered="true" >}}
+{{< figure src="/media/img/observatory_screenshots/GD_Observatory_opening_page.png" caption="Our Green Deal Data Observatory connects socio-economic and environmental data to help understanding and combating climate change." numbered="true" >}}
 
 *   Challenge 1: [A European Green Deal](https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_en), with a particular focus on the [The European Climate Pact](https://ec.europa.eu/commission/presscorner/detail/en/ip_20_2323), the [Organic Action Plan](https://ec.europa.eu/info/food-farming-fisheries/farming/organic-farming/organic-action-plan_en), and the [New European Bauhaus](https://ec.europa.eu/commission/presscorner/detail/en/IP_21_111), i.e., mitigation strategies. We are going to compete with our [Green Deal Data Observatory](http://greendeal.dataobservatory.eu/).
 
 ## Challenge 2
 
-{{< figure src="/media/img/observatory_screenshots/edo_opening_screen.jpg" caption="" numbered="true" >}}
+{{< figure src="/media/img/observatory_screenshots/edo_opening_screen.jpg" caption="Our Economy Data Observatory will focus on competition, small and medium sized enterprizes and robotization." numbered="true" >}}
 
 *   Challenge 2: [An economy that works for people](https://ec.europa.eu/info/strategy/priorities-2019-2024/economy-works-people_en#:~:text=Individuals%20and%20businesses%20in%20the,needs%20of%20the%20EU's%20citizens.), with a particular focus on the [Single market strategy](https://ec.europa.eu/info/strategy/priorities-2019-2024/economy-works-people/internal-market_en), and particular attention to the strategy’s goals of 1. Modernising our standards system, 2. Consolidating Europe’s intellectual property framework, and 3. Enabling the balanced development of the collaborative economy strategic goals.
 
