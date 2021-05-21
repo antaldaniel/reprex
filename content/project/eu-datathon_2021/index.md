@@ -45,6 +45,12 @@ Reprex, a Dutch start-up enterprise formed to utilize open source software and o
 
 Our project is based on agile, open collaboration with three types of contributors.
 
+We want to show that we have a research automation technology that can find open data, process it and validate it into high-quality business, policy or scientific indicators, and release it with daily refreshments in a modern API.
+
+We are looking for institutions to challenge us with their data problems, and sponsors to increase our capacity. Over then next 5 months, we need to find a sustainable business model for a high-quality and open alternative to other public data programs.
+
+## The EU Datathon 2021 Challenge
+
 - *To take part, you should propose the development of an application that links and uses open datasets.* - our [data curator team](https://music.dataobservatory.eu/#contributors)
 
 - *Your application ... is also expected to find suitable new approaches and solutions to help Europe achieve important goals set by the European Commission through the use of open data.*” - this application is developed by our [technology contributors](https://greendeal.dataobservatory.eu/#contributors)
