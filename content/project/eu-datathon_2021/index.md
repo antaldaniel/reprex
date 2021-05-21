@@ -88,15 +88,13 @@ As open science principles gain increased acceptance, scientific researchers are
 
 The EU, the OECD, and UN institutions run around 100 data collection programs, so-called ‘data observatories’ that more or less avoid touching this data, and buy proprietary data instead. Annually, each observatory spends between 50 thousand and 3 million EUR on collecting untidy and proprietary data of inconsistent quality, while never even considering open data.
 
-{{< figure src="/img/observatory_screenshots/observatory_collage_16x9_800.png" caption="Our automated data observatories are modern reimaginations of the existing observatories that do not use open data and research automation." numbered="true" >}}
+{{< figure src="/media/img/observatory_screenshots/observatory_collage_16x9_800.png" caption="Our automated data observatories are modern reimaginations of the existing observatories that do not use open data and research automation." numbered="true" >}}
 
 The problem with the current EU data strategy is that while it produces enormous quantities of valuable open data, in the absence of common basic data science and documentation principles, it seems often cheaper to create new data than to put the existing open data into shape.
 
 This is an absolute waste of resources and efforts. With a few R packages and our deep understanding of advanced data science techniques, we can create valuable datasets from unprocessed open data. In most domains, we are able to repurpose data originally created for other purposes at a historical cost of several billions of euros, converting these unused data assets into valuable datasets that can replace tens of millions’ worth of proprietary data.
 
-What we want to achieve with this project–and we believe such an accomplishment would merit one of the first prizes–is to add value to a significant portion of pre-existing EU open data: [data.europa.eu/data](https://data.europa.eu/data/) is the new open data portal of the EU that replaces two previous versions (one for the common institutions, and technically harvesting all EU member states’ national open data portals).
-
-What we want to achieve with this project – and we believe such an accomplishment would merit one of the first prizes -– is to add value to a significant portion of pre-existing EU open data by re-processing and integrating them into a modern, tidy database with an API access, and to find a business model that emphasises a triangular use of data in 1. business, 2. science and 3. policy-making. Our mission was to modernize the concept of `data observatories.`
+What we want to achieve with this project – and we believe such an accomplishment would merit one of the first prizes - is to add value to a significant portion of pre-existing EU open data (for example, available on [data.europa.eu/data](https://data.europa.eu/data/)) by re-processing and integrating them into a modern, tidy database with an API access, and to find a business model that emphasises a triangular use of data in 1. business, 2. science and 3. policy-making. Our mission was to modernize the concept of `data observatories.`
 
 ## Our solution
 
