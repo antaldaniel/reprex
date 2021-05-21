@@ -53,6 +53,10 @@ Our project is based on agile, open collaboration with three types of contributo
 
 - We use open source software, open data.  The applications are hosted on the cloud resources of [Reprex](#reprex), an early-stage technology startup that tries to build a viable, open-source, open-data business model to create reproducible research products.
 
+- We are working together with experts in the domain as curators (check out our guidelines if you want to join: [Data Curators: Get Inspired!](https://curators.dataobservatory.eu/data-curators.html)).
+
+- Our development team works on an open collaboration basis. Our indicator R packages, and our services are developed together with [rOpenGov](https://music.dataobservatory.eu/author/ropengov/).
+
 
 ## Mission statement
 
