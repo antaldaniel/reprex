@@ -82,7 +82,7 @@ Our [Green Deal Data Observatory](http://greendeal.dataobservatory.eu/) is a mod
 
 We provide high quality, tidy data through a modern API which enables data flows between public and proprietary databases. We believe that introducing Open Policy Analysis standards with open data, open-source software, and research automation, can help the Green Deal policymaking process. Our collaboration is open for individuals, citizens scientists, research institutes, NGOS, and companies.
 
-## Challenge 2: A Europe fit for the digital age
+## Challenge 2: An economy that works for people
 
 {{< figure src="/media/img/observatory_screenshots/edo_opening_page.jpg" caption="Our Economy Data Observatory will focus on competition, small and medium sized enterprizes and robotization." numbered="true" >}}
 
