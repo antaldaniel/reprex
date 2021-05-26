@@ -1,5 +1,5 @@
 +++
-title = "Reprex is Contesting all Three Challenges of the Eu Datathon 2021 Prize"
+title = "Reprex is Contesting all Three Challenges of the EU Datathon 2021 Prize"
 subtitle = "Reprex, rOpenGov, curators, consultants and developers in open collaboration to build automated data observatories"
 date = 2021-05-21T20:00:00
 lastmod = 2021-05-26T15:00:00
