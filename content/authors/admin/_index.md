@@ -6,14 +6,16 @@ title: Reprex
 superuser: true
 
 # Role/position/tagline
-role: Big data for small organizations.
+role: Big data for all music organizations.
 
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Reprex BV
   url: https://reprex.nl/
+- name: rOpenGov
+  url: http://ropengov.org/
 - name: Yes!Delft AI+Blockchain Validation Lab
-  url: https://yesdelft.nl/
+  url: https://www.yesdelft.com/focus-areas/artificial-intelligence/
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
