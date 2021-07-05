@@ -13,7 +13,7 @@ authors:
 #- "Equal contribution"
 
 date: "2020-06-03"
-lastmod = 2021-06-03T12:00:00
+lastmod: 2021-06-03T12:00:00
 doi: "10.5281/zenodo.4897472"
 
 # Schedule page publish date (NOT publication's date).
