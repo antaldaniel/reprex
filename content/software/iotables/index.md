@@ -13,12 +13,8 @@ authors:
 #- "Equal contribution"
 
 date: "2020-06-03"
-<<<<<<< HEAD
-doi: ""
-=======
 lastmod: 2021-06-03T12:00:00
 doi: "10.5281/zenodo.4897472"
->>>>>>> 487737e1c9bed6c6a5d37ff1c43e80e328ac8efc
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-06-03T00:00:00Z"
