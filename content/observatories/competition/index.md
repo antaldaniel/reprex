@@ -25,7 +25,7 @@ links:
 - icon: globe
   icon_pack: fas
   name: Competition Data Observatory
-  url: https://competition.dataobservatory.eu/
+  url: https://competition.data.observatory/
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -45,14 +45,14 @@ Our observatory is monitoring the certain segments of the European economy, and 
 
 We would like to create early-warning, risk, economic effect, and impact indicators that can be used in scientific, business and policy contexts for professionals who are working on re-setting the European economy after a devastating pandemic and in the age of AI. We would like to map data between economic activities (NACE), antitrust markets, and sub-national, regional, metropolitian area data.
 
-{{< icon name="hand-point-right" pack="fas" >}}Get involved in {{< staticref  "/#services" "newtab"  >}}services{{< /staticref >}}: our [ongoing projects](/#projects), team of [contributors](https://competition-data-observatory.netlify.app//#contributors), [open-source libraries](https://competition-data-observatory.netlify.app//#software) and use our data for publications. See some [use cases](https://competition-data-observatory.netlify.app//#featured).
+{{< icon name="hand-point-right" pack="fas" >}}Get involved in {{< staticref  "/#services" "newtab"  >}}services{{< /staticref >}}: our [ongoing projects](/#projects), team of [contributors](https://competition.data.observatory//#contributors), [open-source libraries](https://competition.data.observatory//#software) and use our data for publications. See some [use cases](https://competition.data.observatory//#featured).
 
 {{< icon name="rss" pack="fas" >}} Follow {{< staticref "/#news" "newtab" >}}news about us{{< /staticref >}} or the more comprehensive {{< staticref "https://dataandlyrics.com/" "newtab" >}}Data & Lyrics{{< /staticref >}}  blog.
 
 {{< icon name="phone" pack="fas" >}}Contact {{< staticref "/#contact" "newtab" >}}us{{< /staticref >}} .
 
-{{< icon name="download" pack="fas" >}} Download our {{< staticref "https://competition-data-observatory.netlify.app//media/presentations/EDO_Datathon_Submission_2021.pdf" "newtab" >}}competition presentation{{< /staticref >}}
+{{< icon name="download" pack="fas" >}} Download our {{< staticref "https://competition.data.observatory//media/presentations/EDO_Datathon_Submission_2021.pdf" "newtab" >}}competition presentation{{< /staticref >}}
 
-Our Product/Market Fit was validated in the world's 2nd ranked university-backed incubator program, the [Yes!Delft AI Validation Lab](https://competition-data-observatory.netlify.app/post/2020-09-25-yesdelft-validation/).
+Our Product/Market Fit was validated in the world's 2nd ranked university-backed incubator program, the [Yes!Delft AI Validation Lab](https://competition.data.observatory/post/2020-09-25-yesdelft-validation/).
 
 
