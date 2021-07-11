@@ -25,7 +25,7 @@ links:
 - icon: globe
   icon_pack: fas
   name: Competition Data Observatory
-  url: https://competition-data-observatory.netlify.app/
+  url: https://competition.dataobservatory.eu/
 url_code: ""
 url_pdf: ""
 url_slides: ""
