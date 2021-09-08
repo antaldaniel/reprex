@@ -6,7 +6,7 @@ title: Reprex
 superuser: true
 
 # Role/position/tagline
-role: Big data for all music organizations.
+role: Big data for all
 
 # Organizations/Affiliations to show in About widget
 organizations:
