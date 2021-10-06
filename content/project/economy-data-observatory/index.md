@@ -10,7 +10,7 @@ lastmod = 2021-06-15T08:00:00
 summary = "The Competition Data Observaotry is monitoring the certain segments of the European economy, and develops tools for computational antitrust in Europe. We take a critical SME-, intellectual property policy and competition policy point of view automation, robotization, and the AI revolution on the service-oriented European social market economy."
 
 # Tags: can be used for filtering projects.
-tags = ["ceemid", "surveys", "music-industry", "data-observatory", "music-observatory", "reproducible-research"]
+tags = ["ceemid", "surveys", "economy", "data-observatory", "music-observatory", "reproducible-research"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
