@@ -16,14 +16,14 @@ projects = ""
 # Featured image
 [image]
   # Caption (optional)
-  caption = ""
+  caption = "[ccsi.dataobservatory.eu](https://ccsi.dataobservatory.eu/)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Center"
 
   # Show image only in page previews?
-  preview_only = true
+  preview_only = false
 
 +++
 The creative and cultural sectors and industries are mainly made of networks of freelancers and microenterprises, with very few medium-sized companies. Their economic performance, problems, and innovation capacities hidden. Our open collaboration to create this data observatory is committed to change this. Relying on modern data science, the re-use of open governmental data, open science data, and novel harmonized data collection we aim to fill in the gaps left in the official statistics of the European Union.
