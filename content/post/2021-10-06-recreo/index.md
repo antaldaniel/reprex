@@ -1,8 +1,8 @@
 +++
 title = "Reprex Joins RECREO Research Consortium To Develop Innovation Indicators"
-subtitle = ""Reprex in the REshaping CCSI REsearch: Open data, policy analysis and methods for evidence-based decision-making consortium"
-date = 2021-07-08T09:00:00
-lastmod = 2021-07-08T09:00:00
+subtitle = "Reprex in the REshaping CCSI REsearch: Open data, policy analysis and methods for evidence-based decision-making consortium"
+date = 2021-11-06T09:00:00
+lastmod = 2021-11-06T09:00:00
 draft = false
 
 authors = ["daniel_antal"]

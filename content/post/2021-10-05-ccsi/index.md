@@ -1,17 +1,17 @@
 +++
 title = "CCSI Data Observatory"
-subtitle = ""
+subtitle = "Open Data About the Creative & Cultural Sectors And Industries"
 date = 2021-10-06T16:00:00
 lastmod = 2021-10-06T16:00:00
 draft = false
 
 authors = ["daniel_antal"]
 
-tags = ["ccsi","data-as-service", "api"]
+tags = ["ccsi","data-as-service", "api", "ccsi-data-observatory"]
 
 summary = "The creative and cultural sectors and industries are mainly made of networks of freelancers and microenterprises, with very few medium-sized companies. Their economic performance, problems, and innovation capacities hidden. Our open collaboration to create this data observatory is committed to change this. Relying on modern data science, the re-use of open governmental data, open science data, and novel harmonized data collection we aim to fill in the gaps left in the official statistics of the European Union."
 
-projects = "ccsi-data-observatory"
+projects = ""
 
 # Featured image
 [image]
