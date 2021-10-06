@@ -29,8 +29,8 @@ content:
     tag: '*'
   - name: Listen Local
     tag: listen-local
-  - name: EU Datathon 2021
-    tag: eu-datathon_2021
+  - name: CCSI Data Observatory
+    tag: ccsi-data-observatory
   - name: Digital Music Observatory
     tag: music-observatory
   - name: Green Deal Data Observatory
