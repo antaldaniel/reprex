@@ -26,6 +26,7 @@ projects = ""
   preview_only = false
 
 +++
+
 The creative and cultural sectors and industries are mainly made of networks of freelancers and microenterprises, with very few medium-sized companies. Their economic performance, problems, and innovation capacities hidden. Our open collaboration to create this data observatory is committed to change this. Relying on modern data science, the re-use of open governmental data, open science data, and novel harmonized data collection we aim to fill in the gaps left in the official statistics of the European Union.
 
 We believe that introducing Open Policy Analysis standards with open data, open-source software and research automation can help better understanding how creative people and their enterprises and institutions add value to the European economy, how they create jobs, innovate, and increase the well-being of a diverse European society. Our collaboration is open for individuals, citizens scientists. 
