@@ -1,13 +1,13 @@
 +++
-title = "Crunchconf: Open Data, New Gold Without the Rush"
-date = 2021-10-16T11:00:00  
-lastmod = 2021-10-16T13:00:00  
+title = "Digital Music Observatory on the MaMA Convention 2021"
+date = 2021-10-14T11:00:00  
+lastmod = 2021-10-14T13:00:00  
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2021-10-17T11:00:00  
-time_end = 2021-10-17T13:30:00  
+time_start = 2021-10-15T11:00:00  
+time_end = 2021-10-15T13:30:00  
 
 authors = ["Daniel Antal, CFA"]
 
