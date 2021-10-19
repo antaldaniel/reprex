@@ -27,7 +27,7 @@ projects = ""
 
 +++
 
-Reprex’s co-founder, the main developer of the Digital Music Observatory, [Daniel Antal](https://reprex.nl/authors/daniel_antal/) and Digital Music Observatory curator, [Marie Zhorová](https://music.dataobservatory.eu/author/marie-zhorova/) participated in the MaMA Festival & Convention in Paris on 13-15 October within the [JUMP Music Market Accelerator Program](https://www.jumpmusic.eu/fellows/) Program. We introduced our Digital Music Observatory to national music organizations and encouraged them to try out a cooperation with us.
+Reprex’s co-founder, the main developer of the Digital Music Observatory, [Daniel Antal](https://reprex.nl/authors/daniel_antal/) and Digital Music Observatory curator, [Marie Zhorová](https://music.dataobservatory.eu/author/marie-zhorova/) participated in the MaMA Festival & Convention in Paris on 13-15 October within the [JUMP Music Market Accelerator Program](https://www.jumpmusic.eu/fellows/) Program. We introduced our Digital Music Observatory to national music organizations and encouraged them to try out a cooperation with us. (See Use Cases below)
 
 Our main aim was to find new users to our Digital Music Observatory, and to find partners for a future Horizon Europe R&D project to develop the scientific pillars of the Observatory in a manner that meets practical industry needs and the feature requirements laid out in hte Feasiblity Study for a Euroepan Music Observatory.
 
@@ -37,15 +37,12 @@ Our concept was introduced in Le Trianon to a wider audience during the JUMP Mus
 
 ## Use Cases
 
-<td style="text-align: center;">{{< figure src="/media/img/reports/mce/featured.png" caption="Daniel introduced our work made for the UK IPO's [Music Creators' Earnings in the Digital Era Project](https://music.dataobservatory.eu/publication/mce_empirical_streaming_2021/) about the justified and not-justified differences among music rightsholders earnings and the diminishing market value of streams. We believe that our UK approach is a particularly interesting addition to join with [the distribution analysis](https://dataandlyrics.com/post/2021-02-21-cnm-streaming/) performed by the [Centre Nationale de la Musique](https://cnm.fr/en/) and Deloitte in France. " numbered="true" >}}</td>
+<td style="text-align: center;">{{< figure src="/media/img/reports/mce/featured.png" caption="Daniel introduced our work made for the UK IPO's [Music Creators' Earnings in the Digital Era Project](https://music.dataobservatory.eu/publication/mce_empirical_streaming_2021/) about the justified and not-justified differences among music rightsholders earnings and the diminishing market value of streams. We believe that our UK approach is a particularly interesting addition to join with [the distribution analysis](https://dataandlyrics.com/post/2021-02-21-cnm-streaming/) performed by the [Centre Nationale de la Musique](https://cnm.fr/en/) and Deloitte in France." numbered="true" >}}</td>
 
 
 <td style="text-align: center;">{{< figure src="/media/img/reports/mce/listen_fair_treemap_en.png" caption="Daniel introduced to collective management professioanls our innovative approach for private copying valuation, royalty price setting, estimating the values of value transfer to media platforms, and other topics of interests for collective management and rights management organizations. Our approach has a proven track record to increase revenues for creators." numbered="true" >}}</td>
 
-<td style="text-align: center;">{{< figure src="/media/img/observatory_screenshots/dmo_contributors.png" caption="We introduced our approach to building the [European Music Observatory](https://music.dataobservatory.eu/post/2021-03-04-jump-2021/) in a decentralized way, relying not only on the resources of Creative Europe but also on Open Science, Horizon Europe, bringing the music industry, music research in universities and cultural policy under one open collaboration. Because France is building its own music observatory of a kind, the decentralized approach could particularly benefit French stakeholders.
-" numbered="true" >}}</td>
 
-<td style="text-align: center;">{{< figure src="/media/img/reports/listen_local_2020/listen_local_study_covers.png" caption=" Marie and Daniel introduced the [Listen Local project](https://reprex.nl/project/listen-local/) to startups. Our Listen Local project analyzes why recommendation engines do not recommend locally relevant music (such as music from Paris in Paris, Slovakian music for Slovaks) and offers alternative approaches and fixes.  We were discussing with other startups serving artists and small labels to bring down our macro-level approaches' benefits to the level of aritsts, as we did in our experimental project in [Slovakia](https://music.dataobservatory.eu/publication/listen_local_2020/) supported by our scientific research cooperation (see our pre-print [manuscript](https://music.dataobservatory.eu/publication/european_visibilitiy_2021/).)" numbered="true" >}}</td>
 
 ## Why Data Observatory?
 
