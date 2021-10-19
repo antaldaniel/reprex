@@ -27,7 +27,7 @@ projects = [""]
 
 +++
 
-Reprex was commissioned to prepare an analysis on the justified and not justified differences in music creators’ earnings.  We have posted our most important findings in an earlier blogpost ([Music Creators’ Earnings in the Streaming Era. United Kingdom Research Cooperation With the Digital Music Observatory](https://music.dataobservatory.eu/post/2021-06-18-mce/).
+Reprex with its [Digital Music Observatory team](https://music.dataobservatory.eu/) was commissioned to prepare an analysis on the justified and not justified differences in music creators’ earnings.  We have posted our most important findings in an earlier blogpost ([Music Creators’ Earnings in the Streaming Era. United Kingdom Research Cooperation With the Digital Music Observatory](https://music.dataobservatory.eu/post/2021-06-18-mce/).
 
 The UK Intellectual Property Office has published the entire report on the music creators’ earnings, and we have made our detailed analysis available in a side-publication. Reprex also signed an agreement with the researchers of the Music Creators’ Earnings project to deposit all data published in the report in the Digital Music Observatory, and to promote the building of the observatory further.
 
