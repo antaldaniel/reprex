@@ -1,22 +1,22 @@
 +++
-title = "Digital Music Observatory on the MaMA Convention 2021"
-date = 2021-10-14T11:00:00  
-lastmod = 2021-10-14T13:00:00  
+title = "Crunchconf: Open Data, New Gold Without the Rush"
+date = 2021-10-08T10:10:00  
+lastmod = 2021-10-08T10:10:00  
 draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2021-10-15T11:00:00  
-time_end = 2021-10-15T13:30:00  
+time_start = 2021-10-08T19:10:00  
+time_end = 2021-10-08T19:40:00  
 
 authors = ["Daniel Antal, CFA"]
 
 # Abstract and optional shortened version.
-abstract = "We are looking for partners in France for our Digital Music Observatory. You can find us in Le Trianon, in the JUMP Corner."
+abstract = "Every year, the EU announces that billions and billions of data are now “open” again, but this is not gold. At least not in the form of nicely minted gold coins, but in gold dust and nuggets found in the muddy banks of chilly rivers. There is no rush for it, because panning out its value requires a lot of hours of hard work. Our goal is to automate this work to make open data usable at scale, even in trustworthy AI solutions."
 
 # Name of event and optional event URL.
-event = "MaMA Festival & Convention 2021"
-event_url = "https://www.mamafestival.com/en/programmation-convention/#/program/byVenue"
+event = "CrunchConf 2021"
+event_url = "https://crunchconf.com/schedule"
 
 # Location of event
 location = "Online"
@@ -24,7 +24,7 @@ location = "Online"
 # Is this a selected talk? (true/false)
 selected = true
 # Tags (optional).
-tags = ["open-data", "music", "data-observatory"]
+tags = ["open-data"]
 
 # Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -52,19 +52,25 @@ math = false
   focal_point = "Center"
 +++
 
-Currently more than half of the global music sales are made by autonomous AI systems owned by Google, Apple, or Spotify. These data monopolies are getting rich, because they reap the profit from music businesses with an average employee count of 1.8 Europe. European music businesses are easy to exploit with armies of data engineers and data scientists because they do not have a single data scientist or even an IT function.
+Every year, the EU announces that billions and billions of data are now “open” again, but this is not gold. At least not in the form of nicely minted gold coins, but in gold dust and nuggets found in the muddy banks of chilly rivers. There is no rush for it, because panning out its value requires a lot of hours of hard work. Our goal is to automate this work to make open data usable at scale, even in trustworthy AI solutions.
 
-1.	Artists in the UK had a difficulty explaining in Westminster how they are losing out in streaming– so we have created a streaming price index, like the Dow Jones, if you like, that explains the economic factors of the devaluation of music in the last 5 years in 20 countries. 
-2.	Music organizations in Slovakia and Hungary were frustrated that their politicians and journalists believed music to be taxpayer funded, so we showed with data that they contribute more proportionally to the national budget than car manufacturers, the darling of local politicians.
-3.	We successfully challenged with data restaurant associations, hotel chains, telecom corporations and broadcasters who wanted to bring music prices down in court and via lobbying.
+## Summary 
 
-The music industry has envied the television and film industry which has a single go-to-point for data when it needs them, the European Audiovisual Observatory. It started lobbying for a publicly financed music observatory. But we did not wait. The music industry has a tragic track record of failed centralized international data projects. We built Reprex out of a 12-country, decentralized music project. We learned how to utilize hidden, but already existing data and research funds well, and how to manage the data governance among the poisonous conflicts of interests between rich and poor countries, authors vs producers, producer’s vs performers. 
+In his presentation, Daniel compared the current state of open data (including governmental open data and scientific open data) to a thrift store.  You can often find bargains, or historical data that would be impossible to source from data vendors, but on a strictly as-is basis, without a catalogue, service, or guarantee. Therefore, working with open data requires a careful reprocessing, validation, and in many cases, frequent re-validation. Open data is often over-estimated: it is never a finished product, often it cannot even be downloaded, therefore it requires further investment to make it valuable. However, because most open data arrives from the governmental sector, you can tap into information sources where no market alternative exists.  Open data in some cases may be a cheaper substitute to market vendors, but often it is an exclusive source of information that do not have any market vendors.
 
--	Our Digital Music Observatory is not theoretical, it is practical, because it is built around real-life court cases, damage claims, lobbying and PR arguments.
+<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/Sisyphus_Bodleian_Library.png" caption="Sisyphus was punished by being forced to roll an immense boulder up a hill only for it to roll down every time it neared the top, repeating this action for eternity.  This is the price that project managers and analysts pay for the inadequate documentation of their data assets." numbered="false" >}}</td>
 
--	Our Digital Music Observatory is comprehensive – it contains more than a thousand indicators from all European countries. We have enough data to test the biases of the Spotify or the YouTube algorithm – you would be surprised what the data tells us.
+- The practices related to the exploitation of open data are not only relevant in an open data context: these are good data ingestion and procurement practices for *any* third party data, and in large organizations, for any cross-departmental data. (See the blogpost: [The Data Sisyphus](https://dataandlyrics.com/post/2021-07-08-data-sisyphus/).)
 
--	It has data available much sooner, in much higher quality and in a more practical format than in the Audiovisual one. 
+- Case Study:  [Belgian Drought/Flood Risk Awareness, Financial Capacity & Hydrology](https://greendeal.dataobservatory.eu/post/2021-04-23-belgium-flood-insurance/) a complex integration of various open data sources.
+
+In the second part of the presentation, Daniel talked about our modern data observatory concept.  We have reviewed about 80 functioning and already defunct international data collection programs.  Data observatories, like Copernicus’ Observatory, are permanent infrastructure to record various domain-specific data, such as alternative fuel information, information on homelessness, or on the European music business.  In our assessment, most of the EU, OECD, UNESCO recognized or endorsed observatories use obsolete technology and do not rely on the new achievements of data science. Reprex, our start-up offers an open source, open data based alternative solution to build largely automated data observatories.  We believe that human judgement is needed in data curation, but processing, documentation and validation is best done by computers.
+
+- Case Study: [Reprocessing geographical information with administrative boundary changes](https://greendeal.dataobservatory.eu/post/2021-03-06-regions-climate/)
+
+At last, he presented a few development directions with our open-source software, mentioning our work withing the rOpenGov community. This part of the presentation was originally meant to open the way for a half-day open data workshop, but due to the current pandemic situation, the physical part of the conference and the workshops were not held.
+
+The presentation largely included the topics of our Data & Lyrics blogpost: [Open Data---The New Gold Without the Rush](https://greendeal.dataobservatory.eu/post/2021-06-18-gold-without-rush/)
 
 
 ## Presentation Slides
