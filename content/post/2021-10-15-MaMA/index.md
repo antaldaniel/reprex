@@ -49,6 +49,9 @@ Our concept was introduced in Le Trianon to a wider audience during the JUMP Mus
 
 <td style="text-align: center;">{{< figure src="/media/img/observatory_screenshots/dmo_contributors.png" caption="We introduced our approach to building the [European Music Observatory](https://music.dataobservatory.eu/post/2021-03-04-jump-2021/) in a decentralized way, relying not only on the resources of Creative Europe but also on Open Science, Horizon Europe, bringing the music industry, music research in universities and cultural policy under one open collaboration. Because France is building its own music observatory of a kind, the decentralized approach could particularly benefit French stakeholders." numbered="true" >}}</td>
 
+### Listen Local
+
+<td style="text-align: center;">{{< figure src="/media/img/reports/listen_local_2020/listen_local_study_covers.png" caption="Marie and Daniel introduced the [Listen Local project](https://reprex.nl/project/listen-local/) to startups. Our Listen Local project analyzes why recommendation engines do not recommend locally relevant music (such as music from Paris in Paris, Slovakian music for Slovaks) and offers alternative approaches and fixes.  We were discussing with other startups serving artists and small labels to bring down our macro-level approaches' benefits to the level of aritsts, as we did in our experimental project in [Slovakia](https://music.dataobservatory.eu/publication/listen_local_2020/) supported by our scientific research cooperation (see our pre-print [manuscript](https://music.dataobservatory.eu/publication/european_visibilitiy_2021/).)" numbered="true" >}}</td>
 
 
 ## Why Data Observatory?
