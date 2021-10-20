@@ -31,7 +31,7 @@ Reprex’s co-founder, the main developer of the Digital Music Observatory, [Dan
 
 Our main aim was to find new users to our Digital Music Observatory, and to find partners for a future Horizon Europe R&D project to develop the scientific pillars of the Observatory in a manner that meets practical industry needs and the feature requirements laid out in hte Feasiblity Study for a Euroepan Music Observatory.
 
-Our concept was introduced in Le Trianon to a wider audience during the JUMP Music Market Accelerator Pitch Session and in one-to-one meetings to representatives of French national organizations. We have also started to investigate the possibility to cooperate with two startups to bring our data services closer to artists, labels, and publishers. 
+Our concept was introduced in Le Trianon to a wider audience during the [JUMP Music Market Accelerator Pitch Session](https://reprex.nl/talk/digital-music-observatory-on-the-mama-convention-2021/) and in one-to-one meetings to representatives of French national organizations. We have also started to investigate the possibility to cooperate with two startups to bring our data services closer to artists, labels, and publishers. 
 
 <script class="lesondier-widget" data-ls-event-id="12386" data-ls-site-slug="mama" src="https://live.mamafestival.com/build/widget/widget_loader.min.js" data-ls-width="600px" data-ls-height="435px" async></script>
 

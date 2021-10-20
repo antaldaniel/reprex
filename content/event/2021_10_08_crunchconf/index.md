@@ -75,6 +75,4 @@ The presentation largely included the topics of our Data & Lyrics blogpost: [Ope
 
 ## Presentation Slides
 
-By clicking on the first presentation image, you can browse throught the entire presentation slide show. 
-
-{{< gallery album="slides" >}}
+See the presentation slides [here](https://reprex.nl/slides/crunchconf_2021/#/).
