@@ -30,7 +30,9 @@ slides:
 
 ---
 
-# Public Reports with Digital Music Observatory
+# Use Cases
+
+Public advocacy reports, scientific uses
 
 - [An Empirical Analysis of Music Streaming Revenues and Their Distribution](https://music.dataobservatory.eu/publication/mce_empirical_streaming_2021/)
 - [Feasibility Study On Promoting Slovak Music In Slovakia & Abroad](https://music.dataobservatory.eu/publication/listen_local_2020/)
@@ -42,7 +44,9 @@ slides:
 
 ---
 
-# Business Confidential Reports with Digital Music Observatory
+# Use Cases 2 
+
+Business Confidential Reports with Digital Music Observatory
 
 - Damage claims in private copying
 - Royalty setting for restaurants, hotels, broadcasting
@@ -54,6 +58,8 @@ slides:
 
 # Questions?
 
-[Ask](https://github.com/wowchemy/wowchemy-hugo-modules/discussions)
+[Email](https://reprex.nl/#contact)
 
-[LinkedIn](https://www.linkedin.com/in/antaldaniel/)
+LinkedIn: [Daniel Antal](https://www.linkedin.com/in/antaldaniel/) - [Digital Music Observatory](https://www.linkedin.com/company/79286750)
+
+
