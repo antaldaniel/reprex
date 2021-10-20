@@ -13,17 +13,6 @@ slides:
   highlight_style: dracula
 ---
 
-# Data Curation With Reprex
-
-[Reprex](https://wowchemy.com/) | [Data Curation](https://owchemy.com/docs/managing-content/#create-slides)
-
-
-## Data Curation
-
-If you do not find the data for your research, reporting or evaluation project, it does not mean that the data does not exist. It does not mean that the data is not available for *free*.
-
----
-
 {{< slide background-image="/slides/MaMA_2021/Slide1.jpg" >}}
 
 ---
@@ -41,7 +30,7 @@ If you do not find the data for your research, reporting or evaluation project, 
 
 ---
 
-# Public Reports with Digital Music Observatory
+## Public Reports with Digital Music Observatory
 
 - [An Empirical Analysis of Music Streaming Revenues and Their Distribution](https://music.dataobservatory.eu/publication/mce_empirical_streaming_2021/)
 - [Feasibility Study On Promoting Slovak Music In Slovakia & Abroad](https://music.dataobservatory.eu/publication/listen_local_2020/)
@@ -54,7 +43,7 @@ If you do not find the data for your research, reporting or evaluation project, 
 ---
 
 
-# Business Confidential Reports with Digital Music Observatory
+## Business Confidential Reports with Digital Music Observatory
 
 - Damage claims in private copying
 - Royalty setting for restaurants, hotels, broadcasting
