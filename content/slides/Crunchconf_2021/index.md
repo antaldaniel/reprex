@@ -1,8 +1,8 @@
 ---
-title: Open Data: The New Gold Without the Rush
+title: Open Data - The New Gold Without the Rush
 summary: Adding Value to Legally Open & Public Data
-authors: []
-tags: []
+authors: [daniel_antal]
+tags: [open data]
 categories: []
 date: "2021-10-14T12:15:00Z"
 slides:
