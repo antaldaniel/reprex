@@ -30,7 +30,7 @@ slides:
 
 ---
 
-## Public Reports with Digital Music Observatory
+# Public Reports with Digital Music Observatory
 
 - [An Empirical Analysis of Music Streaming Revenues and Their Distribution](https://music.dataobservatory.eu/publication/mce_empirical_streaming_2021/)
 - [Feasibility Study On Promoting Slovak Music In Slovakia & Abroad](https://music.dataobservatory.eu/publication/listen_local_2020/)
@@ -42,8 +42,7 @@ slides:
 
 ---
 
-
-## Business Confidential Reports with Digital Music Observatory
+# Business Confidential Reports with Digital Music Observatory
 
 - Damage claims in private copying
 - Royalty setting for restaurants, hotels, broadcasting
