@@ -37,46 +37,6 @@ slides:
 
 If you do not find the data for your research, reporting or evaluation project, it does not mean that the data does not exist. It does not mean that the data is not available for *free*.
 
----
-
-## Fragments
-
-Make content appear incrementally
-
-
-
-{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
-
-<Press `Space` to play!>
-
----
-
-A fragment can accept two optional parameters:
-
-- `class`: use a custom style (requires definition in custom CSS)
-- `weight`: sets the order in which a fragment appears
-
----
-
-## Speaker Notes
-
-Add speaker notes to your presentation
-
-```markdown
-{{%/* speaker_note */%}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{%/* /speaker_note */%}}
-```
-
-Press the `S` key to view the speaker notes!
-
-{{< speaker_note >}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{< /speaker_note >}}
 
 ---
 
@@ -97,11 +57,11 @@ Press the `S` key to view the speaker notes!
 
 ---
 
-{{< slide background-image="/media/slides/MaMA_2021/Slide1.jpg" >}}
+{{< slide background-image="/slides/MaMA_2021/Slide1.jpg" >}}
 
 ---
 
-{{< slide background-image="/media/slides/MaMA_2021/Slide2.jpg" >}}
+{{< slide background-image="/slides/MaMA_2021/Slide2.jpg" >}}
 
 ## Custom Slide
 
@@ -109,7 +69,7 @@ Customize the slide style and background
 
 ---
 
-{{< slide background-image="/media/slides/MaMA_2021/Slide3.jpg" >}}
+{{< slide background-image="/slides/MaMA_2021/Slide3.jpg" >}}
 
 ## Custom Slide
 
@@ -117,7 +77,7 @@ Customize the slide style and background
 
 ---
 
-{{< slide background-image="/media/slides/MaMA_2021/Slide4.jpg" >}}
+{{< slide background-image="/slides/MaMA_2021/Slide4.jpg" >}}
 
 
 ---
