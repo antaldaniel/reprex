@@ -32,7 +32,7 @@ tags = ["open-data"]
 #   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = ""
+slides = "MaMA_2021"
 
 # Links (optional).
 url_pdf = ""

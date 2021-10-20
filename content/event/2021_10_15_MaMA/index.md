@@ -51,7 +51,7 @@ math = false
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Center"
   
-slides: mama_2021
+
 +++
 
 Currently more than half of the global music sales are made by autonomous AI systems owned by Google, Apple, or Spotify. These data monopolies are getting rich, because they reap the profit from music businesses with an average employee count of 1.8 Europe. European music businesses are easy to exploit with armies of data engineers and data scientists because they do not have a single data scientist or even an IT function.
