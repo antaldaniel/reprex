@@ -73,6 +73,4 @@ The music industry has envied the television and film industry which has a singl
 
 ## Presentation Slides
 
-By clicking on the first presentation image, you can browse throught the entire presentation slide show. 
-
-{{< gallery album="slides" >}}
+You can see the presentation slides [here](https://reprex.nl/slides/mama_2021/#/).

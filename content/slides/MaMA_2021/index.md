@@ -1,8 +1,8 @@
 ---
 title: Digital Music Observatory on MaMA 2021
 summary: Invitation for Digital Music Observatory
-authors: []
-tags: []
+authors: [daniel_antal]
+tags: [digital music observatory, music, open data]
 categories: []
 date: "2021-10-14T12:15:00Z"
 slides:
