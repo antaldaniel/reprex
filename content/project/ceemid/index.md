@@ -4,9 +4,10 @@ title = "CEEMID"
 
 # Date this page was created.
 date = 2019-02-27T00:00:00
+lastmod = 2021-10-21T17:00:00  
 
 # Project summary to display on homepage.
-summary = "CEEMID"
+summary = "CEEMID was multi-country project that was a predecessor of Reprex’s Digital Music Observatory."
 
 # Tags: can be used for filtering projects.
 tags = ["ceemid", "surveys"]
@@ -32,6 +33,8 @@ url_code = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
 
+slides = "MaMA_2021"
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
@@ -43,7 +46,7 @@ url_code = ""
   focal_point = "Smart"
 +++
 
-__CEEMID__ is a data integration system that could provide to be a model and starting point of building a European Music Observatory based on open data, open-source software using best statistics, data science and AI practices. CEEMID has created thousands of high-value, hard music industry indicators using open data sources, industry data sources, surveys and various APIs to relevant other data sources. (More on [ceemid.eu](https://ceemid.eu/) website.)
+__CEEMID__ was multi-country project that was a predecessor of Reprex’s Digital Music Observatory.
 
 CEEMID is aiming to transfer thousands of indicators and a verifiable, open-source software that creates them to the European Music Observatory to give Europe-wide acces timely, reliable, actionable statistics and indicators for the music industry, policymakers and music professionals. (Read more about our [data coverage](https://documentation.ceemid.eu/index.php?title=Main_Page#Data_Coverage))
 

@@ -31,6 +31,8 @@ content:
     tag: music
   - name: Competition
     tag: competition
+  - name: Cultural Creative Sectors Industries
+    tag: ccsi
   - name: Green Deal
     tag: climate-change
   - name: Economy
