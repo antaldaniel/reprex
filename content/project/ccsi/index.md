@@ -1,46 +1,43 @@
-+++
-# Project title.
-title = "Creative & Cultural Sectors Industries Data Observatory"
-
-# Date this page was created.
-date = 2021-10-05T18:00:00
-lastmod = 2021-10-06T18:00:00
-
-# Project summary to display on homepage.
-summary = "The creative and cultural sectors and industries are mainly made of networks of freelancers and microenterprises, with very few medium-sized companies. Their economic performance, problems, and innovation capacities hidden. Our open collaboration to create this data observatory is committed to change this. Relying on modern data science, the re-use of open governmental data, open science data, and novel harmonized data collection we aim to fill in the gaps left in the official statistics of the European Union."
-
-# Tags: can be used for filtering projects.
-tags = ["surveys", "culture", "data-observatory", "ccsi", "innovation", "reproducible-research"]
+---
+title: Cultural & Creative Sectors and Industries Data Observatory
+summary: Relying on modern data science, the re-use of open governmental data, open science data, and novel harmonized data collection we aim to fill in the gaps left in the official statistics of the European Union about the creative and cultural sectors and industries.
+tags:
+- competition
+date: "2021-10-01T00:00:00Z"
+lastmod: "2021-10-21T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link: ""
+
+image:
+  caption: "The Open Pit of the Udachnaya Diamond Mine, ©[Stapanov Alexander](https://commons.wikimedia.org/w/index.php?curid=350061)"
+  focal_point: Smart
+
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/EconDataObs
+- icon: linkedin
+  icon_pack: fab
+  name: Connect
+  url: https://www.linkedin.com/company/78562153/
+- icon: globe
+  icon_pack: fas
+  name: Competition Data Observatory
+  url: https://competition.data.observatory/
+url_code: ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references 
-#   `content/slides/example-slides.md`.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = ""
-
-# Links (optional).
-url_pdf = ""
-url_slides = ""
-url_video = ""
-url_code = ""
-
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{icon_pack = "fab", icon="play-circle", name="Demo Music Observatory", url = "https://music.dataobservatory.eu/"}]
-
-[image]
-  # Caption (optional)
-  caption = "The royalty gap within Europe - calculated with our indicators"
-  
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Smart"
-+++
+slides: data-curation
+---
 
 The creative and cultural sectors and industries are mainly made of networks of freelancers and microenterprises, with very few medium-sized companies. Their economic performance, problems, and innovation capacities hidden. Our open collaboration to create this data observatory is committed to change this. Relying on modern data science, the re-use of open governmental data, open science data, and novel harmonized data collection we aim to fill in the gaps left in the official statistics of the European Union.
 
