@@ -10,14 +10,12 @@ lastmod = 2021-10-21T17:00:00
 summary = "CEEMID was multi-country project that was a predecessor of Reprex’s Digital Music Observatory."
 
 # Tags: can be used for filtering projects.
-tags = ["ceemid", "surveys"]
+tags = ["ceemid", "surveys", "Digital Music Observatory"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
 
 # Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
@@ -52,6 +50,8 @@ The CEEMID project (2014-2020) formed the basis of our first data observatory --
 
 In 2019 we offered CEEMID as one possible alternative to building the European Music Observatory. In our experience and understanding, the music industry has many failed international data projects because of the inherent conflicts of interests among big and large countries, authors and producers, producers, and performers, and in 2020 we launched our Digital Music Observatory.
 From an early stage, there has been an interest in our solutions from newer and newer industries. During the validation of our observatory’s product/market fit, we realized that we gave a novel solution to a problem that is not at all unique to the music industry. The fragmentation of data assets among the institutional boundaries of small enterprises and NGOs, the fragmentation of research budgets that disallow comprehensive data collection problems, the reliance on questionable quality and hard-to-integrate public and third-party data is present in almost all business and policy domains.
+
+<td style="text-align: center;">{{< figure src="/slides/Crunchconf_2021/Slide6.jpg" caption="The [Case Study in Belgium](https://greendeal.dataobservatory.eu/post/2021-04-23-belgium-flood-insurance/) brings together open data in a novel way from satellite, hydrological, opinion polling and tax administration data to show the geographical overlap of catastrophic drought and flood risk with the local political awareness and financial capacity to manage it. Our approach to music data turned out to be applicable in many situations when the data and the research capacities are fragmented." numbered="false" >}}</td>
 
 We developed reliable software tools and know-how bring up reusable open government and open science data, which are available upon request in developed countries like raw diamonds, without the polishing of data scientists, documentation, or modern databases. We learned how to build a decentralized approach to data sharing and resource pooling using the agile open collaboration method of open-source software development. We became experts in handling legally open data and freedom of information requests on an industrial scale.  After the launch of the Digital Music Observatory, we started building three new observatories with various partners in Computational Antitrust, Green Deal (climate change) and the broader Cultural Creative Sectors & Industries. 
 CEEMID did not only work with public and openly accessible data.  We used these novel sources when other data was not available, legally could not be used, or it was prohibitively expensive.  But most of the value we created for music rightsholders required the management of highly confidential data. We know that a public data observatory is not ideal for all potential users.  We are piloting fully private observatories, and a blend of pubic (and therefore widely trustworthy) and proprietary hybrid observatories based on the experience of the ‘public’  and ‘private’ layers of CEEMID.
