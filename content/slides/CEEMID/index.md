@@ -16,6 +16,9 @@ slides:
 
 # CEEMID
 
+- In 2014 Artisjus, HDS and SOZA realized that need to make further efforts to modernize the way they measure their own economic impact, the economic value of their licenses to remain competitive in advocating the interests vis-à-vis domestic governments, international organizations like CISAC and GESAC and the European Union
+- Origins in [CISAC Good Governance Seminar for European Societies](https://ceemid.eu/post/2013-11-18_cisac_goodgov/) and an abandoned GESAC project.
+
 ---
 
 {{< slide background-image="/media/img/slides/cisac_good_governance_2013.png" >}}
@@ -31,50 +34,6 @@ slides:
 
 {{< slide background-image="/slides/Crunchconf_2021/Slide6.jpg" >}}
 
----
-
-{{< slide background-image="/slides/Crunchconf_2021/Slide7.jpg" >}}
-
----
-
-{{< slide background-image="/slides/Crunchconf_2021/Slide8.jpg" >}}
-
----
-
-{{< slide background-image="/slides/Crunchconf_2021/Slide9.jpg" >}}
-
----
-
-{{< slide background-image="/slides/Crunchconf_2021/Slide10.jpg" >}}
-
----
-
-{{< slide background-image="/slides/Crunchconf_2021/Slide11.jpg" >}}
-
----
-
-{{< slide background-image="/slides/Crunchconf_2021/Slide12.jpg" >}}
-
----
-
-{{< slide background-image="/slides/Crunchconf_2021/Slide13.jpg" >}}
-
----
-
-{{< slide background-image="/slides/Crunchconf_2021/Slide14.jpg" >}}
-
----
-
-{{< slide background-image="/slides/Crunchconf_2021/Slide15.jpg" >}}
-
-
----
-
-{{< slide background-image="/slides/Crunchconf_2021/Slide16.jpg" >}}
-
----
-
-{{< slide background-image="/slides/Crunchconf_2021/Slide17.jpg" >}}
 
 ---
 
@@ -82,9 +41,6 @@ slides:
 
 Public advocacy reports, scientific uses
 
-- [An Empirical Analysis of Music Streaming Revenues and Their Distribution](https://music.dataobservatory.eu/publication/mce_empirical_streaming_2021/)
-- [Feasibility Study On Promoting Slovak Music In Slovakia & Abroad](https://music.dataobservatory.eu/publication/listen_local_2020/)
-- [Ensuring the Visibility and Accessibility of European Creative Content on the World Market: The Need for Copyright Data Improvement in the Light of New Technologies](https://music.dataobservatory.eu/publication/european_visibilitiy_2021/)
 - [Central and Eastern Music Industry Report](https://music.dataobservatory.eu/publication/ceereport_2020/)
 - [Hungarian Music Industry Report](https://music.dataobservatory.eu/publication/hungary_music_industry_2014/)
 - [Slovak Music Industry Report](https://music.dataobservatory.eu/publication/slovak_music_industry_2019/)
