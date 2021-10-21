@@ -4,7 +4,7 @@ title = "CEEMID"
 
 # Date this page was created.
 date = 2019-02-27T00:00:00
-lastmod = 2021-10-21T17:00:00
+lastmod = 2021-10-21T17:00:00  
 
 # Project summary to display on homepage.
 summary = "CEEMID was multi-country project that was a predecessor of Reprex’s Digital Music Observatory."
@@ -18,10 +18,10 @@ external_link = ""
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references
+#   E.g. `slides = "example-slides"` references 
 #   `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides = "MaMA_2021"
+slides = ""
 
 # Links (optional).
 url_pdf = ""
@@ -33,24 +33,26 @@ url_code = ""
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 #url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/georgecushen"}]
 
+slides = "MaMA_2021"
+
 # Featured image
-# To use, add an image named `featured.jpg/png` to your project's folder.
+# To use, add an image named `featured.jpg/png` to your project's folder. 
 [image]
   # Caption (optional)
   caption = ""
-
+  
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Smart"
 +++
 
-__CEEMID__ was multi-country project that was a predecessor of Reprex’s [Digital Music Observatory](https://music.dataobservatory.eu/). It transferred thousands of indicators to the Digital Music Observatory and offered it to the future European Music Observatory. 
+__CEEMID__ was multi-country project that was a predecessor of Reprex’s Digital Music Observatory.
 
 CEEMID is aiming to transfer thousands of indicators and a verifiable, open-source software that creates them to the European Music Observatory to give Europe-wide acces timely, reliable, actionable statistics and indicators for the music industry, policymakers and music professionals. (Read more about our [data coverage](https://documentation.ceemid.eu/index.php?title=Main_Page#Data_Coverage))
 
 CEEMID is a private initiative. We developed data products for the needs of the industry: to calculate adequate royalty price (tariff) levels, to calculate adequate compensation for damages, to design [better grants](https://danielantal.eu/project/grants/), to advocate [better CCI policies](https://danielantal.eu/tags/cci/), to pinpoint discriminative taxation of the industry, to monitor public performance licenses, to calculate the size of the [value gap](https://danielantal.eu/tags/value-gap/),  to train algorithms that find new audience for small nation repertoires [abroad](https://danielantal.eu/project/music-export/), and so on. Because the industry is made of microenterprises all over Europe and the world, and even larger organizations, such as collective management societies are at most SMEs, the industry has very limited market research or research & development capacities. This makes .
 
-## Data Coverage
+## Data Coverage 
 
 We believe that CEEMID is a viable piloting point for the European Music Observatory.  Our primary goal is to provide thousands of indicators for the three pillars of the European Music Observatory (See [presentation](https://danielantal.eu/presentation/ceemid-observatory).
 
@@ -89,7 +91,7 @@ The use of open source software and the open source R statistical language allow
 
 ## Data integration instead of centralisation
 
-From the originally envisioned, centralized, permission-based data structure, due to practical considerations, CEEMID switched to a more flexible, decentralized approach. This approach is based on continuous [data integration](https://documentation.ceemid.eu/index.php?title=Main_Page#Data_Integration), which requires permissions to use business confidential information only in use. This allowed a rapid extension of CEEMID to the whole of Europe and go even beyond.  As a result of continous data integration it already includes hundreds of indicators foreseen in all pillars of the planned European Music Observatory.
+From the originally envisioned, centralized, permission-based data structure, due to practical considerations, CEEMID switched to a more flexible, decentralized approach. This approach is based on continuous [data integration](https://documentation.ceemid.eu/index.php?title=Main_Page#Data_Integration), which requires permissions to use business confidential information only in use. This allowed a rapid extension of CEEMID to the whole of Europe and go even beyond.  As a result of continous data integration it already includes hundreds of indicators foreseen in all pillars of the planned European Music Observatory. 
 
 While CEEMID is aware of and uses the metadata of CISAC's, IFPI's, EAO's, and other industry sources' data, it does not contain this data, only when a user with permission for the use of these industry sources requires the integration of such data with other CEEMID data, or user-specific data.  While this approach makes sharing results more cumbersome, it provided a path to increase the number of useful indicators from a few dozens to around a thousand. Furthermore, it exponentially increases the value of CISAC's, IFPI's or EAO's data, especially when designing better royalty rates, or creating economic evidence for litigation. Take a look at a simple, non-confidential example [blog post](https://danielantal.eu/post/cee_mini_17/).
 
