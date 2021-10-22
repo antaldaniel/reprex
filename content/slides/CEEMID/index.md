@@ -14,6 +14,10 @@ slides:
   
 ---
 
+{{% callout note %}}
+Click on the **Slides** button above to view the built-in slides feature.
+{{% /callout %}}
+
 # CEEMID
 
 In 2014 Artisjus, HDS and SOZA realized that need to make further efforts to modernize the way they measure their own economic impact, the economic value of their licenses to remain competitive in advocating the interests vis-à-vis domestic governments, international organizations and licensees.
