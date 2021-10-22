@@ -1,21 +1,23 @@
 ---
-title: Slides
-summary: Data Curation With Reprex
+title: Data Curation With Reprex
+summary: Data Curation With Reprex summary
 authors: []
 tags: []
 categories: []
 date: "2020-01-21T00:00:00Z"
 slides:
-  # Choose a theme from https://github.com/hakimel/reveal.js#theming
-  theme: black
-  # Choose a code highlighting style (if highlighting enabled in `params.toml`)
-  #   Light style: github. Dark style: dracula (default).
-  highlight_style: dracula
+  transition: slide
+  css: styles3.css
+  self-contained: true
+  center: false
+  bibliography: antal.bib
+  fig_width: 7
+  fig_height: 3.5
 ---
 
 # Data Curation With Reprex
 
-[Reprex](https://wowchemy.com/) | [Data Curation](https://owchemy.com/docs/managing-content/#create-slides)
+[Reprex](https://wowchemy.com/) | [Data Curation](https://wowchemy.com/docs/managing-content/#create-slides)
 
 ---
 
