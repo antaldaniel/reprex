@@ -110,6 +110,7 @@ Customize the slide style and background
 {{</* slide background-color="#0000FF" */>}}
 {{</* slide class="my-style" */>}}
 ```
+{{</* slide class="style3" */>}}
 
 ---
 
