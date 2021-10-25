@@ -33,6 +33,10 @@ slides:
 
 ---
 
+## Data observatories
+
+
+
 ## Data Curation
 
 Our solution is a modern version of the data observatory, a permanent and highly automated data collection point. We use state-of-the-art data science and statistics to make sure that we get all the raw data needed and we put it into a truly usable form. Our automated data observatories perform all data processing, testing and correction work that humans find boring, unrewarding, not credited, and where they often fail. They serve as a human-centric interface to complex scientific software that only few specialists can use in the world.
@@ -83,6 +87,16 @@ Press the `S` key to view the speaker notes!
 
 ## Themes
 
+- Data observatories: permanent data collection points
+- We reviewed over 80 to compare their operations 
+- Legal form, services, budget differs greatly
+- No good use of statistical production and data science
+- Started developing our Digital Music Observatory
+
+---
+
+## Themes
+
 - black: Black background, white text, blue links (default)
 - white: White background, black text, blue links
 - league: Gray background, white text, blue links
@@ -95,6 +109,15 @@ Press the `S` key to view the speaker notes!
 - serif: Cappuccino background, gray text, brown links
 - simple: White background, black text, blue links
 - solarized: Cream-colored background, dark green text, blue links
+
+---
+
+<small>
+- night: Black background, thick white text, orange links
+- serif: Cappuccino background, gray text, brown links
+- simple: White background, black text, blue links
+- solarized: Cream-colored background, dark green text, blue links
+</small>
 
 ---
 
