@@ -35,7 +35,8 @@ slides:
 
 ## Data Curation
 
-If you do not find the data for your research, reporting or evaluation project, it does not mean that the data does not exist. It does not mean that the data is not available for *free*.
+Our solution is a modern version of the data observatory, a permanent and highly automated data collection point. We use state-of-the-art data science and statistics to make sure that we get all the raw data needed and we put it into a truly usable form. Our automated data observatories perform all data processing, testing and correction work that humans find boring, unrewarding, not credited, and where they often fail. They serve as a human-centric interface to complex scientific software that only few specialists can use in the world.
+
 
 ---
 
