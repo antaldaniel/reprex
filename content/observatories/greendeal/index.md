@@ -5,7 +5,7 @@ tags:
 - climate-change
 
 date: "2021-07-07T00:00:00Z"
-lastmod: "2021-07-11T00:00:00Z"
+lastmod: "2021-10-26T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -44,3 +44,6 @@ url_video: ""
 slides: ""
 ---
 
+Climate change and environmental degradation are an existential threat to Europe and the world. To overcome these challenges, the European Union created the European Green Deal strategic plan. It aims to make the EU’s economy sustainable by turning climate and environmental challenges into opportunities, and making the transition just and inclusive for all.
+
+Our [data observatory](http://greendeal.dataobservatory.eu/) is competing in the EU Datathon 2021. We believe that introducing Open Policy Analysis standards with open data, open-source software and research automation can help the Green Deal policymaking process. Our collaboration is open for individuals, citizens scientists, research institutes, NGOS, companies.

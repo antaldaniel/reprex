@@ -62,7 +62,7 @@ design:
 </colgroup>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;">{{< figure src="/media/icons/dmo_avatar.png" caption="[Digital](/observatories/music/)</br>[Music Observatory](/observatories/data-curation/)</br>Our first observatory, with seven years of data sharing history, a model for the European Music Observatory." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/media/icons/dmo_avatar.png" caption="[Digital](/observatories/music/)</br>[Music Observatory](/observatories/music/)</br>Our first observatory, with seven years of data sharing history, a model for the European Music Observatory." numbered="false" >}}</td>
 <td style="text-align: center;">{{< figure src="/media/icons/cdo_avatar.png" caption="[Competition Data Observatory](/observatories/competition/)</br>Our youngest, early-stage prototype observatory for computation antitrust." numbered="false" >}}</td>
 <td style="text-align: center;">{{< figure src="/media/icons/gdo_avatar.png" caption="[Green Deal Data Observatory](/observatories/greendeal/)</br>An ambitious project to connect environmental sensory data, political and policy survey data with socio-economic indicators." numbered="false" >}}</td>
 <td style="text-align: center;">{{< figure src="/media/icons/edo_avatar.png" caption="[Economy Data Observatory](/observatories/economy/)</br>An incubator for socio-economic data observatories. Its first offspring is the Competition Data Observatory." numbered="false" >}}</td>
