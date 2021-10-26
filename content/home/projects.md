@@ -29,12 +29,12 @@ content:
     tag: '*'
   - name: Listen Local
     tag: listen-local
-  - name: CCSI Data Observatory
-    tag: ccsi-data-observatory
-  - name: Digital Music Observatory
-    tag: music-observatory
-  - name: Green Deal Data Observatory
-    tag: green-deal-data-observatory
+  - name: CEEMID
+    tag: ceemid
+  - name: Music Creators' Earnings Project
+    tag: mce
+  - name: Horizon Europe
+    tag: horizon
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
