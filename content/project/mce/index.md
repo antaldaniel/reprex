@@ -49,5 +49,11 @@ The UK Intellectual Property Office has published the entire report on the music
 
 The research questions asked in this report are related to the [Music Creator Earnings' Project](https://www.gov.uk/government/publications/music-creators-earnings-in-the-digital-era) (MCE), exploring issues concerning equitable remuneration and earnings distributions. We were tasked with providing a longitudinal analysis of earnings development and relating our findings to equitable remuneration. The starting point of our work was centred around a very broadly defined problem: how much money music creators (rightsholders) earn from streaming, how these earnings are distributed, and how the earnings and their distribution have developed during the last decade.
 
+We have started to retrospectively harmonize the Music Creators Earnigs survey for the the Digital Music Observatory. The survey’s raw data is accessible on the website of the UKIPO [here](https://www.gov.uk/government/publications/music-creators-earnings-in-the-digital-era).
+Because of the bias of the survey, we did not include statistical indicators of the survey yet in our observatory, but we made the processed data available on our open repository space on Zenodo.
+Nevertheless, because of the relatively large sample size (n=708) we believe that imporant comparisons can be made with our [CEEMID surveys](https://reprex.nl/project/ceemid/), and we can shed some light on the earnings distribution of UK artists, and the way they distribute and finance their recordings.
+
 * see our [Report](https://reprex.nl/publication/mce_empirical_streaming_2021/)
 * See our main findings in a [blogpost](https://music.dataobservatory.eu/post/2021-06-18-mce/)
+* See the first version of the processed, machine readable, partially cleaned [datafile](https://zenodo.org/record/5615530#.YXvMGJ5BzIU) of the Music Creators Earnigs survey 2020.
+
