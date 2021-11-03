@@ -43,6 +43,8 @@ url_code = ""
   focal_point = "Center"
 +++
 
+*Our open collaboration platform is looking for partners for the Horizon Europe call Towards a competitive, fair and sustainable European music ecosystem.*
+
 * Provide new/improved methodologies for capturing the economic and societal value of music.
 * Develop indicators to better detect the performance of the European music sector and its contribution to economic and social development, as well as to sustainability. Promote standardised data collection about the music (sub-)sector(s) to measure the contribution of the EU music sector to the whole economy, the number of employed in the EU music sector, and music consumption on live, broadcast, and digital platforms.
 * Increase the transparency of the music industry, in particular the online/streaming business, through better data provision. Provide an estimation of the impact of music participation to the society.
