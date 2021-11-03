@@ -1,6 +1,6 @@
 ---
-title: Streaming Economics: where are we really going?
-summary: Panel Discussion
+title: "Streaming Economics: where are we really going?"
+summary: "Panel Discussion"
 authors: [daniel_antal]
 tags: [digital music observatory, music, open data]
 categories: []
