@@ -37,7 +37,7 @@ slides:
 
 ## Data Curation
 
-If you do not find the data for your research, reporting or evaluation project, it does not mean that the data does not exist. It does not mean that the data is not available for *free*.
+<small>If you do not find the data for your research, reporting or evaluation project, it does not mean that the data does not exist. It does not mean that the data is not available for *free*.</small>
 
 ---
 

@@ -7,7 +7,7 @@ draft = false
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 time_start = 2021-11-23T11:00:00  
-time_end = 2021-1-23T12:00:00  
+time_end = 2021-11-23T12:00:00  
 
 authors = ["Daniel Antal, CFA"]
 
@@ -46,12 +46,9 @@ math = false
 # Featured image
 [image]
   caption = ""
-
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "TopLeft"
-  
-
 +++
 
 > Streaming services account for 62% of global recorded music revenue, making them by far the most popular medium for listeners. Digital revenue has been steadily increasing, mainly due to subscriptions and ad-supported streams, but low margins for artists and musicians mean this is just not enough. There is a need to rethink a fairer, more sustainable streaming business model, starting with the role of DSPs, catalog management and intellectual property rights. How can streaming economies be a real source of revenue for artists? What aspects matter most within these economies?
