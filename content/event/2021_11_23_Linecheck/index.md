@@ -55,7 +55,7 @@ math = false
 
 Moderator: Steve Mayall (Music Ally). Speakers: Helienne Lindvall, Enzo Mazza (President of FIMI), Charles Kilby Welch (Kartel, tbd) and Daniel Antal, CFA (Digital Music Observatory, Reprex)
 
-1.	Artists in the UK had a difficulty explaining in Westminster how they are losing out in streaming– so we have created a streaming price index, like the Dow Jones, if you like, that explains the economic factors of the devaluation of music in the last 5 years in 20 countries. (See [our report](https://music.dataobservatory.eu/publication/mce_empirical_streaming_2021/).)
+1.	Artists in the UK had a difficulty explaining in Westminster how they are losing out in streaming, so we have created a streaming price index, like the Dow Jones, if you like, that explains the economic factors of the devaluation of music in the last 5 years in 20 countries. (See [our report](https://music.dataobservatory.eu/publication/mce_empirical_streaming_2021/).)
 
 2.	Music organizations in Slovakia and Hungary were frustrated that their politicians and journalists believed music to be taxpayer funded, so we showed with data that they contribute more proportionally to the national budget than car manufacturers, the darling of local politicians (See our reports in [Hungary](https://music.dataobservatory.eu/publication/hungary_music_industry_2014/) (recast several times) and in [Slovakia](https://music.dataobservatory.eu/publication/slovak_music_industry_2019/).)
 
