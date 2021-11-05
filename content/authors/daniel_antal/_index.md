@@ -17,6 +17,10 @@ role: Co-founder
 organizations:
 - name: Reprex B.V.
   url: "https://dataobservatory.eu/"
+- name:  Centre for Competition Policy
+  url: "http://competitionpolicy.ac.uk/"
+- name: IViR Institute for Information Law
+  url: "https://www.ivir.nl/employee/antaldaniel/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include reproducible social science, economics and finance.
@@ -45,10 +49,10 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/antaldaniel
+  link: https://twitter.com/dataandlyrics
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/0000-0001-5712-2103
+  link: https://orcid.org/0000-0001-7513-6760
 - icon: github
   icon_pack: fab
   link: https://github.com/antaldaniel
@@ -70,4 +74,6 @@ user_groups:
 - Founders
 ---
 
-Daniel Antal is an experienced data scientist and the co-founder of [Reprex](https://reprex.nl/), a Netherlands-based startup that brings the benefits of big data to small organizations. Applying reproducible scientific methods, we are building open collaborations in the creative sectors to build trustworthy, etchical AI solutions, validate commercial AI and use big data for the benfit of small enterprises.  With a 20 years of experience in management consultancy he applies a thoroughly professional approach based in economics, finance in his practice. As a quantitatively trained financial economist, he uses a variety of sound valuation methods, corporate finance models, forecasting tools and economic impact analysis for his recommendations, and applies the [standards and ethical guidelines](https://www.cfainstitute.org/en/ethics-standards/ethics/code-of-ethics-standards-of-conduct-guidance) of the Chartered Financial Analyst Institute.
+Daniel Antal is an experienced data scientist, consultant, economist, and the co-founder of [Reprex](https://reprex.nl/), a Netherlands-based startup that brings the benefits of big data to small organizations with shared resources and research automation. He applies data science practice, open-source software development with sound economics and valuation techniques. 
+
+He is also a research affiliate at the [Centre for Competition Policy](https://www.linkedin.com/school/ccpuea/ and at the [Institute for Information Law](https://www.ivir.nl/employee/antaldaniel/) of the University of Amsterdam.
