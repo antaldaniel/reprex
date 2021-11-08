@@ -16,14 +16,14 @@ projects = ""
 # Featured image
 [image]
   # Caption (optional)
-  caption = "Sisyphus lying under grindstone Bodleian Library, University of Oxford. [Wikimedia](https://commons.wikimedia.org/wiki/Category:Sisyphus#/media/File:Midevil_sysiphus.jpeg)"
+  caption = "See the [project page](https://www.ivir.nl/projects/cultural-creative-sectors-and-industries-data-observatory/)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Center"
 
   # Show image only in page previews?
-  preview_only = true
+  preview_only = false
 
 +++
 
