@@ -1,5 +1,5 @@
 +++
-title = "How We Add Value to Public Data With Better Curation & Documentation?"
+title = "How We Add Value to Public Data With Better Curation And Documentation?"
 subtitle = ""
 date = 2021-11-08T09:00:00
 lastmod = 2021-11-08T09:00:00
@@ -11,7 +11,7 @@ tags = ["music","data-as-service", "API", "metadata", "FAIR principle"]
 
 summary = "Many people ask if we can really add value to free data that can be downloaded from the Internet by anybody?  We do not only work with easy-to-download data, but we know that free, public data usually requires a lot of work to become really valuable. To start with, it is not always easy to find."
 
-projects = ""
+project = "horizon"
 
 # Featured image
 [image]
@@ -35,13 +35,10 @@ Creative Sectors and Industries Observatory.
 
 This dataset comes from a public datasource, the data warehoulse of the
 European statistical agency, Eurostat. Yet it is not trivial to use:
-unless you are familiar with national accounts, you will not find this
-dataset on the Eurostat website. 
+unless you are familiar with national accounts, you will not find [this
+dataset](https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=sbs_na_1a_se_r2&lang=en) on the Eurostat website. 
 
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/eurostat_radio_broadcasting_turnover.png" caption="The data can be retrieved from the
-[Annual detailed enterprise statistics for services (NACE Rev.2 H-N and
-S95)](https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=sbs_na_1a_se_r2&lang=en)
-Eurostat folder." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/eurostat_radio_broadcasting_turnover.png" caption="The data can be retrieved from the Annual detailed enterprise statistics for services NACE Rev.2 H-N and S95 Eurostat folder." numbered="false" >}}</td>
 
 Our, in a way subjective, version of this statistical indicator is
 documented following the [FAIR
@@ -66,10 +63,7 @@ Observatory*, for example, aims to form an ecosystem of music data users
 and producers.
 
 
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/zenodo_metadata_eurostat_radio_broadcasting_turnover.png" caption="We added descriptive metadata that help you find our data and match it
-with other relevant data sources--[check it out](https://zenodo.org/record/5652113#.YYkVBWDMKUk)
-Eurostat folder." numbered="false" >}}</td>
-
+<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/zenodo_metadata_eurostat_radio_broadcasting_turnover.png" caption="We [added descriptive metadata](https://zenodo.org/record/5652113#.YYkVBWDMKUk) that help you find our data and match it with other relevant data sources." numbered="false" >}}</td>
 
 We added descriptive metadata that help you find our data and match it
 with other relevant data sources. For example, we add keywords and
@@ -105,9 +99,7 @@ you do not do it in a reproducible workflow, chances are high that you
 will overwrite, delete, or omit a data or a label.
 
 
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/tidy-8.png" caption="[Tidy datasets](https://r4ds.had.co.nz/tidy-data.html) are easy to manipulate, model and visualize, and have a
-specific structure: each variable is a column, each observation is a
-row, and each type of observational unit is a table" numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/tidy-8.png" caption="[Tidy datasets](https://r4ds.had.co.nz/tidy-data.html) are easy to manipulate, model and visualize, and have a specific structure: each variable is a column, each observation is a row, and each type of observational unit is a table." numbered="false" >}}</td>
 
 
 While the original data source, the Eurostat data warehouse is
@@ -140,8 +132,8 @@ descriptions and other statistical and administrative metadata.
 ## Reuse
 
 All our datasets come with standardized information about reusabililty.
-We add citation, attribution data, and licencing terms. Most of our
-datasets can be used without commercial restriction after acknowleging
+We add citation, attribution data, and licensing terms. Most of our
+datasets can be used without commercial restriction after acknowledging
 the source, but we sometimes work with less permissible data licenses.
 
 But we added further value to encourage re-use. Apart from tidying, we
@@ -150,8 +142,5 @@ missing cases. This is the subject of our next blogpost.
 
 *Are you a data user? Give us some feedback? Shall we do some further
 automatic data enhancements with our datasets? Document with different
-metadata? Link more information for business, policy, or academic use?*
-
-*Are you a data user? Give us some feedback? Shall we do some further
-automatic data enhancements with our datasets? Document with different
-metadata? Link more information for business, policy, or academic use?*
+metadata? Link more information for business, policy, or academic use? Please 
+give us any [feedback]()*
