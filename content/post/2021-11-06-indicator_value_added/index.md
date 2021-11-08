@@ -1,8 +1,8 @@
 +++
 title = "How We Add Value to Public Data With Imputation and Forecasting?"
 subtitle = ""
-date = 2021-11-06T19:00:00
-lastmod = 2021-11-06T19:00:00
+date = 2021-11-08T10:00:00
+lastmod = 2021-11-08T10:00:00
 draft = true
 
 authors = ["daniel_antal"]
