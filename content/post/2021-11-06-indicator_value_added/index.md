@@ -32,8 +32,14 @@ projects = ""
 In this example we are continuing the example a not-so-easy to find public dataset.
 
 International organization offer many statistical products, but usually they are on an ‘as-is’ basis. For example, Eurostat is the world’s premiere statistical agency, but it has no right to overrule whatever data the member states of the European Union, and some other cooperating European countries give to them. And they cannot force these countries to hand over data if they fail to do so. As a result, there will be many data points that are missing, and often data points that have a wrong (obsolete) description or geographical dimensions. We will show the geographical aspect of the problem in a separate blogpost, we now only focus on the missing data.
+
 Some countries have only recently started providing data to the Eurostat umbrella organization, and it is likely that you will find few datapoints for North Macedonia or Bosnia-Herzegovina. Other countries provide data with some delay, and the last one or two years are missing. And there are gaps in some counties’ data, too.
+
+<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/trb_plot.png" caption="See the authoritative copy of the [dataset](https://zenodo.org/record/5652118#.YYkhVmDMKUk)." numbered="false" >}}</td>
+
+
 This is a headache if you want to use the data in some machine learning (AI) application or in a multiple or panel regression model. You can, of course, discard countries or years where you do not have full data coverage, but this approach usually wastes too much information--if you work with 12 years, and only one data point is missing, you would be discarding an entire country’s 11-years’ worth of data. Another option is to estimate the values, or otherwise impute the missing data, when this is possible with reasonable precision. This is where things get tricky, and you will likely need a statistician or a data scientist on board.
+
 This particular dataset is rather sparse, and we added backcasted, forecasted, and approximated data. To give a few quantiative indicators about our work:
 
 - Increased number of observations: 65%
@@ -47,6 +53,13 @@ If you happen to work in an NGO, a business unit or a research institute that do
 Our codebooks and our API uses the [Statistical Data and Metadata eXchange](https://sdmx.org/?page_id=3215/) documentation standards to clearly indicate which data is observed, which is missing, which is estimated, and of course, also how it is estimated. 
 This example highlights another important aspect of data trustworthiness. 
 
-If you work in an academic institution, in an NGO or a consultancy, you can never be sure who downloaded the [Annual detailed enterprise statistics for services (NACE Rev. 2 H-N and S95)](https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=sbs_na_1a_se_r2&lang=en) Eurostat folder from Eurostat. If they have modified the Excel table. Did they already make corrections with the missing data? What method did they use? To prevent the many potential problems, you will likely download it again, and again, and again... (See [The Data Sisyphus](https://reprex.nl/post/2021-07-08-data-sisyphus/)
+If you work in an academic institution, in an NGO or a consultancy, you can never be sure who downloaded the [Annual detailed enterprise statistics for services (NACE Rev. 2 H-N and S95)](https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=sbs_na_1a_se_r2&lang=en) Eurostat folder from Eurostat. If they have modified the Excel table. Did they already make corrections with the missing data? What method did they use? To prevent the many potential problems, you will likely download it again, and again, and again...
+
+<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/Sisyphus_Bodleian_Library.png" caption="See our [The Data Sisyphus](https://reprex.nl/post/2021-07-08-data-sisyphus/) blogpost." numbered="false" >}}</td>
 
 We have a better solution. You can always rely on our API to import directly the latest, best data, but if you want to be sure, you can use our [regular backups](https://zenodo.org/record/5652118#.YYhGOGDMLIU) on Zendo. Zenodo is an open science repository managed by CERN and supported by the European Union. On Zenodo, you can find an authoritative copy of our indicator (and its previous versions) with a digital object identifier, in  this case, [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5652118.svg)](https://doi.org/10.5281/zenodo.5652118). These datasets will be preserved for decades, and nobody can manipulate them. You cannot accidentally overwrite them, and we have no backdoor to modify them.
+
+*Are you a data user? Give us some feedback? Shall we do some further
+automatic data enhancements with our datasets? Document with different
+metadata? Link more information for business, policy, or academic use? Please 
+give us any [feedback](https://reprex.nl/#contact)!*
