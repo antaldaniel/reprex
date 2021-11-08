@@ -3,13 +3,13 @@ title = "How We Add Value to Public Data With Imputation and Forecasting?"
 subtitle = ""
 date = 2021-11-08T10:00:00
 lastmod = 2021-11-08T10:00:00
-draft = true
+draft = false
 
 authors = ["daniel_antal"]
 
 tags = ["music","data-as-service", "API", "metadata"]
 
-summary = "Many people ask if we can really add value to free data that can be downloaded from the Internet by anybody?  We do not only work with easy-to-download data, but we know that free, public data usually requires a lot of work to become really valuable."
+summary = "Can we really add value to free data that can be downloaded from the Internet?  We do not only work with easy-to-download data, but we know that free, public data usually requires a lot of work to become really valuable. In this example we show how we increase the usable subset of a public dataset by 66.7%, which is a deal-breaker in panel regressions or machine learning (AI) solutions."
 
 projects = ""
 
