@@ -9,7 +9,7 @@ authors = ["daniel_antal"]
 
 tags = ["music","data-as-service", "API", "metadata"]
 
-summary = "Can we really add value to free data that can be downloaded from the Internet?  We do not only work with easy-to-download data, but we know that free, public data usually requires a lot of work to become really valuable. In this example we show how we increase the usable subset of a public dataset by 66.7%, which is a deal-breaker in panel regressions or machine learning (AI) solutions."
+summary = "Public data sources are often plagued by missng values. Naively you may think that you can ignore them, but think twice: in most cases, missing data in a table is not missing information, just malformatted information which will destroy your beautiful visualization or stop your application from working. In this example we show how we increase the usable subset of a public dataset by 66.7%, which is a deal-breaker in panel regressions or machine learning (AI) solutions."
 
 projects = ""
 
@@ -26,6 +26,10 @@ projects = ""
   preview_only = false
 
 +++
+
+Public data sources are often plagued by missng values. Naively you may think that you can ignore them, but think twice: in most cases, missing data in a table is not missing information, just malformatted information. Once you want to make a beautiful chart, or use them in a business forecasting model, a machine learning (AI) applicaton or a more complex scientifc model, this approach will stop you.  Any good-looking  visualization, or machine learning model, or complex scientific model will need complete datasets, and naively discarding missing data points is wasting too much information. 
+
+Completing the missing datapoints requires statistical production information (why the data may be missing?) and data science knowhow (how to impute the missing value.) If you do not have a good statistician or data scientist in your team, you will need high-quality, complete datasets. This is what our automated data observatories provide.
 
 <td style="text-align: center;">{{< figure src="/media/img/blogposts_2021.jpg" caption="In the previous blogpost we explained how we added value with documenting the data following the *FAIR* principle and with the professional curatorial work of placing the data in context, and linking it to other information sources that are not depending on the English language, and can connect our radio dataset to other data, books, publications, regardless if they are described in English, or in German, Portugese or Croatian Photo: [Jack Sloop](https://unsplash.com/photos/eYwn81sPkJ8)." numbered="false" >}}</td>
 
