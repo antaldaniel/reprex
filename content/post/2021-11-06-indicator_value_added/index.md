@@ -65,11 +65,12 @@ We believe that you can trust our data better than the original public source. W
 
 If you are reluctant to use estimates, think about discarding known actual data from your forecast or visualization, because one data point is missing.  How do you provide a more accurate information? By hiding known actual data, because one point is missing, or using all known data and an estimate?
 
+Our codebooks and our API uses the [Statistical Data and Metadata eXchange](https://sdmx.org/?page_id=3215/) documentation standards to clearly indicate which data is observed, which is missing, which is estimated, and of course, also how it is estimated. 
+This example highlights another important aspect of data trustworthiness. If you have a better idea, you can replace them with a better estimate.  
 
 Our indicators come with standardized codebooks that do not only contain the descriptive metadata, but administrative metadata about the history of the indicator values. You will find very important information about the statistical method we used the fill in the data gaps, and even link the reliable, the peer-reviewed scientific, statistical software that made the calculations. For data scientists, we record the plenty of information about the computing environment, too-–this can come handy if you our estimates need external authentication, or you suspect a bug.
 
-Our codebooks and our API uses the [Statistical Data and Metadata eXchange](https://sdmx.org/?page_id=3215/) documentation standards to clearly indicate which data is observed, which is missing, which is estimated, and of course, also how it is estimated. 
-This example highlights another important aspect of data trustworthiness. 
+## Avoid the data sisyphus
 
 If you work in an academic institution, in an NGO or a consultancy, you can never be sure who downloaded the [Annual detailed enterprise statistics for services (NACE Rev. 2 H-N and S95)](https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=sbs_na_1a_se_r2&lang=en) Eurostat folder from Eurostat. If they have modified the Excel table. Did they already make corrections with the missing data? What method did they use? To prevent the many potential problems, you will likely download it again, and again, and again...
 
