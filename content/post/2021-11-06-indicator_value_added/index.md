@@ -2,12 +2,12 @@
 title = "How We Add Value to Public Data With Imputation and Forecasting"
 subtitle = ""
 date = 2021-11-08T10:00:00+01:00
-lastmod = 2021-11-09T11:00:00+01:00
+lastmod = 2021-11-11T11:01:00+01:00
 draft = false
 
 authors = ["daniel_antal"]
 
-tags = ["music","data-as-service", "API", "metadata"]
+tags = ["Digital Music Observatory","data-as-service", "API", "metadata", "forecasting", "missing data"]
 
 summary = "Public data sources are often plagued with missng values. Naively you may think that you can ignore them, but think twice: in most cases, missing data in a table is not missing information, but rather malformatted information which will destroy your beautiful visualization or stop your application from working. In this example we show how we increase the usable subset of a public dataset by 66.7%, rendering useful what would otherwise have been a deal-breaker in panel regressions or machine learning applications."
 
@@ -29,7 +29,7 @@ projects = ""
 
 Public data sources are often plagued by missng values. Naively you may think that you can ignore them, but think twice: in most cases, missing data in a table is not missing information, but rather malformatted information. This approach of ignoring or dropping missing values will not be feasible or robust when you want to make a beautiful visualization, or use data in a business forecasting model, a machine learning (AI) applicaton, or a more complex scientific model. All of the above require complete datasets, and naively discarding missing data points amounts to an excessive waste of information. In this example we are continuing the example a not-so-easy to find public dataset.
 
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/jack-sloop-eYwn81sPkJ8-unsplash.jpg" caption="In the previous blogpost we explained how we added value by documenting data following the *FAIR* principle and with the professional curatorial work of placing the data in context, and linking it to other information sources, such as other datasets, books, and publications, regardless of their naturla language (i.e., whether these sources are described in English, German, Portugese or Croatian). Photo: [Jack Sloop](https://unsplash.com/photos/eYwn81sPkJ8)." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/jack-sloop-eYwn81sPkJ8-unsplash.jpg" caption="[In the previous blogpost](/post/2021-11-08-indicator_findable/) we explained how we added value by documenting data following the *FAIR* principle and with the professional curatorial work of placing the data in context, and linking it to other information sources, such as other datasets, books, and publications, regardless of their natural language (i.e., whether these sources are described in English, German, Portugese or Croatian). Photo: [Jack Sloop](https://unsplash.com/photos/eYwn81sPkJ8)." numbered="false" >}}</td>
 
 Completing missing datapoints requires statistical production information (why might the data be missing?) and data science knowhow (how to impute the missing value.) If you do not have a good statistician or data scientist in your team, you will need high-quality, complete datasets. This is what our automated data observatories provide.
 
@@ -76,9 +76,8 @@ If you work in an academic institution, in an NGO or a consultancy, you can neve
 
 <td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/Sisyphus_Bodleian_Library.png" caption="See our [The Data Sisyphus](https://reprex.nl/post/2021-07-08-data-sisyphus/) blogpost." numbered="false" >}}</td>
 
-We have a better solution. You can always rely on our API to import directly the latest, best data, but if you want to be sure, you can use our [regular backups](https://zenodo.org/record/5652118#.YYhGOGDMLIU) on Zenodo. Zenodo is an open science repository managed by CERN and supported by the European Union. On Zenodo, you can find an authoritative copy of our indicator (and its previous versions) with a digital object identifier, in  this case, [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5652118.svg)](https://doi.org/10.5281/zenodo.5652118). These datasets will be preserved for decades, and nobody can manipulate them. You cannot accidentally overwrite them, and we have no backdoor access to modify them.
+We have a better solution. You can always rely on our API to import directly the latest, best data, but if you want to be sure, you can use our [regular backups](https://zenodo.org/record/5652118#.YYhGOGDMLIU) on Zenodo. Zenodo is an open science repository managed by CERN and supported by the European Union. On Zenodo, you can find an authoritative copy of our indicator (and its previous versions) with a digital object identifier, in this case, [10.5281/zenodo.5652118](https://doi.org/10.5281/zenodo.5652118). These datasets will be preserved for decades, and nobody can manipulate them. You cannot accidentally overwrite them, and we have no backdoor access to modify them.
 
-*Are you a data user? Give us some feedback! Shall we do some further
-automatic data enhancements with our datasets? Document with different
-metadata? Link more information for business, policy, or academic use? Please 
-give us any [feedback](https://reprex.nl/#contact)!*
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5652118.svg)](https://doi.org/10.5281/zenodo.5652118)
+
+*Are you a data user? Give us some feedback! Shall we do some further automatic data enhancements with our datasets? Document with different metadata? Link more information for business, policy, or academic use? Please  give us any [feedback](https://reprex.nl/#contact)!*
