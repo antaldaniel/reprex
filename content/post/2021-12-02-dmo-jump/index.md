@@ -9,7 +9,7 @@ authors = ["daniel_antal"]
 
 tags = ["JUMP", "Digital Music Observatory", "music streaming", "data visualization"]
 
-summary = "Many people ask if we can really add value to free data that can be downloaded from the Internet by anybody. We do not only work with easy-to-download data, but we know that free, public data usually requires a lot of work to become really valuable. To start with, it is not always easy to find."
+summary = "Our Digital Music Observatory project spent a year in the JUMP Music Market Accelerator's program. Over the course of 9 months, co-founder Daniel Antal could meet many stakeholders from almost all European countries, meet other new music technology startups and projects, and got mentoring and other professional help to further develop the project."
 
 # Featured image
 [image]
@@ -25,7 +25,7 @@ summary = "Many people ask if we can really add value to free data that can be d
 
 +++
 
-Our [Digital Music Observatory](https://music.dataobservatory.eu/) project spent a year in the JUMP Music Market Accelerators program. Over the course of 9 months, co-founder Daniel Antal could meet many stakeholders from almost all European countries, meet other new music technology startups and projects, and got mentoring and other professional help to further develop the project.
+Our [Digital Music Observatory](https://music.dataobservatory.eu/) project spent a year in the JUMP Music Market Accelerator's program. Over the course of 9 months, co-founder Daniel Antal could meet many stakeholders from almost all European countries, meet other new music technology startups and projects, and got mentoring and other professional help to further develop the project.
 
 The Digital Music Observatory is one of the several initiatives to fill the data gaps of the fragmented European music ecosystems.  While most of Europe’s music is available and promoted on data-heavy, AI-driven autonomous platforms like TikTok, Spotify, YouTube, Deezer, music labels, publishers, national export offices are lacking the necessary data solutions to remain competitive.
 
