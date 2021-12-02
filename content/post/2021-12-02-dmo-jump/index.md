@@ -36,7 +36,7 @@ with the support of the Slovak Arts Council, and making recommendations about [b
 
 The other very interesting theme of the year was the emergence of new, immersive music tech companies.  We hope that our Digital Music Observatory can grow into a hub for their data needs, too. How is the world of 2.7 billion gamer and music lovers is forming a new market for [Ristband](https://www.ristband.co/)? We would also like to curate data about the healing effects of sound, and work in the future with immersive, functional music providers like [Flower of Sound](http://flowerofsound.machinejockey.net/) who place music and sound design into a less stressful, more healthy acoustic environment.
 
-There were many professionals who helped us in the JUMP programme. We are particularly thankful for Alessanra di Caro (partnership buidling), Elodie Crouzet (program coordination), [Steve Farris](http://stevefarrismusic.com/) (mentoring), [Veronique Friedrich](https://www.holz-consulting.de/en/veronique_friedrich/) (team building), [Thierry Giesler](https://speakerscoachbrussels.com/index.html) (improving our pitch) and Anna Zò ([Music Tech Europe](https://musictecheurope.org/)).
+There were many professionals who helped us in the JUMP program. We are particularly thankful for Alessanra di Caro (partnership building), Elodie Crouzet (program coordination), [Steve Farris](http://stevefarrismusic.com/) (mentoring), [Veronique Friedrich](https://www.holz-consulting.de/en/veronique_friedrich/) (team building), [Thierry Giesler](https://speakerscoachbrussels.com/index.html) (improving our pitch) and Anna Zò ([Music Tech Europe](https://musictecheurope.org/)).
 
 
 *Are you a data user? Give us some feedback! Shall we do some further
