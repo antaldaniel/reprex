@@ -66,7 +66,7 @@ What we provide for our partners is exclusive scientific access to highly valuab
 
 We will provide researcher with data according to their needs, and make sure that their quantiative research will have the best scientific and policy impact. Our datasets thrive to have a higher quality than governmental statistics, and to be the most findable open science resources in music globally.
 
-See [Ensuring the Visibility and Accessibility of European Creative Content on the World Market: The Need for Copyright Data Improvement in the Light of New Technologies](https://music.dataobservatory.eu/publication/european_visibilitiy_2021/) - [Music Streaming: Is It a Level Playing Field?](https://music.dataobservatory.eu/publication/music_level_playing_field_2021/) - [The Growth of the Hungarian Popular Music Repertoire: Who Creates It And How Does It Find An Audience](https://music.dataobservatory.eu/publication/made_in_hungary/) - [Can scholarly pirate libraries bridge the knowledge access gap? An empirical study on the structural conditions of book piracy in global and European academia](https://reprex.nl/publication/scholarly_pirate_libraries_2020/)
+See [Ensuring the Visibility and Accessibility of European Creative Content on the World Market](https://music.dataobservatory.eu/publication/european_visibilitiy_2021/) - [Music Streaming: Is It a Level Playing Field?](https://music.dataobservatory.eu/publication/music_level_playing_field_2021/) - [The Growth of the Hungarian Popular Music Repertoire](https://music.dataobservatory.eu/publication/made_in_hungary/) - [Can scholarly pirate libraries bridge the knowledge access gap?](https://reprex.nl/publication/scholarly_pirate_libraries_2020/)
 
 ## What Do We Offer To Policy Partners?
 
@@ -74,12 +74,9 @@ We want to demonstrate that we apply world-class research and the best and most 
 
 We believe that our offering is particularly valuable for music policy organization who want to have been actively involved in the shaping of the future [Feasibility Study For The Establishment Of A European Music Observatory](https://music.dataobservatory.eu/post/2020-11-16-european-music-observatory-feasibility/).  Our Digital Music Observatory already contains much of the data gaps identified by stakeholders.  We have 7 years of working experience in the music industry, and we are familiar with data sharing, data governance solution that manage well the conflicts of interests and strategic worries of the industry.
 
-See [Digital Creators' Earnings in the UK - An Empirical Analysis of Music Streaming Revenues and Their Distribution](https://music.dataobservatory.eu/publication/mce_empirical_streaming_2021/) - 
-
+<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/2021_10_18_MaMA_Pitch.jpg" caption="[Pitching](https://reprex.nl/talk/digital-music-observatory-on-the-mama-convention-2021/) for partnership with French stakeholders within the [JUMP European Music Market Accelerator](https://music.dataobservatory.eu/post/2021-12-02-dmo-jump/), where our Digital Music Observatory was further developed to needs of European partners. See [Digital Creators' Earnings in the UK - An Empirical Analysis of Music Streaming Revenues and Their Distribution](https://music.dataobservatory.eu/publication/mce_empirical_streaming_2021/) - 
 [Slovak Music Indsutry Report](https://music.dataobservatory.eu/publication/slovak_music_industry_2019/) - [Private Copying in Croatia](https://music.dataobservatory.eu/publication/private_copying_croatia_2019/) - [Hungarian Music Industry Report](https://music.dataobservatory.eu/post/2015-04-27-proart_report_15/)
-
-
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/2021_10_18_MaMA_Pitch.jpg" caption="[Pitching](https://reprex.nl/talk/digital-music-observatory-on-the-mama-convention-2021/) for partnership with French stakeholders within the [JUMP European Music Market Accelerator](https://music.dataobservatory.eu/post/2021-12-02-dmo-jump/), where our Digital Music Observatory was further developed to needs of European partners." numbered="false" >}}</td>
+" numbered="false" >}}</td>
 
 
 ## What Do We Offer To Industry Partners?
@@ -89,4 +86,4 @@ Our observatory follows the agile open collaboration method from open-source sof
 See [Feasibility Study On Promoting Slovak Music In Slovakia & Abroad](https://music.dataobservatory.eu/publication/listen_local_2020/) - [Central European Music Industry Rerpot](https://music.dataobservatory.eu/publication/ceereport_2020/) - business confidential repertoire valuations - predictive modelling.
 
 
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/medianvalue-1.jpg" caption="Daniel is pitching for partnership with Music Tech Europe on Linechech and finding a music city that wants to be the seat of the future European Music Observatory. Photo: [Wen Liu](http://www.festivalmars.com/?board_member=wen-liu/)." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/medianvalue-1.png" caption="Our pioneering streaming volume and price [indexes](https://ceereport2020.ceemid.eu/market.html#ceemid-ci-volume-indexes) are similar in design to bond- and stock market indexes." numbered="false" >}}</td>
