@@ -80,4 +80,4 @@ We have a better solution. You can always rely on our API to import directly the
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5652118.svg)](https://doi.org/10.5281/zenodo.5652118)
 
-*Are you a data user? Give us some feedback! Shall we do some further automatic data enhancements with our datasets? Document with different metadata? Link more information for business, policy, or academic use? Please  give us any [feedback](https://reprex.nl/#contact)!*
+{{% callout note %}}Are you a data user? Give us some feedback! Shall we do some further automatic data enhancements with our datasets? Document with different metadata? Link more information for business, policy, or academic use? Please give us any [feedback](https://reprex.nl/#contact)!{{% /callout %}}

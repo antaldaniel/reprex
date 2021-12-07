@@ -11,7 +11,7 @@ lastmod = 2021-12-07T11:00:00
 summary = "Our open collaboration platform is looking for partners for the Horizon Europe call Towards a competitive, fair and sustainable European music ecosystem."
 
 # Tags: can be used for filtering projects.
-tags = ["Digital Music Observatory", "music", "European Union"]
+tags = ["Digital Music Observatory", "Music Moves Europe", "Horizon Europe"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -66,7 +66,8 @@ What we provide for our partners is exclusive scientific access to highly valuab
 
 We will provide researcher with data according to their needs, and make sure that their quantiative research will have the best scientific and policy impact. Our datasets thrive to have a higher quality than governmental statistics, and to be the most findable open science resources in music globally.
 
-See [Ensuring the Visibility and Accessibility of European Creative Content on the World Market](https://music.dataobservatory.eu/publication/european_visibilitiy_2021/) - [Music Streaming: Is It a Level Playing Field?](https://music.dataobservatory.eu/publication/music_level_playing_field_2021/) - [The Growth of the Hungarian Popular Music Repertoire](https://music.dataobservatory.eu/publication/made_in_hungary/) - [Can scholarly pirate libraries bridge the knowledge access gap?](https://reprex.nl/publication/scholarly_pirate_libraries_2020/)
+{{% callout note %}}
+See [Ensuring the Visibility and Accessibility of European Creative Content on the World Market](https://music.dataobservatory.eu/publication/european_visibilitiy_2021/) - [Music Streaming: Is It a Level Playing Field?](https://music.dataobservatory.eu/publication/music_level_playing_field_2021/) - [The Growth of the Hungarian Popular Music Repertoire](https://music.dataobservatory.eu/publication/made_in_hungary/) - [Can scholarly pirate libraries bridge the knowledge access gap?](https://reprex.nl/publication/scholarly_pirate_libraries_2020/) {{% /callout %}}
 
 ## What Do We Offer To Policy Partners?
 
@@ -74,16 +75,17 @@ We want to demonstrate that we apply world-class research and the best and most 
 
 We believe that our offering is particularly valuable for music policy organization who want to have been actively involved in the shaping of the future [Feasibility Study For The Establishment Of A European Music Observatory](https://music.dataobservatory.eu/post/2020-11-16-european-music-observatory-feasibility/).  Our Digital Music Observatory already contains much of the data gaps identified by stakeholders.  We have 7 years of working experience in the music industry, and we are familiar with data sharing, data governance solution that manage well the conflicts of interests and strategic worries of the industry.
 
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/2021_10_18_MaMA_Pitch.jpg" caption="[Pitching](https://reprex.nl/talk/digital-music-observatory-on-the-mama-convention-2021/) for partnership with French stakeholders within the [JUMP European Music Market Accelerator](https://music.dataobservatory.eu/post/2021-12-02-dmo-jump/), where our Digital Music Observatory was further developed to needs of European partners. See [Digital Creators' Earnings in the UK - An Empirical Analysis of Music Streaming Revenues and Their Distribution](https://music.dataobservatory.eu/publication/mce_empirical_streaming_2021/) - 
-[Slovak Music Indsutry Report](https://music.dataobservatory.eu/publication/slovak_music_industry_2019/) - [Private Copying in Croatia](https://music.dataobservatory.eu/publication/private_copying_croatia_2019/) - [Hungarian Music Industry Report](https://music.dataobservatory.eu/post/2015-04-27-proart_report_15/)
-" numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/2021_10_18_MaMA_Pitch.jpg" caption="[Pitching](https://reprex.nl/talk/digital-music-observatory-on-the-mama-convention-2021/) for partnership with French stakeholders within the [JUMP European Music Market Accelerator](https://music.dataobservatory.eu/post/2021-12-02-dmo-jump/), where our Digital Music Observatory was further developed to needs of European partners." numbered="false" >}} </td>
+
+{{% callout note %}} See [Digital Creators' Earnings in the UK - An Empirical Analysis of Music Streaming Revenues and Their Distribution](https://music.dataobservatory.eu/publication/mce_empirical_streaming_2021/) - [Slovak Music Indsutry Report](https://music.dataobservatory.eu/publication/slovak_music_industry_2019/) - [Private Copying in Croatia](https://music.dataobservatory.eu/publication/private_copying_croatia_2019/) - [Hungarian Music Industry Report](https://music.dataobservatory.eu/post/2015-04-27-proart_report_15/)
+{{% /callout %}}
 
 
 ## What Do We Offer To Industry Partners?
 
 Our observatory follows the agile open collaboration method from open-source software development, and it has a triangular approach.  WE believe that data which is created by peer-reviewed, open algorithms, which is in itself open for review from the business, policy and scientific community is the best addition to your business proprietary data.  By sharing data with us, we can build you world-class KPIs that give you a competitive edge in the data-driven music industry.
 
-See [Feasibility Study On Promoting Slovak Music In Slovakia & Abroad](https://music.dataobservatory.eu/publication/listen_local_2020/) - [Central European Music Industry Rerpot](https://music.dataobservatory.eu/publication/ceereport_2020/) - business confidential repertoire valuations - predictive modelling.
-
+{{% callout note %}} See [Feasibility Study On Promoting Slovak Music In Slovakia & Abroad](https://music.dataobservatory.eu/publication/listen_local_2020/) - [Central European Music Industry Rerpot](https://music.dataobservatory.eu/publication/ceereport_2020/) - business confidential repertoire valuations - predictive modelling.
+{{% /callout %}}
 
 <td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/medianvalue-1.png" caption="Our pioneering streaming volume and price [indexes](https://ceereport2020.ceemid.eu/market.html#ceemid-ci-volume-indexes) are similar in design to bond- and stock market indexes." numbered="false" >}}</td>

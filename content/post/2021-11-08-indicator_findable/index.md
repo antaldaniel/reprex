@@ -113,4 +113,4 @@ In the case presented here, we added further value to encourage re-use. In addit
 significantly increased the usability of public data by handling
 missing cases. This is the subject of our next blogpost.
 
-*Are you a data user? Give us some feedback! Shall we do some further automatic data enhancements with our datasets? Document with different metadata? Link more information for business, policy, or academic use? Please give us any [feedback](https://reprex.nl/#contact)!*
+{{% callout note %}}Are you a data user? Give us some feedback! Shall we do some further automatic data enhancements with our datasets? Document with different metadata? Link more information for business, policy, or academic use? Please give us any [feedback](https://reprex.nl/#contact)!{{% /callout %}}
