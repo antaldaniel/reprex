@@ -1,15 +1,15 @@
 ---
-title: Data Curation With Reprex
+title: "Data Curation With Reprex"
 summary: Data Curation With Reprex summary
-authors: []
+date: '2020-01-21T00:00:00Z'
 tags: []
 categories: []
-date: "2020-01-21T00:00:00Z"
+authors: []
 slides:
   transition: slide
   css: styles3.css
-  self-contained: true
-  center: false
+  self-contained: yes
+  center: no
   bibliography: antal.bib
   fig_width: 7
   fig_height: 3.5
