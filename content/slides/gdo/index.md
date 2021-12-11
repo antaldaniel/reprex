@@ -1,10 +1,10 @@
 ---
-title: Slides
-summary: Data Curation With Reprex
-authors: []
+title: Green Deal Data Observatory
+summary: High quality data about climate change and its impact
+authors: [daniel_antal]
 tags: []
 categories: []
-date: "2020-01-21T00:00:00Z"
+date: "2021-12-12T09:00:00+01:00"
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: white
@@ -91,7 +91,7 @@ Finding reliable historic and new data and information about climate change, as 
     <tr>
       <td><img data-src="/media/img/blogposts_2021/Gold_panning_at_Bonanza_Creek_4x6.png" width="240" height="160" /></br></br>If open data is a gold mine, its full potential can only be unlocked by an experienced data mining partner like Reprex. See <a href="http://dataobservatory.eu/post/2021-06-18-gold-without-rush/" target = "_blank">our blogpost</a>.
 </td>
-      <td valign='top'>The <a href="https://eur-lex.europa.eu/eli/dir/2019/1024/oj" target = "_blank">2019/1024 directive</a> on <i>open data and the re-use of public sector information</i> of the European Union (which is an extension and modernization of the earlier directives on <i>re-use of public sector information</i> since 2003) makes data gathered in EU institutions, national institutions, and municipalities, as well as state-owned companies legally available. According to the <a href="https://data.europa.eu/sites/default/files/edp_creating_value_through_open_data_0.pdf" target = "_blank">European Data Portal</a> the estimated historical cost of the data released annually is in the billions of euros. However, open data is not readily downloadable; it sits in various obsolete file formats in disorganized databases; it is documented in various languages, or not documented at all; it is plagued with various processing errors.   </td>
+      <td valign='top'>The <a href="https://eur-lex.europa.eu/eli/dir/2019/1024/oj" target = "_blank">2019/1024 directive</a> on <i>open data and the re-use of public sector information</i> of the European Union (a modernization of the earlier directives on <i>re-use of public sector information</i> since 2003) makes data gathered in EU and national institutions, and municipalities, as well as state-owned companies legally available. According to the <a href="https://data.europa.eu/sites/default/files/edp_creating_value_through_open_data_0.pdf" target = "_blank">European Data Portal</a> the estimated historical cost of the data released annually is in the billions of euros. However, open data is not readily downloadable; it sits in various obsolete file formats in disorganized databases; it is documented in various languages, or not documented at all; it is plagued with various processing errors.   </td>
     </tr>
   </table>
   </section>
