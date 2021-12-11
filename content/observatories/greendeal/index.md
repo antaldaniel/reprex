@@ -5,7 +5,7 @@ tags:
 - climate-change
 
 date: "2021-07-07T00:00:00Z"
-lastmod: "2021-10-26T00:00:00Z"
+lastmod: "2021-12-11T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -23,7 +23,7 @@ links:
   icon_pack: fab
   name: Connect
   url: https://www.linkedin.com/company/78562153/
-- icon: telescope
+- icon: globe
   icon_pack: fas
   name: Green Deal Data Observatory
   url: https://greendeal.dataobservatory.eu/
@@ -41,11 +41,10 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ""
+slides: "gdo"
 ---
 
 **Finding reliable historic and new data and information about climate change, as well as the impact of various European Green Deal policies that try to mitigate it is surprisingly hard to find if you are a scientific researcher. And it is even more hopeless if you work as a (data) journalist, a policy researcher in an NGO, or in the sustainability unit of a company that does not provide you with an army of (geo)statisticians, data engineers, and data scientists who can render various data into usable format, i.e.something that you can trust, quote, visualize, import, or copy & paste.**
-
 
 {{< icon name="globe" pack="fas" >}} [Visit the Green Deal Data Observatory](https://greendeal.dataobservatory.eu/)
 
@@ -53,9 +52,8 @@ slides: ""
 
 {{< icon name="linkedin" pack="fab" >}} [Connect on LinkedIn](https://www.linkedin.com/company/78562153/)
 
-## Better, Bigger, Faster, More
 
-Get more information from public datasets, or data you had paid for. Find more data in higher quality that is available sooner than in other sources.  
+## Better, Bigger, Faster, More
 
 
 <table>
@@ -74,7 +72,7 @@ Get more information from public datasets, or data you had paid for. Find more d
 </tr>
 <tr class="odd">
 <td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/Gold_panning_at_Bonanza_Creek_4x6.png" caption="**Never seen data**<br>" numbered="false" >}}</td>
-<td style="text-align: left;">The <a href="https://eur-lex.europa.eu/eli/dir/2019/1024/oj" target = "_blank">2019/1024 directive</a> on <i>open data and the re-use of public sector information</i> of the European Union (which is an extension and modernization of the earlier directives on <i>re-use of public sector information</i> since 2003) makes data gathered in EU institutions, national institutions, and municipalities, as well as state-owned companies legally available. According to the <a href="https://data.europa.eu/sites/default/files/edp_creating_value_through_open_data_0.pdf" target = "_blank">European Data Portal</a> the estimated historical cost of the data released annually is in the billions of euros. But if this data is a gold mine, its full potential can only be unlocked by an experienced data mining partner like Reprex. Here is why: data is not readily downloadable; it sits in various obsolete file formats in disorganized databases; it is documented in various languages, or not documented at all; it is plagued with various processing errors. We make the powerful promise <a href="http://dataobservatory.eu/post/2021-06-18-gold-without-rush/" target = "_blank">Government Budget Allocations for R&D in Environment</a> of the EU legislation a reality in the field of the Green Deal policy context.</td>
+<td style="text-align: left;">The <a href="https://eur-lex.europa.eu/eli/dir/2019/1024/oj" target = "_blank">2019/1024 directive</a> on <i>open data and the re-use of public sector information</i> of the European Union (which is an extension and modernization of the earlier directives on <i>re-use of public sector information</i> since 2003) makes data gathered in EU institutions, national institutions, and municipalities, as well as state-owned companies legally available. According to the <a href="https://data.europa.eu/sites/default/files/edp_creating_value_through_open_data_0.pdf" target = "_blank">European Data Portal</a> the estimated historical cost of the data released annually is in the billions of euros. But if this data is a gold mine, its full potential can only be unlocked by an experienced data mining partner like Reprex. Here is why: data is not readily downloadable; it sits in various obsolete file formats in disorganized databases; it is documented in various languages, or not documented at all; it is plagued with various processing errors. We make the powerful promise of <a href="http://dataobservatory.eu/post/2021-06-18-gold-without-rush/" target = "_blank">open data</a> of the EU legislation a reality in the field of the Green Deal policy context.</td>
 </tr>
 </tbody>
 </table>
@@ -115,7 +113,7 @@ Big data creates inequalities, because only the largest corporations, government
 <td style="text-align: left;">Integrating and joining data is hard—it requires engineering, mathematical, and geo-statistical know-how that a large amount of environmental users and stakeholders do not possess. Some examples of the challenges implicit in making data usable include addressing the changing boundaries of French departments (and European administrative-geographic borders, in general), various projections of coordinates on satellite images of land cover, different measurement areas for public opinion and hydrological data, public finance expressed in different orders (e.g. millions versus thousands of euros). We create data that is easy to combine, map, and visualize for end users. See our case study on the severity and awareness of <a href="https://greendeal.dataobservatory.eu/post/2021-04-23-belgium-flood-insurance/" target = "_blank">flood risk in Belgium</a>, as well as the financial capacity to manage it.</td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/firing_squad.png" caption="**Better data**<br>" numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/firing_squad.png" caption="**Ethical, Trustworthy AI**<br>" numbered="false" >}}</td>
 <td style="text-align: left;">AI in 2021 increases data inequalities because large government and corporate entities with an army of data engineers can create proprietary, black box business algorithms that fundamentally alter our lives. We are involved in the R&D and advocacy of the EU’s trustworthy AI agenda which aims at similar protections like GDPR in privacy. We want to demystify AI by making it available for organizations who cannot finance a data engineering team, because 95% of a successful AI is cheap, complete, reliable data tested for negative outcomes – precisely what d<a href="https://dataandlyrics.com/post/2021-05-16-recommendation-outcomes/" target = "_blank">we offer</a> to our users.</td>
 </tr>
 </tbody>
@@ -126,3 +124,12 @@ Big data creates inequalities, because only the largest corporations, government
 [Reprex](https://reprex.nl/) grew out of an international data cooperation and works in the open-source world. We use the agile open collaboration method that allows us to work with large corporations, NGOs, developers, university researcher institutes and individuals on an equal footing.
 
 Find us on [LinkedIn](https://www.linkedin.com/company/78562153/) or send us an [email](https://reprex.nl/#contact).
+
+
+
+
+
+
+
+
+ 
