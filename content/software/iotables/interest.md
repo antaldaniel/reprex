@@ -16,8 +16,6 @@ date: "2020-06-03"
 lastmod: 2021-12-19T12:00:00
 doi: "10.5281/zenodo.5791235"
 
-# Schedule page publish date (NOT publication's date).
-publishDate: "2020-06-03T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -73,9 +71,9 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: "iotables.dataobservatory.eu"
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -93,7 +91,35 @@ projects:
 slides: ""
 ---
 
-[iotables](https://iotables.dataobservatory.eu/) processes all the symmetric input-output tables of the EU member states, and calculates direct, indirect and induced effects, multipliers for GVA, employment, taxation. These are important inputs into policy evaluation, business forecasting, or granting/development indicator design. iotables is used by about 800 experts around the world. 
+<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/iotables_0_4_7.png" caption="Get started with  [iotables](https://iotables.dataobservatory.eu/index.html)." numbered="false" >}}</td>
+
+[iotables](https://iotables.dataobservatory.eu/) processes all the symmetric input-output tables of the EU member states, and calculates direct, indirect and induced effects, multipliers for GVA, employment, taxation. These are important inputs into policy evaluation, business forecasting, or granting/development indicator design. 
+
+Originally the package was developed to calculate the economic impact of the Hungarian film tax shelter and the impact of the music sector on the Slovak economy. (See [Slovak Music Industry Report](https://music.dataobservatory.eu/publication/slovak_music_industry_2019/)). From version 0.4.7. we include environmental impact assessment among the features, too.
+
+
+{{% callout note %}}Do you want to develop input-output models for any European country to measure the direct and indirect green house gas impacts of policy actions?  Do you need well-formatted data on interindustry linkages or other relevant topics for sustainable economy or susitainable finance research?  Get in touch with us – we are happy to help and test our new software tool with data you need, and create high-quality, open datasets that are ready to use.{{% /callout %}}
+
+## Get Started
+
+* [Introduction to iotables](https://iotables.dataobservatory.eu/articles/intro.html) An overview of the reproducible workflow of importing data, preparing important analytical objects for input-output equations, and solving matrix equations. 
+
+Introduction to iotables
+
+## Use Case
+Working with real-life Eurostat data - practical tips from downloading till analyzing input-output tables.
+* [Working With Eurostat Data](https://iotables.dataobservatory.eu/articles/working_with_eurostat.html)
+* [Environmental Impacts](https://iotables.dataobservatory.eu/articles/environmental_impact.html)
+
+## Validation
+
+Replication of known good input-output analysis for package testing and tutorials. See also Get Started.
+
+* [United Kingdom Input-Output Analytical Tables](https://iotables.dataobservatory.eu/articles/united_kingdom_2010.html)
+* [Eurostat Manual of Supply, Use and Input-Output Tables](https://iotables.dataobservatory.eu/articles/intro.html)
+
+
+<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/iotables_0_4_7.png" caption="Get started with  [iotables](https://iotables.dataobservatory.eu/index.html)." numbered="false" >}}</td>
 
 ## Code of Conduct
 
@@ -102,8 +128,4 @@ Please note that the `iotables` project is released with a
 Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/).
 By contributing to this project, you agree to abide by its terms.
 
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
