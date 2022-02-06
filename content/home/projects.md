@@ -35,6 +35,8 @@ content:
     tag: mce
   - name: Horizon Europe
     tag: horizon
+  - name: Open Policy Analysis
+    tag: Open Policy Analysis
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
