@@ -96,7 +96,7 @@ Our research project contributes to all of the expected outcomes of the
 call. Our ambition is to develop an open science and open data service
 which complements the existing statistical service of Eurostat. In
 partnership with key music industry and policy partners, we are going to
-fill approximately 41 data gaps within the policy context of the *Music
+fill approximately 41 data gaps within the policy context of *Music
 Moves Europe*, as identified by the *Feasibility Study for a European
 Music Observatory*, with about 120 high-value indicators. We will
 **develop key performance indicators** for music businesses and **policy
@@ -107,36 +107,36 @@ as to sustainability.”
 We believe that existing data availability is better than that described
 in the *Feasibility study*. As stated in this final report, the 2019
 Open Data Directive further extended the availability of re-usable
-public sector information (PSI) with open science data. In both PSI, as
-open government data, and in open science data, there is a huge
-potential to fill in the data gaps without new data collection—the fact
-that data can be reused instead of being recollected is the main aim of
-the directive. These open data sources are legally open but are not
-accessible without further investment, and our Consortium wants to make
-this investment, and produce about 50% of all the data needs of the
-future European Music Observatory.
+public sector information (PSI) with open science data. In PSI, open
+government data, and open science data, there is a huge potential to
+fill in the data gaps without new data collection—the fact that data can
+be reused instead of being recollected is the main aim of the directive.
+These open data sources are legally open but are not accessible without
+further investment; our Consortium wants to make this investment, and
+produce about 50% of all the data needs of the future European Music
+Observatory.
 
 The [Digital Music Observatory](https://music.dataobservatory.eu/),
 which was called [CEEMID](https://reprex.nl/project/ceemid/) at the time
 of the creation of the *Feasiblity Study*, has 7 years of experience in
 filling in data gaps with open data. It has created metadata maps to
-more than 1000 indicators covering almost all the data gaps in the
+more than 1000 indicators, covering almost all of the data gaps in the
 *Feasiblity Study*. We know where to locate data, and now we have to
 invest in processing, validating, documenting, and making it available
 for the European music sector.
 
 ## Pillar 1: Music Economy
 
-In the case of the `Pillar 1 – Music & Economy`, we are usually able to
+In the case of `Pillar 1 – Music & Economy`, we are usually able to
 locate the source of the data, and we have some experience in processing
 the data and bringing it to light. We have mapped many perceived data
 gaps to the various data harmonization projects of GESAC and CISAC, and
 we will seek cooperation with these organizations and their members to
-find a secure and voluntary way to bring the data up.
+find a secure and voluntary way to retrieve the data.
 
 In other cases, we will rely on on the 2019/1024/EU [Open Data
 Directive]((https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32019L1024))
-to access, process, document, and dissemintate the data.
+to access, process, document, and disseminate the data.
 
 The only data gap that we do not intent do address is the “impact of the
 non-profit sector”.
@@ -595,7 +595,7 @@ create representative data following our pioneering work made in the
 Central European Music Industry Report and later the Digital Music
 Creators’ Project initiated by the UK Intellectual Property Office.
 
-We will address diversity issues with recycled and harmonized surveys.
+{{< figure src="/media/img/blogposts_2022/mean_price_plot.png" caption="" numbered="false" >}}
 
 <table class=" lightable-classic lightable-striped" style="font-size: 14px; font-family: &quot;Arial Narrow&quot;, &quot;Source Sans Pro&quot;, sans-serif; width: auto !important; margin-left: auto; margin-right: auto;">
 <thead>
@@ -756,6 +756,8 @@ to build a tool to monitor the circulation of European artists.
 </tr>
 </tbody>
 </table>
+
+We will address diversity issues with recycled and harmonized surveys.
 
 ## Pillar 3: Music & Society
 
@@ -1011,22 +1013,22 @@ co-ordination of research on the social impact of music in Europe.
 
 ## Pillar 4: Music & Innovation
 
-1.  We will connect to several innovation topics in music with providing
+1.  We will connect to several innovation topics in music by providing
     research, data, and evidence. Building on the work of the
     \[Blockchain & Society\]
     (<https://www.ivir.nl/projects/blockchain-society/>) research
     project of our Consortium member, the Institute for Information Law
     [IViR](https://www.ivir.nl/) at the University of Amsterdam, we will
-    address issues related to NFT and blockchain in music.
+    address issues related to NFT and blockchain technologies in music.
 
 2.  Connecting to the work of various music stakeholders in Finland, we
-    will experiment with safe data sharing of confidential data,
+    will experiment with the safe data sharing of confidential data,
     avoiding the extreme pitfalls of ‘radical openness’ and ‘closed
-    data’. With the University of Bologna, and the 8-years’ experience
-    about sensitive data sharing with the [Digital Music
+    data’. With the University of Bologna, and eight years of experience
+    in sensitive data sharing with the [Digital Music
     Observatory](https://music.dataobservatory.eu/) (formerly:
     [CEEMID](https://reprex.nl/project/ceemid/)), we will create various
-    statistical methods to create anonymized and synthetic dataset that
+    statistical methods to create anonymized and synthetic datasets that
     do not endanger business or private data.
 
 3.  We are going to design indicators and carry out a landscape mapping
@@ -1228,4 +1230,3 @@ music business.
 </tr>
 </tbody>
 </table>
-
