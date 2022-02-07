@@ -45,27 +45,10 @@ url_code = ""
   focal_point = "Center"
 +++
 
-We truly maximize transparency, (re)usability, scientific, policy and
-business impact with embracing the best practices laid out the
-recommendations of the *Reproducibility of scientific results scoping
-report* of European Commission’s DG Research & Innovation, the best
-practices in the evidence-based *Knowledge4Policy*
-[K4P](https://knowledge4policy.ec.europa.eu/home_en) platform of the
-European Commission. We will apply, and contextualize in the EU first
-the [Open Policy Analysis Guidelines](http://www.bitss.org/wp-content/uploads/2019/03/OPA-Guidelines.pdf),
-which grew out from several initiatives in research transparency, to
-maximize the benefits in the context of the [Foundations for
-Evidence-based Policy Making Act of 2018](https://www.congress.gov/bill/115th-congress/house-bill/4174) in
-the U.S. We want to make sure that relying not only on the best European
-practice, but considering transatlantic experience, we will make the
-most out of the opportunities offered by the European [Open Data
-Directive of
-2019]((https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32019L1024)).
-This will not only mean dramatically increased data availability for our
-partners, and increased quality assurance and transparency in our work,
-but also immediate data access. Following the EU & US best practices of
-xxxxx, we have already placed our software tools, methodologies, and
-sample data in the xxxxx, and xxxxx.
+Our ambition is to truly maximize transparency, (re)usability, scientific, policy, and business impact while embracing the best practices laid out in the the recommendations of the *Reproducibility of scientific results scoping report*, and the *Progress on Open Science: Towards a Shared Research Knowledge System* policy documents of the European Commission's DG Research & Innovation, as well as the best practices outlined  in the evidence-based *Knowledge4Policy* [K4P](https://knowledge4policy.ec.europa.eu/home_en) platform of the European Commission. For the first time in Europe, we will apply and contextualize the [Open Policy Analysis Guidelines](http://www.bitss.org/wp-content/uploads/2019/03/OPA-Guidelines.pdf), which grew out of several initiatives in research transparency with the aim of maximizing benefits in the context of the [Foundations for Evidence-based Policy Making Act of 2018](https://www.congress.gov/bill/115th-congress/house-bill/4174) initiative in the United States. We want to ensure that by relying not only on the best European practices, but considering trans-Atlantic experiences, we will make the most out of the opportunities offered by the European [Open Data Directive of 2019]((https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32019L1024)). This will not only mean rendering a dramatically increased data availability for our partners, as well as increased quality assurance and transparency in our work, but also immediate data access. Following the EU & US best practices we have already placed _before sumbitting our proposal_ our important software tools, methodologies, and sample data in the [Zenodo](https://zenodo.org/communities/music_observatory/) repository.
+
+Our new software will continue to run in the cloud, depositing all of our findings---*Findable*, *Accessible*, *Interoperable* and *Reuseable* digital assets, including our well-designed and user-tested indicators in 41 data gap fields---into our [Digital Music Observatory](https://music.dataobservatory.eu/), which already hosts a [modern REST API](https://api.music.dataobservatory.eu/) similar to the Eurostat Rest API. *We are still adjusting this service in order to find a way to best implement SDMx and other data standards while maintaining ease of use. We anticipate enhanced usability by April 2022.*
+
 
 <table class="table table-hover table-condensed" style="margin-left: auto; margin-right: auto;">
 <thead>
