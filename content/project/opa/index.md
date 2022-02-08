@@ -5,7 +5,7 @@ subtitle = "Towards a competitive, fair and sustainable European music ecosystem
 
 # Date this page was created.
 date = 2022-02-06T14:00:00
-lastmod = 2022-02-06T14:00:00
+lastmod = 2022-02-07T08:41:00
 
 # Project summary to display on homepage.
 summary = "Open Policy Analysis is an approach to policy analysis wherein data, code, materials, and clear accounts of methodological decisions are made freely available to facilitate collaboration, discussion, and reuse."

@@ -1015,8 +1015,7 @@ co-ordination of research on the social impact of music in Europe.
 
 1.  We will connect to several innovation topics in music by providing
     research, data, and evidence. Building on the work of the
-    \[Blockchain & Society\]
-    (<https://www.ivir.nl/projects/blockchain-society/>) research
+    [Blockchain & Society](https://www.ivir.nl/projects/blockchain-society/) research
     project of our Consortium member, the Institute for Information Law
     [IViR](https://www.ivir.nl/) at the University of Amsterdam, we will
     address issues related to NFT and blockchain technologies in music.

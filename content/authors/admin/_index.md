@@ -80,8 +80,6 @@ We are a Netherlands-based start-up company that makes big data reliable and acc
 </tbody>
 </table>
 
-
-
 Our flagship demo projects are the [Listen Local](/project/listen-local/)  ethical music recommendation system based on our [Demo Music Observatory](/project/music-observatory/) data integration and knowledge sharing platform. We have validated our product/market fit in the prestigious [Yes!Delft AI+Blockchain Lab](/post/2020-09-25-yesdelft-validation/). We are members of the [Dutch AI Coalition](https://reprex.nl/post/2021-02-16-nlaic/) and participate in the work of the [European AI Alliance](https://digital-strategy.ec.europa.eu/en/policies/european-ai-alliance).
 
 {{< icon name="hand-point-right" pack="fas" >}} See our {{< staticref  "/#services" "newtab"  >}}services{{< /staticref >}}: [data curation](/service/data-curation/), [open data access](/service/open-data/), [survey harmonization](/software/retroharmonize/), [reproducible research](/service/research/) and validated [trustworthy AI applications](/service/trustworthy-ai/).
