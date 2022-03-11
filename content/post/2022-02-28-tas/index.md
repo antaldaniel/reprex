@@ -36,7 +36,7 @@ The researchers will explore the relationship between the autonomous recommendat
 <td style="text-align: center;">{{< figure src="/media/img/reports/listen_local_2020/listen_local_study_covers.png" caption="See our Feasibility Study for [Listen Local](https://reprex.nl/publication/listen_local_2020/)." numbered="false" >}}</td>
 
 
-The empirical experiments of the project want to explore how autonomous recommendation systems are driving consumer choice in a real-life setting, and to establish causality between the recommendation systems and the barrier to entry. As part of this work package, the researchers will conduct randomised trials by inviting participants to stream music through our own user interface. Reprex has extensive experience conducting similar experiments in the music domain (for various online, field experiments, and high-quality surveys.)
+The empirical experiments of the project want to explore how autonomous recommendation systems are driving consumer choice in a real-life setting, and to establish causality between the recommendation systems and the barrier to entry. As part of the second work package, the researchers will conduct randomised trials by inviting participants to stream music through our own user interface. Reprex has extensive experience conducting similar experiments in the music domain (for various online, field experiments, and high-quality surveys.)
 
 Link: [Eight new TAS research projects announced](https://www.tas.ac.uk/News/eight-new-tas-research-projects-announced/)
 
