@@ -73,6 +73,7 @@ Our internal communication platform is Github for software development and Keyba
 We are looking for intermediate or advanced R users with a passion for open data and open science for the maintenance of our CRAN-released R packages and the development of further packages. We are pursuing a hybrid model, providing the R community with open-source packages, and engaging in paid work that utilizes this software in commercial or academic environments.
 
 Our ideal candidate(s) are
+
 a) at least intermediate-level R programmers or possess domain-specific knowledge relevant to our packages, or
 
 b) advanced in R programming and agnostic to actual packages
