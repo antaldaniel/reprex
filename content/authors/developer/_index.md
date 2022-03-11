@@ -29,12 +29,9 @@ topics:
 
 education:
   courses:
-    - course: MSc in Public Administration
-      institution: Sample University University
-      year: 2015
-    - course: BSc in International Relations
-      institution: Other University
-      year: 2010
+    - course: Any computer science/statistics/social sciences/digital humanities
+      institution: last year Master students, PhD students are welcome, too. 
+      
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
