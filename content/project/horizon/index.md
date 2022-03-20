@@ -1,14 +1,14 @@
 +++
 # Project title.
 title = "Horizon Europe Consortium"
-subtitle = "Towards a competitive, fair and sustainable European music ecosystem"
+subtitle = "We are looking for end-users and dissemination partners to test our data and visualization products" 
 
 # Date this page was created.
 date = 2021-10-14T10:00:00
 lastmod = 2021-03-20T16:00:00
 
 # Project summary to display on homepage.
-summary = "Our open collaboration platform is looking for partners for the Horizon Europe call Towards a competitive, fair and sustainable European music ecosystem."
+summary = "We are looking for end-users and dissemination partners to help us define the European music industry's data needs, help us collect the data, and review our work in the context of the Horizon Europe call *Towards a competitive, fair and sustainable European music ecosystem*."
 
 # Tags: can be used for filtering projects.
 tags = ["Digital Music Observatory", "Music Moves Europe", "Horizon Europe"]
@@ -50,7 +50,7 @@ url_code = ""
 
 Data is useless unless if it is acted upon.  We are looking for end-users and dissemination partners to help us define the European music industry's data needs, help us collect the data, and review our work in the context of the Horizon Europe call *Towards a competitive, fair and sustainable European music ecosystem*. Our aim is to partially fill 41/45 identified European data gaps within the Music Moves Europe framework. (See our [data coverage](https://reprex.nl/project/horizon/#data-coverage) below.)
 
-{{< icon name="download" pack="fas" >}} Download our {{< staticref "/media/documnets/DMO_Horizon_Europe_Invitation_2022_03_20.pdf" "newtab" >}}inivation document{{< /staticref >}}. Our offering for [music](https://reprex.nl/project/horizon/#horizon-business-partners) - [policy](https://reprex.nl/project/horizon/#horizon-policy-partners) - [scientific partners](https://reprex.nl/project/horizon/#horizon-scientific-partners) below.
+{{< icon name="download" pack="fas" >}} Download our {{< staticref "/media/documents/DMO_Horizon_Europe_Invitation_2022_03_20.pdf" "newtab" >}}inivation document{{< /staticref >}}. Our offering for [music](https://reprex.nl/project/horizon/#horizon-business-partners) - [policy](https://reprex.nl/project/horizon/#horizon-policy-partners) - [scientific partners](https://reprex.nl/project/horizon/#horizon-scientific-partners) below.
 
 We ask music stakeholder if they would be interested in joining our consortium as a funded partner. This would enable the utilisation of EU funds to pursue synergy between the Digital Music Observatory’s data collection efforts and stakholder’s values and objectives. In addition to funding, the stakeholder would benefit from first access to the rich spectrum of data that the [Digital Music Observatory](https://music.dataobservatory.eu/) will collect.
 If stakeholder is unable to receive EU funding, the *Digital Music Observatory* would also welcome your participation in our Advisory Board. This would give you the opportunity for paid travel to exciting music industry networking events throughout Europe, as well as first access to our data.
