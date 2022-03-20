@@ -4,8 +4,8 @@ title = "Horizon Europe Consortium"
 subtitle = "Towards a competitive, fair and sustainable European music ecosystem"
 
 # Date this page was created.
-date = 2020-10-14T10:00:00
-lastmod = 2021-12-07T11:00:00
+date = 2021-10-14T10:00:00
+lastmod = 2021-03-20T16:00:00
 
 # Project summary to display on homepage.
 summary = "Our open collaboration platform is looking for partners for the Horizon Europe call Towards a competitive, fair and sustainable European music ecosystem."
@@ -25,7 +25,7 @@ external_link = ""
 slides = ""
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://reprex.nl/documnets/DMO_Horizon_Europe_Invitation_2022_03_20.pdf"
 url_slides = ""
 url_video = ""
 url_code = ""
@@ -43,18 +43,30 @@ url_code = ""
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point = "Center"
+  preview_only = true
 +++
 
-We are looking for partners for the Horizon Europe call *Towards a competitive, fair and sustainable European music ecosystem*.
+<td style="text-align: center;">{{< figure src="/media/img/blogposts_2022/logos_3_1.jpg" caption="" numbered="false" >}}</td>
 
-Our Digital Music Observatory grew out of a 12-country music data cooperation and has hundreds of indicators---most of them never used by scientific researchers.  We are looking for scientific partners in various applied music research disciplines to use, and further develop our data within the framework of the Horizon Europe call, as well as the Music Moves Europe policy framework.
+Data is useless unless if it is acted upon.  We are looking for end-users and dissemination partners to help us define the European music industry's data needs, help us collect the data, and review our work in the context of the Horizon Europe call *Towards a competitive, fair and sustainable European music ecosystem*.
 
-We are particularly interested in working with researchers on the following topics:
-- Measuring local content in streaming and broadcasting with measurable definitions of local or national music (similar to radio quotas in Europe.)
-- Applying the Open Policy Analysis framework for evidence-based music policies with cultural policy researchers or practitioners.
-- Researchers with a quantitative music sociology/ethnomusicological background for measuring music’s contribution to well-being.
-- Cultural economists familiar with the assessment of direct, indirect, and multiplied economic effects, and/or creating and working with satellite accounts to national accounts.
-We also welcome interest from cultural statistics practitioners and researchers interested in exploring quantitative approaches to music. 
+{{< icon name="download" pack="fas" >}} Download our {{< staticref "/media/documnets/DMO_Horizon_Europe_Invitation_2022_03_20.pdf" "newtab" >}}inivation document{{< /staticref >}}.
+
+We ask music stakeholder if they would be interested in joining our consortium as a funded partner. This would enable the utilisation of EU funds to pursue synergy between the Digital Music Observatory’s data collection efforts and stakholder’s values and objectives. In addition to funding, the stakeholder would benefit from first access to the rich spectrum of data that the [Digital Music Observatory](https://music.dataobservatory.eu/) will collect.
+If stakeholder is unable to receive EU funding, the *Digital Music Observatory* would also welcome your participation in our Advisory Board. This would give you the opportunity for paid travel to exciting music industry networking events throughout Europe, as well as first access to our data.
+
+## Data that we can offer
+By providing continually updated data on five industry pillars – innovation, music and society, music economy, music diversity and circulation, and music policy – we will accurately capture the economic and social value created by the sector, as well as providing stakeholders with data-driven means of maximizing this value.
+- [x] **For copyright and neighbouring rights-holders and their organizations**: Value of music, euro value of the value gap, private copying, privacy – we have data and make estimates with all known music value estimation techniques.
+- [x]	**For live music organizations**: Pan-European audience surveys; demographic comparisons of all European audiences; attendance predictions, attendance profiling.
+- [x] **For granting authorities**: we have the world's largest survey-based dataset on how musicians work and live; we create ex ante needs assessment and grants evaluation indicators and ex-post grant evaluation indicators.
+- [x] **For labels and music publishers**: we make big data understandable; we create price and volume indexes of streaming markets; we tell you about price developments and selection probabilities in different cities and countries; we understand the biases of the Spotify and YouTube algorithms; and we measure (meta)data problems and offer scalable solutions.
+- [x] **For music export offices**: we measure domestic and foreign market shares in streaming; we create actionable key performance indicators; and we do geographical targeting.
+
+## Next steps
+If your organization could be interested in joining our consortium as a funded partner, please put us in touch with your colleague with whom we can share details about our plans and financing possibilities.
+
+If you are unable to receive EU funding, but nevertheless interested in taking advantage of our open-source data, please join our open collaborative platform – the Digital Music Observatory – as a data curator. Please also consider joining our project’s Advisory Board, which would afford you access to exclusive music industry networking events throughout Europe.
 
 <td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/creative_flip_brussels_2020.jpg" caption="Presenting our [Central & Eastern European Music Industry Report 2020](https://music.dataobservatory.eu/publication/ceereport_2020/) as a case-study on [evidence-based policymaking](https://music.dataobservatory.eu/post/2020-01-30-ceereport/) in the two-day high-level stakeholder event jointly organized by Geothe-Institute and the DG Education and Culture." numbered="false" >}}</td>
 
@@ -90,7 +102,7 @@ Our observatory follows the agile open collaboration method from open-source sof
 
 <td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/medianvalue-1.png" caption="Our pioneering streaming volume and price [indexes](https://ceereport2020.ceemid.eu/market.html#ceemid-ci-volume-indexes) are similar in design to bond- and stock market indexes." numbered="false" >}}</td>
 
-## Data Coverage
+## Data Coverage {#data-coverage}
 
 Our research project contributes to all of the expected outcomes of the
 call. Our ambition is to develop an open science and open data service

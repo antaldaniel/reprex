@@ -2,9 +2,9 @@
 title: Cultural & Creative Sectors and Industries Data Observatory
 summary: Relying on modern data science, the re-use of open governmental data, open science data, and novel harmonized data collection we aim to fill in the gaps left in the official statistics of the European Union about the creative and cultural sectors and industries.
 tags:
-- competition
+- creative industries
 date: "2021-10-01T00:00:00Z"
-lastmod: "2021-10-21T00:00:00Z"
+lastmod: "2022-03-20T170:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -17,15 +17,22 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/EconDataObs
+  url: https://twitter.com/CultDataObs/
 - icon: linkedin
   icon_pack: fab
   name: Connect
-  url: https://www.linkedin.com/company/78562153/
+  url: https://www.linkedin.com/company/79286750/
 - icon: globe
   icon_pack: fas
-  name: Competition Data Observatory
-  url: https://competition.data.observatory/
+  name: Cultural & Creative Sectors and Industries Data Observatory
+  url: https://ccsi.dataobservatory.eu/
+- icon: globe
+  icon_pack: fas
+  name: Cultural & Creative Sectors and Industries Data Observatory
+  url: https://ccsi.dataobservatory.eu/
+- icon: fingerprint
+  icon_pack: fas
+  link: https://zenodo.org/communities/ccsi/
 url_code: ""
 url_pdf: ""
 url_slides: ""
