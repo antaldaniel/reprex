@@ -48,9 +48,9 @@ url_code = ""
 
 <td style="text-align: center;">{{< figure src="/media/img/blogposts_2022/logos_3_1.jpg" caption="" numbered="false" >}}</td>
 
-Data is useless unless if it is acted upon.  We are looking for end-users and dissemination partners to help us define the European music industry's data needs, help us collect the data, and review our work in the context of the Horizon Europe call *Towards a competitive, fair and sustainable European music ecosystem*.
+Data is useless unless if it is acted upon.  We are looking for end-users and dissemination partners to help us define the European music industry's data needs, help us collect the data, and review our work in the context of the Horizon Europe call *Towards a competitive, fair and sustainable European music ecosystem*. Our aim is to partially fill 41/45 identified European data gaps within the Music Moves Europe framework. (See our [data coverage](https://reprex.nl/project/horizon/#data-coverage) below.)
 
-{{< icon name="download" pack="fas" >}} Download our {{< staticref "/media/documnets/DMO_Horizon_Europe_Invitation_2022_03_20.pdf" "newtab" >}}inivation document{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download our {{< staticref "/media/documnets/DMO_Horizon_Europe_Invitation_2022_03_20.pdf" "newtab" >}}inivation document{{< /staticref >}}. Our offering for [music](https://reprex.nl/project/horizon/#horizon-business-partners) - [policy](https://reprex.nl/project/horizon/#horizon-policy-partners) - [scientific partners](https://reprex.nl/project/horizon/#horizon-scientific-partners) below.
 
 We ask music stakeholder if they would be interested in joining our consortium as a funded partner. This would enable the utilisation of EU funds to pursue synergy between the Digital Music Observatory’s data collection efforts and stakholder’s values and objectives. In addition to funding, the stakeholder would benefit from first access to the rich spectrum of data that the [Digital Music Observatory](https://music.dataobservatory.eu/) will collect.
 If stakeholder is unable to receive EU funding, the *Digital Music Observatory* would also welcome your participation in our Advisory Board. This would give you the opportunity for paid travel to exciting music industry networking events throughout Europe, as well as first access to our data.
@@ -70,7 +70,7 @@ If you are unable to receive EU funding, but nevertheless interested in taking a
 
 <td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/creative_flip_brussels_2020.jpg" caption="Presenting our [Central & Eastern European Music Industry Report 2020](https://music.dataobservatory.eu/publication/ceereport_2020/) as a case-study on [evidence-based policymaking](https://music.dataobservatory.eu/post/2020-01-30-ceereport/) in the two-day high-level stakeholder event jointly organized by Geothe-Institute and the DG Education and Culture." numbered="false" >}}</td>
 
-## What Do We Offer To Scientific Partners?
+## What Do We Offer To Scientific Partners? {#horizon-scientific-partners}
 
 We provide exclusive scientific access to highly valuable quantitative datasets in music, particularly nationally representative audience surveys, nationally representative music creator surveys, and large music streaming data. We provide know-how and data science infrastructure that facilitates data collection via surveys or big data by utilizing pre-existing open science or open government sources.
 
@@ -81,7 +81,7 @@ We will provide researchers with data according to their needs, and make sure th
 {{% callout note %}}
 See [Ensuring the Visibility and Accessibility of European Creative Content on the World Market](https://music.dataobservatory.eu/publication/european_visibilitiy_2021/) - [Music Streaming: Is It a Level Playing Field?](https://music.dataobservatory.eu/publication/music_level_playing_field_2021/) - [The Growth of the Hungarian Popular Music Repertoire](https://music.dataobservatory.eu/publication/made_in_hungary/) - [Can scholarly pirate libraries bridge the knowledge access gap?](https://reprex.nl/publication/scholarly_pirate_libraries_2020/) {{% /callout %}}
 
-## What Do We Offer To Policy Partners?
+## What Do We Offer To Policy Partners? {#horizon-policy-partners}
 
 We want to demonstrate that we apply world-class research and the best and most data available to solve policy problems. If you bring your policy problem into an open collaboration with our Digital Music Observatory, you can rely on the expertise of eminent researchers in the field of economics, law, royalty finance, statistics, and valuable data. We want to demonstrate that we can offer the best value for money in data. 
 
@@ -93,7 +93,7 @@ We believe that our offering is particularly valuable for music policy organizat
 {{% /callout %}}
 
 
-## What Do We Offer To Industry Partners?
+## What Do We Offer To Industry Partners? {#horizon-business-partners}
 
 Our observatory follows the agile open collaboration method from open-source software development, and it has a triangular approach.  We believe that data which is created by peer-reviewed, open algorithms, and thus open for review from the business, policy and scientific community is the best addition to your business proprietary data.  By sharing data with us, we can build world-class KPIs that give you a competitive edge in the data-driven music industry.
 
