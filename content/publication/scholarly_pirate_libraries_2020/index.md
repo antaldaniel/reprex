@@ -27,7 +27,7 @@ projects = ["market-report"]
 slides = ""
 
 # Tags (optional).
-tags = ["market-report", "books", "libraries", "shadow libraries"]
+tags = ["market-report", "Books", "Piracy", "Shadow libraries"]
 
 # Links (optional).
 url_pdf = "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0242509&type=printable"
@@ -66,8 +66,10 @@ The article utilizes the our reproducible datasets created with our [regions](ht
 
 The topic of the paper is Library Genesis (LG), the biggest piratical scholarly library on the internet, which provides copyright infringing access to more than 2.5 million scientific monographs, edited volumes, and textbooks. The paper uses advanced statistical methods to explain why researchers around the globe use copyright infringing knowledge resources. The analysis is based on a huge usage dataset from LG, as well as data from the World Bank, Eurostat, and Eurobarometer, to identify the role of macroeconomic factors, such as R&D and higher education spending, GDP, researcher density in scholarly copyright infringing activities.
 
-{{< figure src="journal.pone.0242509.g002.png" title="We created a global and a far more detailed European model for pirate book downloads." >}}
+{{< figure src="/media/img/reports/bookpiracy/pone_0242509_g002.png" title="We created a global and a far more detailed European model for pirate book downloads." >}}
 
 The main finding of the paper is that open access, even if it is radical, is not a panacea. The hypothesis of the research was that researchers in low-income regions use piratical open knowledge resources relatively more to compensate for the limitations of their legal access infrastructures. The authors found evidence to the contrary. Researchers in high income countries and European regions with access to high quality knowledge infrastructures, and high levels of funding use radical open access resources more intensively than researchers in lower income countries and regions, with less resourceful libraries. This means that while open knowledge is an important resource to close the knowledge gap between centrum and periphery, equality in access does not translate into equality in use. Structural knowledge inequalities are both present and are being reproduced in the context of open access resources.
 
-The paper is unique not just because of the data it is based on. It also sets new standards in interdisciplinary legal research by publishing the paper, the data and the software code in the same time in open access repositories, following reproducible research best practices --- the practices that we want to promote in our [Demo Music Observatory](https://music.dataobservatory.eu/) and further data observatories to serve business, evidence-based policy and scientific research.
+The paper is unique not just because of the data it is based on. It also sets new standards in interdisciplinary legal research by publishing the paper, the data and the software code in the same time in open access repositories, following reproducible research best practices --- the practices that we want to promote in our [Digital Music Observatory](https://music.dataobservatory.eu/) and further data observatories to serve business, evidence-based policy and scientific research.
+
+_Our research was funded from the Horizon Europe 2020 Research grant [#710722](https://cordis.europa.eu/project/id/710722) "OPENing UP new methods, indicators and tools for peer review, dissemination of research results, and impact measurement"_.
