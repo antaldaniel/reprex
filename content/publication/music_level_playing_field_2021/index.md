@@ -8,7 +8,7 @@ authors = ["Daniel Antal", "Amelia Fletcher", "Peter Ormosi"]
 # Publication type.
 # Legend:
 
-publication_types = ["4"]
+publication_types = ["2"]
 
 # Abstract and optional shortened version.
 abstract = "Our paper argues that fair competition in music streaming is restricted by the nature of the remuneration arrangements between creators and the streaming platforms, the role of playlists, and the strong negotiating power of the major labels. It concludes that urgent consideration should be given to a user-centric payment system, as well as greater transparency of the factors underpinning playlist creation and of negotiated agreements."
