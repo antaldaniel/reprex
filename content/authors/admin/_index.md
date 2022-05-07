@@ -27,10 +27,10 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/dataandlyrics
+  link: https://twitter.com/dataandlyrics/
 - icon: github
   icon_pack: fab
-  link: https://github.com/antaldaniel/reprex
+  link: https://github.com/dataobservatory-eu/
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/company/68855596/

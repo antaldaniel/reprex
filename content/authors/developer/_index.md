@@ -113,3 +113,6 @@ Our Shiny applications have multiple users:
 - Some of our applications are expected to be able to communicate with various Rest APIs, e.g.: the Eurostat and Spotify Rest APIs.
 
 Our applications must work with several language; buttons, alternate texts, and descriptions must be parameterized and available for localization. The visual elements must follow simple visual structures and a unified colour palette.
+
+
+_Attribution: the female professional avatar is designed by [macrovector_official / Freepik](http://www.freepik.com)._
