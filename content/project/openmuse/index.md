@@ -68,8 +68,8 @@ The **OpenMusE** Consortium
 
 ## Service Development, Project Management, Coordination and Dissemination 
 
-- [Reprex](/author/reprex/) is the originator of the OpenMusE project which builds on the achievements of the former CEEMID project, and provides leadership in WP Dissemination with building the Open Music Observatory, a full-fledged, open science-based statistical service that can complement the Eurostat Rest API and the future European Music Observatory on the basis of the Digital Music Observatory prototype validated in Yes!Delft AI+Blockchain Lab and the JUMP European Music Market Accelerator.
-- [Sinus-Institut](/author/sinus-institute/), (DE) an innovative market- and policy research SME is the coordinator of the project, and provides leadership on WP Music, Society and Citizenship with promoting best, harmonized practices of the measurement of cultural access and participation.
+- [Reprex](https://music.dataobservatory.eu/author/reprex/) is the originator of the OpenMusE project which builds on the achievements of the former CEEMID project, and provides leadership in WP Dissemination with building the Open Music Observatory, a full-fledged, open science-based statistical service that can complement the Eurostat Rest API and the future European Music Observatory on the basis of the Digital Music Observatory prototype validated in Yes!Delft AI+Blockchain Lab and the JUMP European Music Market Accelerator.
+- [Sinus-Institut](https://music.dataobservatory.eu//author/sinus-institute/), (DE) an innovative market- and policy research SME is the coordinator of the project, and provides leadership on WP Music, Society and Citizenship with promoting best, harmonized practices of the measurement of cultural access and participation.
 - [Synyo](https://www.synyo.com/), (AT) an innovative research company is participating in the coordination and dissemination of the project.
 
 ## Business partners {#business-partners}
