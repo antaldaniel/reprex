@@ -89,3 +89,5 @@ Our flagship demo projects are the [Listen Local](/project/listen-local/)  ethic
 {{< icon name="rss" pack="fas" >}} Follow {{< staticref "/#news" "newtab" >}}news about us{{< /staticref >}} or the more comprehensive {{< staticref "https://dataandlyrics.com/" "newtab" >}}Data & Lyrics{{< /staticref >}}  blog.
 
 {{< icon name="phone" pack="fas" >}} Contact {{< staticref "/#contact" "newtab" >}}us{{< /staticref >}}.
+
+**Company details**: `Registration number`: 80205275 (KvK Chamber of Commerce); `founding document`:  000046572589  (vestigingnummer); `VAT number` NL 861587893B01. 
