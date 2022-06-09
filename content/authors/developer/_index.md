@@ -92,8 +92,6 @@ All of our packages follow the modernization of the R language and are built on 
 
 - [dataobservatory](https://github.com/dataobservatory-eu/dataobservatory) The goal of dataobservatory is to facilitate the automated documentation, and the automated recording of descriptive and administrative (statistical processing) metadata for datasets. It also helps recording information about the computational environment to increase reproducability. The [dataobservatory](https://github.com/dataobservatory-eu/dataobservatory) package helps creatign well-formatted datasets for the APIs of our data observatories.
 
-
-
 We are also contributing to a range of packages relevant for music analysis, open data access and open science data access and we are planning the release of new open source and non-open-source products.
 
 We are looking for individual(s) who can resolve issues via Github. Time commitments are flexible and compensation is commensurate with experience and skill.
