@@ -76,4 +76,4 @@ user_groups:
 
 Daniel Antal is an experienced data scientist, consultant, economist, and the co-founder of [Reprex](https://reprex.nl/), a Netherlands-based startup that brings the benefits of big data to small organizations with shared resources and research automation. He applies data science practice, open-source software development with sound economics and valuation techniques. 
 
-He is also a research affiliate at the [Centre for Competition Policy](https://www.linkedin.com/school/ccpuea/ and at the [Institute for Information Law](https://www.ivir.nl/employee/antaldaniel/) of the University of Amsterdam.
+He is also a research affiliate at the [Centre for Competition Policy](https://www.linkedin.com/school/ccpuea/) and at the [Institute for Information Law](https://www.ivir.nl/employee/antaldaniel/) of the University of Amsterdam.
