@@ -83,12 +83,27 @@ c) excited to maintain and develop one or more of our packages
 All of our packages follow the modernization of the R language and are built on rlang and vctrs. All the packages use the tidyverse as a dependency, which creates a consistent user interface (i.e. dplyr, tidyr, tidyselect.)
 
 ### Packages
+Please visit our [dataobservatory.eu](https://github.com/dataobservatory-eu/) github page, and check out our advice for [new contributors](https://github.com/dataobservatory-eu/new-contributors).
 
-- [iotables](https://iotables.dataobservatory.eu/): an R package for reproducible input-output analysis, economic, and environmental impact assessment. The domain specific knowledge is input-output economics, multiplier analysis, and environmental impact analysis. A working knowledge of SNA or an interest in macro-finance is a plus. We develop this application within the rOpenGov community and the rOpenSci community. The application has various uses in banking, insurance, music industry, and policy design.
+[![R package
+retroharmonize](https://img.shields.io/badge/R-retroharmonize-007CBB.svg)](https://iotables.dataobservatory.eu) [iotables](https://iotables.dataobservatory.eu/): an R package for reproducible input-output analysis, economic, and environmental impact assessment. The domain specific knowledge is input-output economics, multiplier analysis, and environmental impact analysis. A working knowledge of SNA or an interest in macro-finance is a plus. We develop this application within the rOpenGov community and the rOpenSci community. The application has various uses in banking, insurance, music industry, and policy design.
 
-- [retroharmonize](https://retroharmonize.dataobservatory.eu/): an R package for retrospective survey harmonization and survey recycling. The domain specific knowledge is an interest in international, multi-language surveys, longitudinal surveys, and the reuse of survey data. We develop this application within the rOpenGov community and the rOpenSci community. The application has various uses in survey harmonization, data integration, and survey design. 
+[![R package
+iotables](https://img.shields.io/badge/R-retroharmonize-3EA135.svg)](https://retroharmonize.dataobservatory.eu)  [retroharmonize](https://retroharmonize.dataobservatory.eu/): an R package for retrospective survey harmonization and survey recycling. The domain specific knowledge is an interest in international, multi-language surveys, longitudinal surveys, and the reuse of survey data. We develop this application within the rOpenGov community and the rOpenSci community. The application has various uses in survey harmonization, data integration, and survey design. 
 
-- [regions](https://regions.dataobservatory.eu/): an R package for adjusting sub-national boundaries for the making of regional statistics.  While the U.S. has relatively stable sub-national boundaries (the US postal codes), most nations change their internal boundaries very frequently. Currently, regions tracks these changes in Europe, but our package could and should be extended to all ISO-conforming sub-national boundaries globally.  An ideal domain-specific interest is geography, cartography, and/or small-area statistics. The package is currently not developed actively, but we expect it to be developed in a small-area statistics context, or for surveying withing a regional component.  
+[![R package
+regions](https://img.shields.io/badge/R-regions-00843A.svg)](https://regions.dataobservatory.eu) [regions](https://regions.dataobservatory.eu/): an R package for adjusting sub-national boundaries for the making of regional statistics.  While the U.S. has relatively stable sub-national boundaries (the US postal codes), most nations change their internal boundaries very frequently. Currently, regions tracks these changes in Europe, but our package could and should be extended to all ISO-conforming sub-national boundaries globally.  An ideal domain-specific interest is geography, cartography, and/or small-area statistics. The package is currently not developed actively, but we expect it to be developed in a small-area statistics context, or for surveying withing a regional component. 
+
+[![R package
+dataset](https://img.shields.io/badge/R-dataset-E4007F.svg)](https://dataset.dataobservatory.eu) [dataset](https://dataset.dataobservatory.eu/) creates datasets from standared R objects (data.fame, data.table, tibble, or well-structured lists like json) that are highly interoperable and can be placed into relational databases, semantic web applications, archives, repositories. They follow the FAIR principles: they are findable, accessible, interoperable and reusable. They contain the entire processing history of the dataset for reproducability.
+
+[![R package
+statcodelists](https://img.shields.io/badge/R-statcodelists-lightgrey.svg)](https://statcodelists.dataobservatory.eu) The goal of [statcodelists](https://statcodelists.dataobservatory.eu/) is to promote the reuse and exchange of statistical information and related metadata with making the internationally standardized SDMX code lists available for the R user.
+
+
+
+[![R package
+spotifyr](https://img.shields.io/badge/R-spotifyr-1db954.svg)](https://www.rcharlie.com/spotifyr) [spotifyr]()
 
 - [dataobservatory](https://github.com/dataobservatory-eu/dataobservatory) The goal of dataobservatory is to facilitate the automated documentation, and the automated recording of descriptive and administrative (statistical processing) metadata for datasets. It also helps recording information about the computational environment to increase reproducability. The [dataobservatory](https://github.com/dataobservatory-eu/dataobservatory) package helps creatign well-formatted datasets for the APIs of our data observatories.
 
