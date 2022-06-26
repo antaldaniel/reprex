@@ -77,3 +77,11 @@ user_groups:
 Daniel Antal is an experienced data scientist, consultant, economist, and the co-founder of [Reprex](https://reprex.nl/), a Netherlands-based startup that brings the benefits of big data to small organizations with shared resources and research automation. He applies data science practice, open-source software development with sound economics and valuation techniques. 
 
 He is also a research affiliate at the [Centre for Competition Policy](https://www.linkedin.com/school/ccpuea/ and at the [Institute for Information Law](https://www.ivir.nl/employee/antaldaniel/) of the University of Amsterdam.
+
+Daniel develops the following open source software libraries: [![R package
+iotables](https://img.shields.io/badge/R-iotables-4EC0E4.svg)](https://iotables.dataobservatory.eu)  [![R package
+retroharmonize](https://img.shields.io/badge/R-retroharmonize-007CBB.svg)](https://iotables.dataobservatory.eu)  [![R package
+regions](https://img.shields.io/badge/R-regions-00843A.svg)](https://regions.dataobservatory.eu)  [![R package
+dataset](https://img.shields.io/badge/R-dataset-E4007F.svg)](https://dataset.dataobservatory.eu)  [![R package
+spotifyr](https://img.shields.io/badge/R-spotifyr-1db954.svg)](https://www.rcharlie.com/spotifyr)  [![R package
+statcodelists](https://img.shields.io/badge/R-statcodelists-lightgrey.svg)](https://statcodelists.dataobservatory.eu)
