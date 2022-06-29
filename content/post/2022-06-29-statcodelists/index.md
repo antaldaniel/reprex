@@ -1,8 +1,8 @@
 +++
 title = "stacodelists: use standard, language-independent variable codes to help international data interoperability and machine reuse in R"
 subtitle = "An R data package with all the SDMX standard codelists"
-date = 2022-06-29T08:12:00+01:00
-lastmod = 2022-06-29T08:12:00+01:00
+date = 2022-06-29T08:12:00+02:00
+lastmod = 2022-06-29T08:12:00+02:00
 draft = false
 
 authors = ["daniel_antal"]
