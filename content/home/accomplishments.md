@@ -24,13 +24,29 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: ""
+  date_start: "2022-07-27"
+  date_end: "2025-12-31"
+  description: We will turn the Digital Music Observatory into a comprehensive Open Data Observatory with our industry and research partners.
+  organization: Horizon Europe
+  organization_url: https://reprex.nl/project/openmuse/
+  title: The Reprex-initiated OpenMuseE consortium invited to Horizon Europe program.
+  url: ""
+- certificate_url: ""
+  date_start: "2022-07-01"
+  date_end: "2023-02-28"
+  description: Eviota, our ESG connected financial and sustainability assessment and reporting tool received the MusicAIRE grant
+  organization: MusicAIRE
+  organization_url: https://musicaire.eu/
+  title: MusicAIRE for a green recovery in the European music sector
+  url: "https://reprex.nl/post/2022-06-09-music-eviota"
+- certificate_url: ""
   date_end: "2021-12-31"
   date_start: "2021-03-01"
   description: Our Demo Music Observatory & Listen Local projects are developed in the music accelerator of Music Moves Europe
   organization: JUMP European Music Accelerator
   organization_url: https://www.jumpmusic.eu/
-  title: AI & Blockchain Validation Lab
-  url: ""
+  title: JUMP European Music Accelerator
+  url: "https://reprex.nl/post/2021-12-02-dmo-jump/"
 - certificate_url: ""
   date_end: ""
   date_start: "2021-02-16"
