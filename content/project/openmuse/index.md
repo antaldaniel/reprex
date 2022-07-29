@@ -48,9 +48,12 @@ url_code = ""
 
 <td style="text-align: center;">{{< figure src="/media/img/blogposts_2022/logos_3_1.jpg" caption="" numbered="false" >}}</td>
 
-**OpenMusE** brings together music industry stakeholders and researchers from 12 European countries. Our partners represent the diversity of the industry, as well as the shared need to find financially, socially, and environmentally sustainable policy and business models in multiple, sometimes-fragmented streams (e.g., live music, composers/publishers, and recordings with producers and performers). 
 
-Good policies require supporting evidence, and good business planning and copyright exploitation require high-quality data. OpenMusE will provide such data through novel, open-source tools that leverage automation to enable transfer to nearly any European market. We will disseminate our data via “live policy documents” and visualisations hosted on our Open Music Observatory, which automatically update when data sources are refreshed. This will set a concrete precedent and a clear path towards a more competitive, fair, and sustainable European music ecosystem.
+`OpenMusE` brings together music industry stakeholders and researchers from 11 EU countries and Ukraine. Our consortium recognises that placing European music ecosystems on a more competitive, fair, and sustainable footing requires evidence-based policymaking, business planning, and accuracy. 
+
+We provide the data needed for these actions. Using transparent methods and tools, OpenMusE maps the policy and data landscape; bridges data gaps; and empowers stakeholders and policymakers to take data-driven actions. Our project is grounded on principles of open policy analysis, open science, and open-source software development. We work with stakeholders to identify data gaps on the EU, national, and regional levels; co-create indicators and methods for bridging them; develop free software tools for data collection and analysis; and report not just our findings, but every step taken to reach them. 
+
+This is the logic behind our `Open Music Observatory` (OMO, developed from the earlier [CEEMID](https://music.dataobservatory.eu/usecase/ceemid/) and the [Digital Music Observatory](https://music.dataobservatory.eu/) concept), an open-source platform that provides 360-degree intelligence on the music industry by integrating numerous data sources. The OMO is highly automated, providing “living policy documents” that refresh when the backend datasets are updated: these datasets include official statistics on music goods and services; data on musical participation via pan-European surveys, rights-holder data voluntarily shared by industry partners, and streaming service data sampled using novel algorithms developed by our consortium. Using the OMO and our open-source software, music MSMEs without technical departments or expertise will be able to access and analyse open data; model volume and value, including of zero-price uses; create better business models; and generate corporate social responsibility and sustainability reports; all at a fraction of current costs. We validate these tools in four pilot studies that will bring concrete benefits to stakeholders within the project lifespan.
 
 ## Open collaboration
 Our project is based on open collaboration.  Our proposal, if funded, will provide us with resources to supply further music businesses, music civil society organizations and researchers with high-quality data (during the duration of the project for free.)  We are already looking for interested parties to put our data and research projects into use and validate their usability and quality in real-life policy or business development scenarios.
@@ -62,9 +65,6 @@ By providing continually updated data on five industry pillars – innovation, m
 - [x] **For granting authorities**: we have the world's largest survey-based dataset on how musicians work and live; we create ex ante needs assessment and grants evaluation indicators and ex-post grant evaluation indicators.
 - [x] **For labels and music publishers**: we make big data understandable; we create price and volume indexes of streaming markets; we tell you about price developments and selection probabilities in different cities and countries; we understand the biases of the Spotify and YouTube algorithms; and we measure (meta)data problems and offer scalable solutions.
 - [x] **For music export offices**: we measure domestic and foreign market shares in streaming; we create actionable key performance indicators; and we do geographical targeting.
-
-
-The **OpenMusE** Consortium
 
 ## Service Development, Project Management, Coordination and Dissemination 
 
