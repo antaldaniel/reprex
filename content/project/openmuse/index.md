@@ -5,7 +5,7 @@ subtitle = "We are looking for end-users and dissemination partners to test our 
 
 # Date this page was created.
 date = 2021-05-06T17:52:00
-lastmod = 2021-05-06T18:52:00
+lastmod = 2022-07-29T18:52:00
 
 # Project summary to display on homepage.
 summary = "OpenMusE brings together music industry stakeholders and researchers from 12 European countries. Our partners represent the diversity of the industry, as well as the shared need to find financially, socially, and environmentally sustainable policy and business models in multiple, sometimes-fragmented streams (e.g., live music, composers/publishers, and recordings with producers and performers)."
