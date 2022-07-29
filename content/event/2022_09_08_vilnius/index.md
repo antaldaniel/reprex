@@ -12,7 +12,7 @@ time_end = 2021-09-08T15:15:00
 authors = ["Daniel Antal, CFA"]
 
 # Abstract and optional shortened version.
-abstract = "."
+abstract = "Daniel Antal will introduce `Listen Local Lithuania`, a new offspring of the [Digital Music Observatory](https://music.dataobservatory.eu/)’s trustworthy AI program, [Listen Local](http://listen-local.net/), and show what artists, managers, labels, and cultural policymakers can do to ideas about balancing the post-Covid revenues with increased sales on global platforms. "
 
 # Name of event and optional event URL.
 event = "Linecheck Music Meeting & Festival, Milano, Italy"
@@ -53,7 +53,10 @@ math = false
 
 Daniel Antal will introduce `Listen Local Lithuania`, a new offspring of the [Digital Music Observatory](https://music.dataobservatory.eu/)’s trustworthy AI program, [Listen Local](http://listen-local.net/), and show what artists, managers, labels, and cultural policymakers can do to ideas about balancing the post-Covid revenues with increased sales on global platforms. 
 
-Based on our experience in Slovakia^[[Feasibility Study On Promoting Slovak Music In Slovakia & Abroad](https://music.dataobservatory.eu/publication/listen_local_2020/)], and new data from Lithuania and Ukraine we show what data management problems make the Lithuanian music invisible for the AI algorithms of YouTube, Spotify and other platforms; how artists from Vilnius or Kaunas can find their new release on [Forgetify](https://dataandlyrics.com/post/2020-10-24-forgetify_pop_october/), and app that plays songs that were never played. We show why music revenues decreased in the past years for independent and small country catalogues, and we give practical advice on increasing the value and visibility of the Lithuanian music repertoire. We show an open, data federation model to connect the Lithuanian national library the system of collective management, distributors, and small data of artists and labels.
+time_start = 2022-09-08T14:30:00
+time_end = 2021-09-08T15:15:00
+
+Based on our experience in Slovakia (see: [Feasibility Study On Promoting Slovak Music In Slovakia & Abroad]), and new data from Lithuania and Ukraine we show what data management problems make the Lithuanian music invisible for the AI algorithms of YouTube, Spotify and other platforms; how artists from Vilnius or Kaunas can find their new release on [Forgetify](https://dataandlyrics.com/post/2020-10-24-forgetify_pop_october/), and app that plays songs that were never played. We show why music revenues decreased in the past years for independent and small country catalogues, and we give practical advice on increasing the value and visibility of the Lithuanian music repertoire. We show an open, data federation model to connect the Lithuanian national library the system of collective management, distributors, and small data of artists and labels.
 
 ## Prepare your questions
 
