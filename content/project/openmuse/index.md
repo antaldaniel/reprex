@@ -56,9 +56,66 @@ We provide the data needed for these actions. Using transparent methods and tool
 This is the logic behind our `Open Music Observatory` (OMO, developed from the earlier [CEEMID](https://music.dataobservatory.eu/usecase/ceemid/) and the [Digital Music Observatory](https://music.dataobservatory.eu/) concept), an open-source platform that provides 360-degree intelligence on the music industry by integrating numerous data sources. The OMO is highly automated, providing “living policy documents” that refresh when the backend datasets are updated: these datasets include official statistics on music goods and services; data on musical participation via pan-European surveys, rights-holder data voluntarily shared by industry partners, and streaming service data sampled using novel algorithms developed by our consortium. Using the OMO and our open-source software, music MSMEs without technical departments or expertise will be able to access and analyse open data; model volume and value, including of zero-price uses; create better business models; and generate corporate social responsibility and sustainability reports; all at a fraction of current costs. We validate these tools in four pilot studies that will bring concrete benefits to stakeholders within the project lifespan.
 
 ## Open collaboration
-Our project is based on open collaboration.  Our proposal, if funded, will provide us with resources to supply further music businesses, music civil society organizations and researchers with high-quality data (during the duration of the project for free.)  We are already looking for interested parties to put our data and research projects into use and validate their usability and quality in real-life policy or business development scenarios.
+Our project is based on open collaboration.  Our proposal, will provide us with resources to supply further music businesses, music civil society organizations and researchers with high-quality data (during the duration of the project for free.)  The open collaboration means that 
+- we will ask all representative music organizations to join our advisory board and set priorities so that we can work for the benefit of all the European Music Ecosystem.
+- our improved valuation, ESG/SDG reporting, diversity promotion tools will be open for national public organizations and businesses to use; 
+- for-profit and non-profit organizations *who are not members of our Consortium* can solve in the form of public use case studies some of their valuation/ESG; reporting/diversity measurement issues provided that they pay for their own project management and translations costs;
+- our cases studies intended to improve the economic situation, resilience and diversity problems of organizations in the Consortium can be freely replicated with our online tools, live policy documents, and our `Open Data Observatory`. 
 
-## Data that we can offer
+*See existing [business partners](#business-partners), [civil society & social enterprise partners](#cso-partners) and [academic partners](#academic-partners).*
+
+The project’s scoping aim is to create an open, scalable data-to-policy pipeline for European music ecosystems. 
+- [x] [MAP](#MAP) the policy and data landscape all over Europe, but with a focus on select countries
+- [x] [BRIDGE](#BRIDGE) data gaps with open data that anybody can use
+- [x] [EMPOWER](#EMPOWER) stakeholders and policymakers to take data-driven actions	
+
+The objectives are designed to advance the state of the art with regard to data collection, policymaking, and business practices in these three pillars of the music industry. Both the objectives and the outputs will be optimised for transferability to other cultural and creative industries.
+
+## MAP the policy and data landscape all over Europe {#MAP}
+
+*“Develop indicators to better detect the performance of the European music sector and its contribution to economic and social development, as well as to sustainability”*	
+1. Develop policy-relevant indicators for the total `economic value of music`
+2. Develop policy-relevant indicators for `music diversity and circulation`
+3. Develop policy-relevant indicators for the `societal impact` of music ecosystems, within an SDG framework
+4. Develop policy-relevant indicators for the `resilience` of music ecosystems, within an `SDG` framework.
+
+*“Provide new/improved methodologies for capturing the economic and societal value of music”*
+1. Develop new software for `rendering fragmented and unharmonised/unprocessed data usable`
+2. Implement `data-sharing cooperation` to make hidden and restricted data accessible 
+3. Develop `new survey methods` for capturing scarce data.
+
+These methodological innnovation build on the previous collaboration among many of the OpenMusE Consortium partners. For examples, see the [Publications](https://music.dataobservatory.eu/#featured) section of the `Digital Music Observatory` page.
+
+## BRIDGE data gaps with open data that anybody can use {#BRIDGE}
+
+*“Promote standardised data collection about the music (sub-)sector(s) to measure the contribution of the EU music sector to the whole economy”*
+1. Define and demonstrate best practices on `harmonisation of public data` (e.g., Eurostat)
+2. Define and demonstrate best practices on `harmonisation of proprietary data` (e.g., CMO data)
+3. Create and run `standardised enterprise surveys` suitable for music MSMEs, that capture the contribution of numerous small players to the economy
+4. Enable and promote `collection of streaming service data` using novel sampling strategies.
+
+See [data we can offer](#data-we-can-offer) below.
+
+*“Provide an estimation of the impact of music participation to the society”*
+1. Create and run `standardised Cultural Access and Participation surveys`
+2. Create and run `valuation models that incorporate zero-price music use` (e.g., home copying, piracy)
+3. Create and run `valuation models` that synthesise `economic and non-economic societal values` of music participation
+4. `Report and visualise` music valuation `data` and `models` in an automated, continually-updated `online dashboard`.
+
+## EMPOWER stakeholders and policymakers to take data-driven actions {#EMPOWER}
+
+“Increase the transparency of the music industry, in particular the online/streaming business”	
+1. Publish open-source software and econometric models for streaming music data valuation (demonstrated for at least one major provider and transferable to others)
+2. Build awareness of industry conditions through regular face-to-face and online dissemination, communication, and exploitation activities
+
+*“Provide policymakers with effective tools for measuring and enhancing the impact of EU policy making”*	
+1. Develop an open-source online dashboard that continually aggregates and reports disparate music data, with “plug-and-play” functionality vis-a-vis national databases
+2. Implement transferable pilot projects on music valuation (BG/HU), diversity (SK), social and environmental sustainability (IT), and technical innovation (DE)
+3. Release policy reports and recommendations on Music Economy; Music Diversity and Circulation; Music, Society, and Citizenship; and Music Technology.
+
+Our results will be published in the Open Music Observatory, which will follow the specificaiton of the [Feasibility Study on the Establishment of the European Music Observatory](https://music.dataobservatory.eu/post/2020-11-16-european-music-observatory-feasibility/).
+
+## Data that we can offer {#data-we-can-offer}
 By providing continually updated data on five industry pillars – innovation, music and society, music economy, music diversity and circulation, and music policy – we will accurately capture the economic and social value created by the sector, as well as providing stakeholders with data-driven means of maximizing this value.
 - [x] **For copyright and neighbouring rights-holders and their organizations**: Value of music, euro value of the value gap, private copying, privacy---we have data and make estimates with all known music value estimation techniques.
 - [x]	**For live music organizations**: Pan-European audience surveys; demographic comparisons of all European audiences; attendance predictions, attendance profiling.
@@ -79,7 +136,7 @@ By providing continually updated data on five industry pillars – innovation, m
 - [Artisjus](https://www.artisjus.hu/) (HU), the representative organization of Hungarian composers and lyricists, and the initiator of the [CEEMID](https://music.dataobservatory.eu/usecase/ceemid/) project, together with SOZA, will assist Musicautor to re-valuate the use of music in Bulgaria in a way that can be scaled to any European country, and try to improve probably the poorest markets revenues similarly to the good results of the former CEEMID in Hungary and Slovakia. 
 - [Musicautor](https://music.dataobservatory.eu/author/musicautor-%D0%BC%D1%83%D0%B7%D0%B8%D0%BA%D0%B0%D1%83%D1%82%D0%BE%D1%80/) (BG), the representative sister organization of Bulgarian rightsholders,  will validate the valuation methodologies of our projects with putting them in use, trying to replicate the double-digit growth from Hungary and Slovakia.
 
-## Civil Society & Social Enterprise partners
+## Civil Society & Social Enterprise partners {#cso-patners}
 
 - [ICMP](https://music.us/supporters/icmp/) (Global, EU), the “global voice for music publishing,”, will be our partner to fill the data gaps identified by Feasibility Study on the Establishment of the European Music Observatory related to the publishing revenue stream of the European music business.
 - [Music Innovation Hub](https://music.dataobservatory.eu/author/music-innovation-hub/) (IT), an Italian social enterprise, is validating our sustainability reporting tool.
