@@ -57,7 +57,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Team
+- Alumni
 ---
 
 Kátya is a freelance PR professional, journalist and has been working on the former CEEMID music professional surveys and other background research since 2015. Her role is to make sure that all large and small music organizations can participate in our research projects in the target countries, and receive the research output. Before we automate a process, she check the facts on the ground. She has been supporting our research in 12 countries in the past, and she is helping us reaching out to 12 new countries in our new team.
