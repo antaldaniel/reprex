@@ -57,7 +57,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Team
+  - Join us
 ---
 
 [Reprex](https://reprex.nl/) is a Dutch-American early stage startup based in the Netherlands specializing in making data reliable and accountable while delivering trustworthy analytics and AI solutions. Our diverse team works from several locations and countries; our ideal candidates are located in South Holland (the Hague/Rotterdam/Delft/Leiden), Western New York state/greater Toronto, Budapest, Bratislava, or Milano, where we have ongoing projects and team members, and thus more onboarding and team-building possibilities. That said, we are open to candidates from any location. We bridge industry and academia through various advanced statistical and ethical AI verification projects: while our R&D partners are leading universities, we aim to deploy our solutions in business environments.
