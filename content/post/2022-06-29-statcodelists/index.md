@@ -1,30 +1,29 @@
-+++
-title = "stacodelists: use standard, language-independent variable codes to help international data interoperability and machine reuse in R"
-subtitle = "An R data package with all the SDMX standard codelists"
-date = 2022-06-29T08:12:00+02:00
-lastmod = 2022-06-29T08:12:00+02:00
-draft = false
+---
+title:  "stacodelists: use standard, language-independent variable codes to help international data interoperability and machine reuse in R"
+subtitle:  "An R data package with all the SDMX standard codelists"
+date:  2022-06-29T08:12:00+01:00
+lastmod:  2022-06-29T08:12:00+01:00
+doi: "10.5281/zenodo.6751783"
 
-authors = ["daniel_antal"]
+authors:  ["daniel_antal"]
 
-tags = ["R", "metadata", "statistics", "SDMX"]
+tags:  ["R", "metadata", "statistics", "SDMX"]
 
-summary = "A new building block of our observatories went through code peer review and was released yesterday. The statcodelists R package aim to promote the  reuse and exchange of statistical information and related metadata with making the internationally standardized SDMX code lists available for the R user."
+summary:  "A new building block of our observatories went through code peer review and was released yesterday. The statcodelists R package aim to promote the  reuse and exchange of statistical information and related metadata with making the internationally standardized SDMX code lists available for the R user."
 
 # Featured image
-[image]
-  # Caption (optional)
-  caption = "Visit the documentation website of statcodelists on [statcodelists.dataobservatory.eu/](https://statcodelists.dataobservatory.eu/)."
+image: 
+  caption:  "Visit the documentation website of statcodelists on [statcodelists.dataobservatory.eu/](https://statcodelists.dataobservatory.eu/)."
+  focal_point:  "Center"
+  preview_only:  true
 
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
-
-  # Show image only in page previews?
-  preview_only = true
-
-+++
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2022/statcodelists_website.png" caption="Visit the documentation website of statcodelists on [statcodelists.dataobservatory.eu/](https://statcodelists.dataobservatory.eu/)." numbered="false" >}}</td>
+links:
+- icon: github
+  icon_pack: fab
+  name: Code
+  url: https://github.com/antaldaniel/statcodelists/
+---
+<td style="text-align: center;">{{< figure src="/img/blogposts_2022/statcodelists_website.png" caption="Visit the documentation website of statcodelists on [statcodelists.dataobservatory.eu/](https://statcodelists.dataobservatory.eu/)." numbered="false" >}}</td>
 
 <!-- badges: start -->
 [![dataobservatory](https://img.shields.io/badge/ecosystem-dataobservatory.eu-3EA135.svg)](https://dataobservatory.eu/)
@@ -39,7 +38,7 @@ Cross-domain concepts in the SDMX framework describe concepts relevant to many, 
 
 Code lists are predefined sets of terms from which some statistical coded concepts take their values. SDMX cross-domain code lists are used to support cross-domain concepts. What are these cross-domain coded concepts?  
 
-- Geographical codes, like `NL` = the Netherlands in the [CL_AREA](https://statcodelists.dataobservatory.eu/reference/CL_AREA.html) code list.
+- Geographical codes, like `NL`:  the Netherlands in the [CL_AREA](https://statcodelists.dataobservatory.eu/reference/CL_AREA.html) code list.
 - Standard industry codes `J631` for Data processing, hosting and related activities in Europe. ([NACE Rev 2](https://statcodelists.dataobservatory.eu/reference/CL_ACTIVITY_NACE2.html) in Europe, beware, it is `J592`in Australia and New Zealand, see [CL_ACTIVITY_ANZSIC06](https://statcodelists.dataobservatory.eu/reference/CL_ACTIVITY_ANZSIC06.html).)
 - Occupations, like `OC2521` for `Database designers and administrators` in [CL_OCCUPATIONS](https://statcodelists.dataobservatory.eu/reference/CL_OCCUPATION.html)
 - Time fomatting standards, like `CCYY` for annual data series in [CL_TIME_FORMAT](https://statcodelists.dataobservatory.eu/reference/CL_TIME_FORMAT.html).

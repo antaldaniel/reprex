@@ -1,54 +1,54 @@
-+++
+---
 # Project title.
-title = "Open Policy Analysis"
-subtitle = "Towards a competitive, fair and sustainable European music ecosystem"
+title:  "Open Policy Analysis"
+subtitle:  "Improving the quality and transparency of policy design"
 
 # Date this page was created.
-date = 2022-02-06T14:00:00
-lastmod = 2022-02-07T08:41:00
+date:  2022-02-06T14:00:00
+lastmod:  2022-08-29T16:02:00+02:00
 
 # Project summary to display on homepage.
-summary = "Open Policy Analysis is an approach to policy analysis wherein data, code, materials, and clear accounts of methodological decisions are made freely available to facilitate collaboration, discussion, and reuse."
+summary:  "Open Policy Analysis is an approach to policy analysis wherein data, code, materials, and clear accounts of methodological decisions are made freely available to facilitate collaboration, discussion, and reuse."
 
 # Tags: can be used for filtering projects.
-tags = ["Open Policy Analysis", "Open Science", "Open Government"]
+tags:  
+ - Open Policy Analysis 
+ - Open Science
+ - Open Government
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link:  ""
 
 # Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references 
-#   `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides = ""
+slides:  ""
 
 # Links (optional).
-url_pdf = ""
-url_slides = ""
-url_video = ""
-url_code = ""
+url_pdf:  ""
+url_slides:  ""
+url_video:  ""
+url_code:  ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/antaldaniel"}]
+#url_custom:  [{icon_pack:  "fab", icon="twitter", name="Follow", url:  "https://twitter.com/antaldaniel"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
-  # Caption (optional)
-  caption = ""
+image:
+  caption:  ""
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
-+++
+  focal_point:  "Center"
+---
 
-Our ambition is to truly maximize transparency, (re)usability, scientific, policy, and business impact while embracing the best practices laid out in the the recommendations of the *Reproducibility of scientific results scoping report*, and the *Progress on Open Science: Towards a Shared Research Knowledge System* policy documents of the European Commission's DG Research & Innovation, as well as the best practices outlined  in the evidence-based *Knowledge4Policy* [K4P](https://knowledge4policy.ec.europa.eu/home_en) platform of the European Commission. For the first time in Europe, we will apply and contextualize the [Open Policy Analysis Guidelines](http://www.bitss.org/wp-content/uploads/2019/03/OPA-Guidelines.pdf), which grew out of several initiatives in research transparency with the aim of maximizing benefits in the context of the [Foundations for Evidence-based Policy Making Act of 2018](https://www.congress.gov/bill/115th-congress/house-bill/4174) initiative in the United States. We want to ensure that by relying not only on the best European practices, but considering trans-Atlantic experiences, we will make the most out of the opportunities offered by the European [Open Data Directive of 2019]((https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32019L1024)). This will not only mean rendering a dramatically increased data availability for our partners, as well as increased quality assurance and transparency in our work, but also immediate data access. Following the EU & US best practices we have already placed _before sumbitting our proposal_ our important software tools, methodologies, and sample data in the [Zenodo](https://zenodo.org/communities/music_observatory/) repository.
+Our ambition is to truly maximize transparency, (re)usability, scientific, policy, and business impact while embracing the best practices laid out in the the recommendations of the *Reproducibility of scientific results scoping report*, and the *Progress on Open Science: Towards a Shared Research Knowledge System* policy documents of the European Commission's DG Research & Innovation, as well as the best practices outlined  in the evidence-based *Knowledge4Policy* [K4P](https://knowledge4policy.ec.europa.eu/home_en) platform of the European Commission. 
 
-Our new software will continue to run in the cloud, depositing all of our findings---*Findable*, *Accessible*, *Interoperable* and *Reuseable* digital assets, including our well-designed and user-tested indicators in 41 data gap fields---into our [Digital Music Observatory](https://music.dataobservatory.eu/), which already hosts a [modern REST API](https://api.music.dataobservatory.eu/) similar to the Eurostat Rest API. *We are still adjusting this service in order to find a way to best implement SDMx and other data standards while maintaining ease of use. We anticipate enhanced usability by April 2022.*
+For the first time in Europe, we will apply and contextualize the [Open Policy Analysis Guidelines](http://www.bitss.org/wp-content/uploads/2019/03/OPA-Guidelines.pdf) (OPA Guidelines) in our [OpenMuse](/projects/openmuse) project.  
 
+The `Open Policy Analysis Guidelines` grew out of several initiatives in research transparency with the aim of maximizing benefits in the context of the [Foundations for Evidence-based Policy Making Act of 2018](https://www.congress.gov/bill/115th-congress/house-bill/4174) initiative in the United States. We want to ensure that by relying not only on the best European practices, but considering trans-Atlantic experiences, we will make the most out of the opportunities offered by the European [Open Data Directive of 2019]((https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32019L1024)). This will not only mean rendering a dramatically increased data availability for our partners, as well as increased quality assurance and transparency in our work, but also immediate data access. 
+
+Our new software will continue to run in the cloud, depositing all of our findings---*Findable*, *Accessible*, *Interoperable* and *Reuseable* digital assets, including our well-designed and user-tested indicators in 41 data gap fields---into our [Digital Music Observatory](https://music.dataobservatory.eu/), which already hosts a [modern REST API](https://api.music.dataobservatory.eu/) similar to the Eurostat Rest API.
 
 <table class="table table-hover table-condensed" style="margin-left: auto; margin-right: auto;">
 <thead>

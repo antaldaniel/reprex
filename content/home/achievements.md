@@ -1,13 +1,14 @@
 ---
 # An instance of the Accomplishments widget.
-# Documentation: https://sourcethemes.com/academic/docs/page-builder/
+# Documentation: https://wowchemy.com/docs/page-builder/
 widget: accomplishments
+draft: true
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 20
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Achievements'
@@ -23,51 +24,46 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: ""
-  date_start: "2022-07-27"
-  date_end: "2025-12-31"
-  description: We will turn the Digital Music Observatory into a comprehensive Open Data Observatory with our industry and research partners.
-  organization: Horizon Europe
-  organization_url: https://reprex.nl/project/openmuse/
-  title: The Reprex-initiated OpenMuseE consortium invited to Horizon Europe program.
-  url: ""
-- certificate_url: ""
-  date_start: "2022-07-01"
-  date_end: "2023-02-28"
-  description: Eviota, our ESG connected financial and sustainability assessment and reporting tool received the MusicAIRE grant
-  organization: MusicAIRE
-  organization_url: https://musicaire.eu/
-  title: MusicAIRE for a green recovery in the European music sector
-  url: "https://reprex.nl/post/2022-06-09-music-eviota"
-- certificate_url: ""
-  date_end: "2021-12-31"
-  date_start: "2021-03-01"
-  description: Our Demo Music Observatory & Listen Local projects are developed in the music accelerator of Music Moves Europe
-  organization: JUMP European Music Accelerator
-  organization_url: https://www.jumpmusic.eu/
-  title: JUMP European Music Accelerator
-  url: "https://reprex.nl/post/2021-12-02-dmo-jump/"
-- certificate_url: ""
-  date_end: ""
-  date_start: "2021-02-16"
-  description: Joined the Dutch AI PPP
-  organization: Dutch AI Coalition
-  organization_url: https://nlaic.com/
-  title: Dutch AI Coalition
-  url: ""
-- certificate_url: ""
-  date_end: "2020-12-16"
-  date_start: "2020-10-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: Yes!Delft
-  organization_url: https://yesdelft.nl/
-  title: AI & Blockchain Validation Lab
-  url: ""
-- certificate_url: ""
-  date_end: ""
-  date_start: "2020-08-23"
-  description: Reprex is founded, replacing the CEEMID project (2014-2020)
-  organization: Reprex
-  organization_url: "https://reprex.nl"
-  url: ""
+  - certificate_url: 
+    date_end: ''
+    date_start: '2023-01-01'
+    description: "Invited for contracting after a competitive tendering for Europe's prestigious research and innovation program."
+    organization: Horizon Europe
+    organization_url: https://music.dataobservatory.eu/project/openmuse/
+    title: Invited for contracting Horizon Europe
+    url: 'https://music.dataobservatory.eu/project/openmuse/'
+  - certificate_url: 
+    date_end: '2023-02-28'
+    date_start: '2022-07-01'
+    description: 'Four partners using open knowledge and data harmonization of the observatory win competitive grants'
+    organization: MusicAIRE
+    organization_url: 
+    title: Four observatory partners win MusicAIRE grants
+    url: ''  
+  - certificate_url: 
+    date_end: ''
+    date_start: '2021-09-01'
+    description: 'Placing the new observatory data into a policy context.'
+    organization: Music Creators' Earnings
+    organization_url: https://music.dataobservatory.eu/project/mce/
+    title: Data and analysis for Music Creators' Earnings report
+    url: 'https://music.dataobservatory.eu/project/mce/'
+  - certificate_url: 
+    date_end: ''
+    date_start: '2020-10-01'
+    description: 'Product-market fit validation in the globally 2nd ranked university-backed incubator to turn CEEMID into a music observatory.'
+    organization: Yes!Delft
+    organization_url: https://www.yesdelft.com/
+    title: AI+Blockchain Product/Market Fit
+    url: 'https://music.dataobservatory.eu/post/2020-09-25-yesdelft-validation/'
+  - certificate_url: 
+    date_end: '2020-01-28'
+    date_start: '2020-01-28'
+    description: 'Presenting the first, multi-country, reproducible music market report in Europe'
+    organization: Creative Flip
+    organization_url: http://creativeflip.creativehubs.net/2019/12/03/flipping-the-odds/
+    title: Central European Music Industry Report
+    url: 'https://music.dataobservatory.eu/post/2020-01-30-ceereport/'
+design:
+  columns: '2'
 ---

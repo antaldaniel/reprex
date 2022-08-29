@@ -31,7 +31,9 @@ abstract: The goal of retroharmonize is to facilitate retrospective (ex-post) ha
 # Summary. An optional shortened abstract.
 summary: The goal of retroharmonize is to facilitate retrospective (ex-post) harmonization of data, particularly survey data, in a reproducible manner.
 
-tags: []
+tags: 
+ - Surveys
+ - Survey harmonization
 
 # Display this page in the Featured widget?
 featured: true
@@ -53,11 +55,11 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/dataandlyrics
+  url: https://twitter.com/DigitalMusicObs
 - icon: linkedin
   icon_pack: fab
   name: Connect
-  url: https://www.linkedin.com/company/68855596/
+  url: https://www.linkedin.com/company/79286750
 url_pdf: ''
 url_code: ''
 url_dataset: ''
@@ -70,8 +72,8 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
+  caption: ''
+  focal_point: 'TopLeft'
   preview_only: false
 
 # Associated Projects (optional).
@@ -80,14 +82,14 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- example
+- CEEMID
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
 
 ## Retrospective data harmonization

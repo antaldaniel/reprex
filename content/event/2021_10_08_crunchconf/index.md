@@ -24,7 +24,7 @@ location = "Online"
 # Is this a selected talk? (true/false)
 selected = true
 # Tags (optional).
-tags = ["open-data"]
+tags = ["Open data"]
 
 # Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -58,7 +58,7 @@ Every year, the EU announces that billions and billions of data are now â€œopenâ
 
 In his presentation, Daniel compared the current state of open data (including governmental open data and scientific open data) to a thrift store.  You can often find bargains, or historical data that would be impossible to source from data vendors, but on a strictly as-is basis, without a catalogue, service, or guarantee. Therefore, working with open data requires a careful reprocessing, validation, and in many cases, frequent re-validation. Open data is often over-estimated: it is never a finished product, often it cannot even be downloaded, therefore it requires further investment to make it valuable. However, because most open data arrives from the governmental sector, you can tap into information sources where no market alternative exists.  Open data in some cases may be a cheaper substitute to market vendors, but often it is an exclusive source of information that do not have any market vendors.
 
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/Sisyphus_Bodleian_Library.png" caption="Sisyphus was punished by being forced to roll an immense boulder up a hill only for it to roll down every time it neared the top, repeating this action for eternity.  This is the price that project managers and analysts pay for the inadequate documentation of their data assets." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/img/blogposts_2021/Sisyphus_Bodleian_Library.png" caption="Sisyphus was punished by being forced to roll an immense boulder up a hill only for it to roll down every time it neared the top, repeating this action for eternity.  This is the price that project managers and analysts pay for the inadequate documentation of their data assets." numbered="false" >}}</td>
 
 - The practices related to the exploitation of open data are not only relevant in an open data context: these are good data ingestion and procurement practices for *any* third party data, and in large organizations, for any cross-departmental data. (See the blogpost: [The Data Sisyphus](https://dataandlyrics.com/post/2021-07-08-data-sisyphus/).)
 

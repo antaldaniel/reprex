@@ -1,11 +1,6 @@
-# IDEs
-.idea/
-
-# Hugo
-/resources/
-public/
-jsconfig.json
 .Rproj.user
 .Rhistory
 .RData
-.Rprofile
+.Ruserdata
+public/
+.hugo_build.lock

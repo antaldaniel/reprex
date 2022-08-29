@@ -1,32 +1,32 @@
-+++
-title = "The Data Sisyphus"
-subtitle = ""
-date = 2021-07-08T09:00:00
-lastmod = 2021-07-08T09:00:00
-draft = false
+---
+title:  "The Data Sisyphus"
+subtitle:  ""
+date:  2021-07-08T09:00:00
+lastmod:  2021-07-08T09:00:00
+draft:  false
 
-authors = ["daniel_antal"]
+authors:  ["daniel_antal"]
 
-tags = ["metadata","data-as-service", "api"]
+tags:  ["metadata","data-as-service", "api"]
 
-summary = "Sisyphus was punished by being forced to roll an immense boulder up a hill only for it to roll down every time it neared the top, repeating this action for eternity.  When was a file downloaded from the internet?  What happened with it sense?  Are their updates? Did the bibliographical reference was made for quotations?  Missing values imputed?  Currency translated? Who knows about it – who created a dataset, who contributed to it?  Which is the final, checked, approved by a senior manager?"
+summary:  "Sisyphus was punished by being forced to roll an immense boulder up a hill only for it to roll down every time it neared the top, repeating this action for eternity.  When was a file downloaded from the internet?  What happened with it sense?  Are their updates? Did the bibliographical reference was made for quotations?  Missing values imputed?  Currency translated? Who knows about it – who created a dataset, who contributed to it?  Which is the final, checked, approved by a senior manager?"
 
-projects = ""
+projects:  ""
 
 # Featured image
-[image]
+image: 
   # Caption (optional)
-  caption = "Sisyphus lying under grindstone Bodleian Library, University of Oxford. [Wikimedia](https://commons.wikimedia.org/wiki/Category:Sisyphus#/media/File:Midevil_sysiphus.jpeg)"
+  caption:  "Sisyphus lying under grindstone Bodleian Library, University of Oxford. [Wikimedia](https://commons.wikimedia.org/wiki/Category:Sisyphus#/media/File:Midevil_sysiphus.jpeg)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point:  "Center"
 
   # Show image only in page previews?
-  preview_only = true
+  preview_only:  true
 
-+++
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/Sisyphus_Bodleian_Library.png" caption="Sisyphus was punished by being forced to roll an immense boulder up a hill only for it to roll down every time it neared the top, repeating this action for eternity.  This is the price that project managers and analysts pay for the inadequate documentation of their data assets." numbered="false" >}}</td>
+---
+<td style="text-align: center;">{{< figure src="/img/blogposts_2021/Sisyphus_Bodleian_Library.png" caption="Sisyphus was punished by being forced to roll an immense boulder up a hill only for it to roll down every time it neared the top, repeating this action for eternity.  This is the price that project managers and analysts pay for the inadequate documentation of their data assets." numbered="false" >}}</td>
 
 *When was a file downloaded from the internet?  What happened with it sense?  Are their updates? Did the bibliographical reference was made for quotations?  Missing values imputed?  Currency translated? Who knows about it – who created a dataset, who contributed to it?  Which is an intermediate format of a spreadsheet file, and which is the final, checked, approved by a senior manager?*
 
@@ -44,7 +44,7 @@ In the short run, small consultancies, NGOs, or as a matter of fact, musicians, 
 
 Metadata is a hidden destroyer of the competitiveness of corporate or academic research, or independent content management.   It never quoted on external data vendor invoices, it is not planned as a cost item, because metadata, the description of a dataset, a document, a presentation, or song, is meaningless without the resource that it describes. You never buy metadata.  But if your dataset comes without proper metadata documentation, you are bound, like Sisyphus, to search for it, to re-arrange it, to check its currency units, its digits, its formatting.  Data analysts are reported to spend about 80% of their working hours on data processing and not data analysis -- partly, because data processing is a very laborious task that can be done by computers at a scale far cheaper, and partly because they do not know if the person who sat before them at the same desk has already performed these tasks, or if the person responsible for quality control checked for errors.
 
-<td style="text-align: center;">{{< figure src="/media/img/gems/Uncut-diamond_Edit.jpg" caption="Uncut diamonds need to be cut, polished, and you have to make sure that they come from a legal source. Data is similar: it needs to be tidied up, checked and documented before use. Photo: Dave Fischer." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/img/gems/Uncut-diamond_Edit.jpg" caption="Uncut diamonds need to be cut, polished, and you have to make sure that they come from a legal source. Data is similar: it needs to be tidied up, checked and documented before use. Photo: Dave Fischer." numbered="false" >}}</td>
 
 Undocumented data is hardly informative – it may be a page in a book, a file in an obsolete file format on a governmental server, an Excel sheet that you do not remember to have checked for updates.  Most data are useless, because we do not know how it can inform us, or we do not know if we can trust it.  The processing can be a daunting task, not to mention the most boring and often neglected documentation duties after the dataset is final and pronounced error-free by the person in charge of quality control. 
 
@@ -60,7 +60,7 @@ The good news about documentation and data validation costs is that they can be 
 
 - [x] The authoritative copy is held at an independent repository, it has a globally unique identifier that protects you from accidental data loss, mixing up with unfinished an untested version.
 
-<td style="text-align: center;">{{< figure src="/media/img/gems/Diamond_Polisher.jpg" caption="Cutting the dataset to a format with clear semantics and documenting it with the FAIR metadata concep exponentially increases the value of data. It can be publisehd or sold at a premium. Photo: [Andere Andre](https://commons.wikimedia.org/w/index.php?curid=4770037)." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/img/gems/Diamond_Polisher.jpg" caption="Cutting the dataset to a format with clear semantics and documenting it with the FAIR metadata concep exponentially increases the value of data. It can be publisehd or sold at a premium. Photo: [Andere Andre](https://commons.wikimedia.org/w/index.php?curid=4770037)." numbered="false" >}}</td>
 
 While humans are much better at analysing the information and human agency is required for trustworthy AI, computers are much better at processing and documenting data.  We apply to important concepts to our data service: we always process the data to the tidy format, we create an authoritative copy, and we always automatically add descriptive and processing metadata.
 
@@ -70,7 +70,7 @@ Metadata is often more valuable and more costly to make than the data itself, ye
 
 In most cases, the reason why [there is no gold rush for open data](https://dataandlyrics.com/post/2021-06-18-gold-without-rush/) is that fact that while the EU member states release billions of euros' worth data for free, or at very low cost, annually, it comes without proper metadata. 
 
-<td style="text-align: center;">{{< figure src="/media/img/gems/edgar-soto-gb0BZGae1Nk-unsplash.jpg" caption="[Data-as-Service](/services/data-as-service/)</br></br>Reusable, legal, easy-to-import, interoperable, always fresh data in tidy formats with a modern API. Photo: [Edgar Soto](https://unsplash.com/photos/gb0BZGae1Nk)." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/img/gems/edgar-soto-gb0BZGae1Nk-unsplash.jpg" caption="[Data-as-Service](/services/data-as-service/)</br></br>Reusable, legal, easy-to-import, interoperable, always fresh data in tidy formats with a modern API. Photo: [Edgar Soto](https://unsplash.com/photos/gb0BZGae1Nk)." numbered="false" >}}</td>
 
 
 If the data source is cheap or has a low quality, you do not even get it.  If you do not have it, it will show up as a human resource cost in research (when your analysist or junior researcher are spending countless hours to find out the missing metadata information on the correct use of the data) or in sales costs (when you try to reuse a research, consulting or legal product and you have comb through your archive and retest elements again and again.)

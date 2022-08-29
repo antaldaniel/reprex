@@ -7,7 +7,7 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 40
+weight: 65
 
 title: Projects
 subtitle: ''
@@ -25,18 +25,17 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  - name: All
-    tag: '*'
-  - name: Listen Local
-    tag: listen-local
-  - name: CEEMID
-    tag: ceemid
-  - name: Music Creators' Earnings Project
-    tag: mce
-  - name: Horizon Europe
-    tag: horizon
-  - name: Open Policy Analysis
-    tag: Open Policy Analysis
+    - name: All
+      tag: '*'
+    - name: OpenMuse
+      tag: OpenMuse
+    - name: Music Eviota
+      tag: Music Eviota
+    - name: Open Policy
+      tag: Open Policy Analysis
+    - name: CEEMID
+      tag: CEEMID
+
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

@@ -55,12 +55,11 @@ social:
 email: ""
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Join us
 ---
 
-[Reprex](https://reprex.nl/) is a Dutch-American early stage startup based in the Netherlands specializing in making data reliable and accountable while delivering trustworthy analytics and AI solutions. Our diverse team works from several locations and countries; our ideal candidates are located in South Holland (the Hague/Rotterdam/Delft/Leiden), Western New York state/greater Toronto, Budapest, Bratislava, or Milano, where we have ongoing projects and team members, and thus more onboarding and team-building possibilities. That said, we are open to candidates from any location. We bridge industry and academia through various advanced statistical and ethical AI verification projects: while our R&D partners are leading universities, we aim to deploy our solutions in business environments.
+[Reprex](https://reprex.nl/) is a Dutch-American early stage startup based in the Netherlands specializing in making data reliable and accountable while delivering trustworthy analytics and AI solutions. Our diverse team works from several locations and countries; our ideal candidates are located in South Holland (the Hague/Rotterdam/Delft/Leiden), Western New York state/greater Toronto, Budapest, Bratislava, or Milano, where we have ongoing projects and team members, and thus more onboarding and team-building possibilities. That said, we are open to candidates from any location. We bridge industry and academia through various advanced statistical and ethical AI verification projects: while our R&D partners are leading universities, we aim to deploy our solutions in business environments. 
 
 We welcome candidates from all backgrounds and mother tongues who are proficient in R and have a good working knowledge of the English language.
 
@@ -128,4 +127,4 @@ Our Shiny applications have multiple users:
 Our applications must work with several language; buttons, alternate texts, and descriptions must be parameterized and available for localization. The visual elements must follow simple visual structures and a unified colour palette.
 
 
-_Attribution: the female professional avatar is designed by [macrovector_official / Freepik](http://www.freepik.com)._
+_Attribution: the female avatar is designed by [Andy Horvath - Flaticon](https://www.flaticon.com/free-icons/holiday)._

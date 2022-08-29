@@ -1,39 +1,38 @@
-+++
-title = "How We Add Value to Public Data With Better Curation And Documentation?"
-subtitle = ""
-date = 2021-11-08T09:00:00
-lastmod = 2021-11-10T09:00:00+01:00
-draft = false
+---
+title:  "How We Add Value to Public Data With Better Curation And Documentation?"
+subtitle:  ""
+date:  2021-11-08T09:00:00
+lastmod:  2021-11-08T09:00:00
+draft:  false
 
-authors = ["daniel_antal"]
+authors:  ["daniel_antal"]
 
-tags = ["music","data-as-service", "API", "metadata", "FAIR principle", "data interoperability", "better documentation", "data curation"]
+tags: 
+ - Radio broadcasting
+ - FAIR
+ - Metadata
+ - Data interoperability
+ - Documentation
+ - Data curation
 
-summary = "Many people ask if we can really add value to free data that can be downloaded from the Internet by anybody. We do not only work with easy-to-download data, but we know that free, public data usually requires a lot of work to become really valuable. To start with, it is not always easy to find."
+summary:  "Many people ask if we can really add value to free data that can be downloaded from the Internet by anybody. We do not only work with easy-to-download data, but we know that free, public data usually requires a lot of work to become really valuable. To start with, it is not always easy to find."
 
-project = "horizon"
+project:  "horizon"
 
 # Featured image
-[image]
-  # Caption (optional)
-  caption = "Photo: [Jack Sloop](https://unsplash.com/photos/eYwn81sPkJ8)"
+image: 
+  caption:  "Photo: [Jack Sloop](https://unsplash.com/photos/eYwn81sPkJ8)"
+  focal_point:  "Center"
+  preview_only:  false
+---
 
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
-
-  # Show image only in page previews?
-  preview_only = false
-
-+++
-
-In this example, we show a simple indicator: the *Turnover in Radio Broadcasting Enterprises* in many European countries. This is an important demand driver in the [Music economy pillar](https://music.dataobservatory.eu/#pillars) of our Digital Music Observatory, and important indicator in our more general [Cultural & Creative Sectors and Industries Observatory](https://ccsi.dataobservatory.eu/). We show a very similar example in our *Green Deal Data Observatory* with [environmental R&D public spending in Europe](https://greendeal.dataobservatory.eu/post/2021-11-08-indicator_findable/).
+In this example, we show a simple indicator: the *Turnover in Radio Broadcasting Enterprises* in many European countries. This is an important demand driver in the *Music economy* pillar of our [Digital Music Observatory](https://music.dataobservatory.eu/), and important indicator in our more general [Cultural & Creative Sectors and Industries Observatory](https://ccsi.dataobservatory.eu/). Of course, if you work with competition policy or antitrust, than any industry may be interesting to you--but not all of them are well-serverd with data.
 
 This dataset comes from a public datasource, the data warehouse of the
 European statistical agency, Eurostat. Yet it is not trivial to use:
 unless you are familiar with national accounts, you will not find [this dataset](https://appsso.eurostat.ec.europa.eu/nui/show.do?dataset=sbs_na_1a_se_r2&lang=en) on the Eurostat website. 
 
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/eurostat_radio_broadcasting_turnover.png" caption="The data can be retrieved from the Annual detailed enterprise statistics for services NACE Rev.2 H-N and S95 Eurostat folder." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/img/blogposts_2021/eurostat_radio_broadcasting_turnover.png" caption="The data can be retrieved from the Annual detailed enterprise statistics for services NACE Rev.2 H-N and S95 Eurostat folder." numbered="false" >}}</td>
 
 Our version of this statistical indicator is documented following the [FAIR principles](https://www.go-fair.org/fair-principles/): our data assets
 are findable, accessible, interoperable, and reusable. While the
@@ -41,20 +40,28 @@ Eurostat data warehouse partly fulfills these important data quality
 expectations, we can improve them significantly. And we can also
 improve the dataset, too, as we will show in the [next blogpost](/post/2021-11-06-indicator_value_added/).
 
+{{< toc >}}
+
 ## Findable Data
 
 Our data observatories add value by curating the data--we bring this
-indicator to light with a more descriptive name, and we place it in
-context with our [Digital Music Observatory](https://music.dataobservatory.eu/) and [Cultural & Creative Sectors and Industries Observatory](https://ccsi.dataobservatory.eu/).
-While many people may need this dataset in the creative sectors, or
-among cultural policy designers, most of them have no training in working with
-national accounts, which imply decyphering national account data codes in records that measure economic activity at a national level. Our curated data observatories bring together many available data around important domains. Our *Digital Music Observatory*, for example, aims to form an ecosystem of music data users and producers.
+indicator to light with a more descriptive name, and we place it in a domain-specific context with our [Digital Music Observatory](https://music.dataobservatory.eu/) and [Cultural & Creative Sectors and Industries Observatory](https://ccsi.dataobservatory.eu/) and a policy-specific context with our *Competition Data Observatory* and *Green Deal Data Observatory*. While many people may need this dataset in the creative sectors, or among cultural policy designers, most of them have no training in working with
+national accounts, which imply decyphering national account data codes in records that measure economic activity at a national level. Our curated data observatories bring together many available data around important domains. Our `Digital Music Observatory`, for example, aims to form an ecosystem of music data users and producers.
 
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/zenodo_metadata_eurostat_radio_broadcasting_turnover.png" caption="We [added descriptive metadata](https://zenodo.org/record/5652113#.YYkVBWDMKUk) that help you find our data and match it with other relevant data sources." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/img/blogposts_2021/zenodo_metadata_eurostat_radio_broadcasting_turnover.png" caption="We [added descriptive metadata](https://zenodo.org/record/5652113#.YYkVBWDMKUk) that help you find our data and match it with other relevant data sources." numbered="false" >}}</td>
 
 We added descriptive metadata that help you find our data and match it
 with other relevant data sources. For example, we add keywords and
-standardized metadata identifiers from the *Library of Congress Linked Data Services*, probably the world’s largest standardized knowledge library description. This ensures that you can find relevant data around the same key term ([radio broadcasting](https://id.loc.gov/authorities/subjects/sh85110448.html)) in addition to our turnover data. This allows connecting our dataset unambiguosly with other information sources that use the same concept, but may be listed under different keywords, such as *Radio–Broadcasting*, or *Radio industry and trade*, or maybe *Hörfunkveranstalter* in German, or *Emitiranje radijskog programa* in Croatian or *Actividades de radiodifusão* in Portugese.
+standardized metadata identifiers from the Library of Congress Linked
+Data Services, probably the world’s largest standardized knowledge
+library description. This ensures that you can find relevant data
+around the same key term ("[Radio broadcasting](https://id.loc.gov/authorities/subjects/sh85110448.html)")
+in addition to our turnover data. This allows connecting our dataset unambiguously
+with other information sources that use the same concept, but may be listed under
+different keywords, such as *Radio–Broadcasting*, or *Radio industry and
+trade*, or maybe *Hörfunkveranstalter* in German, or *Emitiranje
+radijskog programa* in Croatian or *Actividades de radiodifusão* in
+Portugese.
 
 ## Accessible Data
 
@@ -76,7 +83,7 @@ a reproducible workflow is not used, data integrity can also be compromised:
 chances are that the process of tidying will overwrite, delete, or omit a data or a label.
 
 
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/tidy-8.png" caption="[Tidy datasets](https://r4ds.had.co.nz/tidy-data.html) are easy to manipulate, model and visualize, and have a specific structure: each variable is a column, each observation is a row, and each type of observational unit is a table." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/img/blogposts_2021/tidy-8.png" caption="[Tidy datasets](https://r4ds.had.co.nz/tidy-data.html) are easy to manipulate, model and visualize, and have a specific structure: each variable is a column, each observation is a row, and each type of observational unit is a table." numbered="false" >}}</td>
 
 While the original data source, the Eurostat data warehouse is
 accessible, too, we added value with bringing the data into a [tidy
@@ -89,7 +96,7 @@ plotting in Excel, OpenOffice or Numbers.
 
 Our data can be easily imported with, or joined with data from other internal or external sources.
 
-<td style="text-align: center;">{{< figure src="/media/img/observatory_screenshots/DMO_API_metadata_table.png" caption="All our indicators come with standardized descriptive metadata, and statistical (processing) metadata. See our [API](https://api.music.dataobservatory.eu/database/metadata/) " numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/img/observatory_screenshots/DMO_API_metadata_table.png" caption="All our indicators come with standardized descriptive metadata, and statistical (processing) metadata. See our [API](https://api.music.dataobservatory.eu/database/metadata/) " numbered="false" >}}</td>
 
 All our indicators come with standardized descriptive metadata,
 following two important standards, the [Dublin Core](https://dublincore.org/) and
@@ -99,8 +106,7 @@ connect the data with other data sources, e.g. turnover with the number of radio
 
 Our passion for documentation standards and best practices goes much further: our data uses [Statistical Data and Metadata eXchange](https://sdmx.org/?page_id=3215/) standardized codebooks, unit descriptions and other statistical and administrative metadata.
 
-
-<td style="text-align: center;">{{< figure src="/media/img/reports/european_visbility_publication.png" caption="We participate in [scientific work](https://reprex.nl/publication/european_visibilitiy_2021/) related to data interoperability." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/img/reports/european_visbility_publication.png" caption="We participate in [scientific work](https://reprex.nl/publication/european_visibilitiy_2021/) related to data interoperability." numbered="false" >}}</td>
 
 ## Reuse
 
@@ -109,8 +115,10 @@ We add citation, attribution data, and licensing terms. Most of our
 datasets can be used without commercial restriction after acknowledging
 the source, but we sometimes work with less permissible data licenses.
 
-In the case presented here, we added further value to encourage re-use. In addition to tidying, we
-significantly increased the usability of public data by handling
-missing cases. This is the subject of our next blogpost.
+In the case presented here, we added further value to encourage re-use. In addition to tidying, we significantly increased the usability of public data by handling
+missing cases. This is the subject of our [next blogpost](/post/2021-11-06-indicator_value_added/).
 
-{{% callout note %}}Are you a data user? Give us some feedback! Shall we do some further automatic data enhancements with our datasets? Document with different metadata? Link more information for business, policy, or academic use? Please give us any [feedback](https://reprex.nl/#contact)!{{% /callout %}}
+{{< spoiler text="Are you a data user? How could we serve you better?" >}}
+*Shall we do some further automatic data enhancements with our datasets? Document with different metadata? Link more information for business, policy, or academic use? Please get in touch with [us](https://reprex.nl/#contact)!*
+{{< /spoiler >}}
+

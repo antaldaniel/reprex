@@ -1,47 +1,45 @@
-+++
+---
 # Project title.
-title = "Listen Local"
+title: "Listen Local"
 
 # Date this page was created.
-date = 2020-09-29T10:00:00
+date: 2020-09-29T10:00:00
 
 # Project summary to display on homepage.
-summary = "Listen Local is a trustworthy, ethical AI-powered system that aims to help great artists in small organizations and small countries using big data. We want to make sure that audiences are not only recommended global superhits, but locally relevant music, too. At present, corporate algorithms fail to connect listeners in small countries with music from the local scene - with artists whom the listener can easily see perform live in local venues, who sing in the listener’s language and who connect with the listener’s feelings and experiences."
+summary: "Listen Local is a trustworthy, ethical AI-powered system that aims to help great artists in small organizations and small countries using big data. We want to make sure that audiences are not only recommended global superhits, but locally relevant music, too. At present, corporate algorithms fail to connect listeners in small countries with music from the local scene - with artists whom the listener can easily see perform live in local venues, who sing in the listener’s language and who connect with the listener’s feelings and experiences."
 
 # Tags: can be used for filtering projects.
-tags = ["listen-local", "ai", "recommendations"]
-
+tags: 
+ - Listen Local
+ - Trustworthy AI
+ - Music recommendations
+ 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link: ""
 
 # Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references 
-#   `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides = ""
+#   Otherwise, set `slides: ""`.
+slides: ""
 
 # Links (optional).
-url_pdf = ""
-url_slides = ""
-url_video = ""
-url_code = ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+url_code: ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/antaldaniel"}]
+#url_custom: [{icon_pack: "fab", icon="twitter", name="Follow", url: "https://twitter.com/antaldaniel"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
-  # Caption (optional)
-  caption = ""
+image:
+  caption: ""
   
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
-+++
+  focal_point: "Center"
+---
 
 *“Big data creates injustice.”* -- Cathy O'Neil, author of [Weapons of Math Destruction](https://blogs.scientificamerican.com/roots-of-unity/review-weapons-of-math-destruction/)
 

@@ -1,62 +1,83 @@
-+++
-title = "Feasibility Study On Promoting Slovak Music In Slovakia & Abroad"
-date = 2021-03-25T11:00:00
-draft = false
+---
+title: 'Feasibility Study On Promoting Slovak Music In Slovakia & Abroad'
 
-authors = ["Daniel Antal", "Dáša Bulíková (translator)"]
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
+authors:
+ - Daniel Antal 
+ - Dáša Bulíková (translator)
+
+# Author notes (optional)
+#author_notes:
+# - 'Equal contribution'
+#  - 'Equal contribution'
+
+date: '2020-12-27T11:00:00'
+doi: ''
+
+# Schedule page publish date (NOT publication's date).
+publishDate: '2020-12-27T11:00:00'
 
 # Publication type.
-# Legend:
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ['4']
 
-publication_types = ["4"]
+# Publication name and optional abbreviated publication name.
+publication: Published by *SOZA*.
 
-# Abstract and optional shortened version.
-abstract = "Why are the total market shares of Slovak music relatively low both on the domestic and the foreign markets? How can we measure the market share of the Slovak music in the domestic and foreign markets? We offer some answers and solution based on empirical research and with the creation of a database and an AI application."
+abstract: "Why are the total market shares of Slovak music relatively low both on the domestic and the foreign markets? How can we measure the market share of the Slovak music in the domestic and foreign markets? We offer some answers and solution based on empirical research and with the creation of a database and an AI application."
 
-# Is this a selected publication? (true/false)
-featured = true
+# Summary. An optional shortened abstract.
+summary: Why are the total market shares of Slovak music relatively low both on the domestic and the foreign markets? How can we measure the market share of the Slovak music in the domestic and foreign markets? We offer some answers and solution based on empirical research and with the creation of a database and an AI application."
 
-# Projects (optional).
-projects = ["listen-local"]
+tags: 
+ - Listen Local
+ - Trustworthy AI
+ - Music recommender systems
 
-# Slides (optional).
-#   `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides = ""
+# Display this page in the Featured widget?
+featured: true
 
-# Tags (optional).
-tags = ["Slovakia", "trustworthy-A", "recommendations", "music-distribution"]
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
 
-# Links (optional).
-url_pdf = "media/publications/Listen_Local_Feasibility_Study_2020_EN.pdf"
-url_preprint = ""
-url_code = ""
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
-
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
-
-# Digital Object Identifier (DOI)
-doi = ""
-
-# Does this page contain LaTeX math? (true/false)
-math = true
+url_pdf: "https://www.jipitec.eu/issues/jipitec-13-1-2022/5515/senftleben_pdf"
+url_preprint: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3785272"
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
 
 # Featured image
-[image]
-  # Caption (optional)
-  caption = ""
+# To use, add an image named `featured.jpg/png` to your page's folder.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
 
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Left"
-+++
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+  - Listen Local
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: ""
+---
 
 Download the study {{% staticref "media/publications/Listen_Local_Feasibility_Study_2020_SK.pdf" "newtab" %}}in Slovak{{% /staticref %}} or {{% staticref "media/publications/Listen_Local_Feasibility_Study_2020_EN.pdf" "newtab" %}}in English{{% /staticref %}}.
 
@@ -77,9 +98,9 @@ We then turn in the third chapter to content-based local regulations promoting t
 
 We introduce the idea of the **Slovak Music Database**, a comprehensive, mainly opt-in, opt-out database that of Slovak artists and Slovak music that should be supported by the local content regulation and other policies. We also create a Demo Slovak Music Database to understand the problem and scope of the creation of the comprehensive version.
 
-The project website contains the [Demo Slovak Music Database](https://listenlocal.community/project/demo-sk-music-db/).
+The project website contains the [Demo Slovak Music Database](https://listen-local.net/project/demo-sk-music-db/).
 
-We also created a [Demo Recommendation System](https://listenlocal.community/project/demo-app/). We explain here [why](https://listenlocal.community/post/2020-11-23-alternative-recommendations/).
+We also created a [Demo Recommendation System](https://listen-local.net/project/demo-app/). We explain here [why](https://listen-local.net/post/2020-11-23-alternative-recommendations/).
 
 ##Research questions
 * Why are the total market shares of Slovak music relatively low both on the domestic and the foreign markets?

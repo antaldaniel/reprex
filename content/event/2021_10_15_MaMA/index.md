@@ -1,58 +1,63 @@
-+++
-title = "Digital Music Observatory on the MaMA Convention 2021"
-date = 2021-10-14T11:00:00  
-lastmod = 2021-10-14T13:00:00  
-draft = false
+---
+title: "Digital Music Observatory on the MaMA Convention 2021"
+date: 2021-10-14T11:00:00  
+lastmod: 2021-10-14T13:00:00  
+draft: false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2021-10-15T11:00:00  
-time_end = 2021-10-15T13:30:00  
+time_start: 2021-10-15T11:00:00  
+time_end: 2021-10-15T13:30:00  
 
-authors = ["Daniel Antal, CFA"]
+authors: ["Daniel Antal, CFA"]
 
 # Abstract and optional shortened version.
-abstract = "We are looking for partners in France for our Digital Music Observatory. You can find us in Le Trianon, in the JUMP Corner."
+abstract: "We are looking for partners in France for our Digital Music Observatory. You can find us in Le Trianon, in the JUMP Corner."
 
 # Name of event and optional event URL.
-event = "MaMA Festival & Convention 2021"
-event_url = "https://www.mamafestival.com/en/programmation-convention/#/program/byVenue"
+event: "MaMA Festival & Convention 2021"
+event_url: "https://2021.mamafestival.com/"
 
 # Location of event
-location = "Online"
+location: "MaMA Festival & Convention"
+address:
+  street: 72 bl. Rochechouart
+  city: Paris
+  postcode: 75018
+  country: France
 
 # Is this a selected talk? (true/false)
-selected = true
+selected: true
 # Tags (optional).
-tags = ["open-data", "music", "data-observatory"]
+tags: ["Open data","Music","Data observatory"]
 
 # Slides (optional).
 #   Associate this talk with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references 
+#   E.g. `slides: "example-slides"` references 
 #   `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides = "MaMA_2021"
+#   Otherwise, set `slides: ""`.
+slides: "MaMA_2021"
 
 # Links (optional).
-url_pdf = ""
-url_slides = ""
-url_video = ""
-url_code = ""
+url_pdf: ""
+url_slides: ""
+url_video: ""
+url_code: ""
 
 # Does the content use math formatting?
-math = false
+math: false
 
 # Featured image
-[image]
-  caption = ""
+image:
+  caption: ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
   
 
-+++
+---
 
 Currently more than half of the global music sales are made by autonomous AI systems owned by Google, Apple, or Spotify. These data monopolies are getting rich, because they reap the profit from music businesses with an average employee count of 1.8 Europe. European music businesses are easy to exploit with armies of data engineers and data scientists because they do not have a single data scientist or even an IT function.
 

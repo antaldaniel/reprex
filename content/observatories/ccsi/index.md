@@ -2,7 +2,7 @@
 title: Cultural & Creative Sectors and Industries Data Observatory
 summary: Relying on modern data science, the re-use of open governmental data, open science data, and novel harmonized data collection we aim to fill in the gaps left in the official statistics of the European Union about the creative and cultural sectors and industries.
 tags:
-- creative industries
+- Creative industries
 date: "2021-10-01T00:00:00Z"
 lastmod: "2022-03-20T170:00:00Z"
 

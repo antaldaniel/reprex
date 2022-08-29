@@ -2,7 +2,7 @@
 title: Digital Music Observatory
 summary: The Digital Music Observatory is a fully automated, open source, open data observatory that links public datasets in order to provide a comprehensive view of the European music industry.
 tags:
-- music
+- Music
 date: "2020-09-15T00:00:00Z"
 lastmod: "2021-07-10T00:00:00Z"
 

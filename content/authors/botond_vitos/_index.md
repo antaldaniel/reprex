@@ -58,7 +58,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- developers
+- Team
 ---
 
 Botond is a data scientist and cultural studies scholar with an interest in digital humanities, music research and festival cultures. His past projects were focused on grassroots music scenes and alternative communities, and he is currently contributing to the development of our Demo Music Observatory and Listen Local initiatives. He is the production editor and art director of the peer reviewed journal Dancecult. He is taking care of our Data APIs and "big data" collection.

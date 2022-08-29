@@ -1,31 +1,45 @@
-+++
-title = "Economic and Environment Impact Analysis, Automated for Data-as-Service"
-subtitle = "Our new open source release will help with automated economic impact and environmental impact analysis."
-date = 2021-06-03T16:00:00
-lastmod = 2021-06-03T16:00:00
-draft = false
+---
+title:  "Economic and Environment Impact Analysis, Automated for Data-as-Service"
+subtitle:  "Our new open source release will help with automated economic impact and environmental impact analysis."
+date:  2021-06-03T16:00:00
+lastmod:  2021-06-03T16:00:00
+draft:  false
 
-authors = ["Daniel Antal"]
+authors:  ["Daniel Antal"]
 
-tags = ["open-data", "open-science", "iotables", "datathon", "economic impact analysis", "environmental impact analysis"]
+tags: 
+ - Environmental impact analysis
+ - Economic impact analysis
+ - Input-output tables
+ - Open data
+ - iotables
 
-summary = "rOpenGov, Reprex, and other open collaboration partners teamed up to build on our expertise of open source statistical software development further: we want to create a technologically and financially feasible data-as-service to put our reproducible research products into wider user for the business analyst, scientific researcher and evidence-based policy design communities. Our new release will help with automated economic impact and environmental impact analysis."
+summary:  "rOpenGov, Reprex, and other open collaboration partners teamed up to build on our expertise of open source statistical software development further: we want to create a technologically and financially feasible data-as-service to put our reproducible research products into wider user for the business analyst, scientific researcher and evidence-based policy design communities. Our new release will help with automated economic impact and environmental impact analysis."
 
-projects = ["eu-datathon_2021"]
+projects:  ""
+
+software: 
+ - iotables
+
+links:
+- icon: github
+  icon_pack: fab
+  name: Code
+  url: https://github.com/rOpenGov/iotables
 
 # Featured image
-[image]
+image: 
   # Caption (optional)
-  caption = ""
+  caption:  ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point:  "Center"
 
   # Show image only in page previews?
-  preview_only = true
+  preview_only:  true
 
-+++
+---
 
 We have released a new version of
 [iotables](https://iotables.dataobservatory.eu/) as part of the
@@ -60,7 +74,9 @@ is to keep vectors and matrices, which have at least one dimension of
 [eurostat](https://CRAN.R-project.org/package=eurostat) on
 [rOpenGov](http://ropengov.org/)
 
-{{< figure src="/media/img/package_screenshots/iotables_0_4_5.png" caption="Our iotables package creates direct, indirect effects and multipliers programatically. Our observatory will make those indicators available for all European countries." numbered="true" >}}
+{{< figure src="/img/package_screenshots/iotables_0_4_5.png" caption="Our iotables package creates direct, indirect effects and multipliers programatically. Our observatory will make those indicators available for all European countries." numbered="true" >}}
+
+{{<toc>}}
 
 ## Accessing and tidying the data programmatically
 
@@ -87,7 +103,7 @@ labels like this:
     # should you need to retrieve the large tempfiles, they are in 
     dir (file.path(tempdir(), "eurostat"))
 
-    dplyr::slice_head(naio_10_cp1700, n = 5)
+    dplyr::slice_head(naio_10_cp1700, n:  5)
 
     ## # A tibble: 5 x 7
     ##   unit    stk_flow induse  prod_na geo       time        values
@@ -138,11 +154,11 @@ does basic labelling and preprocessing on the raw Eurostat files.
 Because of the size of the unfiltered dataset on Eurostat, the following
 code may take several minutes to run.
 
-    sk_io <-  iotable_get ( labelled_io_data = NULL, 
-                            source = "naio_10_cp1700", geo = "SK", 
-                            year = 2015, unit = "MIO_EUR", 
-                            stk_flow = "TOTAL",
-                            labelling = "iotables" )
+    sk_io <-  iotable_get ( labelled_io_data:  NULL, 
+                            source:  "naio_10_cp1700", geo:  "SK", 
+                            year:  2015, unit:  "MIO_EUR", 
+                            stk_flow:  "TOTAL",
+                            labelling:  "iotables" )
 
     ## Reading cache file C:\Users\..\Temp\RtmpGQF4gr/eurostat/naio_10_cp1700_date_code_FF.rds
 
@@ -156,13 +172,13 @@ code may take several minutes to run.
 The `input_coefficient_matrix_create()` creates the input coefficient
 matrix, which is used for most of the analytical functions.
 
-*a*<sub>*i**j*</sub> = *X*<sub>*i**j*</sub> / *x*<sub>*j*</sub>
+*a*<sub>*i**j*</sub>:  *X*<sub>*i**j*</sub> / *x*<sub>*j*</sub>
 
 It checks the correct ordering of columns, and furthermore it fills up 0
 values with 0.000001 to avoid division with zero.
 
     input_coeff_matrix_sk <- input_coefficient_matrix_create(
-      data_table = sk_io
+      data_table:  sk_io
     )
 
     ## Columns and rows of real_estate_imputed_a, extraterriorial_organizations are all zeros and will be removed.
@@ -177,9 +193,9 @@ input-output economics.
 And take out the primary inputs:
 
     primary_inputs_sk <- coefficient_matrix_create(
-      data_table = sk_io, 
-      total = 'output', 
-      return = 'primary_inputs')
+      data_table:  sk_io, 
+      total:  'output', 
+      return:  'primary_inputs')
 
     ## Columns and rows of real_estate_imputed_a, extraterriorial_organizations are all zeros and will be removed.
 
@@ -219,15 +235,15 @@ Then solve for the multipliers:
 
     multipliers_sk <- input_multipliers_create( 
       primary_inputs_sk %>%
-        filter (.data$iotables_row == "gva"), I_sk ) 
+        filter (.data$iotables_row: = "gva"), I_sk ) 
 
 And select a few industries:
 
     set.seed(12)
     multipliers_sk %>% 
       tidyr::pivot_longer ( -all_of("iotables_row"), 
-                            names_to = "industry", 
-                            values_to = "GVA_multiplier") %>%
+                            names_to:  "industry", 
+                            values_to:  "GVA_multiplier") %>%
       select (-all_of("iotables_row")) %>%
       arrange( -.data$GVA_multiplier) %>%
       dplyr::sample_n(8)
@@ -268,7 +284,7 @@ of the package by comparing two economies, Czechia and Slovakia and
 guides you through a lot more examples than this short blogpost.
 
 Our package was originally developed to calculate GVA and employment
-effects for the Slovak music industry (see our [Slovak Music Industry Report](https://music.dataobservatory.eu/publication/slovak_music_industry_2019/)), and similar calculations for the
+effects for the Slovak music industry, and similar calculations for the
 Hungarian film tax shelter. We can now programatically create
 reproducible multipliers for all European economies in the [Digital
 Music Observatory](https://music.dataobservatory.eu/), and create
@@ -302,7 +318,7 @@ the daylight yet.
 
 ## rOpenGov and the EU Datathon Challenges
 
-{{< figure src="/media/img/partners/rOpenGov-intro.png" caption="rOpenGov, Reprex, and other open collaboration partners teamed up to build on our expertise of open source statistical software development further: we want to create a technologically and financially feasible data-as-service to put our reproducible research products into wider user for the business analyst, scientific researcher and evidence-based policy design communities." numbered="true" >}}
+{{< figure src="/img/partners/rOpenGov-intro.png" caption="rOpenGov, Reprex, and other open collaboration partners teamed up to build on our expertise of open source statistical software development further: we want to create a technologically and financially feasible data-as-service to put our reproducible research products into wider user for the business analyst, scientific researcher and evidence-based policy design communities." numbered="true" >}}
 
 
 [rOpenGov](http://ropengov.org/) is a community of open governmental
@@ -323,4 +339,4 @@ Our [iotables](https://iotables.dataobservatory.eu/) package is one of
 our many open-source building blocks to make open data more accessible
 to all.
 
-*Join our open collaboration Digital Music Observatory team as a [data curator](https://music.dataobservatory.eu/authors/curator), [developer](https://music.dataobservatory.eu/authors/developer) or [business developer](https://music.dataobservatory.eu/authors/team). More interested in environmental impact analysis? Try our [Green Deal Data Observatory](https://greendeal.dataobservatory.eu/#contributors) team! Or economic policies, particularly computation antitrust, innovation and small enterprises? Check out our [Economy Music Observatory](https://economy.dataobservatory.eu/#contributors) team!*
+*Join our open collaboration Economy Data Observatory team as a [data curator](/authors/curator), [developer](/authors/developer) or [business developer](/authors/team). More interested in environmental impact analysis? Try our [Green Deal Data Observatory](https://greendeal.dataobservatory.eu/#contributors) team! Or your interest lies more in data governance, trustworthy AI and other digital market problems? Check out our [Digital Music Observatory](https://music.dataobservatory.eu/#contributors) team!*
