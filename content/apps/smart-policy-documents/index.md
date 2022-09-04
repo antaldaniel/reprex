@@ -40,11 +40,8 @@ url_slides: ""
 url_video: ""
 
 # Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
 **Stop uploading your work onto the web 2.0 in a pdf, epub, or word file. Build a self-refreshing resource that re-refreshes the statistics, legal texts, tables, visualizations, footnotes and bibliography instead.  This way you’ll have a greater impact: you’ll connect to global knowledge graphs, and your work can be reused much better.**
@@ -55,23 +52,26 @@ Our “smart document” is always live: it contains code that searches for data
 
 ⚖️ Updates legal citations from Eur-LEX, i.e. contains the latest form of policy or legal documents, and flags for the researchers any important changes in the lifecycle of the citation (legal text goes out of force, amended, important court decisions get connected).
 
+🎨  Exchange cultural Digital Objects with Europeana or other cultural heritage or knowledge organizations, such as out-of-print books, music works, or 3D design objects.
 
-At this point, it is for policy wonks who are a little bit geeky. But we are working hard to package it into a highly usable end-user product.
+
+We admit that at this point we mainly serve policy wonks or scientists who are very tech savvy. But we are working hard to package it into a highly usable end-user product.
 
 ## What is reproducible research?
 
 Reproducible research is what it is: it can be reproduced.  Easier said than done. We create open source software that accompanies the entire research workflow, from the fieldwork or big data collector, downloading documents via the analysis, visualizations, citations, web dissemination and publication. We do all those little steps that computers do better than humans: logging, documenting, testing, validating, archiving. This allows our users to do what humans do best: think.
 
-Our [data observatories]() are open scholarly platforms that support reproducible research. Our policy documents bring this functionality to your personal computer, and make it available for an NGO, a lawyer, a consultant, or an individual researcher.
+Our [data observatories](https://reprex.nl/#observatories) are open scholarly platforms that support reproducible research. Our policy documents bring this functionality to your personal computer, and make it available for an NGO, a lawyer, a consultant, or an individual researcher.
 
 {{< youtube fQJHflWPS34 >}}
 
 
 ## Feature list
 
-1. Each external resource, i.e. a policy document, a legal text, law, a dataset is clearly identified and downloaded, processed for the document into a footnote, citation, table or standard visualization.
+1. Each external resource, i.e. a policy document, a legal text, a cultural heritage object, a catalog entry, a dataset is clearly identified and downloaded, processed for the document into a footnote, citation, table or standard visualization.
 
-2. New artifacts, such as visualizations, tables, receive a unique document object identifier (DOI) that clearly states their source, the person who oversaw the creation, the date, and the version. 
+2. New artifacts, such as visualizations, tables, receive a unique document object identifier (DOI) that clearly states their source, the person who oversaw the creation, the date, and the version.
+
 3. These artifacts are added into the text in pre-defined places, such as the “Chart on GDP growth” placeholder containing the latest chart on GDP growth, while the citation in the bibliography contains the new version of the artifact (i.e. the chart with a DOI.)
 
 4. The artifacts, such as datasets, tables, visualizations, codebooks, reference lists, are uploaded with a new version to an open science repository such as FigShare or Zenodo. This ensures that the creator's intellectual rights are respected, and different, unauthorized versions of the table, chart, or other artifact in unknown news outlets, social media, are not connected to the creator or publisher.
