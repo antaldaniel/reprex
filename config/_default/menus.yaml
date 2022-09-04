@@ -23,7 +23,7 @@ main:
     weight: 30
     identifier: Solutions
   - name: Apps
-    url: '/project/apps'
+    url: '#apps'
     weight: 31
     parent: Solutions
   - name: Software
