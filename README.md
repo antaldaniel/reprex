@@ -43,10 +43,7 @@ Reprex builds open source products, and our friends at Wowchemy do so, too.  You
 
 Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
 
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
+We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way. [❤️ Click here to become a Wowchemy GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
 
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
-
-<p align="center"><a href="https://wowchemy.com/templates/" target="_blank" rel="noopener"><img src="https://wowchemy.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Theme for Wowchemy Website Builder"></a></p>
 
 
