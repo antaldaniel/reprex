@@ -9,20 +9,17 @@ authors: ["Balazs Bodó", "Daniel Antal", "Zoltan Puha"]
 # Legend:
 
 publication_types: ["2"]
-publication: In [PLOS One](https://journals.plos.org/plosone/)
-publication_short: PLOS One
 
 # Abstract and optional shortened version.
 abstract: "The topic of the paper is Library Genesis (LG), the biggest piratical scholarly library on the internet, which provides copyright infringing access to more than 2.5 million scientific monographs, edited volumes, and textbooks. The paper uses advanced statistical methods to explain why researchers around the globe use copyright infringing knowledge resources. The analysis is based on a huge usage dataset from LG, as well as data from the World Bank, Eurostat, and Eurobarometer, to identify the role of macroeconomic factors, such as R&D and higher education spending, GDP, researcher density in scholarly copyright infringing activities."
 
-summary: "The paper analyzes a set of weblogs of one of the book piracy mirrors to reconstruct the global black-market demand for scholarly literature."
+abstract_short: "The paper analyzes a set of weblogs of one of the book piracy mirrors to reconstruct the global black-market demand for scholarly literature."
 
 # Is this a selected publication? (true/false)
 featured: true
 
 # Projects (optional).
-projects: 
- - OpenMuse
+projects: ["market-report"]
 
 # Slides (optional).
 #   `content/slides/example-slides.md`.
@@ -44,7 +41,6 @@ url_poster: ""
 url_source: ""
 
 # Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
 # url_custom: [{name: "Custom Link", url: "http://example.org"}]
 
 # Digital Object Identifier (DOI)
@@ -57,6 +53,9 @@ math: true
 image:
   # Caption (optional)
   caption: ""
+
+  # Focal point (optional)
+  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point: "Left"
 ---
 

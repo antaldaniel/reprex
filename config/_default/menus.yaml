@@ -18,37 +18,53 @@ main:
   - name: Blog
     url: '#posts'
     weight: 20
+  - name: Solutions
+    url: '#services'
+    weight: 30
+    identifier: Solutions
+  - name: Apps
+    url: '/project/apps'
+    weight: 31
+    parent: Solutions
+  - name: Software
+    url: '#releases'
+    weight: 32
+    parent: Solutions
+#  - name: Use cases
+#    url: '#usecase'
+#    weight: 34
+#    parent: Solutions
+  - name: Code
+    url: '/category/r-bloggers/'
+    weight: 34
+    parent: Solutions
   - name: Data Ecosystems
     url: ""
-    weight: 30
+    weight: 40
     identifier: Data
   - name: Overview
     url: '#observatories'
-    weight: 30
+    weight: 40
     parent: Data
   - name: Digital Music Observatory &#128279;
     url: 'https://music.dataobservatory.eu'
-    weight: 31
+    weight: 41
     parent: Data
   - name: CCSI Data Observatory &#128279;
     url: 'https://ccsi.dataobservatory.eu'
-    weight: 32
+    weight: 42
     parent: Data
   - name: Green Deal Data Observatory &#128279;
     url: 'https://greendeal.dataobservatory.eu'
-    weight: 33
+    weight: 43
     parent: Data
   - name: Competition Data Observatory &#128279;
     url: 'https://competition.dataobservatory.eu'
-    weight: 34
+    weight: 44
     parent: Data
   - name: Team
     url: '#team'
-    weight: 40
-  - name: Software
-    url: '#software'
-    weight: 50
-    identifier: software
+    weight: 45
   - name: Projects
     url: "#projects"
     weight: 60

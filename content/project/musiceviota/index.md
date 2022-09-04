@@ -1,51 +1,39 @@
-+++
+---
 # Project title.
-title = "Music Eviota"
-subtitle = "Sustainability reporting for music organizations" 
+title: "Music Eviota"
+subtitle: "Sustainability reporting for music organizations" 
 
 # Date this page was created.
-date = 2022-06-09T09:40:00+01:00
-lastmod = 2022-06-09T09:40:00+01:00
+date: 2022-06-09T09:40:00+01:00
+lastmod: 2022-09-04T09:40:00+01:00
 
 # Project summary to display on homepage.
-summary = "We will help small music organizations in their sustainability reporting, where detail data and reporting standards are only available for greenhouse gas emissions."
+summary: "We will help small music organizations in their sustainability reporting, where detail data and reporting standards are only available for greenhouse gas emissions."
 
 # Tags: can be used for filtering projects.
-tags = ["Sustainability", "European Green Deal", "MusicAIRE"]
+tags: ["Sustainability", "European Green Deal", "MusicAIRE"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link: ""
 
 # Slides (optional).
-#   Associate this project with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references 
-#   `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides = ""
+#   Otherwise, set `slides: ""`.
+slides: ""
 
 # Links (optional).
-url_pdf = ""
-url_slides = ""
-url_video = ""
-url_code = ""
-
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/antaldaniel"}]
+url_pdf: ""
+url_slides: ""
+url_video: ""
+url_code: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
-  # Caption (optional)
-  caption = ""
-  
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
-  preview_only = true
-+++
-<td style="text-align: center;">{{< figure src="/media/img/eviota/Scope3_chart_16x9.jpg" caption="Reporting the impacts of the entire value chain." numbered="false" >}}</td>
+image:
+  caption: ""
+  focal_point: "Center"
+  preview_only: true
+---
+<td style="text-align: center;">{{< figure src="/img/eviota/Scope3_chart_16x9.jpg" caption="Reporting the impacts of the entire value chain." numbered="false" >}}</td>
 
 
 Our minimum viable product will create sustainability reports (or report components) for greenhouse gases and sustainable water use with applying the `Global GHG Accounting & Reporting Standard for the Financial Industry` and EFRAG’s proposed concept on connecting European accounting standards and information with sustainability. We will help small music organizations in their sustainability reporting, where detail data and reporting standards are only available for greenhouse gas emissions. The `Music Eviota` project is supported by the [MusicAIRE](#greenrecovery).
@@ -57,7 +45,7 @@ Our project is based on open collaboration.  Our proposal, if funded, will provi
 The European Green Deal, which includes the proposed Corporate Sustainability Reporting Directive, and the sustainable finance package, aims to set the European economy on a permanent decarbonization and sustainability increasing path with adjusting the rules how economic activities are financed by bank loans, insurance, investments, and direct subsidies. From 2023, it will be cheaper to get loans, insurance, and other types of funding for organizations that can prove that they follow the environmental, social and
 governance path set out in the Paris Agreement and other UN, OECD, and EU agreements.
 
-<td style="text-align: center;">{{< figure src="/media/img/eviota/Eviota_EFRAG_requirements.jpg" caption="Requirements for connecting financial and sustainability reporting." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/img/eviota/Eviota_EFRAG_requirements.jpg" caption="Requirements for connecting financial and sustainability reporting." numbered="false" >}}</td>
 
 Correct and reliable sustainability management will come with many financial advantages and increased responsibility. The [European Financial Reporting Advisory Board](https://www.efrag.org/) is currently preparing the new combined financial and sustainability reporting standard that will be used in banks, insurance, investment, granting, and the large companies of Europe in their entire supply and purchaser chain. The European Commission estimates that compliance costs until the end of 2023 will amount to 4 billion euros, with reporting and auditing costs mounting 10,000 euros per organization. While music small and medium sized organizations (MSMEs) and limited liability civil society organizations (CSOs) will be exempted from mandatory sustainability management and audited reporting, they can still comply in a non-audited and voluntary way.
 
@@ -68,7 +56,11 @@ Our solution benefits the music MSMEs and CSOs in several ways:
 Our review of the environmental, social and governance risk management (ESG sustainability management) suggests that complying with ESG standards is not only a pre-requisite to get cheaper loans (less important) and cheaper insurance (very important in live music), but also a requirement by corporate sponsors of events, and even a large part of the audience. While some music organizations already provide sustainability reporting, they are not standardized and are less factful as they are not connected to accounting information at every point. Our solution aims to give much credibility to both the sustainability
 reports and non-financial disclosures of the financial reports (which are not mandatory for MSMEs but increase their trustworthiness on an elective basis if they are included.)
 
-<td style="text-align: center;">{{< figure src="/media/img/eviota/ESG_Google_Trends_16x9.jpg" caption="Growing interest for ESG in select countries." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/img/eviota/ESG_Google_Trends_16x9.jpg" caption="Growing interest for ESG in select countries." numbered="false" >}}</td>
 
 ## Green Recovery in the Music Sector {#greenrecovery}
+<td style="text-align: center;">{{< figure src="/img/logos/MusicAIRE_logo_black.png" caption="Co-funded by the European Union" numbered="false" >}}</td>
+
 The objectives of the MusicAIRE GREEN recovery program is increasing the music sector’s environmental sustainability and ecological awareness with a view to greening the music industry, in particular live acts, festivals and touring, as well as supporting innovative start-ups aiming at decreasing the environmental footprint of online data storing and music distribution.
+
+<td style="text-align: center;">{{< figure src="/img/logos/EN_Co-Funded_by_the_EU_POS.png" caption="Co-funded by the European Union" numbered="false" >}}</td>

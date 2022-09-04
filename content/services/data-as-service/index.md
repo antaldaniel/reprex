@@ -2,8 +2,8 @@
 title: Data-as-Service
 summary: We provide our clients with simple datasets, databases, harmonized survey data, and various other rich data applications; we provide them with continuous access to high-quality, re-processed, re-usable public sector and scientific data.
 tags:
-- Data-as-Service
-- API
+- daas
+- api
 date: "2021-01-21T00:00:00Z"
 lastmod: "2021-07-07T00:00:00Z"
 
@@ -18,7 +18,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/dataandlyrics
+  url: https://twitter.com/EconDataObs
 - icon: linkedin
   icon_pack: fab
   name: Connect
@@ -26,11 +26,11 @@ links:
 - icon: database
   icon_pack: fas
   name: Try API
-  url: https://api.music.dataobservatory.eu/
+  url: https://api.economy.dataobservatory.eu/
 - icon: book-open
   icon_pack: fas
   name: Documentation
-  url: https://curators.dataobsevatory.eu/
+  url: https://competition-data-observatory.netlify.app/#data
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -39,8 +39,8 @@ url_video: ""
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
+#   E.g. `slides: "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides: ""`.
 slides: example
 ---
 

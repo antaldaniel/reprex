@@ -17,9 +17,9 @@ lastmod: "2021-06-28T09:00:00Z"
 doi: "10.5281/zenodo.5006056"
 
 # Publication type.
-# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
-# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
-# 7 = Thesis; 8 = Patent
+# Legend: 0: Uncategorized; 1: Conference paper; 2: Journal article;
+# 3: Preprint / Working Paper; 4: Report; 5: Book; 6: Book section;
+# 7: Thesis; 8: Patent
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
@@ -198,12 +198,12 @@ citation("retroharmonize")
 #> A BibTeX entry for LaTeX users is
 #> 
 #>   @Manual{,
-#>     title = {retroharmonize: Ex Post Survey Data Harmonization},
-#>     author = {Daniel Antal},
-#>     year = {2021},
-#>     doi = {10.5281/zenodo.5006056},
-#>     note = {R package version 0.1.17},
-#>     url = {https://retroharmonize.dataobservatory.eu/},
+#>     title: {retroharmonize: Ex Post Survey Data Harmonization},
+#>     author: {Daniel Antal},
+#>     year: {2021},
+#>     doi: {10.5281/zenodo.5006056},
+#>     note: {R package version 0.1.17},
+#>     url: {https://retroharmonize.dataobservatory.eu/},
 #>   }
 ```
 
