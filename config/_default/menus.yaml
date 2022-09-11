@@ -8,13 +8,13 @@ main:
     weight: 10
     parent: Home
   - name: Achievements
-    url: '#achievements'
+    url: '#experience'
     weight: 12
     parent: Home
-  - name: Services
-    url: '#services'
-    weight: 14
-    parent: Home
+#  - name: Services
+#    url: '#services'
+#    weight: 14
+#    parent: Home
   - name: Blog
     url: '#posts'
     weight: 20
