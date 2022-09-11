@@ -46,8 +46,8 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: "https://www.jipitec.eu/issues/jipitec-13-1-2022/5515/senftleben_pdf"
-url_preprint: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3785272"
+url_pdf: "https://zenodo.org/record/6427514/files/Listen_Local_Feasibility_Study_2020_EN.pdf?download=1"
+url_preprint: ""
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -64,22 +64,16 @@ image:
   preview_only: false
 
 # Associated Projects (optional).
-#   Associate this publication with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
   - Listen Local
 
 # Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
 
-Download the study {{% staticref "media/publications/Listen_Local_Feasibility_Study_2020_SK.pdf" "newtab" %}}in Slovak{{% /staticref %}} or {{% staticref "media/publications/Listen_Local_Feasibility_Study_2020_EN.pdf" "newtab" %}}in English{{% /staticref %}}.
+Download the study {{% staticref "https://zenodo.org/record/6427556/files/Listen_Local_Feasibility_Study_2020_SK.pdf?download=1" "newtab" %}}in Slovak{{% /staticref %}} or {{% staticref "https://zenodo.org/record/6427514/files/Listen_Local_Feasibility_Study_2020_EN.pdf?download=1" "newtab" %}}in English{{% /staticref %}}.
 
 In 2015, realizing the low visibility and income-generating potential of Slovak music, the legislation introduced an amendment to the broadcasting act to regulate local content in radiostreams. The Slovak content promoting policy was well-intended but not based on any impact assessment, and it reached its goal only partially.
 
@@ -102,7 +96,7 @@ The project website contains the [Demo Slovak Music Database](https://listen-loc
 
 We also created a [Demo Recommendation System](https://listen-local.net/project/demo-app/). We explain here [why](https://listen-local.net/post/2020-11-23-alternative-recommendations/).
 
-##Research questions
+## Research questions
 * Why are the total market shares of Slovak music relatively low both on the domestic and the foreign markets?
 * How can we measure the market share of the Slovak music in the domestic and foreign markets?
 * How can we measure the value gap between what some media platforms, most particularly the biggest YouTube, does not pay out to the Slovak stakeholders within Slovakia?
