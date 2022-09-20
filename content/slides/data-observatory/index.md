@@ -86,10 +86,10 @@ regions improves the granularity of existing market research with ‘small area 
 
 ## Team
 
-|   |   |
+| <div style="width:160px"></div>  |   |
 |---|:--|
-|   |  <p style="font-size:55%">The two co-founders and the core team manage the ecosystems' development, develop knowledge management, and direct the software development.</p>  |
-|  | <p style="font-size:55%">Each observatory has a broader team of users, data and knowledge curators, and developers. The most developed Digital Music Observatory has 16 institutional users and a team of about 20 music and data professionals.</p>  |
+| <img src="reprex_contributors_20220920_2_1.png" width="160">  |  <p style="font-size:65%">The two co-founders, Daniel Antal, CFA and Andrés García Molina, PhD, and the core team manage the ecosystems' development, develop knowledge management, and direct the software development.</p>  |
+| <img src="dmo_contributors_20220920_2_1.png" width="160"> | <p style="font-size:65%">Each observatory has a broader team of users, data and knowledge curators, and developers. The most developed Digital Music Observatory has 16 institutional users and a team of about 20 music and data professionals. The newer observatories have a smaller, initial service development and data curatorial team.</p>  |
 
 ---
 
