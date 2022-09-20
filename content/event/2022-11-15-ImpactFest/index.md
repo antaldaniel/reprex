@@ -51,6 +51,7 @@ slides:
 # Projects (optional).
 projects: ""
 ---
+
 {{% callout note %}}
 Reprex is a finalist for The Hague Innovators Award 2022, and the prize of the audience, in the startup category with our respectable competitors, Sibö, WECO, STHRIVE and ECOBLOQ.
 {{% /callout %}}

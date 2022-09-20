@@ -32,15 +32,21 @@ Only the largest corporations, best-endowed universities, and rich governments c
 
 ## Data observatories
 
-Reprex is offering shared data ecosystems. Our observatories are great solutions for organizations without a data specialization:
+<p style="font-size:90%">Reprex is offering shared data ecosystems. Our observatories are great solutions for organizations without a data specialization:</p>
+
 | | 
 |:--|
 |<p style="font-size:75%">🌳 Organizations that cannot afford to build a large enough data team to sustain consistent, extensive data collection and processing (many large institutions and companies)</p>|
 |<p style="font-size:75%">🪴  Who cannot hire even a single data engineer or a data scientist (medium-sized companies, NGOs)</p>|
 |<p style="font-size:75%">🌱 Who do not even have a permanent IT function (about 2 million European small enterprises and civil society organizations)</p>|
 
+---
 
-
+| <div style="width:200px"></div>  |   |
+|---|:--|
+|<img src="https://placekitten.com/400/400" width="140" height="140"> | <p style="font-size:60%">The European Union, the World Bank, OECD, and UN have facilitated the creation of more than 80 so-called 'data observatories' to help companies, researchers, NGOs, and governments systematically collect data and knowledge.</p> |
+|<img src="https://placekitten.com/400/400" width="140" height="140"> | <p style="font-size:60%">We are currently building one prototype for the European Music Observatory financed by the European Union and music industry players (cc 3-4 million euros.)  We would like to take over existing or start new observatories  in 2 years at least 5)</p> |
+|<img src="https://placekitten.com/400/400" width="140" height="140"> | <p style="font-size:60%">Our observatories are competitive, because they use high-quality open source scientific software; they exploit the new Data Governance Act and Open Data Directive, deploy web 3.0 data synchronization, and offer great value-added research products.</p> |
 
 ---
 
