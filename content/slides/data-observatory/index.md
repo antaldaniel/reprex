@@ -50,19 +50,45 @@ Only the largest corporations, best-endowed universities, and rich governments c
 
 ---
 
-<div class="r-stack">
-  <img class="fragment fade-out" data-fragment-index="0" src="https://placekitten.com/450/300" width="450" height="300">
-  <img class="fragment current-visible" data-fragment-index="0" src="https://placekitten.com/300/450" width="300" height="450">
-  <img class="fragment" src="https://placekitten.com/400/400" width="400" height="400">
-</div>
+| Platform products|  Value added data applications |
+|---|---|
+|<p style="font-size:75%">The European Union, the World Bank, OECD, and UN have facilitated the creation of more than 80 so-called 'data observatories' to help companies, researchers, NGOs, and governments systematically collect data and knowledge.</p>| <p style="font-size:75%">The different observatories offer different types of knowledge products, such as statistical yearbooks, various apps, and database access.</p>|
+|<p style="font-size:75%">Most of them use web 1.0 technologies, inefficient knowledge accumulation.  Already 20 of them have been discontinued.| <p style="font-size:75%">We are developing software solutions that exploit our platforms: we harmonize surveys, statistical data, automate research reporting, elements of market monitoring or ESG reporting.</p>|
+|<p style="font-size:75%"> We are currently building one prototype for the European Music Observatory financed by the European Union and music industry players (cc 3-4 million euros.)  We would like to take over existing or start new observatories  in 2 years at least 5) </p>| <p style="font-size:75%">Each observatory gives us intimidate customer access to 3-4 large universities, 1-2 large consultancies, and various specialist institutions. </p>|
+
 
 ---
 
-<div class="r-stack">
-  <img class="fragment" src="https://placekitten.com/450/300" width="450" height="300">
-  <img class="fragment" src="https://placekitten.com/300/450" width="300" height="450">
-  <img class="fragment" src="https://placekitten.com/400/400" width="400" height="400">
-</div>
+## Marketing strategy
+
+
+---
+
+## Target market size
+
+---
+
+## Team
+
+---
+
+## Traction
+
+
+We have a good, organic growth, but we mainly work with very large private and public entities with complicated, lengthy and not startup-friendly procurement with a cash-conversion cycle of up
+--- 
+
+---
+
+## Funding
+
+- We have a good track record in EU tenders, but we would like to build up this reputation in the Netherlands, too, mainly for new platforms.
+- We help our non-profit users, such as xxxxxx to get funding to use our platforms and services.  Unfortunately, we have no track record in the Netherlands.
+- Our for profit-users need a more polished, user-friendlier front-end.  Some are interested in joint ventures (like exploiting our survey capabilities). Venture capital would be preferred, as demand outstrips growth.
+
+---
+
+
 
 ---
 
@@ -119,6 +145,25 @@ Only the largest corporations, best-endowed universities, and rich governments c
 - [PDF Export](https://github.com/hakimel/reveal.js#pdf-export): `E`
 
 ----
+
+
+---
+
+<div class="r-stack">
+  <img class="fragment fade-out" data-fragment-index="0" src="https://placekitten.com/450/300" width="450" height="300">
+  <img class="fragment current-visible" data-fragment-index="0" src="https://placekitten.com/300/450" width="300" height="450">
+  <img class="fragment" src="https://placekitten.com/400/400" width="400" height="400">
+</div>
+
+---
+
+<div class="r-stack">
+  <img class="fragment" src="https://placekitten.com/450/300" width="450" height="300">
+  <img class="fragment" src="https://placekitten.com/300/450" width="300" height="450">
+  <img class="fragment" src="https://placekitten.com/400/400" width="400" height="400">
+</div>
+
+---
 ## What are data observatories?
 
 - There are more than 60 functional, and about 20 already discontinued data observatories, i.e. long-term, usually triangular (business, academic, policy) data collection institutions recognized by the EU, OECD or UNESCO, including the [European Observatory on Infringements of Intellectual Property Rights](https://single-market-economy.ec.europa.eu/industry/strategy/intellectual-property/enforcement-intellectual-property-rights/european-observatory-infringements-intellectual-property-rights_en#:~:text=The%20European%20Observatory%20on%20Infringements,countries%2C%20businesses%20and%20civil%20society.) of the EU or the [European Audiovisual Observatory](https://www.obs.coe.int/en/web/observatoire) of the Council of Europe.
