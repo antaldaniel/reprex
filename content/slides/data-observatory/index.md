@@ -63,11 +63,10 @@ Only the largest corporations, best-endowed universities, and rich governments c
 
 | <div style="width:160px"></div>  |   |
 |---|:--|
-|<img src="dmo_opening_page_20230920_16x9.png" width="160"> | <p style="font-size:55%">Buma/Stemra like copyright management agencies, music export offices, festivals and venues,  University of Amsterdam, Sant’Anna, Economic University of Bratislava, ministries of culture, grant agencies.</p> |
-|<img src="ccsi_opening_page_20230920_16x9.png" width="160"> | <p style="font-size:55%">University of Amsterdam, Europeana, Sant’Anna, Hungarian Film Fund</p> |
-|<img src="gdo_opening_page_20230920_16x9.png" width="160">| <p style="font-size:55%">Connected financial and sustainability reporting: bank consultancies, big four audit companies, large environmental NGOs.</p> |
-|<img src="cdo_opening_page_20230920_16x9.png" width="160">| <p style="font-size:55%">Antitrust agencies, law firms, economics consultancies working with mergers and other competition related issues.</p> |
-
+|<img src="dmo_opening_page_20220920_16x9.png" width="160"> | <p style="font-size:55%">Buma/Stemra like copyright management agencies, music export offices, festivals and venues,  University of Amsterdam, Sant’Anna, Economic University of Bratislava, ministries of culture, grant agencies.</p> |
+|<img src="ccsi_opening_page_20220920_16x9.png" width="160"> | <p style="font-size:55%">University of Amsterdam, Europeana, Sant’Anna, Hungarian Film Fund</p> |
+|<img src="gdo_opening_page_20220920_16x9.png" width="160">| <p style="font-size:55%">Connected financial and sustainability reporting: bank consultancies, big four audit companies, large environmental NGOs.</p> |
+|<img src="cdo_opening_page_20220920_16x9.png" width="160">| <p style="font-size:55%">Antitrust agencies, law firms, economics consultancies working with mergers and other competition related issues.</p> |
 
 ---
 
