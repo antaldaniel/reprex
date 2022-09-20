@@ -61,14 +61,35 @@ Only the largest corporations, best-endowed universities, and rich governments c
 
 ## Marketing strategy
 
+| <div style="width:160px"></div>  |   |
+|---|:--|
+|<img src="dmo_opening_page_20230920_16x9.png" width="160"> | <p style="font-size:55%">Buma/Stemra like copyright management agencies, music export offices, festivals and venues,  University of Amsterdam, Sant’Anna, Economic University of Bratislava, ministries of culture, grant agencies.</p> |
+|<img src="ccsi_opening_page_20230920_16x9.png" width="160"> | <p style="font-size:55%">University of Amsterdam, Europeana, Sant’Anna, Hungarian Film Fund</p> |
+|<img src="gdo_opening_page_20230920_16x9.png" width="160">| <p style="font-size:55%">Connected financial and sustainability reporting: bank consultancies, big four audit companies, large environmental NGOs.</p> |
+|<img src="cdo_opening_page_20230920_16x9.png" width="160">| <p style="font-size:55%">Antitrust agencies, law firms, economics consultancies working with mergers and other competition related issues.</p> |
+
 
 ---
 
 ## Target market size
 
+|   |   |
+|---|:--|
+| <p style="font-size:55%">The observatory platforms usually have a build-up cost of about 3-5 million euros and an annual running costs of 0.1-3 million  euros.</p> |<p style="font-size:55%"> Some of our basic products are included in the platform service. </p>
+|<p style="font-size:55%"> Our existing observatories give us access to the market and public surveying markets (cc 30-40 billion euros in the developed nations), particularly to  its software component (about 10 billion euros). </p>|
+|<p style="font-size:55%">[retroharmonize](https://retroharmonize.dataobservatory.eu/) integrates pre-existing questionnaire-based surveys and new surveys. It is aimed at large, international survey companies (Kantar, Gfk) and large international survey programs (Eurostat, GESIS).
+regions improves the granularity of existing market research with ‘small area statistics’. 
+ | 
+| <p style="font-size:55%">Our existing observatories gave us access to environmental impact assessment and currently we build an ESG reporting tool with a central bank, a value bank, and a big four company. </p>| |
+|<p style="font-size:55%">We hope to gain at least 10% global market share on the observatory platform management market to pay our basic data science team and R&D. </p>| |
 ---
 
 ## Team
+
+|   |   |
+|---|:--|
+|   |  <p style="font-size:55%">The two co-founders and the core team manage the ecosystems' development, develop knowledge management, and direct the software development.</p>  |
+|  | <p style="font-size:55%">Each observatory has a broader team of users, data and knowledge curators, and developers. The most developed Digital Music Observatory has 16 institutional users and a team of about 20 music and data professionals.</p>  |
 
 ---
 
@@ -76,6 +97,7 @@ Only the largest corporations, best-endowed universities, and rich governments c
 
 
 We have a good, organic growth, but we mainly work with very large private and public entities with complicated, lengthy and not startup-friendly procurement with a cash-conversion cycle of up
+
 --- 
 
 ---
