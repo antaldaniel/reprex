@@ -50,8 +50,9 @@ slides: reprex-nlaic-2022
 projects: ""
 ---
 
-{{% callout note %}}
-Reprex is a finalist for The Hague Innovators Award 2022, and the prize of the audience, in the startup category with our respectable competitors, Sibö, WECO, STHRIVE and ECOBLOQ.
-{{% /callout %}}
+
+Reprex is presenting its [Digital Music Observatory](https://music.dataobservatory.eu/) and [Cultural Creative Sectors Industries Data Observatory](https://ccsi.dataobservatory.eu/) as platforms for developing and evaluating trustworthy AI in the cultural domains. We hope to find new partners within the NLAIC community to join our open, collaborative projects.
+
+Learn more about the Dutch AI Coalition's Cultur and Media Working Group (in Dutch:)
 
 {{< vimeo 649975584 >}}
