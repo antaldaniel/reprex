@@ -7,11 +7,15 @@ categories: []
 date: '2022-09-21T18:00:00+02:00'
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
-  theme: dark
+  theme: black
   # Choose a code highlighting style (if highlighting enabled in `params.toml`)
   #   Light style: github. Dark style: dracula (default).
   highlight_style: dracula
-  
+---
+
+{{< slide background-image="Reprex-NLAIC-2022-background.webp" >}}
+# Reprex is looking for new collaborations within the NLAIC
+
 ---
 
 {{< slide background-image="Reprex-NLAIC-2022-Reprex-Open.webp" >}}
@@ -30,6 +34,7 @@ slides:
 
 ---
 
+{{< slide background-image="Reprex-NLAIC-2022-background.webp" >}}
 # Questions?
 
 [Email](https://reprex.nl/#contact) | [Keybase](https://keybase.io/team/reprexcommunity) 

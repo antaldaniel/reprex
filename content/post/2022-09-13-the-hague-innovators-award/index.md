@@ -6,7 +6,7 @@ lastmod:  2022-09-13T08:12:00+02:00
 
 authors:  ["daniel_antal"]
 
-tags:  ["Reprex", "The Hague", "Netherlands"]
+tags:  ["Reprex", "The Hague", "Netherlands", "The Hague Innovators Challenge 2022"]
 
 summary:  "Reprex is a finalist for The Hague Innovators Award 2022, and the prize of the audience, in the startup category with our respectable competitors, Sibö, WECO, STHRIVE and ECOBLOQ."
 

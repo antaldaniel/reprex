@@ -1,8 +1,8 @@
 ---
-title: Slides
+title: Reprex
 summary: Discussion starter to contest the Hague Innovation Award.
 authors: [daniel_antal]
-tags: [Digital Music Observatory, Hague Innovation Award 2022]
+tags: [Digital Music Observatory, The Hague Innovators Challenge 2022]
 categories: []
 date: '2022-09-21T16:00:00+02:00'
 slides:
@@ -55,16 +55,16 @@ Fullscreen: `F`
 | <div style="width:200px"></div>  |   |
 |---|:--|
 |<img src="observatory_collage_3x2_800.png" height="140"> | <p style="font-size:60%">The European Union, the World Bank, OECD, and UN have facilitated the creation of more than 80 so-called 'data observatories' to help companies, researchers, NGOs, and governments systematically collect data and knowledge.</p> |
-|<img src="https://placekitten.com/400/400" width="140" height="140"> | <p style="font-size:60%">We are currently building one prototype for the European Music Observatory financed by the European Union and music industry players (cc 3-4 million euros.)  We would like to take over existing or start new observatories in 2 years at least 5)</p> |
-|<img src="https://placekitten.com/400/400" width="140" height="140"> | <p style="font-size:60%">Our observatories are competitive, because they use high-quality open source scientific software; they exploit the new Data Governance Act and Open Data Directive, deploy web 3.0 data synchronization, and offer great value-added research products.</p> |
+|<img src="dmo_opening_page_20220920_16x9.png" height="140"> | <p style="font-size:60%">We are currently building one prototype for the European Music Observatory financed by the European Union and music industry players (cc 3-4 million euros.)  We would like to take over existing or start new observatories in 2 years at least 5)</p> |
+|<img src="gold_panning_slide_notitle.png" height="140"> | <p style="font-size:60%">Our observatories are competitive, because they use high-quality open source scientific software; they exploit the new Data Governance Act and Open Data Directive, deploy web 3.0 data synchronization, and offer great value-added research products.</p> |
 
 ---
 
 | Platform products|  Value added data applications |
 |---|---|
-|<p style="font-size:75%">The European Union, the World Bank, OECD, and UN have facilitated the creation of more than 80 so-called 'data observatories' to help companies, researchers, NGOs, and governments systematically collect data and knowledge.</p>| <p style="font-size:75%">The different observatories offer different types of knowledge products, such as statistical yearbooks, various apps, and database access.</p>|
-|<p style="font-size:75%">Most of them use web 1.0 technologies, inefficient knowledge accumulation.  Already 20 of them have been discontinued.| <p style="font-size:75%">We are developing software solutions that exploit our platforms: we harmonize surveys, statistical data, automate research reporting, elements of market monitoring or ESG reporting.</p>|
-|<p style="font-size:75%"> We are currently building one prototype for the European Music Observatory financed by the European Union and music industry players (cc 3-4 million euros.)  We would like to take over existing or start new observatories  in 2 years at least 5) </p>| <p style="font-size:75%">Each observatory gives us intimidate customer access to 3-4 large universities, 1-2 large consultancies, and various specialist institutions. </p>|
+|<p style="font-size:65%">The European Union, the World Bank, OECD, and UN have facilitated the creation of more than 80 so-called 'data observatories' to help companies, researchers, NGOs, and governments systematically collect data and knowledge.</p>| <p style="font-size:65%">The different observatories offer different types of knowledge products, such as statistical yearbooks, various apps, and database access.</p>|
+|<p style="font-size:65%">Most of them use web 1.0 technologies, inefficient knowledge accumulation.  Already 20 of them have been discontinued.| <p style="font-size:65%">We are developing software solutions that exploit our platforms: we harmonize surveys, statistical data, automate research reporting, elements of market monitoring or ESG reporting.</p>|
+|<p style="font-size:65%"> We are currently building one prototype for the European Music Observatory financed by the European Union and music industry players (cc 3-4 million euros.)  We would like to take over existing or start new observatories  in 2 years at least 5) </p>| <p style="font-size:65%">Each observatory gives us intimidate customer access to 3-4 large universities, 1-2 large consultancies, and various specialist institutions. </p>|
 
 
 ---
@@ -82,15 +82,12 @@ Fullscreen: `F`
 
 ## Target market size
 
-|   |   |
-|---|:--|
+|   <div style="width:400px"></div> |  <div style="width:400px"></div>  |
+|:---|:--|
 | <p style="font-size:55%">The observatory platforms usually have a build-up cost of about 3-5 million euros and an annual running costs of 0.1-3 million  euros.</p> |<p style="font-size:55%"> Some of our basic products are included in the platform service. </p>
-|<p style="font-size:55%"> Our existing observatories give us access to the market and public surveying markets (cc 30-40 billion euros in the developed nations), particularly to  its software component (about 10 billion euros). </p>|
-|<p style="font-size:55%">[retroharmonize](https://retroharmonize.dataobservatory.eu/) integrates pre-existing questionnaire-based surveys and new surveys. It is aimed at large, international survey companies (Kantar, Gfk) and large international survey programs (Eurostat, GESIS).
-regions improves the granularity of existing market research with ‘small area statistics’. 
- | 
-| <p style="font-size:55%">Our existing observatories gave us access to environmental impact assessment and currently we build an ESG reporting tool with a central bank, a value bank, and a big four company. </p>| |
-|<p style="font-size:55%">We hope to gain at least 10% global market share on the observatory platform management market to pay our basic data science team and R&D. </p>| |
+|<p style="font-size:55%"> Our existing observatories give us access to the market and public surveying markets (cc 30-40 billion euros in the developed nations), particularly to  its software component (about 10 billion euros). </p> | <p style="font-size:55%">[retroharmonize](https://retroharmonize.dataobservatory.eu/) integrates pre-existing questionnaire-based surveys and new surveys. It is aimed at large, international survey companies (Kantar, Gfk) and large international survey programs (Eurostat, GESIS). regions improves the granularity of existing market research with ‘small area statistics’. </p> | 
+| <p style="font-size:55%">Our existing observatories gave us access to environmental impact assessment and currently we build an ESG reporting tool with a central bank, a value bank, and a big four company. </p> |<p style="font-size:55%">We hope to gain at least 10% global market share on the observatory platform management market to pay our basic data science team and R&D. </p>| |
+
 ---
 
 ## Team
