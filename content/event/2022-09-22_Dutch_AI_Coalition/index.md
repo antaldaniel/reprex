@@ -35,7 +35,7 @@ tags: [Listen Local, OpenMusE]
 featured: false
 
 image:
-  caption: ''
+  caption: 'Reprex is looking for new collaborations within the NLAIC'
   focal_point: Right
 
 url_code: ''
@@ -44,7 +44,7 @@ url_slides: ''
 url_video: ''
 
 # Markdown Slides (optional).
-slides:
+slides: reprex-nlaic-2022
 
 # Projects (optional).
 projects: ""
