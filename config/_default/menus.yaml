@@ -7,8 +7,8 @@ main:
     url: '#about'
     weight: 10
     parent: Home
-  - name: Achievements
-    url: '#experience'
+  - name: Accomplishments
+    url: '#accomplishments'
     weight: 12
     parent: Home
 #  - name: Services
