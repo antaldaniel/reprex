@@ -41,7 +41,7 @@ image:
   focal_point: TopLeft
 
 url_code: ''
-url_pdf: ''
+url_pdf: 'Reprex-ImpactCity-2022.pdf'
 url_slides: ''
 url_video: ''
 
@@ -52,6 +52,9 @@ slides: Reprex-ImpactCity
 projects: ""
 ---
 
+<!---
+{{< cta cta_text="Do something" cta_link="/documents/Reprex-ImpactCity-2022.pdf" cta_new_tab="false" >}}
+--->
 
 Reprex is a research automation company with an international team and clientele. We validated our product/market fit in the [Yes!Delft AI+Blockchain Lab](http://localhost:4321/post/2020-09-25-yesdelft-validation/) in 2020 and started to build research automation tools for complex data problems with a fast-growing user base and a very high-level international recognition in the EU and the UK. Our dual product offers us to participate in large data platform PPP projects and find growth opportunities in building data-driven commercial applications simultaneously. We want to scale up our operations in the Hague, where we are registered.
 

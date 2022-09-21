@@ -60,7 +60,7 @@ Fullscreen: `F`
 
 ---
 
-| Platform products|  Value added data applications |
+| Platform products |  Value added data applications |
 |---|---|
 |<p style="font-size:65%">The European Union, the World Bank, OECD, and UN have facilitated the creation of more than 80 so-called 'data observatories' to help companies, researchers, NGOs, and governments systematically collect data and knowledge.</p>| <p style="font-size:65%">The different observatories offer different types of knowledge products, such as statistical yearbooks, various apps, and database access.</p>|
 |<p style="font-size:65%">Most of them use web 1.0 technologies, inefficient knowledge accumulation.  Already 20 of them have been discontinued.| <p style="font-size:65%">We are developing software solutions that exploit our platforms: we harmonize surveys, statistical data, automate research reporting, elements of market monitoring or ESG reporting.</p>|
@@ -180,5 +180,7 @@ We have a good, organic growth, but we mainly work with very large private and p
 [Email](https://reprex.nl/#contact) | [Keybase](https://keybase.io/team/reprexcommunity) 
 
 LinkedIn: [Daniel Antal](https://www.linkedin.com/in/antaldaniel/) - [Reprex](https://www.linkedin.com/company/68855596)
+
+[Home](https://reprex.nl/) - [One Pager ImpactCity Startup Support XL](https://reprex.nl/talk/impactcity-startup-support-xl/)
 
 
