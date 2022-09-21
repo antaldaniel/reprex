@@ -41,7 +41,7 @@ image:
   focal_point: TopLeft
 
 url_code: ''
-url_pdf: 'Reprex-ImpactCity-2022.pdf'
+url_pdf: '/documents/Reprex-ImpactCity-2022.pdf'
 url_slides: ''
 url_video: ''
 
@@ -56,10 +56,12 @@ projects: ""
 {{< cta cta_text="Do something" cta_link="/documents/Reprex-ImpactCity-2022.pdf" cta_new_tab="false" >}}
 --->
 
+
 Reprex is a research automation company with an international team and clientele. We validated our product/market fit in the [Yes!Delft AI+Blockchain Lab](http://localhost:4321/post/2020-09-25-yesdelft-validation/) in 2020 and started to build research automation tools for complex data problems with a fast-growing user base and a very high-level international recognition in the EU and the UK. Our dual product offers us to participate in large data platform PPP projects and find growth opportunities in building data-driven commercial applications simultaneously. We want to scale up our operations in the Hague, where we are registered.
 
 {{% callout note %}}
-Reprex is a finalist for [The Hague Innovators Challenge](https://www.impactcity.nl/en/service/the-hague-innovators-challenge/), and the prize of the audience.
+Reprex is a finalist for [The Hague Innovators Challenge](https://www.impactcity.nl/en/service/the-hague-innovators-challenge/) and the prize of the audience.</br> 
+{{% staticref "/documents/Reprex-ImpactCity-2022.pdf" "newtab" %}}Download this information in 1 page.{{% /staticref %}} | [Check out our pitch deck](https://reprex.nl/slides/reprex-impactcity/)
 {{% /callout %}}
 
 <td style="text-align: center;">{{< figure src="img/observatory_screenshots/observatory_collage_16x9_800.png" caption="Our platform solution is a modernized, future-proof, web 3.0 version of the data observatories of the EU, UN, and OECD." numbered="false" >}}</td>

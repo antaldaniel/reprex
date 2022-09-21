@@ -84,9 +84,9 @@ Fullscreen: `F`
 
 |   <div style="width:400px"></div> |  <div style="width:400px"></div>  |
 |:---|:--|
-| <p style="font-size:55%">The observatory platforms usually have a build-up cost of about 3-5 million euros and an annual running costs of 0.1-3 million  euros.</p> |<p style="font-size:55%"> Some of our basic products are included in the platform service. </p>
-|<p style="font-size:55%"> Our existing observatories give us access to the market and public surveying markets (cc 30-40 billion euros in the developed nations), particularly to  its software component (about 10 billion euros). </p> | <p style="font-size:55%">[retroharmonize](https://retroharmonize.dataobservatory.eu/) integrates pre-existing questionnaire-based surveys and new surveys. It is aimed at large, international survey companies (Kantar, Gfk) and large international survey programs (Eurostat, GESIS). regions improves the granularity of existing market research with ‘small area statistics’. </p> | 
-| <p style="font-size:55%">Our existing observatories gave us access to environmental impact assessment and currently we build an ESG reporting tool with a central bank, a value bank, and a big four company. </p> |<p style="font-size:55%">We hope to gain at least 10% global market share on the observatory platform management market to pay our basic data science team and R&D. </p>| |
+| <p style="font-size:55%">The observatory platforms usually have a build-up cost of about 3-5 million euros and an annual running costs of 0.1-3 million  euros.</p> |<p style="font-size:55%">We hope to gain at least 10% global market share on the observatory platform management market to pay our basic data science team and R&D. </p>
+|<p style="font-size:55%"> Our existing observatories give us access to the market and public surveying markets (cc € 30-40 bn in the developed nations), particularly to  its software component (€ 10 billion euros). </p> | <p style="font-size:55%">[retroharmonize](https://retroharmonize.dataobservatory.eu/) integrates pre-existing questionnaire-based surveys and new surveys. We see interest from the biggest global players. </p> | 
+| <p style="font-size:55%">Our existing observatories gave us access to environmental impact assessment and currently we build an ESG reporting tool with a central bank, a value bank, and a big four company. </p> |<p style="font-size:55%">Connected ESG reporting has a €4 bn market in the EU alone, and our [Eviota product](https://reprex.nl/apps/eviota/) is very competitive. Due to regulatory pressure, we can harvest a decent share if we are able to attract venture capital. <p/>|
 
 ---
 
@@ -101,15 +101,20 @@ Fullscreen: `F`
 
 ## Traction
 
-
-We have a good, organic growth, but we mainly work with very large private and public entities with complicated, lengthy and not startup-friendly procurement with a cash-conversion cycle of up
+| | 
+|:--|
+|<p style="font-size:75%">💻 Our free scientific software products have a steadily growing user base (several thousand users globally.) </p>|
+|<p style="font-size:75%">📈  We are able to convert this to paying research automation services at a higher growth rate.</p>|
+|<p style="font-size:75%">🚀  We won four competitive tenders this year, but we feel that the slow tendering/acquisition/cash cycle is hampering our growth, we see far more opportunities that we can serve. Therefore we are looking for investors.</p>|
 ---
 
 ## Funding
 
-- We have a good track record in EU tenders, but we would like to build up this reputation in the Netherlands, too, mainly for new platforms.
-- We help our non-profit users, such as cultural heritage organizations, music export offices, collective rights management agencies to get funding to use our platforms and services.  We have a track record in the EU, Slovakia, Lithuania, but not in the Netherlands.
-- Our for profit-users need a more polished, user-friendlier front-end.  Some are interested in joint ventures (like exploiting our survey capabilities). Venture capital would be preferred, as demand outstrips growth.
+| | 
+|:--|
+|<p style="font-size:75%"> We have a good track record in EU tenders, but we would like to build up this reputation in the Netherlands, too, mainly for new platforms.</p>|
+|<p style="font-size:75%">We help our non-profit users, such as cultural heritage organizations, music export offices, collective rights management agencies to get funding to use our platforms and services</p>|
+|<p style="font-size:75%">Our for profit-users need a more polished, user-friendlier front-end.  Some are interested in joint ventures (like exploiting our survey capabilities). Venture capital would be preferred, as demand outstrips growth.</p>|
 
 ---
 
