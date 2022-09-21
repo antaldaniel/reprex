@@ -20,17 +20,27 @@ Only the largest corporations, best-endowed universities, and rich governments c
 
 ---
 
+## Slide navigation
+
+Fullscreen: `F`
+- Next: `>` or `Space` | Previous: `<`
+- Start: `Home` | Finish: `End`
+- Overview: `Esc`|  Speaker notes: `S`
+- Zoom: `Alt + Click`
+
+----
+
 ## Data problems
 
 | <div style="width:200px"></div>  |   |
 |---|:--|
-|<img src="https://placekitten.com/400/400" width="140" height="140"> | <p style="font-size:60%">The cost of questionnaire-based market research (survey) is increasing exponentially and offers mediocre results without an enormous question bank and harmonization with other surveys.</p> |
-|<img src="https://placekitten.com/400/400" width="140" height="140"> | <p style="font-size:60%">Manual data acquisition is an error-prone and boring task for humans that requires many working hours (often not credited in consultancies, law firms, or research institutes.)</p> |
-|<img src="https://placekitten.com/400/400" width="140" height="140"> | <p style="font-size:60%">Wrangling spreadsheet tables or word processor documents by people without data knowledge is the [data Sisyphus](https://reprex.nl/post/2021-07-08-data-sisyphus/).</p> |
+|<img src="difficulty_bills_levels.jpg" height="130"> | <p style="font-size:65%">The cost of questionnaire-based market research (survey) is increasing exponentially and offers mediocre results without an enormous question bank and harmonization with other surveys.(See [🖱 blogpost](https://reprex.nl/data/surveys/)) </p> |
+|<img src="photo-1490004047268-5259045aa2b4.jpg" height="130"> | <p style="font-size:65%">Manual data acquisition is an error-prone and boring task for humans that requires many working hours (often not credited in consultancies, law firms, or research institutes.)</p> |
+|<img src="Sisyphus_Bodleian_Library.png"  height="130"> | <p style="font-size:65%">Wrangling spreadsheet tables or word processor documents by people without data knowledge is the [🖱 data Sisyphus](https://reprex.nl/post/2021-07-08-data-sisyphus/).</p> |
 
 ---
 
-## Data observatories
+## Data observatories 3.0
 
 <p style="font-size:90%">Reprex is offering shared data ecosystems. Our observatories are great solutions for organizations without a data specialization:</p>
 
@@ -44,8 +54,8 @@ Only the largest corporations, best-endowed universities, and rich governments c
 
 | <div style="width:200px"></div>  |   |
 |---|:--|
-|<img src="https://placekitten.com/400/400" width="140" height="140"> | <p style="font-size:60%">The European Union, the World Bank, OECD, and UN have facilitated the creation of more than 80 so-called 'data observatories' to help companies, researchers, NGOs, and governments systematically collect data and knowledge.</p> |
-|<img src="https://placekitten.com/400/400" width="140" height="140"> | <p style="font-size:60%">We are currently building one prototype for the European Music Observatory financed by the European Union and music industry players (cc 3-4 million euros.)  We would like to take over existing or start new observatories  in 2 years at least 5)</p> |
+|<img src="observatory_collage_3x2_800.png" height="140"> | <p style="font-size:60%">The European Union, the World Bank, OECD, and UN have facilitated the creation of more than 80 so-called 'data observatories' to help companies, researchers, NGOs, and governments systematically collect data and knowledge.</p> |
+|<img src="https://placekitten.com/400/400" width="140" height="140"> | <p style="font-size:60%">We are currently building one prototype for the European Music Observatory financed by the European Union and music industry players (cc 3-4 million euros.)  We would like to take over existing or start new observatories in 2 years at least 5)</p> |
 |<img src="https://placekitten.com/400/400" width="140" height="140"> | <p style="font-size:60%">Our observatories are competitive, because they use high-quality open source scientific software; they exploit the new Data Governance Act and Open Data Directive, deploy web 3.0 data synchronization, and offer great value-added research products.</p> |
 
 ---
@@ -85,10 +95,10 @@ regions improves the granularity of existing market research with ‘small area 
 
 ## Team
 
-| <div style="width:160px"></div>  |   |
+| <div style="width:200px"></div>  |   |
 |---|:--|
-| <img src="reprex_contributors_20220920_2_1.png" width="160">  |  <p style="font-size:65%">The two co-founders, Daniel Antal, CFA and Andrés García Molina, PhD, and the core team manage the ecosystems' development, develop knowledge management, and direct the software development.</p>  |
-| <img src="dmo_contributors_20220920_2_1.png" width="160"> | <p style="font-size:65%">Each observatory has a broader team of users, data and knowledge curators, and developers. The most developed Digital Music Observatory has 16 institutional users and a team of about 20 music and data professionals. The newer observatories have a smaller, initial service development and data curatorial team.</p>  |
+| <img src="reprex_contributors_20220920_2_1.png" width="200"> |  <p style="font-size:65%">The two co-founders, [🖱 Daniel Antal, CFA](https://reprex.nl/authors/daniel_antal/) and [🖱 Andrés García Molina, PhD](https://reprex.nl/authors/andres/), and the core team manage the ecosystems' development, develop knowledge management, and direct the software development. [🖱 Team on full screen](https://reprex.nl/#team)</p>  |
+| <img src="dmo_contributors_20220920_2_1.png" width="200"> | <p style="font-size:65%">Each observatory has a broader team of users, data and knowledge curators, and developers. The most developed [🖱️ Digital Music Observatory](https://music.dataobservatory.eu/#contributors) has 16 institutional users and a team of about 20 music and data professionals. The newer observatories have a smaller, initial service development and data curatorial team.</p>  |
 
 ---
 
@@ -105,7 +115,11 @@ We have a good, organic growth, but we mainly work with very large private and p
 - Our for profit-users need a more polished, user-friendlier front-end.  Some are interested in joint ventures (like exploiting our survey capabilities). Venture capital would be preferred, as demand outstrips growth.
 
 ---
+<<<<<<< HEAD
 
+=======
+<!---
+>>>>>>> 3f54846 (slide navigation)
 ## Pool and take over work where humans fail 
 
 - The cost of questionnaire-based market research (survey) is increasing exponentially and offers mediocre results without an enormous question bank and harmonization with other surveys.
@@ -128,41 +142,14 @@ We have a good, organic growth, but we mainly work with very large private and p
 - Who do not even have a permanent IT function (about 2 million European small enterprises and civil organizations)
 
 ---
+--->
+
 
 {{< slide background-image="contest-hague-award-2022.webp" >}}
 
 ---
 
-## "Big data creates inequalities"
-
-Only the largest corporations, best-endowed universities, and rich governments can afford data collection and processing capacities that are large enough to harness the advantages of AI.  
-
----
-
-# Data Observatory 3.0
-
----
-
-{{< slide background-image="dataobservatory-mission-statement.png" >}}
-
----
-## Controls
-
-- Next: `Right Arrow` or `Space`
-- Previous: `Left Arrow`
-- Start: `Home`
-- Finish: `End`
-- Overview: `Esc`
-- Speaker notes: `S`
-- Fullscreen: `F`
-- Zoom: `Alt + Click`
-- [PDF Export](https://github.com/hakimel/reveal.js#pdf-export): `E`
-
-----
-
-
----
-
+<!---
 <div class="r-stack">
   <img class="fragment fade-out" data-fragment-index="0" src="https://placekitten.com/450/300" width="450" height="300">
   <img class="fragment current-visible" data-fragment-index="0" src="https://placekitten.com/300/450" width="300" height="450">
@@ -178,11 +165,13 @@ Only the largest corporations, best-endowed universities, and rich governments c
 </div>
 
 ---
+
 ## What are data observatories?
 
 - There are more than 60 functional, and about 20 already discontinued data observatories, i.e. long-term, usually triangular (business, academic, policy) data collection institutions recognized by the EU, OECD or UNESCO, including the [European Observatory on Infringements of Intellectual Property Rights](https://single-market-economy.ec.europa.eu/industry/strategy/intellectual-property/enforcement-intellectual-property-rights/european-observatory-infringements-intellectual-property-rights_en#:~:text=The%20European%20Observatory%20on%20Infringements,countries%2C%20businesses%20and%20civil%20society.) of the EU or the [European Audiovisual Observatory](https://www.obs.coe.int/en/web/observatoire) of the Council of Europe.
 
 ---
+--->
 
 ## Do it Smarter
 
@@ -191,89 +180,10 @@ Only the largest corporations, best-endowed universities, and rich governments c
 
 ---
 
-{{< slide background-image="contest-hague-award-2022.webp" >}}
-
----
-
-## Strategic objectives
-
-- Develop our data observatories as [Open Scholarly Infrastructure](https://openscholarlyinfrastructure.org/posse/)
-- Place our [Digital Music Observtory](https://music.dataobservatory.eu/), [Cultural and Creative Data Observatory](https://ccsi.dataobservatory.eu/), and [Green Deal Data Observaotry](https://greendeal.dataobservatory.eu/) on knowledge graphs of Europeana, Wikidata, and other open knowledge sytems
-- Harmonize research artefacts with open repositories such as Zenodo and Figshare.
-- Achieve EU/UNESCO/OECD recognition for our self-governing, triangular, science-policy-busines triangular data ecosystems as *data observatories*
-
----
-
-
-## Digital Music Observatory
-
-- `Listen Local` in Horizon Europe OpenMuse WP Diversity, Creative Europe MusicAIRE: connected and curated data on 10,000s of music works
-- Our aim is to describe the entire, currently legally available music repertoire of Slovakia and Lithuania at first, and a large part of Ukraine.
-- Connected with name authorities, web services.
-
----
-
-{{< slide background-image="listen-local-slide.webp" >}}
-
----
-
-## Possible Use Case
-
-- Connect national collective management organization, national library, and various services (Spotify, YouTube) to make the national repertoire more visible
-- Create use statistics for cultural diversity policies and monitoring local content regulations
-- Provide best practice example and open source tools for replication
-
----
-
-## Creative and Cultural Sectors Industries Data Observatory
-
-
-
----
-
-
-# Technical Features
-
-[Reprex](https://reprex.nl/) | [Documentation](https://introduction.dataobservatory.eu/)
-
----
-
-## FAIR
-
-- [x] FAIR metadata: Dublin Core & DataCite referential metadata. Our [dataset](https://dataset.dataobservatory.eu/) R software package is under review in [rOpenSci](https://ropensci.org/) and will be added to the [rOpenGov](https://ropengov.org/) ecosystem. It will greatly facilitate the automatic release of any research output from the R statistical system.
-- [x] Integration to FigShare and Zenodo for automated releases and publications.
-
----
-
-## Web 3.0
-
-<small>&nbsp; 
--	[x] supported with optional, open source APIs to retrieve the data
--	[x] supported with RDF serialization
-
-&nbsp; </small>
-
----
-
-## Dissemination Support
-
--	[x] support automated publishing and releasing of data, visualizations, newsletters, and long-form documentation in auto-refreshing websites, blogposts, or articles, or even books.
--	[x] develop an ecosystem of open source software that helps the professional collection, processing, documentation of data conforming the Data Governance Act, and supporting data sharing and data altruism.
-
----
-
-# Research Automation
-
----
-
-## Research automation
-
-- [x] support research automation 
-
----
-
 # Questions?
 
-[Email](https://reprex.nl/#contact)
+[Email](https://reprex.nl/#contact) | [Keybase](https://keybase.io/team/reprexcommunity) 
 
-LinkedIn: [Daniel Antal](https://www.linkedin.com/in/antaldaniel/) - [Digital Music Observatory](https://www.linkedin.com/company/79286750)
+LinkedIn: [Daniel Antal](https://www.linkedin.com/in/antaldaniel/) - [Reprex](https://www.linkedin.com/company/68855596)
+
+
