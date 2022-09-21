@@ -96,20 +96,13 @@ regions improves the granularity of existing market research with ‘small area 
 
 
 We have a good, organic growth, but we mainly work with very large private and public entities with complicated, lengthy and not startup-friendly procurement with a cash-conversion cycle of up
-
---- 
-
 ---
 
 ## Funding
 
 - We have a good track record in EU tenders, but we would like to build up this reputation in the Netherlands, too, mainly for new platforms.
-- We help our non-profit users, such as xxxxxx to get funding to use our platforms and services.  Unfortunately, we have no track record in the Netherlands.
+- We help our non-profit users, such as cultural heritage organizations, music export offices, collective rights management agencies to get funding to use our platforms and services.  We have a track record in the EU, Slovakia, Lithuania, but not in the Netherlands.
 - Our for profit-users need a more polished, user-friendlier front-end.  Some are interested in joint ventures (like exploiting our survey capabilities). Venture capital would be preferred, as demand outstrips growth.
-
----
-
-
 
 ---
 
