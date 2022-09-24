@@ -27,7 +27,6 @@ experience:
     date_start: '2022-06-23'
     description: 'The primary aim of dataset is create well-referenced, well-described, interoperable datasets that can be easily placed on global knowledge graphs using the W3C DataSet and RDF definition, or syncronized via APIs that follow the Statistical Data and Metadata eXchange standards.'
     
-    
   - title: statcodelists
     company: Make your data codes understood globally
     company_url: 'https://statcodelist.dataobservatory.eu/'
@@ -40,7 +39,6 @@ experience:
 #        * Analysing
 #        * Modelling
 #        * Deploying
-
 
   - title: eviota
     company: Connect financial and environment accounts, create financial + ESG reports
