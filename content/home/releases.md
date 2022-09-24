@@ -35,7 +35,6 @@ experience:
     date_start: '2023-08-07'
     description: 'Use the standardized codebooks of the [Statistical Data and Metadata eXchange]() for international, language-independent, machine-to-machine data exchanges.'
 
-
 #description: |2-
 # Responsibilities include:
 #        * Analysing
@@ -58,23 +57,20 @@ experience:
     date_start: '2022-07-01'
     date_end: ''
     description: 'Tax, employment, green house gas multipliers, induced effects, policy scenarios. [Documentation & download](https://iotables.dataobservatory.eu/)'
-    
+
   - title: regions
     company: Create from raw survey data more granular statistics in any EU country.
     company_url: 'https://regions.dataobservatory.eu/'
     company_logo: regions_icon
     date_start: '2020-05-09'
-    date_end: ''
-    description: 'Malta and Germany are hard to comapre. Compare provinces with provinces, regions with regions. Create granular statistics within Europe's ever changing metropolitan areas, parishes, counties. [Documentation & download](https://regions.dataobservatory.eu/)'
-    
+    description: 'Malta and Germany are hard to compare. Compare provinces with provinces, regions with regions. [Documentation & download](https://regions.dataobservatory.eu/)'
+
   - title: retroharmonize
     company: Harmonize questions banks, recycle answers from past surveys
     company_url: 'https://retroharmonize.dataobservatory.eu/'
     company_logo: retroharmonize_icon
     date_start: '2020-07-09'
-    date_end: ''
-    description: 'Never start a questionnaire from scratch. Recycle questions from question banks, answer from open data repositories, and let your respondants add theirs. [Documentation & download](https://regions.dataobservatory.eu/)'
-   
+    description: 'Never start a questionnaire from scratch. Recycle questions from question banks, answer from open data repositories, and let your respondents add theirs. [Documentation & download](https://regions.dataobservatory.eu/)'
 
 design:
   columns: '2'

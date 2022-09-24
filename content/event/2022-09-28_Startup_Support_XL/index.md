@@ -20,9 +20,8 @@ summary: Reprex is a finalist for The Hague Innovators Award 2022, and the prize
 
 abstract: 'Reprex is a finalist for The Hague Innovators Award 2022, and the prize of the audience, in the startup category with our respectable competitors, Sibö, WECO, STHRIVE and ECOBLOQ.'
 
-
 # Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
+# End time can optionally be hidden by prefixing the line with `#`.
 date: '2022-09-28T09:00:00Z'
 date_end: '2022-09-28T13:00:00Z'
 all_day: false
