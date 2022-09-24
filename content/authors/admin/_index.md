@@ -52,6 +52,8 @@ highlight_name: false
 
 We are a Netherlands-based start-up company that makes big data reliable and accountable, delivering trustworthy analytics and AI solutions. We validate multiple data sources and are able to merge private and proprietary data with open data. We bring novel insight into policy and business problems, as well as scientific research. Our work addresses the potentially negative effects of black-box proprietary algorithms. Our diverse team is particularly experienced in music, the creative industries, and digital humanities, where data is scattered in small organizations.
 
+We are finalists in **The Hague Innovators Award 2022** competition. Check out how you can [help](https://reprex.nl/talk/impactcity-startup-support-xl).  {{% staticref "/documents/Reprex_for_Hague_Innovation_Award_2022.pdf" "newtab" %}}Download our competition programme{{% /staticref %}}.
+
 <table>
 <colgroup>
 <col style="width: 10%" />
@@ -93,4 +95,4 @@ Our flagship demo projects are the [Listen Local](/project/listen-local/)  ethic
 
 **Company details**: `Registration number`: 80205275 (KvK Chamber of Commerce); `founding document`:  000046572589  (vestigingnummer); `VAT number` NL 861587893B01. 
 
-{{% staticref "/documents/Reprex_for_Hague_Innovation_Award_2022.pdf" "newtab" %}}Download my CV{{% /staticref %}}
+

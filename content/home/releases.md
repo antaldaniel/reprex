@@ -24,12 +24,12 @@ experience:
     company: Synchronize datasets with global knowledge hubs
     company_url: 'https://dataset.dataobservatory.eu/'
     company_logo: dataset_icon
-    date_start: '2023-08-07'
-    description: ''
+    date_start: '2022-06-23'
+    description: 'The primary aim of dataset is create well-referenced, well-described, interoperable datasets that can be easily placed on global knowledge graphs using the W3C DataSet and RDF definition, or syncronized via APIs that follow the Statistical Data and Metadata eXchange standards.'
     
     
   - title: statcodelists
-    company: Synchronize datasets with global knowledge hubs
+    company: Make your data codes understood globally
     company_url: 'https://statcodelist.dataobservatory.eu/'
     company_logo: statcodelist_icon
     date_start: '2023-08-07'
@@ -44,55 +44,38 @@ experience:
 
 
   - title: eviota
-    company: Sinus + OpenMuse Consortium
+    company: Connect financial and environment accounts, create financial + ESG reports
     company_url: 'https://reprex.nl/project/eviota/'
-    company_logo: Horizon-Europe
+    company_logo: eviota-icon
     date_start: '2022-07-23'
     date_end: '2025-12-31'
-    description: 'Launch our research automation tools from data collection to dissemination for scientific, business and policy partners, including OPA-compatible smart policy documents for music economy, music diversity, music innovation policies and ESG reporting. [download]()'
+    description: 'Our minimum viable product will create sustainability reports (or report components) for greenhouse gases and sustainable water use with applying the Global GHG Accounting & Reporting Standard for the Financial Industry and EFRAG’s proposed concept on connecting European accounting standards and information with sustainability.'
     
   - title: iotables
-    company: Inova+ & European Music Council
+    company: Create economic or environmental impact assessments in any EU country.
     company_url: 'https://iotables.dataobservatory.eu/'
     company_logo: iotables_icon
     date_start: '2022-07-01'
     date_end: ''
-    description: 'Create economic or environmental impact assessments in any EU country. [Documentation & download](https://iotables.dataobservatory.eu/)'
+    description: 'Tax, employment, green house gas multipliers, induced effects, policy scenarios. [Documentation & download](https://iotables.dataobservatory.eu/)'
     
   - title: regions
-    company: Competition Policy Centre, University of East Anglia & partners
+    company: Create from raw survey data more granular statistics in any EU country.
     company_url: 'https://regions.dataobservatory.eu/'
     company_logo: regions_icon
-    date_start: '2022-02-28'
+    date_start: '2020-05-09'
     date_end: ''
-    description: 'Create from raw survey data more granular statistics in any EU country. [Documentation & download](https://regions.dataobservatory.eu/)'
+    description: 'Malta and Germany are hard to comapre. Compare provinces with provinces, regions with regions. Create granular statistics within Europe's ever changing metropolitan areas, parishes, counties. [Documentation & download](https://regions.dataobservatory.eu/)'
     
   - title: retroharmonize
     company: Harmonize questions banks, recycle answers from past surveys
     company_url: 'https://retroharmonize.dataobservatory.eu/'
     company_logo: retroharmonize_icon
-    location: Amsterdam, Netherlands
-    date_start: '2021-10-01'
+    date_start: '2020-07-09'
     date_end: ''
-    description: 'Never start a questionnaire from scratch. Get existing answers from global open data sources and let your respondants add theirs. [Documentation & download](https://regions.dataobservatory.eu/)'
+    description: 'Never start a questionnaire from scratch. Recycle questions from question banks, answer from open data repositories, and let your respondants add theirs. [Documentation & download](https://regions.dataobservatory.eu/)'
    
-  - title: iotables
-    company: Economic impact analsyis and environmental impact analysis
-    company_url: ''
-    company_logo: iotables_icon
-    date_start: '2020-09-01'
-    description: 'Create economic or environmental impact assessments in any EU country. [Documentation & download](https://iotables.dataobservatory.eu/)'
 
-    
-  - title: AI+Blockchain Product/Market Fit Validation
-    company: University X
-    company_url: ''
-    company_logo: YesDelft
-    date_start: '2020-10-01'
-    date_end: '2020-12-15'
-    description: Formalizing our automated data observatory product and our bridghead into
-      the music industry
-      
 design:
   columns: '2'
 ---
