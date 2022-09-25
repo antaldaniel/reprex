@@ -41,10 +41,9 @@ The European Commission created an created an [EU Taxonomy Compass](https://ec.e
 
 [Reprex](https://reprex.nl/) created a tidy version of the EU Taxonomy for developing better sustainability indicators into the [Green Deal Data Observatory](https://greendeal.dataobservatory.eu/).
 
-
 ## Open Data
 
-<td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/tidy_eu_taxonomy_on_zenodo.png" caption="EU Taxonomy on Sustainable Activities (Tidy) [download](https://zenodo.org/record/5791921#.Yb9UN2jMLIU)." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/img/blogposts_2021/tidy_eu_taxonomy_on_zenodo.png" caption="EU Taxonomy on Sustainable Activities (Tidy) [download](https://zenodo.org/record/5791921#.Yb9UN2jMLIU)." numbered="false" >}}</td>
 
 Using our `iotables` is not for the faint heart.  It is a scientific software, and it requires a good command of national accounts, input-output economics and sustainability to work with.  Our Green Deal Data Observaotry is designed to be an API of scientific software, and produce clean, ready to use data for researchers, policy-makers and business planners who do not have the skills to work with scientific software. We are planning to release well-designed datasets that go through dozens of checks to make sure they have the best data quality. 
 
