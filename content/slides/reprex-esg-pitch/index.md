@@ -30,24 +30,29 @@ Fullscreen: `F`
 
 ----
 
+# Big data that works for all
+
+Reprex: No matter how big is the problem or how small is your team, we fill your reports, dashboards, newsletters, books with data and its visualization.
 
 
 ---
 
-## Data problems
+## Connected financial and sustainability reporting based on open data
 
-- Most SMEs, and civil society organizations do not have a data scientist/engineer in their team, maybe not even an IT person or a HR professional to make such a hire.
+Eviota: We map your material impacts in your value chain and connect it with environmental or social data that is re-used from the public sector.
 
-- When these organizations must solve novel problems, like connecting their financial accounts with environmental and social impact data or connecting to automated transaction systems (like in music), they need novel solutions that do not require managing a database within their organization.
----
-
-## Our solution
-
-- We create data ecosystems with the modernization of the EU/OECD/UN endorsed 'data observatory' concept. Our data observatory 3.0 
-- We acquire and process data on a scale in our data observatories. We are currently building five observatories, and one of them is aiming for official EU recognition (serving the music industry).
-- We provide applications, for example, connecting financial accounts with environmental, social, or governance (ESG) data. We think that our ESG solution, Eviota, combined with our Green Deal Data Observatory, has excellent market potential.
 
 ---
+
+## Data problems: Reprex
+
+
+- <p style="font-size:95%">Most SMEs, and civil society organizations do not have a data scientist/engineer in their team, maybe not even an IT person or a HR professional to make such a hire.</p?
+
+- <p style="font-size:95%">When these organizations must solve novel problems, like connecting their financial accounts with environmental and social impact data or connecting to automated transaction systems (like in music), they need novel solutions that do not require managing a database within their organization.</p>
+
+--- 
+
 ## Data problems (examples)
 
 | <div style="width:200px"></div>  |   |
@@ -58,15 +63,31 @@ Fullscreen: `F`
 
 ---
 
+## Data problems: Eviota
+
+
+- <p style="font-size:95%">Most SMEs, and civil society organizations do not have a data scientist/engineer in their team, maybe not even an IT person or a HR professional to make such a hire.</p?
+
+- <p style="font-size:95%">To access green bank loans, insurance products, subsidies, or investments, or to keep track of their sustainability goals in line with the Paris Accord or gender equality plan, organizations must connect their accounting system to external environmental data.  We connect their accounts with impact estimates from reliable scientific sources.</p>
+
+---
+## Our solution
+
+- <p style="font-size:85%">We create data ecosystems with the modernization of the EU/OECD/UN endorsed 'data observatory' concept. Our data observatory 3.0 uses the knowledge graphs of the web of data.</p>
+- <p style="font-size:85%">We acquire and process data on a scale in our data observatories. We are currently building five observatories, and one of them is aiming for official EU recognition (serving the music industry).</p>
+- <p style="font-size:85%">We provide applications, for example, connecting financial accounts with environmental, social, or governance (ESG) data. We think that our ESG solution, Eviota, combined with our Green Deal Data Observatory, has excellent market potential.</p>
+
+---
+
 ## Know-how and integration of open source components
 
-- Reprex has a special know-how to map and connect private datasets managing the boundaries of organizations that often have conflicting interests. Our know-how was developed over 10 years, and the data of about 60, often conflicting music industry actors in 12 countries.
+- <p style="font-size:85%">Reprex has a special know-how to map and connect private datasets managing the boundaries of organizations that often have conflicting interests. Our know-how was developed over 10 years, and the data of about 60, often conflicting music industry actors in 12 countries.</p>
 
-- Our team has many years of experience with working public sector information reuse, or 'open data', and have built reliable open source software to process legally open, not readily downloadable, and very valuable information that is not available for market vendors.
+- <p style="font-size:85%">Our team has many years of experience with working public sector information reuse, or 'open data', and have built reliable open source software to process legally open, not readily downloadable, and very valuable information that is not available for market vendors.</p>
 
-- We use RDF (linked open data) and other technologies to link scattered small data to big data; we use our own R libraries to test and process various data into reliable statistical data or indicators.
+- <p style="font-size:85%">We use RDF (linked open data) and other technologies to link scattered small data to big data; we use our own R libraries to test and process various data into reliable statistical data or indicators.</p>
 
-- Based on our unique data access and software we are developing the Eviota App to connect financial accounts and environmental, social and governance data.
+- <p style="font-size:85%">Based on our unique data access and software we are developing the Eviota App to connect financial accounts and environmental, social and governance data.</p>
 
 ---
 ## Timeline
