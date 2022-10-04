@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: UX Design
+role: UX Design 
 
 # Organizations/Affiliations
 organizations:

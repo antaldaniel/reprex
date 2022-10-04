@@ -22,7 +22,7 @@ image:
 ---
 <td style="text-align: center;">{{< figure src="/img/screenshots/iotables_16x9_20220924.png" caption="Download [iotables](https://iotables.dataobservatory.eu/)" numbered="false" >}}</td>
 
-The iotables R packages is an open-source, scientifically validated package that collects and integrates data from reliable statistical sources and perform economic and environmental impact analysis. It is the backbone of our connected financial-sustainability reporting tool, Eviota, because it can analyze the value chains of 64 industries in every European country for free. It is your starting point to calculate employment, tax, or greenhouse gas multipliers for various policy actions in your country. 
+The iotables R package is an open-source, scientifically validated package that collects and integrates data from reliable statistical sources and performs economic and environmental impact analysis. It is the backbone of our connected financial-sustainability reporting tool, Eviota, because it can analyze the value chains of 64 industries in every European country for free. It is your starting point to calculate employment, tax, or greenhouse gas multipliers for various policy actions in your country.
 
 {{% callout note %}}
 The 0.9.1 version of iotables was released today on CRAN. This new minor release contains a bug fix reported by a user and some documentation improvements. Check out our [product page](https://iotables.dataobservatory.eu/) and our [examples](https://iotables.dataobservatory.eu/articles/index.html).
