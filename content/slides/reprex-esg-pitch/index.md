@@ -2,9 +2,10 @@
 title: Reprex
 summary: ESG
 authors: [daniel_antal]
-tags: [Digital Music Observatory, The Hague Innovators Challenge 2022]
+tags: [Green Deal Music Observatory, Eviota]
 categories: []
 date: '2022-09-21T16:00:00+02:00'
+lastmod: '2022-10-04T11:13:00+02:00'
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: white
@@ -51,15 +52,7 @@ Eviota: We map your material impacts in your value chain and connect it with env
 
 - <p style="font-size:95%">When these organizations must solve novel problems, like connecting their financial accounts with environmental and social impact data or connecting to automated transaction systems (like in music), they need novel solutions that do not require managing a database within their organization.</p>
 
---- 
 
-## Data problems (examples)
-
-| <div style="width:200px"></div>  |   |
-|---|:--|
-|<img src="difficulty_bills_levels.jpg" height="130"> | <p style="font-size:65%">The cost of questionnaire-based market research (survey) is increasing exponentially and offers mediocre results without an enormous question bank and harmonization with other surveys.(See [🖱 blogpost](https://reprex.nl/data/surveys/)) </p> |
-|<img src="photo-1490004047268-5259045aa2b4.jpg" height="130"> | <p style="font-size:65%">Manual data acquisition is an error-prone and boring task for humans that requires many working hours (often not credited in consultancies, law firms, or research institutes.)</p> |
-|<img src="Sisyphus_Bodleian_Library.png"  height="130"> | <p style="font-size:65%">Wrangling spreadsheet tables or word processor documents by people without data knowledge is the [🖱 data Sisyphus](https://reprex.nl/post/2021-07-08-data-sisyphus/).</p> |
 
 ---
 
@@ -70,14 +63,58 @@ Eviota: We map your material impacts in your value chain and connect it with env
 
 - <p style="font-size:95%">To access green bank loans, insurance products, subsidies, or investments, or to keep track of their sustainability goals in line with the Paris Accord or gender equality plan, organizations must connect their accounting system to external environmental data.  We connect their accounts with impact estimates from reliable scientific sources.</p>
 
----
-## Our solution
+--- 
+## Data problems (examples)
 
-- <p style="font-size:85%">We create data ecosystems with the modernization of the EU/OECD/UN endorsed 'data observatory' concept. Our data observatory 3.0 uses the knowledge graphs of the web of data.</p>
-- <p style="font-size:85%">We acquire and process data on a scale in our data observatories. We are currently building five observatories, and one of them is aiming for official EU recognition (serving the music industry).</p>
-- <p style="font-size:85%">We provide applications, for example, connecting financial accounts with environmental, social, or governance (ESG) data. We think that our ESG solution, Eviota, combined with our Green Deal Data Observatory, has excellent market potential.</p>
+| <div style="width:200px"></div>  |   |
+|---|:--|
+|<img src="difficulty_bills_levels.jpg" height="130"> | <p style="font-size:65%">The cost of questionnaire-based market research (survey) is increasing exponentially and offers mediocre results without an enormous question bank and harmonization with other surveys.(See [🖱 blogpost](https://reprex.nl/data/surveys/)) </p> |
+|<img src="photo-1490004047268-5259045aa2b4.jpg" height="130"> | <p style="font-size:65%">Manual data acquisition is an error-prone and boring task for humans that requires many working hours (often not credited in consultancies, law firms, or research institutes.)</p> |
+|<img src="Sisyphus_Bodleian_Library.png"  height="130"> | <p style="font-size:65%">Wrangling spreadsheet tables or word processor documents by people without data knowledge is the [🖱 data Sisyphus](https://reprex.nl/post/2021-07-08-data-sisyphus/).</p> |
+
 
 ---
+## Our solution: Reprex
+
+- <p style="font-size:85%">We create data ecosystems with the modernization of the EU/OECD/UN-endorsed 'data observatory' concept. Our data observatory 3.0 uses the knowledge graphs of the web of data.</p>
+- <p style="font-size:85%">We acquire and process data on a scale in our data observatories. We acquire and process data on a scale in our data observatories. Our approach significantly reduces the cost of data acquisition and opens invisible, reliable governmental and scientific data sources. We are currently building five observatories, and one of them is already mature enough to be considered for official EU recognition (serving the music industry).</p>
+- <p style="font-size:85%">We provide applications, for example, our Eviota application, which connects financial accounts with environmental and social data, and crates reliable indicators and benchmarks for the requirements of the sustainable finance package. </p>
+
+---
+
+## Our solution: Eviota (Non-Financial)
+
+- <p style="font-size:80%">We create data ecosystems with the modernization of the EU/OECD/UN-endorsed 'data observatory' concept. Our Green Deal Data Observatory uses the knowledge graphs of the web of data and gives access to reliable, often unseen, hard-to-access ESG data sources.</p>
+- <p style="font-size:85%">We acquire and process data on a scale in our data observatories. Our approach significantly reduces the cost of data acquisition and opens invisible, reliable governmental and scientific data sources.</p>
+- <p style="font-size:85%">We provide applications, for example, our Eviota application, which connects financial accounts with environmental and social data, and crates reliable indicators and benchmarks for the requirements of the sustainable finance package.  Unlike our competitors, we can serve SMEs, too, at a competitive cost.</p>
+
+---
+
+## Our solution: Eviota (For Banks)
+
+- <p style="font-size:70%">We create data ecosystems with the modernization of the EU/OECD/UN-endorsed 'data observatory' concept. Our Green Deal Data Observatory uses the knowledge graphs of the web of data and gives access to reliable, often unseen, hard-to-access ESG data sources.</p>
+- <p style="font-size:70%">We acquire and process data on a scale in our data observatories. Our approach significantly reduces the cost of data acquisition and opens invisible, reliable governmental and scientific data sources.</p>
+- <p style="font-size:70%">We provide applications, for example, our Eviota application, which connects financial accounts with environmental and social data, and crates reliable indicators and benchmarks for the requirements of the sustainable finance package. We are validating our product in the regulatory sandbox of a central bank to show that we provide a cost-effective solution to many regulatory problems opened by the new [sustainable finance package of the EU](https://finance.ec.europa.eu/publications/sustainable-finance-package_en).</p>
+
+---
+
+## UNIIQ
+
+5. Objectives, including product roadmap (technology/time/money)
+6. Schematic overview of developments since inception
+
+---
+
+## Market
+
+---
+
+## Competition
+
+---
+
+
+--- 
 
 ## Know-how and integration of open source components
 
@@ -90,6 +127,16 @@ Eviota: We map your material impacts in your value chain and connect it with env
 - <p style="font-size:85%">Based on our unique data access and software we are developing the Eviota App to connect financial accounts and environmental, social and governance data.</p>
 
 ---
+
+## Team [rewrite with GDO]
+
+| <div style="width:200px"></div>  |   |
+|---|:--|
+| <img src="reprex_contributors_20220920_2_1.png" width="200"> |  <p style="font-size:65%">The two co-founders, [🖱 Daniel Antal, CFA](https://reprex.nl/authors/daniel_antal/) and [🖱 Andrés García Molina, PhD](https://reprex.nl/authors/andres/), and the core team manage the ecosystems' development, develop knowledge management, and direct the software development. [🖱 Team on full screen](https://reprex.nl/#team)</p>  |
+| <img src="dmo_contributors_20220920_2_1.png" width="200"> | <p style="font-size:65%">Each observatory has a broader team of users, data and knowledge curators, and developers. The most developed [🖱️ Digital Music Observatory](https://music.dataobservatory.eu/#contributors) has 16 institutional users and a team of about 20 music and data professionals. The newer observatories have a smaller, initial service development and data curatorial team.</p>  |
+
+---
+
 ## Timeline
 
 - Inception: Yes!Delft AI+Blockchain Product Market Fit Validation with the Digital Music Observatory
