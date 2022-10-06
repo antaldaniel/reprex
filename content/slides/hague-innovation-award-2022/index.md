@@ -1,5 +1,5 @@
 ---
-title: Slides
+title: Hague Innovators Award 2022
 summary: Discussion starter to contest the Hague Innovation Award.
 authors: [daniel_antal]
 tags: [Hague Innovators Award 2022]

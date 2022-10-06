@@ -10,7 +10,7 @@ lastmod: "2022-10-06T15:38:02:00"
 external_link: ""
 
 image:
-  caption: "The Open Pit of the Udachnaya Diamond Mine, ©[Stapanov Alexander](https://commons.wikimedia.org/w/index.php?curid=350061)"
+  caption: "Photo: [refargotohp](https://unsplash.com/@refargotohp?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)"
   focal_point: Smart
 
 links:
@@ -45,7 +45,7 @@ slides: data-curation
 The creative and cultural sectors and industries are mainly made of networks of freelancers and microenterprises, with very few medium-sized companies. Their economic performance, problems, and innovation capacities hidden. Our open collaboration to create this data observatory is committed to change this. Relying on modern data science, the re-use of open governmental data, open science data, and novel harmonized data collection we aim to fill in the gaps left in the official statistics of the European Union. 
 
 {{<toc>}}
-{{< icon name="download" pack="fas" >}} Download this page in a 2-page {{< staticref "documents/Digital_Music_Observatory.pdf" "newtab" >}}pdf{{< /staticref >}} document.
+{{< icon name="download" pack="fas" >}} Download this page in a 2-page {{< staticref "documents/Reprex-CCSI-2022.pdf" "newtab" >}}pdf{{< /staticref >}} document.
 
 ## Our approach to a cultural and creative sector data observatory
 
