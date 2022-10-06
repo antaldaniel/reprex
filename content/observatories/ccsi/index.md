@@ -26,10 +26,6 @@ links:
   icon_pack: fas
   name: Cultural & Creative Sectors and Industries Data Observatory
   url: https://ccsi.dataobservatory.eu/
-- icon: globe
-  icon_pack: fas
-  name: Cultural & Creative Sectors and Industries Data Observatory
-  url: https://ccsi.dataobservatory.eu/
 - icon: fingerprint
   icon_pack: fas
   link: https://zenodo.org/communities/ccsi/
