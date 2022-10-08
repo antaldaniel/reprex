@@ -4,12 +4,11 @@ summary: Your transition into using and developing R tools
 authors: [daniel_antal]
 tags: [R, Reprex]
 categories: [Rbloggers]
-date: '2022-09-21T16:00:00+02:00'
-lastmod: '2022-10-04T11:13:00+02:00'
+date: '2022-10-07T12:35:00+02:00'
+lastmod: '2022-10-08T08:51:00+02:00'
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: white
-  # Choose a code highlighting style (if highlighting enabled in `params.toml`)
   #   Light style: github. Dark style: dracula (default).
   highlight_style: dracula
   
@@ -31,10 +30,25 @@ Fullscreen: `F`
 
 ----
 
-# Big data that works for all
+## Big data that works for all
 
-Reprex: No matter how big is the problem or how small is your team, we fill your reports, dashboards, newsletters, books with data and its visualization.
+- <p style="font-size:75%">No matter how big is the problem or how small is your team, `Reprex` fill your reports, dashboards, newsletters, books with data and its visualization.
+- <p style="font-size:75%">Learn R with us: you can reduce the inequalities by joining the open source movement, learning to run open source software, ask for help, improve the tutorials, the documentation, and eventually learn to make the computer work for you.
+- <p style="font-size:75%">Contributor Covenant: Participating in open source is often a highly collaborative experience. We’re encouraged to create in public view, and we’re incentivized to welcome contributions of all kinds from people around the world. This makes the practice of open source as much social as it is technical.</p>
 
+---
+
+## Get Inspired
+
+- [Find more interesting and better data](https://curators.dataobservatory.eu/inspiration.html): you don't have to be a data scientist or write code to contribute to our projects.
+- [Data feminism](https://data-feminism.mitpress.mit.edu/): Catherine D'Ignazio and Lauren Klein present a new way of thinking about data science and data ethics—one that is informed by intersectional feminist thought. Highly inspirational, free, open-source book.
+- [RLadies](https://rladies.org/) is a world-wide organization to promote gender diversity in the R community.
+
+---
+## Contributor Covenant
+
+-  <p style="font-size:75%">We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, caste, color, religion, or sexual identity and orientation.</p>
+-  <p style="font-size:75%">We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.</p>
 
 ---
 
@@ -48,12 +62,18 @@ Reprex: No matter how big is the problem or how small is your team, we fill your
 
 ---
 
-{{< slide background-image="retroharmonize_readme.webp" >}}
 ## Run code from tutorials
+
+[retroharmonize.dataobservatory.eu](https://retroharmonize.dataobservatory.eu/)</br>
+[🖱 Get started](https://retroharmonize.dataobservatory.eu/articles/retroharmonize.htmll)</br>
+[🖱️  Articles](https://retroharmonize.dataobservatory.eu/articles/index.html)
+
+---
+{{< slide background-image="retroharmonize_readme.webp" >}}
 
 ---
 
-{{< slide background-image="github_issues_spotifyR" >}}
+{{< slide background-image="github_issues_spotifyR.webp" >}}
 ## Find help, ask for help: reprex
 
 ---
@@ -73,15 +93,30 @@ Reprex: No matter how big is the problem or how small is your team, we fill your
 
 ---
 
-{{< slide background-image="retroharmonize_r_code.webp" >}}
 ## R is a functional language
-</br></br></br></br></br></br></br></br></br>
+
+- R is both a statistical environment and a programming language
+- R, the open source and further developed version of the S language, is mainly functional
+- If you did a task at least twice, the 3rd time you better write a function script to keep doing it forever.
+- Most of your effort will be to find a well-written function for your work
+- If you cannot find a function, you will modify somebody else's function, or eventually write your own
+
+
+---
+
+{{< slide background-image="retroharmonize_r_code.webp" >}}
 
 ---
 
 {{< slide background-image="rmd_example.webp" >}}
 ## R + YAML + markdown = web ready
 
+---
+
+- [Learn YAML in Y minutes](https://learnxinyminutes.com/docs/yaml/): tell the computer what you want to do with a document
+- [R Markdown basics](https://rmarkdown.rstudio.com/authoring_basics.html): it is just a plain markdown that allows you to insert little R program 'chunks'.
+- [Awesome markdown editors and pre-writers](https://github.com/mundimark/awesome-markdown-editors): find a convenient tool
+- [Google Docs to markdown](https://workspace.google.com/marketplace/app/docs_to_markdown/700168918607): practice by translating your Google Docs text to markdown. It is *very* easy.
 
 ---
 
@@ -89,58 +124,15 @@ Reprex: No matter how big is the problem or how small is your team, we fill your
 ## Package and release: a team effort
 
 ---
-## Data problems: Reprex
 
+## Our open source development projects
 
-- <p style="font-size:95%">Most SMEs, and civil society organizations do not have a data scientist/engineer in their team, maybe not even an IT person or a HR professional to make such a hire.</p?
-
-- <p style="font-size:95%">When these organizations must solve novel problems, like connecting their financial accounts with environmental and social impact data or connecting to automated transaction systems (like in music), they need novel solutions that do not require managing a database within their organization.</p>
-
-
+🔢 [dataset](https://dataset.dataobservatory.eu/): Synchronize datasets with global knowledge hubs #️⃣ [statcodelists](https://statcodelists.dataobservatory.eu/): Make your data codes understood globally ♻️ [iotables](https://iotables.dataobservatory.eu/): Create economic or environmental impact assessments in any EU country 🌍 [regions](https://regions.dataobservatory.eu/): Create from raw survey data more granular statistics in any EU country ✅ [retroharmonize](https://retroharmonize.dataobservatory.eu/): Harmonize questions banks, recycle answers from past surveys ⏭️  [all in on one page](https://reprex.nl/#releases)
 
 ---
 
-## Data problems: Eviota
-
-
-- <p style="font-size:95%">Most SMEs, and civil society organizations do not have a data scientist/engineer in their team, maybe not even an IT person or a HR professional to make such a hire.</p?
-
-- <p style="font-size:95%">To access green bank loans, insurance products, subsidies, or investments, or to keep track of their sustainability goals in line with the Paris Accord or gender equality plan, organizations must connect their accounting system to external environmental data.  We connect their accounts with impact estimates from reliable scientific sources.</p>
-
---- 
-## Data problems (examples)
-
-| <div style="width:200px"></div>  |   |
-|---|:--|
-|<img src="difficulty_bills_levels.jpg" height="130"> | <p style="font-size:65%">The cost of questionnaire-based market research (survey) is increasing exponentially and offers mediocre results without an enormous question bank and harmonization with other surveys.(See [🖱 blogpost](https://reprex.nl/data/surveys/)) </p> |
-|<img src="photo-1490004047268-5259045aa2b4.jpg" height="130"> | <p style="font-size:65%">Manual data acquisition is an error-prone and boring task for humans that requires many working hours (often not credited in consultancies, law firms, or research institutes.)</p> |
-|<img src="Sisyphus_Bodleian_Library.png"  height="130"> | <p style="font-size:65%">Wrangling spreadsheet tables or word processor documents by people without data knowledge is the [🖱 data Sisyphus](https://reprex.nl/post/2021-07-08-data-sisyphus/).</p> |
-
-
----
-## Our solution: Reprex
-
-- <p style="font-size:85%">We create data ecosystems with the modernization of the EU/OECD/UN-endorsed 'data observatory' concept. Our data observatory 3.0 uses the knowledge graphs of the web of data.</p>
-- <p style="font-size:85%">We acquire and process data on a scale in our data observatories. We acquire and process data on a scale in our data observatories. Our approach significantly reduces the cost of data acquisition and opens invisible, reliable governmental and scientific data sources. We are currently building five observatories, and one of them is already mature enough to be considered for official EU recognition (serving the music industry).</p>
-- <p style="font-size:85%">We provide applications, for example, our Eviota application, which connects financial accounts with environmental and social data, and crates reliable indicators and benchmarks for the requirements of the sustainable finance package. </p>
-
----
-
-## Our solution: Eviota (Non-Financial)
-
-- <p style="font-size:80%">We create data ecosystems with the modernization of the EU/OECD/UN-endorsed 'data observatory' concept. Our Green Deal Data Observatory uses the knowledge graphs of the web of data and gives access to reliable, often unseen, hard-to-access ESG data sources.</p>
-- <p style="font-size:85%">We acquire and process data on a scale in our data observatories. Our approach significantly reduces the cost of data acquisition and opens invisible, reliable governmental and scientific data sources.</p>
-- <p style="font-size:85%">We provide applications, for example, our Eviota application, which connects financial accounts with environmental and social data, and crates reliable indicators and benchmarks for the requirements of the sustainable finance package.  Unlike our competitors, we can serve SMEs, too, at a competitive cost.</p>
-
----
-
-## Our solution: Eviota (For Banks)
-
-- <p style="font-size:70%">We create data ecosystems with the modernization of the EU/OECD/UN-endorsed 'data observatory' concept. Our Green Deal Data Observatory uses the knowledge graphs of the web of data and gives access to reliable, often unseen, hard-to-access ESG data sources.</p>
-- <p style="font-size:70%">We acquire and process data on a scale in our data observatories. Our approach significantly reduces the cost of data acquisition and opens invisible, reliable governmental and scientific data sources.</p>
-- <p style="font-size:70%">We provide applications, for example, our Eviota application, which connects financial accounts with environmental and social data, and crates reliable indicators and benchmarks for the requirements of the sustainable finance package. We are validating our product in the regulatory sandbox of a central bank to show that we provide a cost-effective solution to many regulatory problems opened by the new [sustainable finance package of the EU](https://finance.ec.europa.eu/publications/sustainable-finance-package_en).</p>
-
----
+{{< slide background-image="create_with_reprex.webp" >}}
+## Create with us
 
 
 ---
@@ -149,8 +141,5 @@ Reprex: No matter how big is the problem or how small is your team, we fill your
 
 [Email](https://reprex.nl/#contact) | [Keybase](https://keybase.io/team/reprexcommunity) 
 
-LinkedIn: [Daniel Antal](https://www.linkedin.com/in/antaldaniel/) - [Reprex](https://www.linkedin.com/company/68855596)
-
-[Home](https://reprex.nl/) - [One Pager ImpactCity Startup Support XL](https://reprex.nl/talk/impactcity-startup-support-xl/)
-
+LinkedIn: [Daniel Antal](https://www.linkedin.com/in/antaldaniel/) - [Reprex](https://www.linkedin.com/company/68855596) | [Home](https://reprex.nl/) 
 
