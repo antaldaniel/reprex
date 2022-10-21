@@ -7,18 +7,18 @@
 
 appearance:
   theme_day: minimal
-  theme_night: minimal
-  font: minimal
+  theme_night:
+  font: native
   font_size: L
 
 # SEO
 
 marketing:
   seo:
-    site_type: Person
+    site_type: Organization
     local_business_type: ''
-    org_name: 'Competition Data Observatory'
-    description: 'An open knowledge platform for the Computational Antitrust'
+    org_name: 'Reprex B.V.'
+    description: 'Big data for all'
     twitter: 'dataandlyrics'
   analytics:
     google_analytics: ''
@@ -32,12 +32,12 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    align: r
     show_logo: true
     show_language: false
     show_day_night: true
     show_search: true
-    highlight_active_link: true
+    highlight_active_link: false
 
 # Site footer
 
@@ -61,7 +61,7 @@ locale:
 
 features:
   syntax_highlighter:
-    enable: true
+    enable: false
     extra_languages:
       - r
       - latex
@@ -72,7 +72,7 @@ features:
   repository:
     url: 'https://github.com/antaldaniel/reprex'
     content_dir: content
-    branch: master
+    branch: main
   avatar:
     gravatar: false
     shape: circle
@@ -83,6 +83,11 @@ features:
       show_count: true
     commento:
       url: ''
+    giscus:
+      repo: ''
+      repo_id: ''
+      category: ''
+      category_id: ''
   search:
     provider: wowchemy
     algolia:
@@ -91,7 +96,7 @@ features:
       index_name: ''
       show_logo: false
   map:
-    provider: ''
+    provider: 'mapnik'
     api_key: ''
     zoom: 15
 
@@ -104,8 +109,8 @@ extensions:
   academicons:
     enable: true
 
-# Security
+# Citation style
 
-security:
-  # Allow frame for embedding speaker notes in slides
-  allow_frame: true
+publications:
+  date_format: January 2006
+  citation_style: apa

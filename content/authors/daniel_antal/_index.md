@@ -23,7 +23,7 @@ organizations:
   url: "https://www.ivir.nl/employee/antaldaniel/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include reproducible social science, economics and finance.
+bio: 
 
 topics:
 - Intangible Assets / Royalty Valuation

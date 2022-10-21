@@ -5,7 +5,7 @@ date:  2022-06-29T08:12:00+01:00
 lastmod:  2022-06-29T08:12:00+01:00
 doi: "10.5281/zenodo.6751783"
 
-authors:  ["daniel_antal"]
+# authors:  ["daniel_antal"]
 
 tags:  ["R", "metadata", "statistics", "SDMX"]
 
