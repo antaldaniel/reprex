@@ -43,6 +43,16 @@ url_pdf: ''
 url_slides: ''
 url_video: ''
 
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/DigitalMusicObs
+- icon: linkedin
+  icon_pack: fab
+  name: Connect
+  url: https://www.linkedin.com/company/68855596/
+
 # Markdown Slides (optional).
 slides: reprex-nlaic-2022
 

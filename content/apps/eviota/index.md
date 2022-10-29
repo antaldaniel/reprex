@@ -22,7 +22,8 @@ links:
   link: https://github.com/dataobservatory-eu
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/company/78556699
+  name: Connect
+  url: https://www.linkedin.com/company/68855596/
   
 url_code: ''
 url_pdf: ''

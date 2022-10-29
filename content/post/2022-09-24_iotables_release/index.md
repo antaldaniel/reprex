@@ -6,7 +6,7 @@ lastmod:  2022-09-24T08:13:55+02:00
 
 # authors:  ["daniel_antal"]
 
-tags:  ["iotables", "Eviota", "Environmental Impact Analysis", "Economic Impact Analysis"]
+tags:  ["iotables", "Eviota", "Environmental Impact Analysis", "Economic Impact Analysis", "R", "Open data"]
 categories: Rbloggers
 
 summary:  "The iotables R package collects and integrates data from reliable statistical sources and performs economic and environmental impact analysis. It can be your starting point to calculate employment, tax, or greenhouse gas multipliers for various policy actions in your country for free, and it is the backbone of our connected financial-sustainability ESG reporting tool, Eviota, because it can analyze the value chains of 64 industries in every European country."

@@ -45,6 +45,12 @@ url_pdf: ''
 url_slides: ''
 url_video: ''
 
+links:
+- icon: linkedin
+  icon_pack: fab
+  name: Connect
+  url: https://www.linkedin.com/company/68855596/
+
 # Markdown Slides (optional).
 slides:
 

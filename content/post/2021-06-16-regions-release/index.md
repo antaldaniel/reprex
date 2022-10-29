@@ -7,11 +7,11 @@ draft:  false
 
 authors:  ["daniel_antal", "rOpenGov", "leo_lahti", "kasia_kulma"]
 
-tags:  ["Open data", "Open science", "regional data", "sub-national data", "R", "data collection"]
+tags:  ["Open data", "Open science", "Regional data", "Small area statistics", "R"]
 
 summary:  "There are numerous advantages of switching from a national level of the analysis to a sub-national level comes with a huge price in data processing, validation and imputation, and the regions package aims to help this process."
 
-projects:  ["eu-datathon_2021"]
+category: R-bloggers
 
 # Featured image
 image: 

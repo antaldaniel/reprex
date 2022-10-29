@@ -7,7 +7,7 @@ draft = false
 
 authors = ["Daniel Antal, CFA", "Réka Szentirmay"]
 
-tags = ["open-data", "reproducible", "start-up", "open-source"]
+tags = ["Open data", "Reproducible research", "Reprex", "Open-source"]
 
 summary = "We see much interest in our offering from other continents, therefore we truly welcome the opportunity that we can do this on a truly global business canvas in one of the worlds’ top five incubators, the number 2 university-backed incubator in the world, in the Yes!Delft AI+Blockchain Validation Lab."
 

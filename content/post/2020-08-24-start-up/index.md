@@ -7,7 +7,7 @@ draft = false
 
 authors = ["Daniel Antal, CFA", "Réka Szentirmay"]
 
-tags = ["R", "open-data", "reproducible"]
+tags = ["R", "Open Data", "Reproducible resaerch", "Reprex"]
 
 summary = "The big day has come: the co-founders singed off the documents at the public notary and started the registration of a reproducible research start-up. Do you want to help us?"
 

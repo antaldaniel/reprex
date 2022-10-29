@@ -7,11 +7,11 @@ draft = false
 
 authors = ["Daniel Antal"]
 
-tags = ["Europe", "EU", "reproducible-research", "music-observatory"]
+tags = ["Europe", "EU", "Reproducible research", "Digital Music Observatory"]
 
 summary = "The Feasibility Study on the European Music Observatory was published on 13 November.  We created a Demo Music Observatory to provide a practical guidance on the decisions facing the European stakeholders, and to answer the questions that were left open in the Feasibility Study --- particularly on data quality, time to build, and costs."
 
-projects = ["music-observatory"]
+projects = ["OpenMuse"]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 

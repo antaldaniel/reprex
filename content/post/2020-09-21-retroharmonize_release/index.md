@@ -7,7 +7,9 @@ draft = false
 
 authors = ["Daniel Antal, CFA"]
 
-tags = ["R", "open-data", "reproducible", "surveys", "open-source"]
+tags = ["R", "Open data", "Reproducible research", "Surveys"]
+
+categories = "R-bloggers"
 
 summary = "Our ex post survey harmonization package retroharmonize passed all automated tests and peer-reviews and was released today on CRAN."
 

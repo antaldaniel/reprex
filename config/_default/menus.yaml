@@ -25,6 +25,15 @@ main:
   - name: News
     url: post
     weight: 20
+    name: Blog
+  - name: News
+    url: post
+    weight: 21
+    parent: Blog
+  - name: Our Topics
+    url: /#tags
+    weight: 22
+    parent: Blog
   - name: Solutions
     url: '#services'
     weight: 30

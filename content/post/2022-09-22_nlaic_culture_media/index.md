@@ -16,7 +16,9 @@ lastmod:  2022-09-24T08:13:55+02:00
 
 
 authors: []
-tags: [Listen Local, OpenMusE]
+tags: ["Listen Local", "OpenMuse", "Trustworthy AI", "Open collaboration", "Utrecht"]
+
+project: "OpenMuse"
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -30,6 +32,21 @@ url_pdf: ''
 url_slides: ''
 url_video: ''
 
+
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@DigitalMusicObs"
+  url: https://twitter.com/DigitalMusicObs
+- icon: twitter
+  icon_pack: fab
+  name: "@CultDataObs"
+  url: https://twitter.com/CultDataObs
+- icon: linkedin
+  icon_pack: fab
+  name: Reprex
+  url: https://www.linkedin.com/company/68855596/
+  
 # Markdown Slides (optional).
 slides: reprex-nlaic-2022
 ---

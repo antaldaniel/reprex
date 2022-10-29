@@ -69,7 +69,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Change - join us to - data curators
 user_groups: 
-  - Team
+  - data curators
 ---
 
 Gabija is a trainee at [Reprex](/authors/reprex) and she is working on our [Listen Local Lithuania](/project/listen-local) project. Her role is to make sure that autonomous music systems, streaming platforms, and other applications receive information about Lithuanian music and Lithuanian creators without error and data bias to give them a fair chance in global streaming.
