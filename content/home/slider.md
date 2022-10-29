@@ -15,20 +15,20 @@ design:
 
 content:
   slides:
-    - title: We Are Finalists!
-      content: 'Vote for us in The Hague Innovators Award 2022</br>
-                Details soon.'
+    - title: Reprex Wants to Talk to All in the Hague
+      content: 'Help to translate</br> our message for all,</br>
+                young and old.'
       align: left
       background:
         position: center
         color: '#555'
         brightness: 0.3
-        media: slides/tour/DAntal_ImpacCity_PAARD_2_20221028_4x6.webp
+        media: img/blogposts_2022/reprex-talk-to-all-srt.webp
       link:
         icon: fa-solid fa-right-to-bracket
         icon_pack: fas
-        text: Vote
-        url: ../post/2022-09-13-the-hague-innovators-award/
+        text: Help to Subtitle Our Message
+        url: ../post/2022-10-29_reprex-talk-to-all/
     - title: 
       content:  </br></br></br></br></br></br></br></br></br></br></br></br>
       align: left
@@ -86,6 +86,20 @@ content:
 ---
 
 <!---
+    - title: We Are Finalists!
+      content: 'Vote for us in The Hague Innovators Award 2022</br>
+                Details soon.'
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.3
+        media: slides/tour/DAntal_ImpacCity_PAARD_2_20221028_4x6.webp
+      link:
+        icon: fa-solid fa-right-to-bracket
+        icon_pack: fas
+        text: Vote
+        url: ../post/2022-09-13-the-hague-innovators-award/
     - title: 🚀  We Are Finalists!
       content: 'Vote for us in The Hague Innovators Award 2022'
       align: left
