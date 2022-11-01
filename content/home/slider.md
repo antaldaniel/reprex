@@ -15,19 +15,19 @@ design:
 
 content:
   slides:
-    - title: Reprex Wants to Talk to All in the Hague
-      content: 'The message is the message! We are an ethical data and AI company, and one of our topics is detecting if algorithms are biased towards the English language speakers. We want to teach the computer to understand small languages, and of course, everyone, who is under-represented in data: women, former colonial nations.'
+    - title: Vote in The Hague Innovators Challenge!
+      content: '</br></br></br></br></br></br></br>'
       align: left
       background:
-        position: center
+        position: top
         color: '#555'
-        brightness: 0.5
-        media: img/blogposts_2022/reprex-talk-to-all-srt.webp
+        brightness: 0.3
+        media: slides/slider/cast_your_vote.webp
       link:
         icon: fa-solid fa-right-to-bracket
         icon_pack: fas
-        text: Help to Subtitle Our Message
-        url: ../post/2022-10-29_reprex-talk-to-all/
+        text: Scroll ↡ and vote REPREX :)
+        url: https://www.impactcity.nl/en/cast-your-vote-for-the-hague-innovators-challenge-2022/
     - title: 
       content:  </br></br></br></br></br></br></br></br></br></br></br></br>
       align: left
