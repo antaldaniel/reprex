@@ -35,8 +35,6 @@ image:
 
 <td style="text-align: center;">{{< figure src="img/blogposts_2022/ImpactCity_je_stem_bevestigd.png" caption="Thank you very much!" numbered="false" >}}</td>
 
-
-
 ## How to share the word?
 
 1. Please **share our video message** on [YouTube](https://www.youtube.com/watch?v=bgp-n55TKCk) among your colleagues and friends.
