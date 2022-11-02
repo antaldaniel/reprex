@@ -46,7 +46,7 @@ image:
 
 1. Klikkelj a [Cast your vote for The Hague Innovators challenge 2022](https://www.impactcity.nl/en/cast-your-vote-for-the-hague-innovators-challenge-2022/) oldalra!
 
-<td style="text-align: center;">{{< figure src="img/blogposts_2022/ImpactCity_cast_your_vote.png" caption="A jobb oldali görgetővel scrollozz le addig, amíg a szavazólapot nem látod. Válaszd ki a **Reprex** címet és írd be az email címedet." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="img/blogposts_2022/ImpactCity_cast_your_vote.png" caption="A jobb oldali görgetővel scrollozz le addig, amíg a szavazólapot nem látod. Válaszd ki a **Reprex** címet és írd be az email címedet. Ahhoz, hogy engedjen a gép választani a cégek közül, ki kell pipálnod a `✅ I'm not a robot' cimkét, ahogyan a képen mutatjuk." numbered="false" >}}</td>
 
 2. A szavazatod még nem érvényes, azt **meg kell erősítened**. Lépj be abba az email fiókba, amit az előbb megadtál. (Az email címedet nem használják marketing célokra, nem adják át másnak, csak azért rögzítik, hogy kizárják a többszöri szavazást.)
 

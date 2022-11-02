@@ -25,7 +25,7 @@ image:
 
 1. Go to [Cast your vote for The Hague Innovators challenge 2022!](https://www.impactcity.nl/en/cast-your-vote-for-the-hague-innovators-challenge-2022/)
 
-<td style="text-align: center;">{{< figure src="img/blogposts_2022/ImpactCity_cast_your_vote.png" caption="Make sure you select **Reprex** and write in your email (it is safe here.)" numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="img/blogposts_2022/ImpactCity_cast_your_vote.png" caption="Make sure you select **Reprex** and write in your email (it is safe here.) You need to tick `✅ I'm not a robot'  to be able to select companies." numbered="false" >}}</td>
 
 2. Your vote is not final yet, you **must click on a confirmation link** to prove that it was you who voted. Go to your email. (Your email is only recorded to avoid double voting, they will not add your address to any marketing databases.)
 
