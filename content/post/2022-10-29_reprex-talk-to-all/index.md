@@ -18,6 +18,9 @@ image:
 ---
 {{< toc >}}
 
+🇭🇺 [magyarul](/impactcity/magyar/)
+
+
 ## How to vote?
 
 1. Go to [Cast your vote for The Hague Innovators challenge 2022!](https://www.impactcity.nl/en/cast-your-vote-for-the-hague-innovators-challenge-2022/)
