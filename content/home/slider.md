@@ -32,10 +32,10 @@ content:
       content:  </br></br></br></br></br></br></br></br></br></br></br></br>
       align: left
       background:
-        position: center
+        position: top
         color: '#666'
-        brightness: 0.6
-        media: slides/slider/big_data_creates_inequalities_centered.webp
+        brightness: 0.8
+        media: img/slides/sustianable_development_goals_4_observatories.webp
       link:
         icon: fa-solid fa-right-to-bracket
         icon_pack: fas
@@ -71,6 +71,19 @@ content:
         icon_pack: fas
         text: "Blog: Why is it so hard to work with it?"
         url: ../post/2021-06-18-gold-without-rush/
+    - title: ""
+      content: ''
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.3
+        media: img/slides/panning_open_data_automation_white.webp
+      link:
+        icon: fa-solid fa-right-to-bracket
+        icon_pack: fas
+        text: "Software solutions"
+        url: ../#releases
     - title: ""
       content: '</br></br>Our new, vertical observatories bring ESG and antitrust
       solutions from our domain-specific observatories. The competition observatory
