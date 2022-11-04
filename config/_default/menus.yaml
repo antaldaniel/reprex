@@ -12,7 +12,7 @@ main:
     weight: 10
     identifier: Reprex
   - name: In A Minute
-    url: tour
+    url: /#slider
     weight: 11
     parent: Reprex
   - name: Accomplishments
