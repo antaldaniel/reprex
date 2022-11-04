@@ -3,7 +3,7 @@ title: Big Data for All - Building Collaborative Data Observatories
 subtitle: The case of the music industry
 
 event: Eindhoven Innovation Café Breakout Talks
-event_url: https://wnim.lt/
+event_url: https://www.ehvinnovationcafe.org/program/
 
 location: Kazerne – Home of Design
 address:
@@ -64,6 +64,10 @@ links:
   icon_pack: fab
   name: Reprex
   url: https://www.linkedin.com/company/68855596/
+- icon: youtube
+  icon_pack: fab
+  name: Recorded Livestream
+  url: https://youtu.be/kM54gAAbHY0?t=05m22s
 ---
 
 {{% callout note %}}
