@@ -5,7 +5,7 @@ summary: "Sharing the burden of big problems in a collaborative way with open da
 authors: ["daniel_antal"]
 tags: ["Digital Music Observatory", "Reprex", "ImpactCity", "Eindhoven"]
 categories: []
-date: '2022-09-07T00:00:00Z'
+date: '2022-11-03T16:00:00Z'
 slides:
   # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: black
