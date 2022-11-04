@@ -40,9 +40,9 @@ education:
     - course: MA in Cultural Economics and Entrepreneurship
       institution: Erasmus University Rotterdam
       year: 2022
-    - course: BA in Arts, Culture and Media
-      institution: University of Groningen
-      year: 2019
+    - course: BA in Anthropology & Art History
+      institution: University College Utrecht
+      year: 2020
 
 # Please place your credentials below by changing this template.
 # Uncomment optional badges / links
@@ -57,7 +57,7 @@ social:
 # Change to: https://linkedin.com/in/yourusername if you use it for professional purposes.
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/gabija-liaugminait%C4%97-5a906a152
+  link: https://www.linkedin.com/in/eszternovak/
 # Change keybase link below to: keybase.io/your-username 
 - icon: keybase
   icon_pack: fab
