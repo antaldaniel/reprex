@@ -12,6 +12,8 @@ address:
   region: Noord-Brabant
   postcode: '5611KN'
   country: Netherlands
+  
+slides: ehv_reprex
 
 summary: Introducing the collaborative data observatories with the example of the music industry and sector.
 
@@ -42,15 +44,12 @@ url_pdf: ''
 url_slides: ''
 url_video: ''
 
-slides:
-
 # Projects (optional).
 #   Otherwise, set `projects = []`.
 projects:
  - Listen Local
  - OpenMusE
  
-links:
 links:
 - icon: twitter
   icon_pack: fab
@@ -68,6 +67,11 @@ links:
   icon_pack: fab
   name: Recorded Livestream
   url: https://youtu.be/kM54gAAbHY0?t=05m22s
+- icon: laptop
+  icon_pack: fas
+  name: Slides
+  url: ../slides/ehv-reprex
+  
 ---
 
 Reprex's co-founder, [Daniel Antal](/authors/daniel_antal) talked in the [Eindhoven Innovation Café](https://www.ehvinnovationcafe.org/past-events/) about these issues. You can watch the recorded version of the the livestream that starts at 5 minutes and 22 seconds:

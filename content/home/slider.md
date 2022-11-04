@@ -15,6 +15,32 @@ design:
 
 content:
   slides:
+    - title: ""
+      content: '</br></br></br></br></br></br></br>'
+      align: left
+      background:
+        position: top
+        color: '#555'
+        brightness: 0.9
+        media: slides/slider/Sustainable_development_goals_16_white.webp
+      link:
+        icon: fa-solid fa-right-to-bracket
+        icon_pack: fas
+        text: Scroll ↡ and vote REPREX :)
+        url: ../post/2022-10-29_reprex-talk-to-all/
+    - title: Try Our Software
+      content: </br></br></br></br></br></br></br></br>
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.7
+        media: slides/slider/black_reprex_r_packages.webp
+      link:
+        icon: fa-solid fa-right-to-bracket
+        icon_pack: fas
+        text: Releases
+        url: ../#releases
     - title: Daniel in the EHV Innovation Café
       content: '</br></br></br></br></br></br></br>'
       align: left
@@ -41,32 +67,6 @@ content:
         icon_pack: fas
         text: Scroll ↡ and vote REPREX :)
         url: ../post/2022-10-29_reprex-talk-to-all/
-    - title: 
-      content:  </br></br></br></br></br></br></br></br></br></br></br></br>
-      align: left
-      background:
-        position: top
-        color: '#666'
-        brightness: 0.8
-        media: img/slides/sustianable_development_goals_4_observatories.webp
-      link:
-        icon: fa-solid fa-right-to-bracket
-        icon_pack: fas
-        text: Read More
-        url: ../post/2022-09-13-the-hague-innovators-award/
-    - title: Try Our Software
-      content: </br></br></br></br></br></br></br></br>
-      align: left
-      background:
-        position: center
-        color: '#555'
-        brightness: 0.7
-        media: slides/slider/black_reprex_r_packages.webp
-      link:
-        icon: fa-solid fa-right-to-bracket
-        icon_pack: fas
-        text: Releases
-        url: ../#releases
     - title: "Open Data: Gold Without Rush"
       content: 'When you need data from the past, it is too late to start 
       collecting it. If you need satellite data, it is unlikely that you

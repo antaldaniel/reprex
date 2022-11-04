@@ -31,6 +31,11 @@ links:
   icon_pack: fab
   name: Recorded Livestream
   url: https://youtu.be/kM54gAAbHY0?t=05m22s
+- icon: laptop
+  icon_pack: fas
+  name: Slides
+  url: ../slides/ehv-reprex
+  
   
 # Featured image
 image: 
