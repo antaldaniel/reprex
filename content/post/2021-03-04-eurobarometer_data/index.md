@@ -32,8 +32,26 @@ authors:
 - daniel_antal
 
 tags:
-- surveys
-- eurobarometer
+- Surveys
+- Eurobarometer
+
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@CultDataObs"
+  url: https://twitter.com/CultDataObs/
+- icon: linkedin
+  icon_pack: fab
+  name: CCSI Data Observatory
+  link: https://www.linkedin.com/company/68855596/
+- icon: fa-solid fa-code
+  icon_pack: fas
+  name: Code & Tutorials
+  link: https://retroharmonize.dataobservatory.eu/
+- icon: github
+  icon_pack: fab
+  name: "rOpenGov/retroharmonize/"
+  link: https://github.com/rOpenGov/retroharmonize/
 
 categories:
 - R-bloggers

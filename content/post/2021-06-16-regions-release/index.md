@@ -13,18 +13,34 @@ summary:  "There are numerous advantages of switching from a national level of t
 
 category: R-bloggers
 
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@CultDataObs"
+  url: https://twitter.com/CultDataObs/
+- icon: linkedin
+  icon_pack: fab
+  name: CCSI Data Observatory
+  link: https://www.linkedin.com/company/68855596/
+- icon: fa-solid fa-code
+  icon_pack: fas
+  name: Code & Tutorials
+  link: https://regions.dataobservatory.eu/
+- icon: github
+  icon_pack: fab
+  name: "rOpenGov/regions"
+  link: https://github.com/rOpenGov/regions/
+
+
 # Featured image
 image: 
   # Caption (optional)
-  caption:  "Annette Wong"
+  caption:  ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point:  "Center"
-
-  # Show image only in page previews?
   preview_only:  true
-
 ---
 
 {{< figure src="/img/package_screenshots/regions_017_169.png" numbered="false" >}}

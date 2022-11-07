@@ -1,31 +1,43 @@
-+++
-title = "Economic and Environment Impact Analysis, Automated for Data-as-Service"
-subtitle = "Our new open source release will help with automated economic impact and environmental impact analysis."
-date = 2021-06-03T16:00:00
-lastmod = 2021-06-03T16:00:00
-draft = false
+---
+title: "Economic and Environment Impact Analysis, Automated for Data-as-Service"
+subtitle: "Our new open source release will help with automated economic impact and environmental impact analysis."
+date: 2021-06-03T16:00:00
+lastmod: 2021-06-03T16:00:00
+draft: false
 
-authors = ["Daniel Antal"]
+authors: ["Daniel Antal"]
 
-tags = ["open-data", "open-science", "iotables", "datathon", "economic impact analysis", "environmental impact analysis"]
+tags: ["open data", "open science", "iotables", "Economic impact analysis", "Environmental impact analysis"]
 
-summary = "rOpenGov, Reprex, and other open collaboration partners teamed up to build on our expertise of open source statistical software development further: we want to create a technologically and financially feasible data-as-service to put our reproducible research products into wider user for the business analyst, scientific researcher and evidence-based policy design communities. Our new release will help with automated economic impact and environmental impact analysis."
+summary: "rOpenGov, Reprex, and other open collaboration partners teamed up to build on our expertise of open source statistical software development further: we want to create a technologically and financially feasible data-as-service to put our reproducible research products into wider user for the business analyst, scientific researcher and evidence-based policy design communities. Our new release will help with automated economic impact and environmental impact analysis."
 
-projects = ["eu-datathon_2021"]
+projects: ""
+
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@CultDataObs"
+  url: https://twitter.com/CultDataObs/
+- icon: linkedin
+  icon_pack: fab
+  name: CCSI Data Observatory
+  link: https://www.linkedin.com/company/68855596/
+- icon: fa-solid fa-code
+  icon_pack: fas
+  name: Code & Tutorials
+  link: https://iotables.dataobservatory.eu/
+- icon: github
+  icon_pack: fab
+  name: "rOpenGov/iotables/"
+  link: https://github.com/rOpenGov/iotables/
 
 # Featured image
-[image]
-  # Caption (optional)
-  caption = ""
+image:
+  caption: ""
+  focal_point: "Center"
+  preview_only: true
 
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
-
-  # Show image only in page previews?
-  preview_only = true
-
-+++
+---
 
 We have released a new version of
 [iotables](https://iotables.dataobservatory.eu/) as part of the
@@ -87,7 +99,7 @@ labels like this:
     # should you need to retrieve the large tempfiles, they are in 
     dir (file.path(tempdir(), "eurostat"))
 
-    dplyr::slice_head(naio_10_cp1700, n = 5)
+    dplyr::slice_head(naio_10_cp1700, n: 5)
 
     ## # A tibble: 5 x 7
     ##   unit    stk_flow induse  prod_na geo       time        values
@@ -138,11 +150,11 @@ does basic labelling and preprocessing on the raw Eurostat files.
 Because of the size of the unfiltered dataset on Eurostat, the following
 code may take several minutes to run.
 
-    sk_io <-  iotable_get ( labelled_io_data = NULL, 
-                            source = "naio_10_cp1700", geo = "SK", 
-                            year = 2015, unit = "MIO_EUR", 
-                            stk_flow = "TOTAL",
-                            labelling = "iotables" )
+    sk_io <-  iotable_get ( labelled_io_data: NULL, 
+                            source: "naio_10_cp1700", geo: "SK", 
+                            year: 2015, unit: "MIO_EUR", 
+                            stk_flow: "TOTAL",
+                            labelling: "iotables" )
 
     ## Reading cache file C:\Users\..\Temp\RtmpGQF4gr/eurostat/naio_10_cp1700_date_code_FF.rds
 
@@ -156,13 +168,13 @@ code may take several minutes to run.
 The `input_coefficient_matrix_create()` creates the input coefficient
 matrix, which is used for most of the analytical functions.
 
-*a*<sub>*i**j*</sub> = *X*<sub>*i**j*</sub> / *x*<sub>*j*</sub>
+*a*<sub>*i**j*</sub>: *X*<sub>*i**j*</sub> / *x*<sub>*j*</sub>
 
 It checks the correct ordering of columns, and furthermore it fills up 0
 values with 0.000001 to avoid division with zero.
 
     input_coeff_matrix_sk <- input_coefficient_matrix_create(
-      data_table = sk_io
+      data_table: sk_io
     )
 
     ## Columns and rows of real_estate_imputed_a, extraterriorial_organizations are all zeros and will be removed.
@@ -177,9 +189,9 @@ input-output economics.
 And take out the primary inputs:
 
     primary_inputs_sk <- coefficient_matrix_create(
-      data_table = sk_io, 
-      total = 'output', 
-      return = 'primary_inputs')
+      data_table: sk_io, 
+      total: 'output', 
+      return: 'primary_inputs')
 
     ## Columns and rows of real_estate_imputed_a, extraterriorial_organizations are all zeros and will be removed.
 
@@ -226,8 +238,8 @@ And select a few industries:
     set.seed(12)
     multipliers_sk %>% 
       tidyr::pivot_longer ( -all_of("iotables_row"), 
-                            names_to = "industry", 
-                            values_to = "GVA_multiplier") %>%
+                            names_to: "industry", 
+                            values_to: "GVA_multiplier") %>%
       select (-all_of("iotables_row")) %>%
       arrange( -.data$GVA_multiplier) %>%
       dplyr::sample_n(8)

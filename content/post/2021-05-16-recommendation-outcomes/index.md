@@ -7,19 +7,25 @@ draft: false
 
 authors: ["Daniel Antal"]
 
-project: ["Listen Local"]
-
 tags: ["Algorithms", "Slovakia", "Trustworthy AI", "recommendations"]
 
 summary: "In complex systems there are hardly ever singular causes that explain undesired outcomes; in the case of algorithmic bias in music streaming, there is no single bullet that eliminates women from charts or makes Slovak or Estonian language content less valuable than that in English."
+
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@CultDataObs"
+  url: https://twitter.com/CultDataObs/
+- icon: linkedin
+  icon_pack: fab
+  name: CCSI Data Observatory
+  link: https://www.linkedin.com/company/68855596/
 
 # Featured image
 image:
   # Caption (optional)
   caption: "Copyright Data Improvement in the EU – Towards Better Visibility of European Content"
   focal_point: "Top"
-
-  # Show image only in page previews?
   preview_only: false
 ---
 
