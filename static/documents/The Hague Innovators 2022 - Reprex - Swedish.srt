@@ -1,0 +1,191 @@
+1
+00:00:00,230 —> 00:00:04,440
+[Music]
+
+2
+00:00:01,280 —> 00:00:06,779
+Namnet på bolaget är Reprex, det är
+
+3
+00:00:04,440 —> 00:00:10,580
+ett datavetenskapligt uttryck. Det betyder
+
+4
+00:00:06,779 —> 00:00:13,559
+reproducerbart exempel: vi hjälper till att skapa 
+
+5
+00:00:10,580 —> 00:00:15,240
+automatisering av små data jobb som 
+
+6
+00:00:13,559 —> 00:00:17,340
+små organisationer inte har anställda för.
+
+7
+00:00:15,240 —> 00:00:19,320
+Så om du gör det här en gång, kan du 
+
+8
+00:00:17,340 —> 00:00:21,060
+göra det en andra gång, tredje gång, fjärde gång…
+
+9
+00:00:19,320 —> 00:00:24,060
+Så det är vad reprex betyder och det är vad 
+
+10
+00:00:21,060 —> 00:00:26,039
+vi gör. Vi arbetar med ojämlik data.
+
+11
+00:00:24,060 —> 00:00:29,039
+Vi menar att ‘big data’ skapar 
+
+12
+00:00:26,039 —> 00:00:32,520
+ojämlikheter för att ideella organisationer som vill
+
+13
+00:00:29,039 —> 00:00:35,340
+bekämpa klimatförändringen eller ‘greenwashing’ 
+
+14
+00:00:32,520 —> 00:00:38,399
+samt musikorganisationer som vill 
+
+15
+00:00:35,340 —> 00:00:40,200
+ge kvinnor en jämlik röst i musikindustrin har 
+
+16
+00:00:38,399 —> 00:00:42,000
+inte riktigt bra tillgång till data.
+
+17
+00:00:40,200 —> 00:00:44,219
+Jag har arbetat i musik 
+
+18
+00:00:42,000 —> 00:00:47,219
+branschen i tio år i tolv länder
+
+19
+00:00:44,219 —> 00:00:49,620
+och jag säger alltid att om du har 
+
+20
+00:00:47,219 —> 00:00:51,300
+ett litet skivbolag och du vill se till att 
+
+21
+00:00:49,620 —> 00:00:53,760
+din data är tillgänglig för
+
+22
+00:00:51,300 —> 00:00:56,340
+YouTube eller Spotify så att dina artister får 
+
+23
+00:00:53,760 —> 00:00:58,800
+betalt måste du fylla i mycket data.
+
+24
+00:00:56,340 —> 00:01:01,379
+Du har inte datateamet för det och vill vill 
+
+25
+00:00:58,800 —> 00:01:03,420
+på sätt och vis förbereda det för dig.
+
+26
+00:01:01,379 —> 00:01:04,640
+Och sen göra det möjligt att reproducera igen och 
+
+27
+00:01:03,420 —> 00:01:07,260
+igen och igen.
+
+28
+00:01:04,640 —> 00:01:09,780
+“Att göra bra affärer” tilltalar 
+
+29
+00:01:07,260 —> 00:01:12,659
+mig för jag ville alltid driva ett 
+
+30
+00:01:09,780 —> 00:01:14,400
+företag som inte bara handlar om vinst.
+
+31
+00:01:12,659 —> 00:01:16,860
+Vi vet vad som sker med 
+
+32
+00:01:14,400 —> 00:01:18,960
+jordens ekosystem, men hur vi
+
+33
+00:01:16,860 —> 00:01:20,580
+förändras och hur människor handlar är mer
+
+34
+00:01:18,960 —> 00:01:23,040
+intressant. Så jag skulle vilja bygga en 
+
+35
+00:01:20,580 —> 00:01:25,200
+organisation som hjälper med sådana saker.
+
+36
+00:01:23,040 —> 00:01:28,439
+Haag har redan fått utmärkelsen ‘Smartest City’ 
+
+37
+00:01:25,200 —> 00:01:31,439
+som staden vann förra året. Haag är
+
+38
+00:01:28,439 —> 00:01:32,939
+den ideella platsen för oss för det är 
+
+39
+00:01:31,439 —> 00:01:34,320
+ett centrum för internationella
+
+40
+00:01:32,939 —> 00:01:36,420
+organisationer och kunskapsintensiva 
+
+41
+00:01:34,320 —> 00:01:38,280
+organisationer som Europeana, det 
+
+42
+00:01:36,420 —> 00:01:41,280
+Kungliga biblioteket, och så förstås 
+
+43
+00:01:38,280 —> 00:01:43,439
+det Kungliga konservatoriet och PAARD.
+
+44
+00:01:41,280 —> 00:01:46,680
+Om du röstar på oss röstar du också på Haag
+
+45
+00:01:43,439 —> 00:01:48,900
+för vi vill få hit stora data- 
+
+46
+00:01:46,680 —> 00:01:51,240
+samarbeten från världen och det kommer 
+
+47
+00:01:48,900 —> 00:01:53,720
+att hjälpa Haag att vara den smartaste 
+
+48
+00:01:51,240 —> 00:01:53,720
+staden i världen.

@@ -69,7 +69,7 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Change - join us to - data curators
 user_groups: 
-  - Team
+  - Alumni
 ---
 
 Eszter is a trainee at [Reprex](/authors/reprex) and she is working on our [Listen Local Women](/project/listen-local) project and building new partnerships for our [Cultural & Creative Sectors and Industries](https://ccsi.dataobservatory.eu/) in arts, photography, fashion and film. Her role is to make sure that autonomous music systems, streaming platforms, and other applications receive enough information about female artists to counter the inherited, legacy male data representation bias and the resulting male bias of AI.

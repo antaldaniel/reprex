@@ -84,6 +84,9 @@ Go to [Cast your vote for The Hague Innovators challenge 2022!](https://www.impa
 
 Our message is simple: `doing business and doing good` for the city of the Hague means a vote for Reprex.   We would like to win the `Hague Innovators Challenge` in 2022 because we believe we could multiply our growth in partnership with the Hague. We have a significant budget to develop our observatories, and our company is already located in the Hague, in [Apollo 14](https://www.apollo14.nl/en/)—but most of our team members, not to mention the observatory’s non-data personnel are not based in our beautiful and smart city. The observatories are important platforms for our growth, and they could create a lot more jobs and impact in the city than in our startup company.  Should we win the prize, we would spend the 25,000 euros on one thing: to develop our observatories into a real public-private partnership in the Hague, with a permanent office in [Apollo 14](https://www.apollo14.nl/en/) or the [Hague Humanity Hub](https://www.humanityhub.net/). 
 
+{{< figure src="img/slides/the_hague_ppp_white.webp" caption="The observatories are important platforms for our growth, and they could create a lot more jobs and impact in the city than in our startup company." numbered="false" >}}
+
 Reprex’s data observatories, particularly the [Green Deal Data Observatory](/#slider) are public-private partnerships that foster the collective collection, processing, peer-review, and reuse of novel big data, like BeeSage’s beehive data, and reusable statistical and environmental data. We hope to place the permanent institution of this PPP in the Hague, which is already the [World's Smartest City](https://thehague.com/businessagency/the-hague-the-winner-world-smart-city-award-2021), and which wants to remain a global centre of excellence of peace, justice, and sustainability in the era of big data and AI.
 
 
+{{< figure src="img/slides/thank_you_the_hague_white.webp" numbered="false" >}}

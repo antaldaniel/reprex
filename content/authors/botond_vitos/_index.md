@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Data scientists and developer
+role: Developer
 
 # Organizations/Affiliations
 organizations:

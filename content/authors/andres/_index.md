@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Data Scientist & Ethnomusicologist
+role: Co-founder
 
 # Organizations/Affiliations
 organizations:
