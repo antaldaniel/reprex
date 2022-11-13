@@ -1,31 +1,31 @@
-+++
-title = "Reprex Joins RECREO Research Consortium To Develop Innovation Indicators"
-subtitle = "Reprex in the REshaping CCSI REsearch: Open data, policy analysis and methods for evidence-based decision-making consortium"
-date = 2021-11-06T16:00:00
-lastmod = 2021-11-07T09:00:00
-draft = false
+---
+title: "Reprex Joins RECREO Research Consortium To Develop Innovation Indicators"
+subtitle: "Reprex in the REshaping CCSI REsearch: Open data, policy analysis and methods for evidence-based decision-making consortium"
+date: 2021-11-06T16:00:00
+lastmod: 2021-11-07T09:00:00
+draft: false
 
-authors = ["daniel_antal"]
+authors: ["daniel_antal"]
 
-tags = ["ccsi","data-as-service", "innovation", "inclusiveness"]
+tags: ["ccsi","data-as-service", "innovation", "inclusiveness"]
 
-summary = "Reprex joined the `REshaping CCSI REsearch: Open data, policy analysis and methods for evidence-based decision-making consortium` consortium, which will mainly develop new policy evidence in the field of innovation and inclusiveness for the creative and cultural sectors, industries."
+summary: "Reprex joined the `REshaping CCSI REsearch: Open data, policy analysis and methods for evidence-based decision-making consortium` consortium, which will mainly develop new policy evidence in the field of innovation and inclusiveness for the creative and cultural sectors, industries."
 
-projects = ""
+projects: ""
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "See the [project page](https://www.ivir.nl/projects/cultural-creative-sectors-and-industries-data-observatory/)"
+  caption: "See the [project page](https://www.ivir.nl/projects/cultural-creative-sectors-and-industries-data-observatory/)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only: false
 
-+++
+---
 
 The [Scuola Superiore di Studi Universitari e di Perfezionamento Sant’Anna](https://www.santannapisa.it/it) and [Università degli Studi di Trento](https://www.unitn.it/en) (Italy); [University of Glasgow](https://www.create.ac.uk/) (United Kingdom); [Universiteit van Amsterdam](https://www.ivir.nl/) and [Stichting Europeana](https://pro.europeana.eu/) from the	Netherlands; the [National University of Ireland Maynooth](https://www.maynoothuniversity.ie/)	(Ireland); [Tartu Ulikool](https://www.ut.ee/en/)	(Estonia); [Szegedi Tudományegyetem](https://u-szeged.hu/) (Hungary); [Fundacion Santa Maria La Real del Patrimonio Historico](https://www.santamarialareal.org/) from Spain; the [Katholieke Universiteit Leuven](https://www.kuleuven.be/kuleuven/),	(Belgium); [Culture Action Europe AISBL](https://cultureactioneurope.org/) and [IDEA Strategische Economische Consulting](https://www.ideaconsult.be/en/) 	(Belgium) and [Reprex](https://reprex.nl/) created the`REshaping CCSI REsearch: Open data, policy analysis and methods for evidence-based decision-making consortium` consortium, which will mainly develop new policy evidence in the field of innovation and inclusiveness for the creative and cultural sectors, industries. The Consortium applies for a Horizon Europe grant with the `HORIZON-CL2-2021-HERITAGE-01-03` [Cultural and creative industries as a driver of innovation and competitiveness](https://ec.europa.eu/info/funding-tenders/opportunities/portal/screen/opportunities/topic-details/horizon-cl2-2021-heritage-01-03) call of the European Commission.
 

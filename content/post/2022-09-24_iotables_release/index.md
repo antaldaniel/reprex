@@ -54,7 +54,7 @@ install.packages("iotables")
 devtools::install_github("rOpenGov/iotables")
 
 # with vignettes:
-devtools::install_github("rOpenGov/iotables", build_vignettes = TRUE)
+devtools::install_github("rOpenGov/iotables", build_vignettes: TRUE)
 ```
 
 The iotables tool has hundreds of technical and professional users in the world. We know that it is not for the faint heart. In 2022 we started the development of a tool that will create impact assessments for small companies or civil society organizations without the need to learn and use R.

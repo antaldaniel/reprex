@@ -47,7 +47,7 @@ url_video: ''
 slides:
 
 # Projects (optional).
-#   Otherwise, set `projects = []`.
+#   Otherwise, set `projects: []`.
 projects:
  - Listen Local
  - OpenMusE
@@ -61,6 +61,10 @@ links:
   icon_pack: fab
   name: "@CultDataObs"
   url: https://twitter.com/CultDataObs
+- icon: mastodon
+  icon_pack: fab
+  name: "@reprex@mastodon.nl"
+  url: https://mastodon.nl/web/@reprex/
 - icon: linkedin
   icon_pack: fab
   name: Reprex

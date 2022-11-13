@@ -1,29 +1,29 @@
-+++
-title = "Jumping Ahead With the Digital Music Observatory"
-subtitle = "The Digital Music Observatory in the JUMP European Music Market Accelerator"
-date = 2021-12-02T13:00:00+01:00
-lastmod = 2021-12-02T13:00:00+01:00
-draft = false
+---
+title: "Jumping Ahead With the Digital Music Observatory"
+subtitle: "The Digital Music Observatory in the JUMP European Music Market Accelerator"
+date: 2021-12-02T13:00:00+01:00
+lastmod: 2021-12-02T13:00:00+01:00
+draft: false
 
-authors = ["daniel_antal"]
+authors: ["daniel_antal"]
 
-tags = ["JUMP", "Digital Music Observatory", "music streaming", "data visualization"]
+tags: ["JUMP", "Digital Music Observatory", "music streaming", "data visualization"]
 
-summary = "Our Digital Music Observatory project spent a year in the JUMP Music Market Accelerator's program. Over the course of 9 months, co-founder Daniel Antal could meet many stakeholders from almost all European countries, meet other new music technology startups and projects, and got mentoring and other professional help to further develop the project."
+summary: "Our Digital Music Observatory project spent a year in the JUMP Music Market Accelerator's program. Over the course of 9 months, co-founder Daniel Antal could meet many stakeholders from almost all European countries, meet other new music technology startups and projects, and got mentoring and other professional help to further develop the project."
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = ""
+  caption: ""
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only: false
 
-+++
+---
 
 Our [Digital Music Observatory](https://music.dataobservatory.eu/) project spent a year in the JUMP Music Market Accelerator's program. Over the course of 9 months, co-founder Daniel Antal could meet many stakeholders from almost all European countries, meet other new music technology startups and projects, and got mentoring and other professional help to further develop the project.
 

@@ -1,30 +1,30 @@
-+++
-title = "Feasibility Study On Promoting Slovak Music In Slovakia & Abroad"
-date = 2021-03-25T11:00:00
-lastmod = 2021-03-25T11:00:00
-draft = false
+---
+title: "Feasibility Study On Promoting Slovak Music In Slovakia & Abroad"
+date: 2021-03-25T11:00:00
+lastmod: 2021-03-25T11:00:00
+draft: false
 
-authors = ["Daniel Antal"]
+authors: ["Daniel Antal"]
 
-tags = ["Slovakia", "trustworthy-AI", "recommendations", "music-distribution", "local-content-regulation"]
+tags: ["Slovakia", "trustworthy-AI", "recommendations", "music-distribution", "local-content-regulation"]
 
-summary = "Our new study opens the question of the local music promotion within the digital environment. The Slovak Performing and Mechanical Rights Society (SOZA), the State51 music group in the United Kingdom, and the Slovak Arts Council commissioned Reprex to created a feasibility study which provides recommendations for better use of quotas for Slovak radio stations and which also maps the share and promotion of Slovak music within large streaming and media platforms such as Spotify."
+summary: "Our new study opens the question of the local music promotion within the digital environment. The Slovak Performing and Mechanical Rights Society (SOZA), the State51 music group in the United Kingdom, and the Slovak Arts Council commissioned Reprex to created a feasibility study which provides recommendations for better use of quotas for Slovak radio stations and which also maps the share and promotion of Slovak music within large streaming and media platforms such as Spotify."
 
-projects = ["listen-local"]
+projects: ["listen-local"]
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "Our Demo Application"
+  caption: "Our Demo Application"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
   # Show image only in page previews?
-  preview_only = true
+  preview_only: true
 
-+++
+---
 
 ## How to help promote local music?
 The new study opens the question of the local music promotion within the digital environment.

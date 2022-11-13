@@ -5,7 +5,7 @@ date: 2020-09-25T15:31:39
 lastmod: 2020-09-25T15:31:39
 draft: false
 
-authors: ["Daniel Antal, CFA", "Réka Szentirmay"]
+authors: ["daniel_antal", "Réka Szentirmay"]
 
 tags: ["Open data", "Reproducible research", "Reprex", "Open-source"]
 

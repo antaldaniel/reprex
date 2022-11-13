@@ -11,11 +11,28 @@ tags: ["R", "open-data", "reproducible"]
 
 summary: "The making of an automated and reproducible data tool for the music industry. A short video and a brief explanation."
 
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@dataandlyrics"
+  url: https://twitter.com/dataandlyrics
+- icon: github
+  icon_pack: fab
+  name: Open Repo & Code
+  url: https://github.com/dataobservatory-eu
+- icon: linkedin
+  icon_pack: fab
+  name: Reprex
+  url: https://www.linkedin.com/company/68855596/
+- icon: mastodon
+  icon_pack: fab
+  name: "@reprex@mastodon.nl"
+  url: https://mastodon.nl/web/@reprex/
+  
 # Featured image
 image:
   # Caption (optional)
   caption: "Start our video (35mb, takes time to load)"
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point: "Center"
   preview_only: false
 

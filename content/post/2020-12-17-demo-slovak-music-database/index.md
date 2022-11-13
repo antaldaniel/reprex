@@ -1,32 +1,32 @@
-+++
-title = "Demo Slovak Music Database"
+---
+title: "Demo Slovak Music Database"
 
-date = 2020-12-17T17:10:00+02:00
-lastmod = 2020-12-17T17:10:00+02:00
-draft = false
+date: 2020-12-17T17:10:00+02:00
+lastmod: 2020-12-17T17:10:00+02:00
+draft: false
 
-authors = ["Daniel Antal"]
+authors: ["Daniel Antal"]
 
-tags = ["listen-local", "Slovakia", "justice", "algorithms", "big-data", 
+tags: ["listen-local", "Slovakia", "justice", "algorithms", "big-data", 
 "recommendations", "local-content-requirements"]
 
-summary = "We needed a database of Slovak music to show how that national repertoire is seen by media and streaming platforms, how can we give it greater visibility in radio and streaming platforms, and what are the specific problems why certain artists and music is almost invisible."
+summary: "We needed a database of Slovak music to show how that national repertoire is seen by media and streaming platforms, how can we give it greater visibility in radio and streaming platforms, and what are the specific problems why certain artists and music is almost invisible."
 
-projects = ["listen-local"]
+projects: ["listen-local"]
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "Our Demo Application"
+  caption: "Our Demo Application"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
   # Show image only in page previews?
-  preview_only = true
+  preview_only: true
 
-+++
+---
 
 We are finalizing our first local recommendation system, Listen Local Slovakia, and the accompanying Demo Slovak Music Database. Our aim is 
 

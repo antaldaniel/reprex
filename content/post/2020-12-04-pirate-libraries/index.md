@@ -1,30 +1,30 @@
-+++
-title = "Reproducible research in practice: empirical study on the structural conditions of book piracy in global and European academia"
+---
+title: "Reproducible research in practice: empirical study on the structural conditions of book piracy in global and European academia"
 
-date = 2020-12-05T08:10:00+02:00
-lastmod = 2020-12-05T08:10:00+02:00
-draft = false
+date: 2020-12-05T08:10:00+02:00
+lastmod: 2020-12-05T08:10:00+02:00
+draft: false
 
-authors = ["Daniel Antal"]
+authors: ["Daniel Antal"]
 
-tags = ["Reproducible science", "Reproducible research", "Books", "Piracy"]
+tags: ["Reproducible science", "Reproducible research", "Books", "Piracy"]
 
-summary = "The article utilizes the our reproducible datasets created with our regions package that provides to provides high quality indicators for the creative industries on provincial, state, regional and metropolitan area level, and builds on many years of expertise in empirical research on the field of music and audiovisual piracy, home copying and private copying compensation."
+summary: "The article utilizes the our reproducible datasets created with our regions package that provides to provides high quality indicators for the creative industries on provincial, state, regional and metropolitan area level, and builds on many years of expertise in empirical research on the field of music and audiovisual piracy, home copying and private copying compensation."
 
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "Illustration: Red dots mark the places where Library Genesis is used in Europe."
+  caption: "Illustration: Red dots mark the places where Library Genesis is used in Europe."
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only: false
 
-+++
+---
 
 
 [PLOS One](https://journals.plos.org/plosone/) is the fourth most influential multidisciplinary journal after Nature, and Science, and Proceedings of the National Academy of Sciences of the United States of America (based on [H index](https://www.scimagojr.com/journalrank.php?category=1000&area=1000&order=h&ord=desc).) On December 3, 2020 it published [a paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0242509) co-authored by Dr. Balazs Bodo, associate professor at the Institute for Information Law (IViR), Daniel Antal (Reprex, Demo Music Observatory), a data scientist interested in reproducible research, as an independent researcher, and Zoltan Puha, a Data Science PhD at Tilburg University, JADS. PLOS (Public Library of Science) is a nonprofit Open Access publisher, empowering researchers to accelerate progress in science and medicine by leading a transformation in research communication.

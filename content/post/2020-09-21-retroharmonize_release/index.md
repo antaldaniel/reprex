@@ -1,31 +1,31 @@
-+++
-title = "Reproducible Survey Harmonization: retroharmonize Is Released"
+---
+title: "Reproducible Survey Harmonization: retroharmonize Is Released"
 
-date = 2020-09-21T11:31:39
-lastmod = 2020-09-21T11:31:39
-draft = false
+date: 2020-09-21T11:31:39
+lastmod: 2020-09-21T11:31:39
+draft: false
 
-authors = ["Daniel Antal, CFA"]
+authors: ["Daniel Antal, CFA"]
 
-tags = ["R", "Open data", "Reproducible research", "Surveys"]
+tags: ["R", "Open data", "Reproducible research", "Surveys"]
 
-categories = "R-bloggers"
+categories: "R-bloggers"
 
-summary = "Our ex post survey harmonization package retroharmonize passed all automated tests and peer-reviews and was released today on CRAN."
+summary: "Our ex post survey harmonization package retroharmonize passed all automated tests and peer-reviews and was released today on CRAN."
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "Harmonized results from Afrobarometer"
+  caption: "Harmonized results from Afrobarometer"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "TopLeft"
+  focal_point: "TopLeft"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only: false
 
-+++
+---
 
 Our original intention was to make surveying more accessible for music and creative industry partners, by relying more on already existing survey data, and better designing complementary, smaller surveys, becasue surveying, opinion polling is becoming increasingly expensive in the develop world.  People are less and less likely to sit down for an interview in their houses.  We have tried to harmonize our custom surveys, particuarly with Kantar in Hungary and Focus in Slovakia with exisiting EU projects.  But we ended up making a part of international survey harmonization across countries and throughout years easier to automate.
 

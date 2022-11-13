@@ -1,29 +1,42 @@
-+++
-title = "Starting-up"
+---
+title: "Starting-up"
 
-date = 2020-08-24T10:15:00
-lastmod = 2020-09-01T17:34:00
-draft = false
+date: 2020-08-24T10:15:00
+lastmod: 2020-09-01T17:34:00
+draft: false
 
-authors = ["Daniel Antal, CFA", "Réka Szentirmay"]
+authors: ["daniel_antal", "Réka Szentirmay"]
 
-tags = ["R", "Open Data", "Reproducible resaerch", "Reprex"]
+tags: ["R", "Open Data", "Reproducible resaerch", "Reprex"]
 
-summary = "The big day has come: the co-founders singed off the documents at the public notary and started the registration of a reproducible research start-up. Do you want to help us?"
+summary: "The big day has come: the co-founders singed off the documents at the public notary and started the registration of a reproducible research start-up. Do you want to help us?"
 
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@dataandlyrics"
+  url: https://twitter.com/dataandlyrics
+- icon: github
+  icon_pack: fab
+  name: Open Repo & Code
+  url: https://github.com/dataobservatory-eu
+- icon: linkedin
+  icon_pack: fab
+  name: Reprex
+  url: https://www.linkedin.com/company/68855596/
+- icon: mastodon
+  icon_pack: fab
+  name: "@reprex@mastodon.nl"
+  url: https://mastodon.nl/web/@reprex/
+  
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "Co-founders after the paperwork"
+  caption: "Co-founders after the paperwork"
+  focal_point: "Center"
+  preview_only: false
 
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
-
-  # Show image only in page previews?
-  preview_only = false
-
-+++
+---
 
 The big day has come: the co-founders singed off the documents at the public notary and started the registration of a reproducible research start-up in Leiden.  We got a lot of support from our friends! Your encouragement gives us a lot of energy to accomplish our first milestones, and to get Reprex B.V. going! 
 

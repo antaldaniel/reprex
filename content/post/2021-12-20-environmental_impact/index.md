@@ -1,29 +1,29 @@
-+++
-title = "Reproducible Economic Impact Assessment"
-subtitle = "New iotables release and a tidy version of the EU Taxonomy on sustainable economic activities"
-date = 2021-12-19T13:00:00+01:00
-lastmod = 2021-12-19T13:00:00+01:00
-draft = false
+---
+title: "Reproducible Economic Impact Assessment"
+subtitle: "New iotables release and a tidy version of the EU Taxonomy on sustainable economic activities"
+date: 2021-12-19T13:00:00+01:00
+lastmod: 2021-12-19T13:00:00+01:00
+draft: false
 
-authors = ["daniel_antal"]
+authors: ["daniel_antal"]
 
-tags = ["iotables", "Green Deal Data Observatory", "Sustainability", "EU Taxonomy"]
+tags: ["iotables", "Green Deal Data Observatory", "Sustainability", "EU Taxonomy"]
 
-summary = "We made an important, peer-reviewed release of iotables in the last week as a preparation to increase the functionality of our open-source software. This release of the iotables R package currently works with economic impact assessments, and can evaluate the likely employment, tax, wage, or gross value added direct, indirect and multiplied impacts of various policy changes in about 30 countries. The new, development version (which did not go through peer-review yet) is adding new functionality for environmental impact analysis with the following pollutants and will be connected to the EU Taxonomy on sustainable economic activities."
+summary: "We made an important, peer-reviewed release of iotables in the last week as a preparation to increase the functionality of our open-source software. This release of the iotables R package currently works with economic impact assessments, and can evaluate the likely employment, tax, wage, or gross value added direct, indirect and multiplied impacts of various policy changes in about 30 countries. The new, development version (which did not go through peer-review yet) is adding new functionality for environmental impact analysis with the following pollutants and will be connected to the EU Taxonomy on sustainable economic activities."
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "iotables.dataobservatory.eu"
+  caption: "iotables.dataobservatory.eu"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
   # Show image only in page previews?
-  preview_only = true
+  preview_only: true
 
-+++
+---
 
 <td style="text-align: center;">{{< figure src="/media/img/blogposts_2021/iotables_0_4_7.png" caption="Get started with  [iotables](https://iotables.dataobservatory.eu/index.html)." numbered="false" >}}</td>
 

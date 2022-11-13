@@ -1,29 +1,29 @@
-+++
-title = "Developing a software-as-service solution for micro-, and small enterprises"
-subtitle = "Eviota, our sustainability assessment and reporting tool to be tested among music organizations in many jurisdictions"
-date = 2022-06-09T09:40:00+01:00
-lastmod = 2022-06-09T09:40:00+01:00
-draft = false
+---
+title: "Developing a software-as-service solution for micro-, and small enterprises"
+subtitle: "Eviota, our sustainability assessment and reporting tool to be tested among music organizations in many jurisdictions"
+date: 2022-06-09T09:40:00+01:00
+lastmod: 2022-06-09T09:40:00+01:00
+draft: false
 
-authors = ["daniel_antal"]
+authors: ["daniel_antal"]
 
-tags = ["Eviota", "European Green Deal", "MusicAIRE"]
+tags: ["Eviota", "European Green Deal", "MusicAIRE"]
 
-summary = "We are working on a simple interface that can connect the accounting system of micro and small enterprises with new methodologies, starting with greenhouse gas reporting with Reprex’s open source EEIO application [iotables](https://iotables.dataobservatory.eu/) after receiving a competitive grant from [MusicAIRE](https://musicaire.eu/)."
+summary: "We are working on a simple interface that can connect the accounting system of micro and small enterprises with new methodologies, starting with greenhouse gas reporting with Reprex’s open source EEIO application [iotables](https://iotables.dataobservatory.eu/) after receiving a competitive grant from [MusicAIRE](https://musicaire.eu/)."
 
 # Featured image
-[image]
+image:
   # Caption (optional)
-  caption = "[Final List of Awareded Projects by MusicAIRE](https://musicaire.eu/2022/07/12/final-list-of-awarded-projects/)"
+  caption: "[Final List of Awareded Projects by MusicAIRE](https://musicaire.eu/2022/07/12/final-list-of-awarded-projects/)"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
+  focal_point: "Center"
 
   # Show image only in page previews?
-  preview_only = false
+  preview_only: false
 
-+++
+---
 
 The music sector must increase its environmental and social (ESG) sustainability management to meet the challenges of the climate emergency and to make the music sector a fairer, more just workplace for womxn and artists coming from minorities, small countries. The European Union will make target setting and audited reporting mandatory in environmental and social sustainability for large companies.  The application of these new accounting, reporting and disclosure rules are optional for the music sector where almost all entities are micro-, or small enterprises and civil society organizations.
 

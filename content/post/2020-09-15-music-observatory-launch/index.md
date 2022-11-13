@@ -7,21 +7,33 @@ draft: false
 
 authors: ["Daniel Antal", "Réka Szentirmay"]
 
-tags: ["R", "Open data", "reproducible research", "music", "Digital Music Observatory"]
+tags: ["R", "Open data", "Reproducible research", "Digital Music Observatory"]
 
 summary: "We would like to validate our open source, open data, open collaboration based reproducible observatory concept with the Demo Music Observatory. All feedback is welcome."
 
 # Featured image
 image:
-  # Caption (optional)
   caption: ""
-
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
   focal_point: "Center"
-
-  # Show image only in page previews?
   preview_only: false
+
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@dataandlyrics"
+  url: https://twitter.com/dataandlyrics
+- icon: github
+  icon_pack: fab
+  name: Open Repo & Code
+  url: https://github.com/dataobservatory-eu
+- icon: linkedin
+  icon_pack: fab
+  name: Reprex
+  url: https://www.linkedin.com/company/68855596/
+- icon: mastodon
+  icon_pack: fab
+  name: "@reprex@mastodon.nl"
+  url: https://mastodon.nl/web/@reprex/
 
 ---
 

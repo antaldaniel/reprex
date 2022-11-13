@@ -1,32 +1,44 @@
-+++
-title = "Listen Local: Why We Need Alternative Recommendation Systems"
+---
+title: "Listen Local: Why We Need Alternative Recommendation Systems"
 
-date = 2020-12-14T17:10:00+02:00
-lastmod = 2020-12-14T17:10:00+02:00
-draft = false
+date: 2020-12-14T17:10:00+02:00
+lastmod: 2020-12-14T17:10:00+02:00
+draft: false
 
-authors = ["Daniel Antal"]
+authors: ["Daniel Antal"]
 
-tags = ["listen-local", "Slovakia", "justice", "algorithms", "big-data", 
-"recommendations", "local-content-requirements"]
+tags: ["Listen Local", "Slovakia", "Justice", "Algorithms", "Big data", 
+"recommendations", "Local content requirements"]
 
-summary = "Regulating black box, private algorithms and data monopolies is only a first step to damage control. Deploying white, transparent algorithms and building collaborative or open data pools can only guarantee fairness in the digital platforms, in recommendations, and generally in the use of AI."
+summary: "Regulating black box, private algorithms and data monopolies is only a first step to damage control. Deploying white, transparent algorithms and building collaborative or open data pools can only guarantee fairness in the digital platforms, in recommendations, and generally in the use of AI."
 
-projects = ["listen-local"]
+projects: ["listen-local"]
 
 # Featured image
-[image]
-  # Caption (optional)
-  caption = "Our Demo Application"
+image:
+  caption: "Our Demo Application"
+  focal_point: "Center"
+  preview_only: true
+  
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@dataandlyrics"
+  url: https://twitter.com/dataandlyrics
+- icon: github
+  icon_pack: fab
+  name: Open Repo & Code
+  url: https://github.com/dataobservatory-eu
+- icon: linkedin
+  icon_pack: fab
+  name: Reprex
+  url: https://www.linkedin.com/company/68855596/
+- icon: mastodon
+  icon_pack: fab
+  name: "@reprex@mastodon.nl"
+  url: https://mastodon.nl/web/@reprex/  
 
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
-
-  # Show image only in page previews?
-  preview_only = true
-
-+++
+---
 
 {{< figure src="03_app_recommend.png" title="The first version of our demo application" >}}
  
