@@ -11,7 +11,7 @@ lastmod: 2022-09-04T09:40:00+01:00
 summary: "We will help small music organizations in their sustainability reporting, where detail data and reporting standards are only available for greenhouse gas emissions."
 
 # Tags: can be used for filtering projects.
-tags: ["Sustainability", "European Green Deal", "MusicAIRE"]
+tags: ["Music Eviota", "Sustainability", "European Green Deal", "MusicAIRE"]
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -32,14 +32,14 @@ image:
   caption: ""
   focal_point: "Center"
   preview_only: true
+  
 ---
 <td style="text-align: center;">{{< figure src="/img/eviota/Scope3_chart_16x9.jpg" caption="Reporting the impacts of the entire value chain." numbered="false" >}}</td>
 
-
-Our minimum viable product will create sustainability reports (or report components) for greenhouse gases and sustainable water use with applying the `Global GHG Accounting & Reporting Standard for the Financial Industry` and EFRAG’s proposed concept on connecting European accounting standards and information with sustainability. We will help small music organizations in their sustainability reporting, where detail data and reporting standards are only available for greenhouse gas emissions. The `Music Eviota` project is supported by the [MusicAIRE](#greenrecovery).
+Our minimum viable product will create sustainability reports (or report components) for greenhouse gases and sustainable water use with applying the `Global GHG Accounting & Reporting Standard for the Financial Industry` and EFRAG’s proposed concept on connecting European accounting standards and information with sustainability. We will help small music organizations in their sustainability reporting, where detail data and reporting standards are only available for greenhouse gas emissions. The `Music Eviota` project is supported by the [MusicAIRE](https://musicaire.eu/).
 
 ## Open collaboration
-Our project is based on open collaboration.  Our proposal, if funded, will provide us with resources to supply further music businesses, music civil society organizations and researchers with high-quality data (during the duration of the project for free.)  We are already looking for interested parties to put our data and research projects into use and validate their usability and quality in real-life policy or business development scenarios.
+Our project is based on open collaboration.  Our proposal, provides us with resources to supply further music businesses, music civil society organizations and researchers with high-quality data (during the duration of the project for free.)  We are already looking for interested parties to put our data and research projects into use and validate their usability and quality in real-life policy or business development scenarios.
 
 ## Why are we developing this service?
 The European Green Deal, which includes the proposed Corporate Sustainability Reporting Directive, and the sustainable finance package, aims to set the European economy on a permanent decarbonization and sustainability increasing path with adjusting the rules how economic activities are financed by bank loans, insurance, investments, and direct subsidies. From 2023, it will be cheaper to get loans, insurance, and other types of funding for organizations that can prove that they follow the environmental, social and

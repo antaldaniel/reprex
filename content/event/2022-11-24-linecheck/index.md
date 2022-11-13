@@ -84,9 +84,7 @@ projects: ""
 
 ## Green Deal, this time for real
 
-Daniel Antal, co-founder of Reprex will participate in the panel about on **Thursday, November the 24th at 3.15pm**  about environment and sustainability in the music industry and introduce **Eviota**, our simplified, connected financial and sustainability reporting tool.
-
-
+Daniel Antal, co-founder of Reprex will participate in the panel about on **Thursday, November the 24th at 3.15pm**  about environment and sustainability in the music industry and introduce [Eviota](/project/musiceviota/), our simplified, connected financial and sustainability reporting tool.
 
 {{% callout note %}}
 At LineCheck X, you can find out more about our projects
@@ -95,8 +93,13 @@ At LineCheck X, you can find out more about our projects
 - And you can find out how we are trying to find where energy is [going down the sewage](https://greendeal.dataobservatory.eu/post/2022-10-24_thermowatt/), literally, with Thermowatt and the [Green Deal Data Observatory](https://greendeal.dataobservatory.eu/). 
 {{% /callout %}}
 
+### Beta test our sustainabilitiy reporting tool
+<td style="text-align: center;">{{< figure src="/img/eviota/Eviota_EFRAG_requirements.jpg" caption="We are looking for beta testers for our simplified sustainability report that is made from your `trial balance`. We sign and NDA about your accounting data if you test with us, and you can test with older data, too. Beta testing is free." numbered="false" >}}</td>
 
-
+Our solution benefits the music MSMEs and CSOs in several ways:
+- [x] The European Commission estimates that the cost of connecting sustainability and finanical reporting will cost on average €10,000 for corporations. We want to bring down the voluntary reporting costs for MSMEs below €500 euro to benefit from `green loans`, `green insurance` and other `green financing`. 
+- [x] It provides them with a size adequate sustainability management and reporting tool that helps first the management of greenhouse gas emissions, and later sustainable water use, pollutions, biodiversity, and recycling in their entire value chain (for example, it flags environmental risks in the supply base of a festival including equipment rentals, transport, security firms, catering facilities, etc.) by connecting standard accounting documents of the MSME with SNA and EEA science based benchmarks.
+- [x] Our system will be extendible to management of social sustainability. We are also showcasing harmonized gender inequality data collection with our other project (see below.)
 
 
 <td style="text-align: center;">{{< figure src="/img/blogposts_2022/reprex_linecheck_2022.jpg" caption="" numbered="false" >}}</td>
@@ -108,8 +111,19 @@ At LineCheck X, you can find out more about our projects
 
 
 {{% callout note %}}
-- We will introduce **Surveyharmonies**, a survey recycling and survey harmonization tool. You can participate in our international gender bias survey in January 2023. Our team will also participate in the KeyChange Creative Lab on Friday, 25 November at 11.00.
+- We will introduce **Surveyharmonies**, a survey recycling and [survey harmonization tool](https://music.dataobservatory.eu/post/2022-02-16-survey-harmonization/). You can participate in our international gender bias survey in January 2023. Our team will also participate in the KeyChange Creative Lab on Friday, 25 November at 11.00.
 - You can learn about our **Listen Local** project, which helps local music ecosystems remain visible on global platforms.
 - We will offer you a cup of tea or coffee in an edible cup.
 {{% /callout %}}
+
+### Harmonizing surveys on gender (in)equaliaty
+
+- [x] You can create better surveys with less cost: you only need to ask the information, or change of information, that is not included in our harmonized datasets. Shorter, better questionnaires, smaller samples sizes, huge cost savings.
+
+- [x] When you make questionnaire-based research, you immediately get a history (the same question asked years ago) and an international comparison (the same question asked in other countries.)
+
+- [x] Often you do not even have to pay for the survey, because somebody else has already made a similar taxpayer funded research and we can just get the data for you. 
+
+<td style="text-align: center;">{{< figure src="/img/blogposts_2021/difficulty_bills_levels.jpg" caption="Survey harmonization is a powerful research tool to increase the usability of questionnaire-based empirical research. Read more on [our blog](https://music.dataobservatory.eu/post/2022-02-16-survey-harmonization/)." numbered="false" >}}</td>
+
 
