@@ -4,7 +4,7 @@ subtitle:  ""
 date:  2022-09-13T08:12:00+02:00
 lastmod:  2022-09-13T08:12:00+02:00
 
-authors:  ["daniel_antal"]
+authors:  ["admin"]
 
 tags:  ["Reprex", "The Hague", "Netherlands", "The Hague Innovators Challenge 2022"]
 
@@ -15,6 +15,24 @@ image:
   caption:  ""
   focal_point:  "Center"
   preview_only:  false
+
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@dataandlyrics"
+  url: https://twitter.com/dataandlyrics
+- icon: github
+  icon_pack: fab
+  name: Open Repo & Code
+  url: https://github.com/dataobservatory-eu
+- icon: linkedin
+  icon_pack: fab
+  name: Reprex
+  url: https://www.linkedin.com/company/68855596/
+- icon: person-booth
+  icon_pack: fas
+  name: Vote
+  url: ../post/2022-10-29_reprex-talk-to-all/
 ---
 {{% callout note %}}
 Reprex is a finalist for The Hague Innovators Award 2022, and the prize of the audience, in the startup category with our respectable competitors, Sibö, WECO, STHRIVE and ECOBLOQ.

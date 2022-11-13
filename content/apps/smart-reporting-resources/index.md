@@ -14,26 +14,25 @@ image:
   focal_point: Smart
 
 links:
+links:
 - icon: twitter
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/DigitalMusicObs
+  name: "@dataandlyrics"
+  url: https://twitter.com/dataandlyrics
+- icon: github
+  icon_pack: fab
+  name: Open Repo & Code
+  url: https://github.com/dataobservatory-eu
 - icon: linkedin
   icon_pack: fab
-  name: Connect
+  name: Reprex
   url: https://www.linkedin.com/company/68855596/
-#- icon: telescope
-#  icon_pack: fas
-#  name: Digital Music Observatory
-#  url: https://music.dataobservatory.eu/
-##- icon: database
-#  icon_pack: fas
-##  name: Try API
-#  url: https://api.music.dataobservatory.eu/
-#- icon: book-open
-#  icon_pack: fas
-#  name: Documentation
-#  url: https://data.music.dataobservatory.eu/
+- icon: person-booth
+  icon_pack: fas
+  name: Vote
+  url: ../post/2022-10-29_reprex-talk-to-all/
+
+  
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -46,7 +45,7 @@ slides: ""
 
 **Stop uploading your work onto the web 2.0 in a pdf, epub, or word file. Build a self-refreshing resource that re-refreshes the statistics, legal texts, tables, visualizations, footnotes and bibliography instead.  This way you’ll have a greater impact: you’ll connect to global knowledge graphs, and your work can be reused much better.**
 
-Our “smart document” is always live: it contains code that searches for data updates or changes in the law.  It is a document that includes reproducible research code and makes sure that your document contains the latest information.  It is a resource that, when uploaded to the web 3.0, cannot only be downloaded, but finds itself its audience, places itself into global libraries, data exchanges, automated websites. 
+Our “smart reporting resource” is always live: it contains code that searches for data updates or changes in the law.  It is a document that includes reproducible research code and makes sure that your document contains the latest information.  It is a resource that, when uploaded to the web 3.0, cannot only be downloaded, but finds itself its audience, places itself into global libraries, data exchanges, automated websites. 
 
 📊  Downloads or updates reliable statistical data, utilizing the SDMX standard, for example, Eurostat datasets, which is placed into your text as a table, a data visualization, and its source as a footnote and bibliographic citation.
 

@@ -27,7 +27,6 @@ image:
 
 authors:
   - admin
-  - reprex
 
 tags:
   - Valuation
@@ -43,11 +42,15 @@ links:
 - icon: github
   icon_pack: fab
   name: Open Repo & Code
-  link: https://github.com/dataobservatory-eu
+  url: https://github.com/dataobservatory-eu
 - icon: linkedin
   icon_pack: fab
-  name: Join us LinkedIn
-  link: https://www.linkedin.com/company/68855596/
+  name: Reprex
+  url: https://www.linkedin.com/company/68855596/
+- icon: person-booth
+  icon_pack: fas
+  name: Vote
+  url: ../post/2022-10-29_reprex-talk-to-all/
 ---
 
 [Reprex](/authors/reprex) is the Hague-based impact startup developing decentralized, modern, web 3.0-compatible data observatories. Our mission is to fulfill parts of the SDG 16 and 17 goals: based on the open collaboration method of open-source software development and open knowledge management, we would like to enable impact makers to contribute to other SDG goals by making AI and big data work for them.

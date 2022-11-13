@@ -46,6 +46,11 @@ links:
   icon_pack: fab
   name: Reprex
   url: https://www.linkedin.com/company/68855596/
+- icon: github
+  icon_pack: fab
+  name: Open Repositories & Code
+  url: https://github.com/dataobservatory-eu  
+
   
 # Markdown Slides (optional).
 slides: reprex-nlaic-2022

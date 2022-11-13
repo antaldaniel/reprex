@@ -13,6 +13,20 @@ summary:  "The iotables R package collects and integrates data from reliable sta
 
 abstract:  "The iotables R package collects and integrates data from reliable statistical sources and perform economic and environmental impact analysis. It can be your starting point to calculate employment, tax, or greenhouse gas multipliers for various policy actions in your country for free, and it is the backbone of our connected financial-sustainability ESG reporting tool, Eviota, because it can analyze the value chains of 64 industries in every European country."
 
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@GreenDealObs"
+  url: https://twitter.com/GreenDealObs
+- icon: code
+  icon_pack: fas
+  name: Code & Tutorials
+  url: https://iotables.dataobservatory.eu/
+- icon: linkedin
+  icon_pack: fab
+  name: Reprex
+  url: https://www.linkedin.com/company/68855596/
+
 # Featured image
 image:
   caption:  ""

@@ -46,10 +46,22 @@ url_slides: ''
 url_video: ''
 
 links:
+- icon: twitter
+  icon_pack: fab
+  name: "@dataandlyrics"
+  url: https://twitter.com/dataandlyrics
+- icon: github
+  icon_pack: fab
+  name: Open Repo & Code
+  url: https://github.com/dataobservatory-eu
 - icon: linkedin
   icon_pack: fab
-  name: Connect
+  name: Reprex
   url: https://www.linkedin.com/company/68855596/
+- icon: person-booth
+  icon_pack: fas
+  name: Vote
+  url: ../post/2022-10-29_reprex-talk-to-all/
 
 # Markdown Slides (optional).
 slides:
@@ -63,6 +75,8 @@ Reprex is a finalist for The Hague Innovators Award 2022, and the prize of the a
 {{% /callout %}}
 
 The transition towards a sustainable and inclusive economy depends on collaboration. That is why we are bringing together startups, scale-ups, investors, policymakers, and other impact makers from around the world in The Hague for the 7th edition of ImpactFest.
+
+{{<youtube bgp-n55TKCk>}}
 
 With the [The Hague Innovators Challenge](https://www.impactcity.nl/en/service/the-hague-innovators-challenge/), the municipality of The Hague challenges startups, scale-ups, and students to present their innovative ideas for global issues, as described in the UN Sustainable Development Goals (SDGs).
 

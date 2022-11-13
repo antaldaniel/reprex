@@ -10,6 +10,21 @@ tags:  ["Reprex", "Utrecht", "Lisen Local"]
 
 summary:  "We are finalists in The Hague Innovation Awards with a product offering and a message that big data and AI should work for all: ethnic minorities, small nations, small languages, womxn. We need your help to translate our message."
 
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@dataandlyrics"
+  url: https://twitter.com/dataandlyrics
+- icon: github
+  icon_pack: fab
+  name: Open Repo & Code
+  url: https://github.com/dataobservatory-eu
+- icon: linkedin
+  icon_pack: fab
+  name: Reprex
+  url: https://www.linkedin.com/company/68855596/
+
+
 # Featured image
 image: 
   caption:  "See you in Klein Berlijn 17.00-19.30 or in the Vechtclub from 19.45"

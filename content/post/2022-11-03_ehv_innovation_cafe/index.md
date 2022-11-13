@@ -2,6 +2,8 @@
 title: "Big Data for All: Building Collaborative Data Observatories" 
 subtitle: From the music ecosytem to newer use cases
 
+# reprex.nl version
+
 event: Eindhoven Innovation Café Breakout Talks
 event_url: https://www.ehvinnovationcafe.org/program/
 
@@ -67,6 +69,7 @@ links:
   icon_pack: fab
   name: Recorded Livestream
   url: https://youtu.be/kM54gAAbHY0?t=05m22s
+  
 ---
 
 Reprex's co-founder, [Daniel Antal](/authors/daniel_antal) talked in the [Eindhoven Innovation Café](https://www.ehvinnovationcafe.org/past-events/) about these issues. You can watch the recorded version of the the livestream that starts at 5 minutes and 22 seconds:

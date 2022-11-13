@@ -17,7 +17,25 @@ tags:
 
 summary:  "Many people ask if we can really add value to free data that can be downloaded from the Internet by anybody. We do not only work with easy-to-download data, but we know that free, public data usually requires a lot of work to become really valuable. To start with, it is not always easy to find."
 
-project:  "horizon"
+project:  "OpenMuse"
+
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@DigitalMusicObs"
+  url: https://twitter.com/DigitalMusicObs
+- icon: twitter
+  icon_pack: fab
+  name: "@CultDataObs"
+  url: https://twitter.com/CultDataObs
+- icon: linkedin
+  icon_pack: fab
+  name: Reprex
+  url: https://www.linkedin.com/company/68855596/
+- icon: github
+  icon_pack: fab
+  name: Open Repositories & Code
+  url: https://github.com/dataobservatory-eu  
 
 # Featured image
 image: 
