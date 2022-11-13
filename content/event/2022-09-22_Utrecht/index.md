@@ -6,7 +6,7 @@ categories:
 - Meetup
 
 event: Listen Local Utrecht
-event_url: https://www.eventbrite.com/manage/events/411140571517/
+event_url: 
 
 location: TBA
 address:

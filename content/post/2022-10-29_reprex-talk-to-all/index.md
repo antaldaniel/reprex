@@ -15,6 +15,29 @@ image:
   caption:  "Cast your vote in the competition"
   focal_point:  "Center"
   preview_only:  true
+  
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@dataandlyrics"
+  url: https://twitter.com/dataandlyrics
+- icon: mastodon
+  icon_pack: fab
+  name: "@reprex@mastodon.nl"
+  url: https://mastodon.nl/web/@reprex/
+- icon: github
+  icon_pack: fab
+  name: Open Repo & Code
+  url: https://github.com/dataobservatory-eu
+- icon: linkedin
+  icon_pack: fab
+  name: Reprex
+  url: https://www.linkedin.com/company/68855596/
+- icon: person-booth
+  icon_pack: fas
+  name: Vote
+  url: ../post/2022-10-29_reprex-talk-to-all/  
+  
 ---
 {{< toc >}}
 
@@ -39,7 +62,8 @@ image:
 
 1. Please **share our video message** on [YouTube](https://www.youtube.com/watch?v=bgp-n55TKCk) among your colleagues and friends.
 
-<td style="text-align: center;">{{< figure src="img/blogposts_2022/Reprex_video_use_captions.png" caption="By pressing the ⚙️ and choosing `subtitles` you can choose your language. If you are there, please leave a 👍, too :)" numbered="false" >}}</td>
+{{<youtube bgp-n55TKCk>}}
+<small>⚙️/ subtitles/ 🇳🇱 🇬🇧 🇧🇦 🇨🇿 🇭🇺 🇩🇪 🇱🇹 🇫🇷 🇸🇰 🇪🇸 🇹🇷 + Catalan. If you are there, please leave a 👍, too :)</small>
 
 The message is the message! We are an ethical data and AI company, and one of our topics is detecting if algorithms are biased towards the English language speakers. We want to teach the computer to understand small languages, and of course, everyone, who is under-represented in data: womxn, former colonial nations. 
 

@@ -1,5 +1,5 @@
 ---
-title: Music and Creative Industry Indicators from Needs Assessment to Automated Production
+title: Music and Creative Industry Indicators from Needs Assessment to Automated Production, Bratislava, SK
 subtitle: Introducing the Open Policy Analysis Framework in the context of Slovak national cultural and creative industries policy framework
 
 categories:
@@ -19,7 +19,20 @@ summary: An open invitation for a collaboration to help the Slovak government, t
 
 abstract: 'An open invitation for a collaboration to help the Slovak government, the natonal assembly, and various civil and business societies to build and monitor evidence-based policies based on the experience of the music sector. We will use the Open Policy Analysis Guideliens and the best European evidence-based policy design practice that faciliate the creation and use of transparent evidence in the entire policy cycle from design to ex post evalutation.'
 
-
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@dataandlyrics"
+  url: https://twitter.com/dataandlyrics
+- icon: github
+  icon_pack: fab
+  name: Open Repo & Code
+  url: https://github.com/dataobservatory-eu
+- icon: linkedin
+  icon_pack: fab
+  name: Reprex
+  url: https://www.linkedin.com/company/68855596/
+  
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2022-10-18T11:30:00Z'
@@ -56,12 +69,8 @@ projects:
 ---
 
 {{% callout note %}}
-The LOCATION AND DATE of this event has changed. The event is strictly by registration only. Get in touch on the [Contact Form](https://reprex.nl/#contact) if you have no invitation but would like to participate in the event. SLOVENSKÉ JAZYKOVÉ VERZIE ⬇️
-{{% /callout %}}
-
 *This is a past event*. Check out our forthcoming [events](/#talks) or write to [{{< icon name="linkedin" pack="fab" >}} Daniel Antal](https://www.linkedin.com/in/antaldaniel/)  or to [{{< icon name="keybase" pack="fab" >}} antaldaniel](https://keybase.io/antaldaniel). Or send an [{{< icon name="envelope" pack="fas" >}} email](/contact/).
-
-___
+{{% /callout %}}
 
 We would like to present an open invitation for a collaboration to help the Slovak government, the national assembly, and various civil and business societies to build and monitor evidence-based policies based on the experience of the music sector. We will use the `Open Policy Analysis Guidelines` and the best European evidence-based policy design practice that facilitate the creation and use of transparent evidence in the entire policy cycle from design to ex post evaluation.
 

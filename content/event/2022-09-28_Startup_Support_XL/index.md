@@ -1,5 +1,5 @@
 ---
-title: ImpactCity Startup Support XL
+title: ImpactCity Startup Support XL, The Hague, NL
 subtitle: Reprex in the finals of The Hague Innovators Challenge
 
 categories:

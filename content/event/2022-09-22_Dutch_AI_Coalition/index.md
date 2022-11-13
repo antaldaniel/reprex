@@ -46,11 +46,15 @@ url_video: ''
 links:
 - icon: twitter
   icon_pack: fab
-  name: Follow
+  name: "@DigitalMusicObs"
   url: https://twitter.com/DigitalMusicObs
+- icon: twitter
+  icon_pack: fab
+  name: "@CultDataObs"
+  url: https://twitter.com/CultDataObs
 - icon: linkedin
   icon_pack: fab
-  name: Connect
+  name: Reprex
   url: https://www.linkedin.com/company/68855596/
 
 # Markdown Slides (optional).

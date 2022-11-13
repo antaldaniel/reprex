@@ -1,5 +1,5 @@
 ---
-title: Listen Local
+title: Listen Local Lithuania, Vilnius, LT
 subtitle: How to avoid that local AI algorithms colonize the Lithuanian music ecosystem
 
 event: What's Next In Music

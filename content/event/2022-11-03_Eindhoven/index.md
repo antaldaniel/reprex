@@ -1,5 +1,5 @@
 ---
-title: Big Data for All - Building Collaborative Data Observatories 
+title: "Big Data for All: Building Collaborative Data Observatories, Eindhoven, NL" 
 subtitle: The case of the music industry
 
 event: Eindhoven Innovation Café Breakout Talks

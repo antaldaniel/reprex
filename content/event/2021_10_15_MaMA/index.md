@@ -1,5 +1,5 @@
 ---
-title: "Digital Music Observatory on the MaMA Convention 2021"
+title: "Digital Music Observatory on the MaMA Convention 2021, Paris, FR"
 date: 2021-10-14T11:00:00  
 lastmod: 2021-10-14T13:00:00  
 draft: false
