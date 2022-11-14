@@ -40,7 +40,7 @@ content:
         icon: fa-solid fa-right-to-bracket
         icon_pack: fas
         text: "See you in Milano"
-        url: ../post/2022-11-07_vote_reprex/
+        url: ../event/2022-11-24-linecheck/
     - title: ""
       content: '</br></br></br></br></br></br></br>'
       align: left
