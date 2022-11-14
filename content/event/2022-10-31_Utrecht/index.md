@@ -1,5 +1,5 @@
 ---
-title: Listen Local Nederland
+title: Listen Local Nederland, Utrecht, NL
 subtitle: Staying local in the global web, knowledge graphs and live music
 
 categories:
@@ -45,6 +45,29 @@ url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
+
+
+links:
+- icon: twitter
+  icon_pack: fab
+  name: "@DigitalMusicObs"
+  url: https://twitter.com/DigitalMusicObs
+- icon: github
+  icon_pack: fab
+  name: Open Repo & Code
+  url: https://github.com/dataobservatory-eu
+- icon: linkedin
+  icon_pack: fab
+  name: Reprex
+  url: https://www.linkedin.com/company/68855596/
+- icon: linkedin
+  icon_pack: fab
+  name: Edibles
+  url: https://www.linkedin.com/company/edibles-sustainable-tasty-tableware/  
+- icon: mastodon
+  icon_pack: fab
+  name: "@reprex@mastodon.nl"
+  url: https://mastodon.nl/web/@reprex/
 
 # Markdown Slides (optional).
 slides:

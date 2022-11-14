@@ -1,5 +1,5 @@
 ---
-title: LineCheck, Milano
+title: LineCheck, Milano, IT
 subtitle: Harmonized surveys against gender bias, total value chain sustainability reporting, open data
 
 categories:
@@ -23,8 +23,8 @@ abstract: 'Reprex, Edibles, Thermowatt at the Digital Music Observatory and the 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-11-15T09:00:00Z'
-date_end: '2022-11-15T18:00:00Z'
+date: '2022-11-24T15:15:00Z'
+date_end: '2022-11-24T16:15:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).

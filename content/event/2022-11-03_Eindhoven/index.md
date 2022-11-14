@@ -71,6 +71,10 @@ links:
   icon_pack: fas
   name: Slides
   url: ../slides/ehv-reprex
+- icon: mastodon
+  icon_pack: fab
+  name: "@reprex@mastodon.nl"
+  url: https://mastodon.nl/web/@reprex/
   
 ---
 

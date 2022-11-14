@@ -11,7 +11,7 @@ design:
   # Automatically transition through slides?
   loop: true
   # Duration of transition between slides (in ms)
-  interval: 20000
+  interval: 3000
 
 content:
   slides:
@@ -29,6 +29,19 @@ content:
         text: "Vote REPREX :)"
         url: ../post/2022-11-07_vote_reprex/
     - title: ""
+      content: '</br></br></br></br>'
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 1
+        media: slides/slider/Reprex_Linecheck_2022-centered-broader.webp
+      link:
+        icon: fa-solid fa-right-to-bracket
+        icon_pack: fas
+        text: "See you in Milano"
+        url: ../post/2022-11-07_vote_reprex/
+    - title: ""
       content: '</br></br></br></br></br></br></br>'
       align: left
       background:
@@ -42,10 +55,10 @@ content:
         text: "Vote REPREX :)"
         url: ../post/2022-11-07_vote_reprex/
     - title: Try Our Software
-      content: </br></br></br></br></br></br></br></br>
+      content: </br></br></br></br></br>
       align: left
       background:
-        position: center
+        position: top
         color: '#555'
         brightness: 0.7
         media: slides/slider/black_reprex_r_packages.webp
@@ -67,19 +80,6 @@ content:
         icon_pack: fas
         text: Watch the livestream
         url: ../post/2022-11-03_ehv_innovation_cafe/
-    - title: Vote in The Hague Innovators Challenge!
-      content: '</br></br></br></br></br></br></br>'
-      align: left
-      background:
-        position: top
-        color: '#555'
-        brightness: 0.3
-        media: slides/slider/cast_your_vote.webp
-      link:
-        icon: fa-solid fa-right-to-bracket
-        icon_pack: fas
-        text: Scroll ↡ and vote REPREX :)
-        url: ../post/2022-10-29_reprex-talk-to-all/
     - title: "Open Data: Gold Without Rush"
       content: 'When you need data from the past, it is too late to start 
       collecting it. If you need satellite data, it is unlikely that you

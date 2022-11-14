@@ -62,11 +62,6 @@ links:
   icon_pack: fab
   name: Reprex
   url: https://www.linkedin.com/company/68855596/
-- icon: person-booth
-  icon_pack: fas
-  name: Vote
-  url: ../post/2022-10-29_reprex-talk-to-all/
-
 # Markdown Slides (optional).
 slides:
 
