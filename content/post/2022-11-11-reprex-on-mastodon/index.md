@@ -1,5 +1,5 @@
 ---
-title: "Rerex on Mastodon"
+title: "Reprex on Mastodon"
 subtitle: "@reprex@mastodon.nl"
 
 # Summary for listings and search engines
@@ -46,10 +46,7 @@ links:
   icon_pack: fab
   name: Reprex
   url: https://www.linkedin.com/company/68855596/
-- icon: person-booth
-  icon_pack: fas
-  name: Vote
-  url: ../post/2022-10-29_reprex-talk-to-all/
+  
 ---
 
 We are concerned about the implosion of ‘social media’, and we believe that truly public space can never go private.  We are joining Mastodon and helping our curators and partners to make the transition until there is more clarity about the future of Twitter and Facebook.

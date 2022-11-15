@@ -37,7 +37,7 @@ tags: [Listen Local, OpenMusE]
 featured: false
 
 image:
-  caption: '[**Eindhoven Innovation Cafe**](https://www.ehvinnovationcafe.org/)'
+  caption: 'The award ceremony on ImpactFest'
   focal_point: Right
 
 url_code: ''
@@ -70,7 +70,7 @@ projects: ""
 ---
 
 {{% callout note %}}
-Reprex is a finalist for The Hague Innovators Award 2022, and the prize of the audience, in the startup category with our respectable competitors, Sibö, WECO, STHRIVE and ECOBLOQ.
+Reprex was a finalist for The Hague Innovators Award 2022, and the prize of the audience, in the startup category with our respectable competitors, Sibö, WECO, STHRIVE and ECOBLOQ. We won the prize of the audience.
 {{% /callout %}}
 
 The transition towards a sustainable and inclusive economy depends on collaboration. That is why we are bringing together startups, scale-ups, investors, policymakers, and other impact makers from around the world in The Hague for the 7th edition of ImpactFest.
