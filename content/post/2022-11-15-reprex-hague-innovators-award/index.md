@@ -9,8 +9,8 @@ summary: "Reprex won the Audience Prize in The Hague Innovators Challenge - with
 projects: ''
 
 # Date published
-date: "2022-11-07T18:00:00Z"
-lastmod: "2022-11-07T18:00:00Z"
+date: "2022-11-15T18:00:00+01:00"
+lastmod: "2022-11-15T18:00:00+01:00"
 
 # Is this an unpublished draft?
 draft: false

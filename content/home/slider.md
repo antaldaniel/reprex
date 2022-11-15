@@ -52,8 +52,8 @@ content:
       link:
         icon: fa-solid fa-right-to-bracket
         icon_pack: fas
-        text: "Vote REPREX :)"
-        url: ../post/2022-11-07_vote_reprex/
+        text: "Thank you for the votes!"
+        url: ../post/2022-11-15-reprex-hague-innovators-award/
     - title: Try Our Software
       content: </br></br></br></br></br>
       align: left

@@ -20,9 +20,9 @@ date_format: Jan 2006
 # Experiences.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Finalist
-    company: The Hague Innovators Challenge 20222
-    company_url: 'https://www.impactcity.nl/en/service/the-hague-innovators-challenge/'
+  - title: Finalist, Winner of Audience Prize
+    company: The Hague Innovators Challenge 2022
+    company_url: ../post/2022-11-15-reprex-hague-innovators-award/
     company_logo: ImpactCity
     location: The Hague, Netherlands
     date_start: '2022-09-10'
