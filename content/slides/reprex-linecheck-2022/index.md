@@ -11,9 +11,9 @@ slides:
 
 ----
 
-{{< slide background-image="Reprex_Linecheck_2022-centered-broader.webp" >}}
+{{< slide background-image="Reprex_Linecheck_2022-centered-broader.webp" background-position="center">}}
 <br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
-  
+
 ---
 
 
@@ -25,18 +25,34 @@ Fullscreen: `F`
 - Overview: `Esc`|  Speaker notes: `S`
 - Zoom: `Alt + Click 🖱️`
 
+
 ---
 
-# Big Data Creates Inequalities
+{{< slide background-image="eviota-sdg-white-slide.png" background-position="top">}}
 
-Only the largest corporations, best-endowed universities, and rich governments can afford data collection and processing capacities that are large enough to harness the advantages of AI.
+<br/><br/><br/><br/><br/>
+| | 
+|:--|
+|<p style="font-size:70%" >🌱 Eviota [🖱 click](/apps/eviota/)  offers actionable insights into the supply chain of music businesses in the live, recording, and authors’ (copyright) stream.  </p>|
+|<p style="font-size:70%">🧾  We implement with Eviota the new reporting and accounting standards of EFRAG. We connect a reliable benchmark to every accounting item and make sure that your financial accounts contain your GHG footprint or even your contribution to equal pay for womxn. This will help you gain cheaper green loans, insurance, or green transition subsidies.</p>|
+</span>
+
+---
+
+{{< slide background-image="surveyharmonies-sdg-white-slide.png" background-position="top">}}
+
+<br/><br/><br/><br/><br/>
+| | 
+|:--|
+|<p style="font-size:73%" >🎶  Surveyharmonies [🖱 click](/apps/listen-local/) is our first experimental product that allows you to recycle surveys from all over Europe.  </p>|
+|<p style="font-size:73%">☑️  You ask questions about gender inequalities in many languages (try it [EN](https://docs.google.com/forms/d/e/1FAIpQLSeI7GJ0JDi7dNr-sL4JEsQ86ksNH00tqNSwmB4fEwBOBqseBA/viewform) [IT](https://docs.google.com/forms/d/e/1FAIpQLSeI7GJ0JDi7dNr-sL4JEsQ86ksNH00tqNSwmB4fEwBOBqseBA/viewform) and you get responses from your audience and more than 30,000 other people in various occupational groups all over Europe.</p>|
+|<p style="font-size:73%">☿️ Join our pan-European gender inequality survey in January 2023.</p>|
+    
+---
 
 
-----
-
-{{< slide background-image="listen_local_open_collaboration_sdg_slide_white.webp" >}}
-<br/><br/><br/><br/><br/><br/>
-
+{{< slide background-image="listen-local-sdg-white-slide.png" background-position="top">}}
+<br/><br/><br/><br/><br/>
 | | 
 |:--|
 |<p style="font-size:75%" >♯ Listen Local is a [🖱 click](/apps/listen-local/)  trustworthy, ethical AI-powered system that aims to help great artists in small organizations and small countries using big data. </p>|
@@ -45,7 +61,12 @@ Only the largest corporations, best-endowed universities, and rich governments c
 
 ----
 
+# Big Data Creates Inequalities
 
+Only the largest corporations, best-endowed universities, and rich governments can afford data collection and processing capacities that are large enough to harness the advantages of AI.
+
+
+----
 ## Data problems
 
 | <div style="width:200px"></div>  |   |

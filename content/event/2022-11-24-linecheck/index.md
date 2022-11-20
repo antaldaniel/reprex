@@ -67,10 +67,10 @@ links:
   icon_pack: fab
   name: Edibles
   url: https://www.linkedin.com/company/edibles-sustainable-tasty-tableware/  
-- icon: person-booth
+- icon: download
   icon_pack: fas
-  name: Vote
-  url: ../post/2022-10-29_reprex-talk-to-all/
+  name: Download Our Poster Presentation
+  url: ..//documents/Reprex-Linecheck-2022-poster.png
 
 # Markdown Slides (optional).
 slides: reprex-linecheck-2022
@@ -126,4 +126,4 @@ Our solution benefits the music MSMEs and CSOs in several ways:
 
 <td style="text-align: center;">{{< figure src="/img/blogposts_2021/difficulty_bills_levels.jpg" caption="Survey harmonization is a powerful research tool to increase the usability of questionnaire-based empirical research. Read more on [our blog](https://music.dataobservatory.eu/post/2022-02-16-survey-harmonization/)." numbered="false" >}}</td>
 
-
+{{< icon name="download" pack="fas" >}} Download our {{< staticref "/documents/Reprex-Linecheck-2022-poster.png" "newtab" >}}poster presentation{{< /staticref >}}.
