@@ -73,7 +73,7 @@ links:
   url: ../post/2022-10-29_reprex-talk-to-all/
 
 # Markdown Slides (optional).
-slides:
+slides: reprex-linecheck-2022
 
 # Projects (optional).
 projects: ""

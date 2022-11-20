@@ -8,14 +8,14 @@ date: '2022-11-20T15:42:00+01:00'
 slides:
   theme: white
   highlight_style: dracula
+
+----
+
+{{< slide background-image="Reprex_Linecheck_2022-centered-broader.webp" >}}
+<br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
   
 ---
 
-# Big Data Creates Inequalities
-
-Only the largest corporations, best-endowed universities, and rich governments can afford data collection and processing capacities that are large enough to harness the advantages of AI.
-
----
 
 ## Slide navigation
 
@@ -25,12 +25,23 @@ Fullscreen: `F`
 - Overview: `Esc`|  Speaker notes: `S`
 - Zoom: `Alt + Click 🖱️`
 
+---
+
+# Big Data Creates Inequalities
+
+Only the largest corporations, best-endowed universities, and rich governments can afford data collection and processing capacities that are large enough to harness the advantages of AI.
+
 
 ----
 
 {{< slide background-image="listen_local_open_collaboration_sdg_slide_white.webp" >}}
-<br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
+<br/><br/><br/><br/><br/><br/>
 
+| | 
+|:--|
+|<p style="font-size:75%" >♯ Listen Local is a [🖱 click](/apps/listen-local/)  trustworthy, ethical AI-powered system that aims to help great artists in small organizations and small countries using big data. </p>|
+|<p style="font-size:75%">🎶  Our Listen Local Apps want to make sure that local ecosystems are not colonized by global platforms.</p>|
+</span>
 
 ----
 
