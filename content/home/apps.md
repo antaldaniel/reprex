@@ -27,12 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Applications
-    tag: Apps
   - name: Smart Policy Documents
     tag: Smart Policy Documents
   - name: Eviota
     tag: Eviota
+  - name: Listen Local
+    tag: Listen Local
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

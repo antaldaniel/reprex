@@ -1,4 +1,5 @@
 ---
+# App name
 title: Eviota
 summary: Connected financial and sustainability reporting
 tags:
@@ -9,6 +10,8 @@ lastmod: "2022-09-04T15:39:00+02:00"
 # Optional external URL for project (replaces project detail page).
 external_link: ''
 
+authors: ["admin", "musicaire", "greendeal", "music"]
+
 image:
   caption:
   focal_point: Smart
@@ -16,14 +19,20 @@ image:
 links:
 - icon: twitter
   icon_pack: fab
+  name: Data & Lyrics blog
   link: https://twitter.com/dataandlyrics
 - icon: github
   icon_pack: fab
+  name: Open Repositories
   link: https://github.com/dataobservatory-eu
 - icon: linkedin
   icon_pack: fab
-  name: Connect
+  name: Reprex
   url: https://www.linkedin.com/company/68855596/
+- icon: linkedin
+  icon_pack: fab
+  name: MusicAIRE
+  link: https://www.linkedin.com/company/musicaire-project/
   
 url_code: ''
 url_pdf: ''

@@ -1,57 +1,53 @@
-+++
+---
 # Project title.
-title = "OpenMusE Consortium"
-subtitle = "We are looking for end-users and dissemination partners to test our data and visualization products" 
+title: "OpenMuse Consortium"
+subtitle: "We are looking for end-users and dissemination partners to test our data and visualization products" 
 
 # Date this page was created.
-date = 2021-05-06T17:52:00
-lastmod = 2022-07-29T18:52:00
+date: 2021-05-06T17:52:00
+lastmod: 2022-07-29T18:52:00
 
 # Project summary to display on homepage.
-summary = "OpenMusE brings together music industry stakeholders and researchers from 12 European countries. Our partners represent the diversity of the industry, as well as the shared need to find financially, socially, and environmentally sustainable policy and business models in multiple, sometimes-fragmented streams (e.g., live music, composers/publishers, and recordings with producers and performers)."
+summary: "OpenMuse brings together music industry stakeholders and researchers from 12 European countries. Our partners represent the diversity of the industry, as well as the shared need to find financially, socially, and environmentally sustainable policy and business models in multiple, sometimes-fragmented streams (e.g., live music, composers/publishers, and recordings with producers and performers)."
 
 # Tags: can be used for filtering projects.
-tags = ["Digital Music Observatory", "Music Moves Europe", "Horizon Europe"]
+tags: ["Digital Music Observatory", "Music Moves Europe", "Horizon Europe", "OpenMuse"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = ""
+external_link: ""
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
-#   E.g. `slides = "example-slides"` references 
+#   E.g. `slides: "example-slides"` references 
 #   `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
-slides = ""
+#   Otherwise, set `slides: ""`.
+slides: ""
 
 # Links (optional).
-url_pdf = "https://reprex.nl/documnets/DMO_Horizon_Europe_Invitation_2022_03_20.pdf"
-url_slides = ""
-url_video = ""
-url_code = ""
+url_pdf: "https://reprex.nl/documnets/DMO_Horizon_Europe_Invitation_2022_03_20.pdf"
+url_slides: ""
+url_video: ""
+url_code: ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{icon_pack = "fab", icon="twitter", name="Follow", url = "https://twitter.com/antaldaniel"}]
+#url_custom: [{icon_pack: "fab", icon="twitter", name="Follow", url: "https://twitter.com/antaldaniel"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-[image]
-  # Caption (optional)
-  caption = ""
-  
-  # Focal point (optional)
-  # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point = "Center"
-  preview_only = true
-+++
+image:
+  caption: ""
+  focal_point: "Center"
+  preview_only: true
+---
 
 <td style="text-align: center;">{{< figure src="/media/img/blogposts_2022/logos_3_1.jpg" caption="" numbered="false" >}}</td>
 
 
-`OpenMusE` brings together music industry stakeholders and researchers from 11 EU countries and Ukraine. Our consortium recognises that placing European music ecosystems on a more competitive, fair, and sustainable footing requires evidence-based policymaking, business planning, and accuracy. 
+`OpenMuse` brings together music industry stakeholders and researchers from 11 EU countries and Ukraine. Our consortium recognises that placing European music ecosystems on a more competitive, fair, and sustainable footing requires evidence-based policymaking, business planning, and accuracy. 
 
-We provide the data needed for these actions. Using transparent methods and tools, OpenMusE maps the policy and data landscape; bridges data gaps; and empowers stakeholders and policymakers to take data-driven actions. Our project is grounded on principles of open policy analysis, open science, and open-source software development. We work with stakeholders to identify data gaps on the EU, national, and regional levels; co-create indicators and methods for bridging them; develop free software tools for data collection and analysis; and report not just our findings, but every step taken to reach them. 
+We provide the data needed for these actions. Using transparent methods and tools, OpenMuse maps the policy and data landscape; bridges data gaps; and empowers stakeholders and policymakers to take data-driven actions. Our project is grounded on principles of open policy analysis, open science, and open-source software development. We work with stakeholders to identify data gaps on the EU, national, and regional levels; co-create indicators and methods for bridging them; develop free software tools for data collection and analysis; and report not just our findings, but every step taken to reach them. 
 
 This is the logic behind our `Open Music Observatory` (OMO, developed from the earlier [CEEMID](https://music.dataobservatory.eu/usecase/ceemid/) and the [Digital Music Observatory](https://music.dataobservatory.eu/) concept), an open-source platform that provides 360-degree intelligence on the music industry by integrating numerous data sources. The OMO is highly automated, providing “living policy documents” that refresh when the backend datasets are updated: these datasets include official statistics on music goods and services; data on musical participation via pan-European surveys, rights-holder data voluntarily shared by industry partners, and streaming service data sampled using novel algorithms developed by our consortium. Using the OMO and our open-source software, music MSMEs without technical departments or expertise will be able to access and analyse open data; model volume and value, including of zero-price uses; create better business models; and generate corporate social responsibility and sustainability reports; all at a fraction of current costs. We validate these tools in four pilot studies that will bring concrete benefits to stakeholders within the project lifespan.
 
@@ -88,7 +84,7 @@ The objectives are designed to advance the state of the art with regard to data 
 2. Implement `data-sharing cooperation` to make hidden and restricted data accessible 
 3. Develop `new survey methods` for capturing scarce data.
 
-These methodological innnovation build on the previous collaboration among many of the OpenMusE Consortium partners. For examples, see the [Publications](https://music.dataobservatory.eu/#featured) section of the `Digital Music Observatory` page.
+These methodological innnovation build on the previous collaboration among many of the OpenMuse Consortium partners. For examples, see the [Publications](https://music.dataobservatory.eu/#featured) section of the `Digital Music Observatory` page.
 
 ## BRIDGE data gaps with open data that anybody can use {#BRIDGE}
 
@@ -129,7 +125,7 @@ By providing continually updated data on five industry pillars – innovation, m
 
 ## Service Development, Project Management, Coordination and Dissemination 
 
-- [Reprex](https://music.dataobservatory.eu/author/reprex/) is the originator of the OpenMusE project which builds on the achievements of the former CEEMID project, and provides leadership in WP Dissemination with building the Open Music Observatory, a full-fledged, open science-based statistical service that can complement the Eurostat Rest API and the future European Music Observatory on the basis of the Digital Music Observatory prototype validated in Yes!Delft AI+Blockchain Lab and the JUMP European Music Market Accelerator.
+- [Reprex](https://music.dataobservatory.eu/author/reprex/) is the originator of the OpenMuse project which builds on the achievements of the former CEEMID project, and provides leadership in WP Dissemination with building the Open Music Observatory, a full-fledged, open science-based statistical service that can complement the Eurostat Rest API and the future European Music Observatory on the basis of the Digital Music Observatory prototype validated in Yes!Delft AI+Blockchain Lab and the JUMP European Music Market Accelerator.
 - [Sinus-Institut](https://music.dataobservatory.eu//author/sinus-institute/), (DE) an innovative market- and policy research SME is the coordinator of the project, and provides leadership on WP Music, Society and Citizenship with promoting best, harmonized practices of the measurement of cultural access and participation.
 - [Synyo](https://www.synyo.com/), (AT) an innovative research company is participating in the coordination and dissemination of the project.
 

@@ -5,13 +5,13 @@ subtitle: "Sustainability reporting for music organizations"
 
 # Date this page was created.
 date: 2022-06-09T09:40:00+01:00
-lastmod: 2022-09-04T09:40:00+01:00
+lastmod: 2022-11-20T09:40:00+01:00
 
 # Project summary to display on homepage.
 summary: "We will help small music organizations in their sustainability reporting, where detail data and reporting standards are only available for greenhouse gas emissions."
 
 # Tags: can be used for filtering projects.
-tags: ["Music Eviota", "Sustainability", "European Green Deal", "MusicAIRE"]
+tags: ["Music Eviota", "Eviota", "Sustainability", "European Green Deal", "MusicAIRE"]
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -19,6 +19,18 @@ external_link: ""
 # Slides (optional).
 #   Otherwise, set `slides: ""`.
 slides: ""
+
+authors: ["admin", "musicaire", "greendeal", "music"]
+
+links:
+- icon: mastodon
+  icon_pack: fab
+  name: "@reprex@mastodon.nl"
+  url: https://mastodon.nl/web/@reprex/
+- icon: linkedin
+  icon_pack: fab
+  name: Reprex
+  url: https://www.linkedin.com/company/68855596/
 
 # Links (optional).
 url_pdf: ""

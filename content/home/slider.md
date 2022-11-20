@@ -41,6 +41,20 @@ content:
         icon_pack: fas
         text: "See you in Milano"
         url: ../event/2022-11-24-linecheck/
+
+    - title: ""
+      content: '</br></br></br><span style="color:#00348A">The Hague Innovators Challenge Finals 2022</span>'
+      align: right
+      background:
+        position: top
+        color: '#555'
+        brightness: 0.9
+        media: slides/slider/listen_local_open_collaboration_sdg_slide_white.webp
+      link:
+        icon: fa-solid fa-right-to-bracket
+        icon_pack: fas
+        text: "Read more & get involved"
+        url: ../post/2022-11-15-reprex-hague-innovators-award/
     - title: ""
       content: '</br></br></br></br></br></br></br>'
       align: left

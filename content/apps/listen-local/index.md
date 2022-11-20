@@ -1,5 +1,5 @@
 ---
-# Project title.
+# App name
 title: "Listen Local"
 
 # Date this page was created.
@@ -7,7 +7,7 @@ date: 2020-09-29T10:00:00
 lastmod: 2022-11-20T15:16:00+01:00
 
 # Project summary to display on homepage.
-summary: "Listen Local is a trustworthy, ethical AI-powered system that aims to help great artists in small organizations and small countries using big data. We want to make sure that audiences are not only recommended global superhits, but locally relevant music, too. At present, corporate algorithms fail to connect listeners in small countries with music from the local scene - with artists whom the listener can easily see perform live in local venues, who sing in the listener’s language and who connect with the listener’s feelings and experiences."
+summary: "Listen Local is a trustworthy, ethical AI-powered system that aims to help great artists in small organizations and small countries using big data."
 
 # Tags: can be used for filtering projects.
 tags: 
@@ -28,9 +28,16 @@ url_slides: ""
 url_video: ""
 url_code: ""
 
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom: [{icon_pack: "fab", icon="twitter", name="Follow", url: "https://twitter.com/antaldaniel"}]
+links:
+- icon: mastodon
+  icon_pack: fab
+  name: "@reprex@mastodon.nl"
+  url: https://mastodon.nl/web/@reprex/
+- icon: linkedin
+  icon_pack: fab
+  name: Reprex
+  url: https://www.linkedin.com/company/68855596/
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
