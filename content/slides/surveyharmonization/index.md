@@ -14,7 +14,6 @@ slides:
 
 # Survey Harmonization Workflow
 
-
 ---
 ## Controls
 
