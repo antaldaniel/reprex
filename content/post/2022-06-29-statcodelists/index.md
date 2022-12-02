@@ -22,6 +22,14 @@ links:
   icon_pack: fab
   name: Code
   url: https://github.com/antaldaniel/statcodelists/
+- icon: code
+  icon_pack: fas
+  name: Code & Tutorials
+  url: https://statcodelists.dataobservatory.eu/
+- icon: linkedin
+  icon_pack: fab
+  name: Reprex
+  url: https://www.linkedin.com/company/68855596/
 ---
 <td style="text-align: center;">{{< figure src="/img/blogposts_2022/statcodelists_website.png" caption="Visit the documentation website of statcodelists on [statcodelists.dataobservatory.eu/](https://statcodelists.dataobservatory.eu/)." numbered="false" >}}</td>
 

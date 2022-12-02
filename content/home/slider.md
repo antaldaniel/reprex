@@ -15,33 +15,19 @@ design:
 
 content:
   slides:
-    - title: <span style="color:#00348A">The Hague Innovators Challenge Finals 2022</span>
-      content: '</br></br></br></br>'
-      align: left
-      background:
-        position: center
-        color: '#555'
-        brightness: 1
-        media: slides/slider/reprex-big-data-for-all-right_aligned_white_slide.webp
-      link:
-        icon: fa-solid fa-right-to-bracket
-        icon_pack: fas
-        text: "Thank you :)"
-        url: ../post/2022-11-15-reprex-hague-innovators-award
     - title: ""
-      content: '</br></br></br></br>'
+      content: '<br/><br/><br/><br/><br/>'
       align: left
       background:
         position: center
         color: '#555'
-        brightness: 1
-        media: slides/slider/Reprex_Linecheck_2022-centered-broader.webp
+        brightness: 0.3
+        media: /slides/slider/black_reprex_r_packages.webp
       link:
         icon: fa-solid fa-right-to-bracket
         icon_pack: fas
-        text: "See you in Milano"
-        url: ../event/2022-11-24-linecheck/
-
+        text: "New release: dataset"
+        url: ../post/2022-12-02-dataset-on-cran/
     - title: ""
       content: '</br></br></br><span style="color:#00348A">The Hague Innovators Challenge Finals 2022</span>'
       align: right
@@ -111,19 +97,6 @@ content:
         icon_pack: fas
         text: "Blog: Why is it so hard to work with it?"
         url: ../post/2021-06-18-gold-without-rush/
-    - title: ""
-      content: ''
-      align: left
-      background:
-        position: center
-        color: '#555'
-        brightness: 0.3
-        media: img/slides/panning_open_data_automation_white.webp
-      link:
-        icon: fa-solid fa-right-to-bracket
-        icon_pack: fas
-        text: "Software solutions"
-        url: ../#releases
     - title: ""
       content: '</br></br>Our new, vertical observatories bring ESG and antitrust
       solutions from our domain-specific observatories. The competition observatory
