@@ -20,6 +20,8 @@ draft: false
 # Show this page in the Featured widget?
 featured: false
 
+doi: 10.5281/zenodo.7391890
+
 links:
 - icon: code
   icon_pack: fas
