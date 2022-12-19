@@ -64,26 +64,43 @@ There are some difficulties that we want to overcome in this project.
 
 In Europe, there are a handful of large organizations present in the music industry. So, there is no regulatory push for music enterprises to engage in sustainability reporting. However, this means that they cannot benefit from the advantages above.
 
+{{<toc>}}
+
 ## Our approach
 
-Most sustainability calculators are very complex because they use many data inputs from the company. Our mission is to reduce the complexity; however, this would require plenty of experience to define the shortcuts.  We offer free, manual calculation in the first phase to ensure we define these simplifications well.
+Most sustainability calculators are very complex because they use many data inputs from the company. Our mission is to reduce the complexity; however, this would require plenty of experience to define the shortcuts.  We will compare all spending (upstream value chain or suppliers) and all income (downstream value chain or buyers) to the know spending of all similar organizations in your country in the comparison year. 
+
+<td style="text-align: center;">{{< figure src="/img/eviota/supply_chain_comparison_barplot_roboto_16x9.png" caption="To reduce the data need, we only take into consideration cost/income groups that meet the _financial_ materiality treshold, i.e. 3% of your total costs or total business-to-business sales." numbered="false" >}}</td>
+
+We offer free, manual calculation in the first phase to ensure we define these simplifications well. To reduce the time needed to collect data about your purchases and sales, we will rely on the "trial balance", because this is available in your accounting system (and can be exported by your accounting software.)
 
 {{< spoiler text="Why the trial balance?" >}}
+
+We start from a document that every company has, and does not require extra management time to prepare, the so-called `trial balance`. This is an accounting document that can be obtained from the company’s accountant.
+
 - [x] No extra management time is needed: it is already recorded by every company's accountant. You or your accountant can export it and send it to us (or later upload it.)
 - [x] It is not subjective.  It states exactly what you were spending on.
 - [x] It is more or less standardized across Europe—and almost all countries of the world, with the exception of the U.S. and some other countries.
+- [x] We need to use the same working document that your accountant uses to maintain an important objectivity criterion: connectivity. This way your annual report will be consistent, if you say in the financial part that you spend 1000 euro on energy, then we will calculate the greenhouse gas emissions based on KWh volume of the the energy that cost you 1000 euros.
+
 {{< /spoiler >}}
 
-We start from a document that every company has, and does not require extra management time to prepare, the so-called `trial balance`. This is an accounting document that can be obtained from the company’s accountant.
+This way we avoid a lot of data entry into the calculator. At this stage, you we do not offer an uploader, because we want to test manually different trial balances before automating the uploading process.
 
 ## How does it work?
 
 In the future, we hope our calculator will ask the user to upload the trial balance to a secure location, answer a few questions, and get the sustainability report back. Because the trial balance has no strictly defined form (it differs between small, very small, and medium-sized companies, and country to country), we need to do some manual reporting to standardize this procedure.
 
-<td style="text-align: center;">{{< figure src="/img/eviota/j58_comparison_treemap_alt_16x9.png" caption="We compare your company's supply purchases and sales with all similar companies in your country and industry for the comparison year. In this example, we compare the data of Hungarian publisher's GHG emissions with the emissions of all Hungarian publishers in 2020." numbered="false" >}}</td>
+We use the `trial balance` (see [examples](https://www.wallstreetmojo.com/trial-balance-examples/) of a trial balance), because that is a standard document that your accountant has about all your purchases and all your sales. 
 
-We use the 'trial balance', because that is a standard document that your accountant has about all your purchases and all your sales. This is an intermediary document to prepare your "profit and loss statement".
+<td style="text-align: center;">{{< figure src="/img/eviota/j58_comparison_treemap_alt_16x9.png" caption="We compare your company's supply purchases and sales with all similar companies in your country and industry for the comparison year. In this example, we compare the data of Hungarian publisher's GHG emissions using the purchases in its trial balance with the emissions of all Hungarian publishers (based on their data reported to the tax authorities) in 2020." numbered="false" >}}</td>
 
+Currently your accountant creates two documents, which are binded together and published by law in one "book", your (Simplified) Annual Report. In Europe, all micro- and small companies create a Simplified Annual Report.
+1. the annual (simplified) balance sheet
+2. the annual (simplified) profit and loss statement
+
+Using exactly the same data, i.e. the "trial balance", and adding sustainability data, we will create a third document:
+3. The annual (simplified) sustainability report, which is a non-financial disclosure of the annual report.
 
 {{< spoiler text="Process: From your data to the final report" >}}
 1. We sign a non-disclosure agreement.
@@ -137,9 +154,15 @@ reports and non-financial disclosures of the financial reports (which are not ma
 
 <td style="text-align: center;">{{< figure src="/img/eviota/ESG_Google_Trends_16x9.jpg" caption="Growing interest for ESG in select countries." numbered="false" >}}</td>
 
-## Green Recovery in the Music Sector {#greenrecovery}
+## Future plans: Social Sustainability and Anti-Bribary {#future-plans}
+
+<td style="text-align: center;">{{< figure src="/img/eviota/eviota_regulatory_goals.png" caption="In 2022/23 we focus on reporting GHG emissions and following the Paris Climate Agreement. We are making experiments on data sources to include other sustainability gols related to water use, biodiversity, social sustainability and anti-bribary." numbered="false" >}}</td>
+
+## MusicAIRE Green Recovery in the Music Sector {#greenrecovery}
 <td style="text-align: center;">{{< figure src="/img/logos/MusicAIRE_logo_black.png" caption="Co-funded by the European Union" numbered="false" >}}</td>
 
 The objectives of the MusicAIRE GREEN recovery program is increasing the music sector’s environmental sustainability and ecological awareness with a view to greening the music industry, in particular live acts, festivals and touring, as well as supporting innovative start-ups aiming at decreasing the environmental footprint of online data storing and music distribution.
 
 <td style="text-align: center;">{{< figure src="/img/logos/EN_Co-Funded_by_the_EU_POS.png" caption="Co-funded by the European Union" numbered="false" >}}</td>
+
+
