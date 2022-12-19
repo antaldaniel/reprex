@@ -4,6 +4,8 @@ subtitle:  "Reprex Wants To Talk To You All"
 date:  2022-10-29T16:17:00+02:00
 lastmod:  2022-11-02T07:17:00+02:00
 
+# Elipsis …, emdash —
+
 authors:  ["daniel_antal", "andres", "borbala_domotorfy", "gabija_liaugminaite", "botond_vitos"]
 
 tags:  ["Reprex", "The Hague", "Netherlands", "The Hague Innovators Challenge 2022", "ImpactCity"]

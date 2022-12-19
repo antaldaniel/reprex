@@ -80,12 +80,19 @@ We start from a document that every company has, and does not require extra mana
 
 In the future, we hope our calculator will ask the user to upload the trial balance to a secure location, answer a few questions, and get the sustainability report back. Because the trial balance has no strictly defined form (it differs between small, very small, and medium-sized companies, and country to country), we need to do some manual reporting to standardize this procedure.
 
+<td style="text-align: center;">{{< figure src="/img/eviota/j58_comparison_treemap_alt_16x9.png" caption="We compare your company's supply purchases and sales with all similar companies in your country and industry for the comparison year. In this example, we compare the data of Hungarian publisher's GHG emissions with the emissions of all Hungarian publishers in 2020." numbered="false" >}}</td>
+
+We use the 'trial balance', because that is a standard document that your accountant has about all your purchases and all your sales. This is an intermediary document to prepare your "profit and loss statement".
+
+
+{{< spoiler text="Process: From your data to the final report" >}}
 1. We sign a non-disclosure agreement.
 2. You send us your trial balance.
 3. We create a first draft of your carbon footprint. We categorize your suppliers (costs) and buyers (income) into 64 categories for which we have reliable data. See [methodology](#methodology) below.
 4. Most of our calculations are made with [iotables](https://iotables.dataobservatory.eu/), our scientific and open source software. We rely on open data from the [Green Deal Data Observatory](https://greendeal.dataobservatory.eu/), which in turn processes reliable data of Eurostat and the European Environmental Agency in readily usable format. The use of open source reporting tools and open data helps keep our costs low.
 4. We set up a short call with you and your accountant to make some clarifications.
 5. We provide you the final report.
+{{< /spoiler >}}
 
 ## What is the report?
 
