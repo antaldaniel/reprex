@@ -65,8 +65,7 @@ links:
   name: 🇭🇺 kik vagyunk?
   url: ..//introduction/magyar/
 
-# Markdown Slides (optional).
-slides:
+slides: music-eviota
 
 # Projects (optional).
 projects: ""

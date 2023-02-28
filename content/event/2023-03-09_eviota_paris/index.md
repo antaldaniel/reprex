@@ -1,5 +1,5 @@
 ---
-title: Eviota Hungary
+title: Eviota France
 subtitle: Connected financial and sustainability reporting for music enterprises
 
 categories:
@@ -8,12 +8,10 @@ categories:
 event: "Eviota: Connected financial and sustainability reporting for music enterprises 🇫🇷  " 
 event_url: 
 
-location: A38 Hajó
+location: TBD
 address:
-  street: Petőfi híd
-  city: Budapest
-  postcode: 1117
-  country: Hungary
+  city: Paris
+  country: France
 
 summary: Reprex will organize events on the International Open Data Day. Save the date in your calendar.
 
@@ -63,13 +61,9 @@ links:
   url: https://www.linkedin.com/company/68855596/
 
 # Markdown Slides (optional).
-slides:
+slides: music-eviota
 
-# Projects (optional).
-projects: ""
 ---
-
-🇭🇺 magyarul lent
 
 The Eviota project aims to create sustainability reports connected to the financial accounts of companies, NGOs, and civil society actors.  The first phase concentrates on greenhouse gases and air pollutants.  We want to create reliable estimates of the carbon and other pollutants footprint of music-related (social) enterprises based on their spending (“connected financial and sustainability reporting”.)
 
@@ -95,18 +89,4 @@ As soon as the modification of the EU accounting directive take effect, you will
 This way your annual report will be consistent, if you say in the financial part that you spend 1000 euro on energy, then we will calculate the greenhouse gas emissions based on KWh volume of the the energy that cost you 1000 euros.
 
 {{< /spoiler >}}
-
-## Magyarul
-
-- 16:30: Találkozó, üdvözlet
-- 17:00: Rövid prezentáció
-- 17:15: Beszélgetés a vendég cégek adatai alapján
-
-[Igény esetén 12.30-kor egy munkaebéddel egybekötött másik konzultációs alkalmat is tartunk.]
-
-A beszélgetés előtt a vendégeket arra kérjük, hogy (a megfelelő titoktartási nyilatkozat aláírása után) küldjenek el pár főkönyvi kivonatot számunkra. Ez alapján a Reprex elkészít egy egyszerűsített, az éves beszámolóba opcionálisan beilleszhető, kapcsolt fenntarthatósági jelentést. A beszélgetés az érdeklődők valós adatain, számviteli kimutatásain alapul, de semmilyen bizalmas adat nem lesz látható.  A beszélgetés célja, hogy valós számviteli alapoktól, egyszerű, egy óra alatt elkészíthető olyan egyszerűsített beszámolót készítsünk, ami segíthet zöld bankhitelek, zöld biztosítások, és fenntartható támogatások igénybevételére.  
-
-- [x] Egyre több nagyvállalati partner kér ilyen kimutatást akkor, ha a zenei cégek az értékláncukba, beszállítói láncukba kerülnek, vagy támogatást kérnek.
-- [x] Egyre több EU-s és magyar támogatás fenntarthatósági beszámolóhoz kötött.
-- [x] Idéntől egyre több bank és biztosító kínál az igazolhatóan fenntarhatóan gazdálkodó cégeknek kedvezőbb kondíciójú hitelt és biztosítást. A zeneipar számára különösen a biztosítási költségek csökkentése vonzó perspektíva.
 

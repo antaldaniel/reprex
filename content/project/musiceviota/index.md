@@ -21,7 +21,7 @@ external_link: ""
 #   Otherwise, set `slides: ""`.
 slides: ""
 
-authors: ["admin", "musicaire", "greendeal", "music"]
+authors: ["admin", "musicaire"]
 
 links:
 - icon: mastodon
@@ -45,6 +45,8 @@ image:
   caption: ""
   focal_point: "Center"
   preview_only: true
+  
+slides: music-eviota
   
 ---
 <td style="text-align: center;">{{< figure src="/img/eviota/Scope3_chart_16x9.jpg" caption="Reporting the impacts of the entire value chain." numbered="false" >}}</td>
