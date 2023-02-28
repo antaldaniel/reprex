@@ -1,18 +1,18 @@
 ---
 # Project title.
-title: "OpenMuse Consortium"
-subtitle: "We are looking for end-users and dissemination partners to test our data and visualization products" 
-
+title: "Open Music Europe"
+subtitle: "Towards a competitive, fair and sustainable European music ecosystem" 
 # Date this page was created.
 date: 2021-05-06T17:52:00
-lastmod: 2022-07-29T18:52:00
+lastmod: 2023-02-28T16:52:00
 
 # Project summary to display on homepage.
 summary: "OpenMuse brings together music industry stakeholders and researchers from 12 European countries. Our partners represent the diversity of the industry, as well as the shared need to find financially, socially, and environmentally sustainable policy and business models in multiple, sometimes-fragmented streams (e.g., live music, composers/publishers, and recordings with producers and performers)."
 
 # Tags: can be used for filtering projects.
-tags: ["Digital Music Observatory", "Music Moves Europe", "Horizon Europe", "OpenMuse"]
+tags: ["Open Music Europe"]
 
+#, "Digital Music Observatory", "Music Moves Europe", "Horizon Europe"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
@@ -24,15 +24,20 @@ external_link: ""
 #   Otherwise, set `slides: ""`.
 slides: ""
 
+links:
+  - icon: database
+    icon_pack: fas
+    name: CORDIS Fact Sheet
+    url: https://cordis.europa.eu/project/id/101095295
+
+
 # Links (optional).
-url_pdf: "https://reprex.nl/documnets/DMO_Horizon_Europe_Invitation_2022_03_20.pdf"
+#url_pdf: "https://reprex.nl/documnets/DMO_Horizon_Europe_Invitation_2022_03_20.pdf"
 url_slides: ""
 url_video: ""
 url_code: ""
 
 # Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom: [{icon_pack: "fab", icon="twitter", name="Follow", url: "https://twitter.com/antaldaniel"}]
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
@@ -45,7 +50,14 @@ image:
 <td style="text-align: center;">{{< figure src="/media/img/blogposts_2022/logos_3_1.jpg" caption="" numbered="false" >}}</td>
 
 
-`OpenMuse` brings together music industry stakeholders and researchers from 11 EU countries and Ukraine. Our consortium recognises that placing European music ecosystems on a more competitive, fair, and sustainable footing requires evidence-based policymaking, business planning, and accuracy. 
+`Open Music Europe` brings together music industry stakeholders and researchers from 11 EU countries and Ukraine. Our consortium recognises that placing European music ecosystems on a more competitive, fair, and sustainable footing requires evidence-based policymaking, business planning, and accuracy. 
+
+{{< spoiler text="🇪🇺 Background information" >}} 
+
+- The original tender call: [Towards a competitive, fair and sustainable European music ecosystem](https://cordis.europa.eu/programme/id/HORIZON_HORIZON-CL2-2022-HERITAGE-01-05)
+- Project participants: [Open Music Europe Consortium](https://cordis.europa.eu/project/id/101095295)
+
+{{< /spoiler >}}
 
 We provide the data needed for these actions. Using transparent methods and tools, OpenMuse maps the policy and data landscape; bridges data gaps; and empowers stakeholders and policymakers to take data-driven actions. Our project is grounded on principles of open policy analysis, open science, and open-source software development. We work with stakeholders to identify data gaps on the EU, national, and regional levels; co-create indicators and methods for bridging them; develop free software tools for data collection and analysis; and report not just our findings, but every step taken to reach them. 
 

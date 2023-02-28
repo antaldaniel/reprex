@@ -27,8 +27,8 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: OpenMuse
-      tag: OpenMuse
+    - name: Open Music Europe
+      tag: Open Music Europe
     - name: Music Eviota
       tag: Music Eviota
     - name: Open Policy
