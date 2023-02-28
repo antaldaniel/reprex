@@ -73,7 +73,7 @@ slides:
 ---
 
 {{< slide background-image="music_eviota_contents.png" background-position="center">}}
-</br></br>
+</br></br></br></br>
 ## Is There A Film Industry Version?
 
 Yes, it is coming! Ask for a demo on <a href="https://reprex.nl/#contact" target="_blank">Email</a> |
