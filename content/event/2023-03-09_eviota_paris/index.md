@@ -5,7 +5,7 @@ subtitle: Connected financial and sustainability reporting for music enterprises
 categories:
 - Public talk
 
-event: "Eviota: Connected financial and sustainability reporting for music enterprises 🇭🇺 " 
+event: "Eviota: Connected financial and sustainability reporting for music enterprises 🇫🇷  " 
 event_url: 
 
 location: A38 Hajó
