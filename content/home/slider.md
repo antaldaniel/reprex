@@ -21,6 +21,32 @@ content:
       background:
         position: center
         color: '#555'
+        brightness: 0.9
+        media: /slides/slider/01-music_eviota_intro.webp
+      link:
+        icon: fa-solid fa-right-to-bracket
+        icon_pack: fas
+        text: "Test our tool"
+        url: ../project/musiceviota/
+    - title: ""
+      content: '<br/><br/><br/><br/><br/>'
+      align: left
+      background:
+        position: top
+        color: '#555'
+        brightness: 0.9
+        media: /slides/slider/data_observatory_lab.webp
+      link:
+        icon: fa-solid fa-right-to-bracket
+        icon_pack: fas
+        text: "We are looking for partners"
+        url: ../project/crea-innovlab-2023/
+    - title: ""
+      content: '<br/><br/><br/><br/><br/>'
+      align: left
+      background:
+        position: top
+        color: '#555'
         brightness: 0.3
         media: /slides/slider/black_reprex_r_packages.webp
       link:
