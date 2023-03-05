@@ -28,6 +28,12 @@ header:
  - [Open Collections Net]() Digitized information and knowledge that is not shaped as datasets: books, texts, still images, sound recordings, films.
 {{< /spoiler >}}
 
+**Watch Our 2-min Introduction** with the example of music. (We do not only work with music data!)
+
+{{<youtube bgp-n55TKCk>}}
+
+⚙️/ Subtitles/ 🇳🇱 🇬🇧 🇧🇦 🇨🇿 🇭🇺 🇩🇪 🇱🇹 🇫🇷 🇸🇰 🇪🇸 🇹🇷 + Catalan. 
+
 
 ## Mission statement
 
@@ -90,16 +96,17 @@ The observatory partners collaborate on various projects that are either self-fu
      - Data Observatories Lab
 
 ## Governance & Budget {#funding-governance}
-
-
 The observatories do have not a permanent budget, they are currently financed by Reprex and various user projects.  Reprex will release a first business plan in June 2023 that contains a long-term public-private partnership plan based on financial, environmental, and social sustainability, and an ethical, inclusive, and open governance plan.
 
 {{< spoiler text="Read more on budgetary and goverance principles" >}}
+
+We are considering mainly these documents when we are creating our first long-term business and governance plan:
 
  - [The Principles of Open Scholarly Infrastructure](https://openscholarlyinfrastructure.org/) is an important source of inspiration for our plans. We will evaluate the suitability of this model, bearing in mind that our observatories will not only serve scholarly (educational and research) but commercial purposes, too.
  - [Open Data Directive](https://eur-lex.europa.eu/legal-content/EN/TXT/?qid=1561563110433&uri=CELEX:32019L1024) is an important piece of EU legislation. Our observatories were designed to optimalize this legal instrument for in public benefit and for-profit use cases, too.
  - [Data Governance Act](https://digital-strategy.ec.europa.eu/en/policies/data-governance-act-explained) is a new EU law that aims to make more data available by regulating the re-use of publicly/held, protected data, by boosting data sharing through the regulation of novel data intermediaries and by encouraging the sharing of data for altruistic purposes. It enters into force in September 2023.
  - [Open Music Europe](https://music.dataobservatory.eu/project/openmuse/) is an EU-funded project that aims to bring the [Digital Music Observatory](https://music.dataobservatory.eu/) from a prototype to an EU-recognized, official European Music Observatory. We will experiment with a governance model that follows the EU's helix-model to serve as a basis of further observatories.
+ - [Contributor Code of Conduct](https://contributor-covenant.org/version/2/1/CODE_OF_CONDUCT.html) is a voluntary code of conduct that all our individual partners, i.e., curators, developers and business developers must accept and follow.
 
 {{< /spoiler >}}
 

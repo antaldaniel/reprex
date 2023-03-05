@@ -7,13 +7,21 @@ main:
   - name: Home
     url: ''
     weight: 1
-  - name: About Reprex
+  - name: About
     url: ''
     weight: 10
     identifier: Reprex
-  - name: In A Minute
-    url: /#slider
+  - name: About Reprex
+    url: ../author/reprex/
     weight: 11
+    parent: Reprex
+  - name: About Our Observatories
+    url: ../about/observatories
+    weight: 12
+    parent: Reprex
+  - name: "In A Minute: Slides"
+    url: /#slider
+    weight: 13
     parent: Reprex
   - name: Accomplishments
     url: '#accomplishments'

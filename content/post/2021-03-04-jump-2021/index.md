@@ -11,7 +11,7 @@ tags: ["Listen Local", "Digital Music Observatory", "JUMP", "EU", "Music Moves E
 
 summary: "Reprex's project, the automated Demo Music Observatory will be represented by Daniel Antal, co-founder of Reprex among other building bridges projects. This project offers a different approach to the planned European Music Observatory based on the principles of open collaboration, which allows contributions from small organizations and even individuals, and which provides higher levels of quality in terms of auditability, timeliness, transparency and general ease of use."
 
-projects: ["music-observatory"]
+projects: ["Digital Music Observatory"]
 
 # Featured image
 image:
