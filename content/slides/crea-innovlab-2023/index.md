@@ -1,6 +1,6 @@
 ---
 title: Data Observatory Labs
-summary: ESG
+summary: CREA
 authors: [daniel_antal]
 tags: [innovation]
 categories: []
@@ -46,7 +46,7 @@ slides:
 
 ----
 
-{{< slide background-image="04_data_observatory_lab.webp" background-position="center">}}
+{{< slide background-image="10000_data_engineers.webp" background-position="center">}}
 </br></br>
 
 
@@ -62,18 +62,18 @@ slides:
 
 ---
 
-{{< slide background-image="07_data_observatory_lab.webp" background-position="center">}}
+{{< slide background-image="dmo_collaboration.webp" background-position="center">}}
 </br></br>
 
 
 ----
 
-{{< slide background-image="08_data_observatory_lab.webp" background-position="center">}}
+{{< slide background-image="our_observatory_ecosystems.webp" background-position="center">}}
 </br></br>
 
 ----
 
-{{< slide background-image="09_data_observatory_lab.webp" background-position="center">}}
+{{< slide background-image="innovation_dissemination.webp" background-position="center">}}
 </br></br>
 
 ----

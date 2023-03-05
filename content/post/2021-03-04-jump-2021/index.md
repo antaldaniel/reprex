@@ -7,7 +7,7 @@ draft: false
 
 authors: ["Daniel Antal"]
 
-tags: ["listen-local", "music-observatory", "JUMP", "EU", "Music Moves Europe"]
+tags: ["Listen Local", "Digital Music Observatory", "JUMP", "EU", "Music Moves Europe"]
 
 summary: "Reprex's project, the automated Demo Music Observatory will be represented by Daniel Antal, co-founder of Reprex among other building bridges projects. This project offers a different approach to the planned European Music Observatory based on the principles of open collaboration, which allows contributions from small organizations and even individuals, and which provides higher levels of quality in terms of auditability, timeliness, transparency and general ease of use."
 
@@ -60,3 +60,6 @@ Reprex is a start-up company based in the Netherlands and the United States that
 Further links:
 - [From Play to Rec](https://www.facebook.com/fromplaytorec/) on Facebook
 - [HAJDE](https://hajde.fr/) FR/EN
+
+Follow up:
+- [Jumping Ahead With the Digital Music Observatory](https://reprex.nl/post/2021-12-02-dmo-jump/) (2021.11.13.)
