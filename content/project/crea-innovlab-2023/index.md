@@ -11,7 +11,7 @@ lastmod: 2023-03-02T13:40:00+01:00
 summary: "We bring data-, sustainability-, rights management innovation, and novel distribution models nearer to the grassroots level of creation."
 
 # Tags: can be used for filtering projects.
-tags: ["Innovation", "Eviota", "Survey harmonization", "music", "film"]
+tags: ["Data Observatory Labs", "Innovation", "Eviota", "Survey harmonization", "music", "film"]
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -21,7 +21,7 @@ external_link: ""
 #   Otherwise, set `slides: ""`.
 slides: ""
 
-authors: ["admin", "daniel_antal"]
+authors: ["admin"]
 
 links:
 - icon: mastodon

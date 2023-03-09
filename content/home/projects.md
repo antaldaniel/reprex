@@ -31,8 +31,8 @@ content:
       tag: Open Music Europe
     - name: Music Eviota
       tag: Music Eviota
-    - name: Open Policy
-      tag: Open Policy Analysis
+    - name: Data Observatory Labs
+      tag: Data Observatory Labs
     - name: CEEMID
       tag: CEEMID
 
