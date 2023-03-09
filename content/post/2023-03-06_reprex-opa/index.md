@@ -48,9 +48,9 @@ tags:
   - Smart Policy Document
 ---
 
-Reprex signed a Memorandum of Understanding with the Ministry of Culture of the Slovak Republic, the Economic University of Bratislava, SOZA, and Sinus (on behalf of the [Open Music Europe consortium]()) on utilizing the Open Policy Analysis results.
+Reprex signed a Memorandum of Understanding with the Ministry of Culture of the Slovak Republic, the Economic University of Bratislava, SOZA, and Sinus (on behalf of the [Open Music Europe consortium](https://reprex.nl/project/openmusiceurope/)) on utilizing the Open Policy Analysis results.
 
-<td style="text-align: center;">{{< figure src="img/blogposts_2023/MoU_signature_20230306_02_2x1.jpg" caption="From left to right: Ľubomír Burgr, Chariman of the Board (SOZA); [Dr James Edwards](https://music.dataobservatory.eu/authors/james_edwards/) Open Music Europe program director; Ferdinand Daňo, rector of EUBA; Rado Kutaš, state secretary; Tomaš Mikš, SOZA; [Daniel Antal](https://reprex.nl/author/daniel-antal/), co-founder of Reprex. Photo: [Dominika Semaňáková](https://music.dataobservatory.eu/authors/dominika_semanakova/)" numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="img/blogposts_2023/MoU_signature_20230306_02_2x1.jpg" caption="From left to right: Ľubomír Burgr, Chariman of the Board (SOZA); [Dr James Edwards](https://music.dataobservatory.eu/authors/james_edwards/) Open Music Europe program director; Ferdinand Daňo, rector of EUBA; Rado Kutaš, state secretary; Tomaš Mikš, SOZA; [Daniel Antal](https://reprex.nl/author/daniel-antal/), co-founder of Reprex. Photo: [Dominika Semaňáková](https://music.dataobservatory.eu/authors/dominika_semanakova/)." numbered="false" >}}</td>
 
 This cooperation is a very important milestone for our company: our reproducible research products will be used in an official national policy context in an EU member state. Our [Slovak Music Industry Report](https://music.dataobservatory.eu/publication/slovak_music_industry_2019/) has set a best practice within the Slovak Republic.
 
