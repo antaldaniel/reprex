@@ -2,8 +2,7 @@
 title: Music Eviota
 summary: ESG
 authors: [daniel_antal]
-tags: [Green Deal Music Observatory, Eviota]
-categories: []
+tags: [Green Deal Music Observatory, Eviota, MusicAIRE]
 date: '2023-02-28T11:13:00+02:00'
 lastmod: '2023-02-28T11:13:00+02:00'
 slides:
@@ -13,6 +12,8 @@ slides:
   #   Light style: github. Dark style: dracula (default).
   highlight_style: dracula
   
+
+
 ---
 
 {{< slide background-image="01-music_eviota_intro.webp" background-position="center">}}
@@ -60,9 +61,21 @@ slides:
 
 ----
 
-{{< slide background-image="music_eviota_efrag.png" background-position="center">}}
+<!--
+EFRAG relevant and dynamic sustainability reporting principles
+--->
+{{< slide background-image="music_eviota_efrag_relevant.webp" background-position="center">}}
 ### Connected Financial and Sustainability Reporting
-</br></br></br></br></br></br></br></br></br>
+</br></br></br></br></br><p style="font-size:75%" >
+In 2020 the European Commission requested technical advice, mandating the [European Financial Reporting Advisory Group](https://www.efrag.org/), EFRAG, 
+to undertake preparatory work for the elaboration of possible EU non-financial reporting standards in a revised EU [Non-Financial Reporting Directive](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32014L0095) (i.e., harmonizing financial reporting and audit with connected sustainability reporting) within the framework of the European Green Deal [sustainable finance package](https://finance.ec.europa.eu/sustainable-finance_en) and the [Corporate Social Responsibility Directive](https://finance.ec.europa.eu/capital-markets-union-and-financial-markets/company-reporting-and-auditing/company-reporting/corporate-sustainability-reporting_en).</p>
+</br></br></br></br></br></br>
+
+---
+
+{{< slide background-image="music_eviota_efrag_standardization.webp" background-position="center">}}
+### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ongoing Standardization
+<br/><br/><br/><br/><br/><br/><br/></br></br></br></br><p style="font-size:75%" ></br> 🖱 Link: [EUROPEAN LAB – Project Task Force on Preparatory Work for the Elaboration of Possible EU Non-Financial Reporting Standards](https://www.efrag.org/Lab2)</p>
 
 ----
 
