@@ -13,7 +13,6 @@ slides:
   highlight_style: dracula
   
 
-
 ---
 
 {{< slide background-image="01-music_eviota_intro.webp" background-position="center">}}
@@ -49,6 +48,11 @@ slides:
 
 ---
 
+{{< slide background-image="efrag_architecture.png" background-position="center">}}
+## Sustainability Reporting Architecture
+<br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
+
+--- 
 {{< slide background-image="music_eviota_our_approach.png" background-position="center">}}
 ## Our approach
 </br></br></br></br></br></br></br></br></br>
@@ -82,6 +86,12 @@ to undertake preparatory work for the elaboration of possible EU non-financial r
 {{< slide background-image="music_eviota_why.png" background-position="center">}}
 ### Why Are We Developing Eviota for Music?
 </br></br></br></br></br></br></br></br></br>
+
+---
+
+{{< slide background-image="efrag_timeline.png" background-position="center">}}
+## CSRD/EFRAG Timeline in the EU
+<br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
 
 ---
 

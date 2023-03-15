@@ -43,6 +43,12 @@ slides:
 
 ---
 
+{{< slide background-image="efrag_architecture.png" background-position="center">}}
+## Sustainability Reporting Architecture
+<br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
+
+---
+
 {{< slide background-image="music_eviota_our_approach.png" background-position="center">}}
 ## Our approach
 </br></br></br></br></br></br></br></br></br>
@@ -79,8 +85,14 @@ to undertake preparatory work for the elaboration of possible EU non-financial r
 
 ---
 
+{{< slide background-image="efrag_timeline.png" background-position="center">}}
+## CSRD/EFRAG Timeline in the EU
+<br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
+
+---
 {{< slide background-image="music_eviota_contents.png" background-position="center">}}
 </br></br></br></br>
+
 ## Is There A Film Industry Version?
 
 Yes, it is coming! Ask for a demo on <a href="https://reprex.nl/#contact" target="_blank">Email</a> |
