@@ -1,22 +1,16 @@
 ---
-title: Music Eviota
+title: Sustainability measurement and reporting for the CFO - the case of the music and film industries
 summary: ESG
 authors: [daniel_antal]
 tags: [Green Deal Music Observatory, Eviota, MusicAIRE]
-date: '2023-02-28T11:13:00+02:00'
-lastmod: '2023-02-28T11:13:00+02:00'
+date: '2023-03-08T15:00:00+01:00'
+lastmod: '2023-03-08T16:15:00+01:00'
 slides:
-  # Choose a theme from https://github.com/hakimel/reveal.js#theming
   theme: beige
-  # Choose a code highlighting style (if highlighting enabled in `params.toml`)
-  #   Light style: github. Dark style: dracula (default).
   highlight_style: dracula
-  
-
-
 ---
 
-{{< slide background-image="01-music_eviota_intro.webp" background-position="center">}}
+{{< slide background-image="2.png" background-position="center">}}
 <br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
 
 ---

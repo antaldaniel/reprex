@@ -1,6 +1,6 @@
 ---
-title: Eviota France
-subtitle: Connected financial and sustainability reporting for music enterprises
+title: "New trends in controlling: the strategic and digital challenge"
+subtitle: Eviota - the case of the music and film industry
 
 categories:
 - Public talk
@@ -17,18 +17,16 @@ summary: Reprex will organize events on the International Open Data Day. Save th
 
 abstract: 'Reprex will organize events on the International Open Data Day. Save the date in your calendar.'
 
-
 # Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-03-03T16:30:00+01:00'
-date_end: '2022-03-03T18:00:00+01:00'
+date: '2023-03-08T16:30:00+01:00'
+date_end: '2022-03-08T18:00:00+01:00'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2022-02-23T19:00:00+01:00'
 
-authors: ["admin", "music","greendeal"]
-tags: [Eviota]
+authors: ["daniel_antal", "musicaire"]
+tags: ["Eviota", "ESG", "controlling", "ECSP"]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -61,7 +59,7 @@ links:
   url: https://www.linkedin.com/company/68855596/
 
 # Markdown Slides (optional).
-slides: music-eviota
+slides: 2023_controlling-strategic-digital-challenge
 
 ---
 
