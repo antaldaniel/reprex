@@ -127,6 +127,11 @@ The report is technically a non-financial disclosure (NFD) of your annual financ
 - [x] A sustainability report is a first step to factual sustainability management and avoiding greenwashing. When you know factually how your activities (including purchases from your suppliers) cause greenhouse gas emissions (or contribute to the gender paygap), you can devise steps to reduce your negative impact, or increase your positive impact.
 - [x] We work with reliable expert advice so that you can act in a credible way, and make credible promises to your customers, your audience, your donors, granting agencies, bank, insurance, or investors.
 
+{{< spoiler text="Why Eviota?" >}}
+<td style="text-align: center;">{{< figure src="/img/eviota/eviota-bifasciata.png" caption="" numbered="false" >}}</td>
+{{< hl >}}We named Eviota after a small fish that lives symbiotically among the tentacles of the mushroom coral. It not only rhymes with our software, <a href="https://iotables.dataobservatory.eu/" target="_blank">iotables</a>, but it refers to the fragile ecosystem of coral reefs: miraculous and beautiful forms of life under threat from global warming. The first step of saving our planet is to objectively detect where your organization’s stakeholders – suppliers, buyers, workers, technology – leave an impact on the environment.{{< /hl >}}
+{{< /spoiler >}}
+
 ## Methodology {#methodology}
 
 - [x] We follow the CPA classification for your suppliers and corporate buyers. See [Statistical Classification of Products by Activity](https://ec.europa.eu/eurostat/ramon/nomenclatures/index.cfm?TargetUrl=LST_NOM_DTL&StrNom=CPA_2008&StrLanguageCode=EN&IntPcKey=&StrLayoutCode=HIERARCHIC&IntCurrentPage=1) Some categories, like `B MINING AND QUARRYING` are aggregated, i.e. we cannot make a distintion among various mining activities.  In service industries this is not required.
