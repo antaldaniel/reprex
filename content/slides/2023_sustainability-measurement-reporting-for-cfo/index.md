@@ -1,7 +1,7 @@
 ---
 title: Sustainability measurement and reporting for the CFO - the case of the music and film industries
 summary: ESG
-authors: [daniel_antal]
+authors: [daniel_antal, musicaire]
 tags: [Green Deal Music Observatory, Eviota, MusicAIRE]
 date: '2023-03-08T15:00:00+01:00'
 lastmod: '2023-03-08T16:15:00+01:00'
