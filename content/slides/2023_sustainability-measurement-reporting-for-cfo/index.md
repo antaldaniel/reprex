@@ -1,6 +1,6 @@
 ---
 title: Sustainability measurement and reporting for the CFO - the case of the music and film industries
-summary: ESG
+summary: Sector-appropriate ESG reporting for the music and audiovisual sectors
 authors: [daniel_antal, musicaire]
 tags: [Green Deal Music Observatory, Eviota, MusicAIRE]
 date: '2023-03-08T15:00:00+01:00'
@@ -8,6 +8,15 @@ lastmod: '2023-03-08T16:15:00+01:00'
 slides:
   theme: beige
   highlight_style: dracula
+  
+---
+
+{{< slide background-image="key_takeaway_double_materiality.webp" background-position="center">}}
+#### Key Takaway for the CFO
+<p style="font-size:75%"  align="justify">"The basic accounting and reporting principle of materiality is extended. I need to keep an eye on accounts that have an economic, sustainability, or dual materiality."</p>
+<br/><br/><br/><br/><br/><br/><br/></br></br></br>
+
+
 ---
 
 {{< slide background-image="2.png" background-position="center">}}
@@ -27,13 +36,14 @@ slides:
 
 
 ---
+
 {{< slide background-image="music_eviota_contents.png" background-position="center">}}
 
 </br></br></br></br>
 
 ### Contents
 
-1. [Introduction](/slides/music-eviota/#introduction) 2. [Our Approach](/slides/music-eviota/#our-approach) 3. [Main Features](/slides/music-eviota/#main-features) 4. [Connected Financial and Sustainability Reporting](/slides/music-eviota/#connected-financial-and-sustainability-reporting) 5. [Why are we developing it?](/slides/music-eviota/#why-are-we-developing-eviota-for-music) 6. [Is There a Film/TV Industry Version?](/slides/music-eviota/#is-there-a-film-industry-version) 7. [Questions](/slides/music-eviota/#questions) 
+1. [Introduction](/slides/music-eviota/#introduction) 2. [Our Approach](/slides/music-eviota/#our-approach) 3. [Case Studies](/slides/music-eviota/#case-studies) with company reports 5. [Main Features](/slides/music-eviota/#main-features) 4. [Connected Financial and Sustainability Reporting](/slides/music-eviota/#connected-financial-and-sustainability-reporting) 5. [Why are we developing it?](/slides/music-eviota/#why-are-we-developing-eviota-for-music) 6. [Is There a Film/TV Industry Version?](/slides/music-eviota/#is-there-a-film-industry-version) 7. [Questions](/slides/music-eviota/#questions) 
 
 ---
 
@@ -43,8 +53,8 @@ slides:
 </br></br></br></br></br></br></br></br></br>
 
 ---
-{{< slide background-image="eviota_background_blue_green.webp" background-position="center">}}
 
+{{< slide background-image="eviota_background_blue_green.webp" background-position="center">}}
 ### Timeline
 
 <p style="font-size:80%"  align="justify">2019: <a href="https://finance.ec.europa.eu/publications/strategy-financing-transition-sustainable-economy_en" target="_blank">European Green Deal</a> and <a href="https://finance.ec.europa.eu/publications/strategy-financing-transition-sustainable-economy_en" target="_blank">Sustainable Finance Disclosures Regulation</a>.</p>
@@ -87,7 +97,57 @@ slides:
 ### Cultural & Creative Sectors Industries Approach
 </br></br></br></br></br></br></br></br></br></br></br>
 
-----
+---
+
+
+{{< slide background-image="double_materiality.webp" background-position="center">}}
+### Double Materiality
+<br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
+
+---
+
+Our approach to data quality: do not waste time, energy, data curation/ingestion/acquisition on items that are <b>likely</b> immaterial, unless any significant information arises that they may become material in the future.
+
+---
+
+{{< slide background-image="pcaf_data_quality.webp" background-position="center">}}
+<br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
+
+
+---
+
+{{< slide background-image="eviota_background_blue_green.webp" background-position="center">}}
+
+## Case Studies
+
+<p style="font-size:75%" align="left"><a href="https://www.greeneyesproduction.com/" target="_blank">A38</a> is one of the world's premiere music venues.  With more than 500 hundred events a year, and more than 50,000 hours of music documentaries and live streams recorded in its studios, it a powerhouse of European music in a converted Ukrainian icebreaker ship floating on the Danube. It won the Lonely Planet Best Bar global vote. Make sure to visit them if you are in Budapest.</p>
+<p style="font-size:75%" align="left"><a href="https://www.greeneyesproduction.com/" target="_blank">GreenEyes Production</a> is a Hungarian startup that helps international film production according to the UK and US sustainability management standards, and works with Reprex to build an EU-compliant tool. They work on large international productions in Budapest (the biggest film production hub in the EU), and Prague.</p>
+<p style="font-size:75%" align="left">Passeum [not added yet] is a music ticketing company.</p>
+
+---
+
+
+{{< slide background-image="eviota_greeneyes_comparison.webp" background-position="center">}}
+
+</br></br></br></br>
+
+
+
+--- 
+
+{{< slide background-image="eviota_greeneyes.webp" background-position="center">}}
+
+</br></br></br></br>
+
+
+---
+
+{{< slide background-image="eviota_a38.webp" background-position="center">}}
+
+</br></br></br></br>
+
+
+---
 
 {{< slide background-image="music_eviota_methodology.png" background-position="center">}}
 ## Main Features

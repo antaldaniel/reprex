@@ -1,6 +1,6 @@
 ---
 title: Music Eviota
-summary: ESG
+summary: Connected financial and sustainability reporting for music organizations
 authors: [daniel_antal]
 tags: [Green Deal Music Observatory, Eviota, MusicAIRE]
 date: '2023-02-28T11:13:00+02:00'
