@@ -4,7 +4,7 @@ summary: "Stop uploading your work onto the web 2.0 in a pdf, epub, or word file
 tags:
 - Smart Policy Documents
 date: "2022-09-04T00:00:00Z"
-lastmod: "2022-09-04T00:00:00Z"
+lastmod: "2022-03-31T08:25:00+02:00"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -45,6 +45,9 @@ slides: ""
 ---
 
 **Stop uploading your work onto the web 2.0 in a pdf, epub, or word file. Build a self-refreshing resource that re-refreshes the statistics, legal texts, tables, visualizations, footnotes and bibliography instead.  This way you’ll have a greater impact: you’ll connect to global knowledge graphs, and your work can be reused much better.**
+
+<td style="text-align: center;">{{< figure src="img/blogposts_2023/screenshot_slovak_mou_2023.webp" caption="Reprex’s [Smart Policy Documents](/apps/smart-policy-documents/) technology will be used to monitor the national cultural and creative industry policies of the Slovak Republic. See [Central Register of Contracts](https://www.crz.gov.sk/zmluva/7645338/) (in Slovak)." numbered="false" >}}</td>
+
 
 Our “smart document” is always live: it contains code that searches for data updates or changes in the law.  It is a document that includes reproducible research code and makes sure that your document contains the latest information.  It is a resource that, when uploaded to the web 3.0, cannot only be downloaded, but finds itself its audience, places itself into global libraries, data exchanges, automated websites. 
 

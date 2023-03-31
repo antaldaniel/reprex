@@ -12,7 +12,7 @@ projects: ''
 
 # Date published
 date: "2023-03-06T12:00:00+01:00"
-lastmod: "2023-03-09T18:09:00+01:00"
+lastmod: "2022-03-31T08:25:00+02:00"
 
 # Is this an unpublished draft?
 draft: false
@@ -55,6 +55,8 @@ Reprex signed a Memorandum of Understanding with the Ministry of Culture of the 
 This cooperation is a very important milestone for our company: our reproducible research products will be used in an official national policy context in an EU member state. Our [Slovak Music Industry Report](https://music.dataobservatory.eu/publication/slovak_music_industry_2019/) has set a best practice within the Slovak Republic.
 
 Our Smart Policy Documents will be used to create the Live Policy Document on Music Economy, on Diversity and Circulation,on  Music and Society, and on Music Innovation in a national policy context. We will contribute with automatically refreshed web resources and high-quality indicators about cultural and creative industries, particularly music.  Our work will be used to monitor the implementation of the `Cultural and Creative Industries Strategy of the Slovak Republic 2030` [Stratégia kultúry a kreatívneho priemyslu Slovenskej republiky 2030](https://www.culture.gov.sk/ministerstvo/strategia-kultury-a-kreativneho-priemyslu-2030/) national policy.
+
+<td style="text-align: center;">{{< figure src="img/blogposts_2023/screenshot_slovak_mou_2023.webp" caption="Reprex’s [Smart Policy Documents](/apps/smart-policy-documents/) technology will be used to monitor the national cultural and creative industry policies of the Slovak Republic. See [Central Register of Contracts](https://www.crz.gov.sk/zmluva/7645338/) (in Slovak)." numbered="false" >}}</td>
 
 This will be the first high-profile national policy use of our [Digital Music Observatory](https://music.dataobservatory.eu/). Over the course of three years, in cooperation with our Slovak partners, we would like to persuade more and more national policymakers and also regional actors (like the city of Trenčín, the cultural capital of Europe in 2026) to use this collaborative open knowledge platform as a prototype of a European Music Observatory.
 

@@ -35,6 +35,19 @@ content:
         position: top
         color: '#555'
         brightness: 0.9
+        media: /slides/slider/slider_slovak_mou_2023.webp
+      link:
+        icon: fa-solid fa-right-to-bracket
+        icon_pack: fas
+        text: "Smart Policy Documents"
+        url: ./post/2023-03-06_reprex-opa/
+    - title: ""
+      content: '<br/><br/><br/><br/><br/>'
+      align: left
+      background:
+        position: top
+        color: '#555'
+        brightness: 0.9
         media: /slides/slider/data_observatory_lab.webp
       link:
         icon: fa-solid fa-right-to-bracket

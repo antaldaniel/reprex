@@ -20,6 +20,14 @@ date_format: Jan 2006
 # Experiences.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Smart Policy Documents Monitor National Policy
+    company: Slovak Ministry of Culture
+    company_url: ../post/2023-03-06_reprex-opa/
+    company_logo: crz
+    location: Bratislava, Slovakia
+    date_start: '2023-03-06'
+    date_end: '2025-12-31'
+    description: 'Reprex’s Smart Policy Documents technology will be used to monitor the national cultural and creative industry policies of the Slovak Republic.'
   - title: Finalist, Winner of Audience Prize
     company: The Hague Innovators Challenge 2022
     company_url: ../post/2022-11-15-reprex-hague-innovators-award/
