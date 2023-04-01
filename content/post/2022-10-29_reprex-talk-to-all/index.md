@@ -14,7 +14,7 @@ summary:  "We are finalists in The Hague Innovation Awards with a product offeri
 
 # Featured image
 image: 
-  caption:  "Cast your vote in the competition"
+  caption:  ""
   focal_point:  "Center"
   preview_only:  true
   

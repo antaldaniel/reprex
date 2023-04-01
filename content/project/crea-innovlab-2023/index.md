@@ -64,6 +64,14 @@ slides: "crea-innovlab-2023"
 
 We want to build a network of Innovation Labs, connecting labs and businesses that bring these novel scientific and innovation results nearer to civil society actors, individual creators, and microenterprises in services. We bring data-, sustainability-, rights management innovation, and novel distribution models nearer to the grassroots level of creation. We want to transform scientific and technical development into business development available for small creative organizations without a data engineering/science function.
 
+{{< spoiler text="Our Proposal Data: Open Innovation Labs" >}}
+Project Acronym: `DataInnoLab`</br>
+Call: [CREA-CROSS-2023-INNOVLAB](https://culture.ec.europa.eu/calls/call-for-innovation-labs)</br>
+Funding scheme: `CREA-PJG`</br>
+Proposal ID: `SEP-210944562`</br>
+{{< /spoiler >}}
+
+
 {{< toc >}}
 
 ## WP 1 Coordination {#wp-coordination}

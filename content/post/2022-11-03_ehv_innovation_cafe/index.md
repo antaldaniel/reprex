@@ -104,7 +104,7 @@ What sort of partners is [Reprex](https://reprex.nl/) looking for in `Eindhoven`
 
 - [x] [Digital Music Observatory](https://music.dataobservatory.eu/) and [Listen Local](https://music.dataobservatory.eu/project/listen-local/)
 - [x] [Cultural & Creative Sectors and Industries Observatory](https://ccsi.dataobservatory.eu/) and short call for potential partners.
-- [x] G[reen Deal Data Observatory](https://greendeal.dataobservatory.eu/) and simple, connected, financial and sustainability reporting for creative enterprises and others
+- [x] [Green Deal Data Observatory](https://greendeal.dataobservatory.eu/) and simple, connected, financial and sustainability reporting for creative enterprises and others
 
 ## Reprex: the impact startup
 - [x] Check out our accomplishments since the foundation in 2020
