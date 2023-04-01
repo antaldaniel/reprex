@@ -64,6 +64,8 @@ user_groups:
 
 We are a Netherlands-based start-up company that makes big data reliable and accountable, delivering trustworthy analytics and AI solutions. We validate multiple data sources and are able to merge private and proprietary data with open data. We bring novel insight into policy and business problems, as well as scientific research. Our work addresses the potentially negative effects of black-box proprietary algorithms. Our diverse team is particularly experienced in music, the creative industries, and digital humanities, where data is scattered in small organizations.
 
+{{< cta cta_text="Application Template" cta_link="/documents/bio_template.md" cta_new_tab="false" cta_alt_text="We are looking for 1-2 intern(s)" cta_alt_link="author/intern-impact-in-music-audiovisual/" cta_alt_new_tab="false" >}}
+
 {{<youtube bgp-n55TKCk>}}
 
 We are finalists in **The Hague Innovators Award 2022** competition. Check out how you can [help](https://reprex.nl/talk/impactcity-startup-support-xl).  {{% staticref "/documents/Reprex_for_Hague_Innovation_Award_2022.pdf" "newtab" %}}Download our competition programme{{% /staticref %}}.

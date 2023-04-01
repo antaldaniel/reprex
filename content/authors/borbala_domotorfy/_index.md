@@ -77,7 +77,7 @@ email: ""
 
 # Organizational groups that you belong to (we'll fill this out.)
 user_groups:
-- Team
+- Alumni
 ---
 
 Borbála Dömötörfy is a European competition law and policy professional with 12 years of experience spent working for academia, competition authorities and international law firms. Her past research projects (including her PhD thesis) focused on the intersection of competition law with IP and sectoral regulations. Besides her legal and policy work, she has a genuine interest in technology and data, and especially in legal technology. She is also a trained UX designer and has a passion for human-computer interaction and behavioral science.
