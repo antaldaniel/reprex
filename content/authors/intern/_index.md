@@ -122,7 +122,14 @@ We are looking for 1 or 2 part-time, paid intern(s):
 
 - [x] You will work up to 20 hours a week: please state in your application how many hours you would like to work. We will provide some flexibility for tests, exams, holidays. You will partly work remotely, and partly based in our inclusive environment of [Apollo 14](https://www.impactcity.nl/en/werken-in-apollo-14/), The Hague's Impact Hub for impact startups.
 
-- [x] Add a profile photo (at least 600px wide, preferably not bigger than 3-4 megabytles). We will make publish this picture in black and white behind a circle mask. Make sure that the crop of your face is not too tight in a circle. To avoid different formats of portraits, they will be behind a circle mask, as on the [partners](https://ccsi.dataobservatory.eu/#partners) page. We will delete your photo if you will not be our intern, if yes, we will place it among our contributors profiles.
+- [x] Add a profile photo (at least 600px wide, not bigger than 3-4 megabytles). We will make publish this picture in black and white behind a circle mask. Make sure that the crop of your face is not too tight in a circle. To avoid different formats of portraits, they will be behind a circle mask, as on the [partners](https://ccsi.dataobservatory.eu/#partners) page. We will delete your photo if you will not be our intern, if yes, we will place it among our contributors profiles.
+
+Save the file as `your_name.md` or `your_name.rtf` and add the small profile profile photo as `your_name.png` or `your_name.jpg` to an email that you send to the attention of the Reprex team to the email address:
+
+`apply `[at] `reprex` [dot] `nl`
+
+Text file ❓ Photo❓Yes, we want to see if you are able to work with different, non-Microsoft/non-Apple specific, interoperable files, and if you are a human who got to this point in reading 😊 . We will delete all files ♻ of those candidates who will not become interns and make it to our [team](https://reprex.nl/people/)️.
+
 {{< /spoiler >}}
 
 
