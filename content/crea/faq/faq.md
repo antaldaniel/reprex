@@ -1,8 +1,8 @@
 ---
-title: "Personal and institutional data"
-summary: "Here we describe how to send us your personal and institutional data"
+title: "Onboarding"
+summary: "We will add you via the ECAS tender portal to the Proposal SEP-210944562 (DataInnoLab)"
 date: "2023-04-01T20:48:00+02:00"
-lastmod: "2023-04-01T20:48:00+02:00"
+lastmod: "2023-04-02T21:58:00+02:00"
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
