@@ -41,10 +41,10 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/company/68855596/
-  - icon: mastodon
-    icon_pack: fab
+  - icon: fingerprint
+    icon_pack: fas
     name: "@reprex@mastodon.nl"
-    url: https://mastodon.nl/web/@reprex/
+    url: https://isni.org/isni/000000050973936X
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -70,6 +70,7 @@ We are a Netherlands-based start-up company that makes big data reliable and acc
 
 We are finalists in **The Hague Innovators Award 2022** competition. Check out how you can [help](https://reprex.nl/talk/impactcity-startup-support-xl).  {{% staticref "/documents/Reprex_for_Hague_Innovation_Award_2022.pdf" "newtab" %}}Download our competition programme{{% /staticref %}}.
 
+<!----
 <table>
 <colgroup>
 <col style="width: 10%" />
@@ -100,6 +101,8 @@ We are finalists in **The Hague Innovators Award 2022** competition. Check out h
 </table>
 
 Our flagship demo projects are the [Listen Local](/project/listen-local/)  ethical music recommendation system based on our [Demo Music Observatory](/project/openmuse/) data integration and knowledge sharing platform. We have validated our product/market fit in the prestigious [Yes!Delft AI+Blockchain Lab](/post/2020-09-25-yesdelft-validation/). We are members of the [Dutch AI Coalition](/post/2021-02-16-nlaic/) and participate in the work of the [European AI Alliance](https://digital-strategy.ec.europa.eu/en/policies/european-ai-alliance).
+
+--->
 
 {{< icon name="hand-point-right" pack="fas" >}} See our {{< staticref  "/#services" "newtab"  >}}services{{< /staticref >}}: [data curation](/service/data-curation/), [open data access](/service/open-data/), [survey harmonization](/software/retroharmonize/), [reproducible research](/service/research/) and validated [trustworthy AI applications](/service/trustworthy-ai/).
 
