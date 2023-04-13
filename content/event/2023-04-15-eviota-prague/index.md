@@ -63,7 +63,7 @@ slides: music-eviota
 projects: ""
 ---
 
-🇨🇿 [in Czech soon](/event/2023-03-03_eviota_budapest/#czech) 
+🇨🇿 in Czech below 
 
 
 The aim of the [Eviota for Music](/project/musiceviota/) is to help responsible music businesses, social enterprises, non-profit organisations and civil society organisations in their economic and sustainability management, control and reporting. More and more enterprises will be expected to create a management report (in their audited or, for smaller entities, non-audited) annual report about their impact on the environment, social sustainability and governance to prevent corruption. The new Corporate Social Responsibility Directive entered into force on 5 January 2023 and changed the accounting laws of European countries.  Companies will be expected to reduce their CO2-equivalent greenhouse gas emissions by 55% until 2030 and reach net zero by 2050. 
@@ -95,6 +95,17 @@ This way your annual report will be consistent, if you say in the financial part
 
 ## Čeština {#czech}
 
-Soon
+Cílem [Eviota for Music](https://reprex.nl/project/musiceviota/) je pomoci hudebním organizacím, neziskovým organizacím i firmám mít pod kontrolou manažement i reporting všeho, co řadíme pod udržitelnost. Stále více firem bude mít povinnost vytvářet v rámci svého každoročního daňového přiznání zprávu o udržitelnosti, a to jak auditované, tak menší firmy, na které se audity nevztahují. Tato zpráva shrnuje dopad na životní a sociální prostředí a pomáhá zpřehlednit a zjednodušit tuto problematiku. [Nová směrnice CSRD](https://csrd.cz/co-je-csrd/?gclid=CjwKCAjwitShBhA6EiwAq3RqAyqL5OHuGsZwAICAJ1ueC484eD718JZytrfVl6neiC-vWtdfgPXHhhoCD_YQAvD_BwE), která vstoupila v platnost 5.1.2023 změnila účetní zákony zemí EU. Firmy musí snížit emise skleníkových plynů o 55% do roku 2030 a do roku 2050 musí jejich hodnota dosáhnout nuly. 
 
+Zveme vás na webinář, který se uskuteční 15.4.2023. Pro účast klikněte na [TENTO ODKAZ](https://meet.jit.si/EviotaPrague20230415).
+
+Program:
+
+-	11:30: Meet and greet
+-	11:45: Krátká prezentace 
+-	12:00: Diskuse pro zapojené partnery 
+
+*CEST Central European Summer Time*
+
+Diskusi povedeme na základě předem zaslaných dokladů (trial balance neboli zkušební bilance). Vytvoříme pro vaši hudební nebo filmovou společnosti zjednodušenou verzi zprávy o udržitelnosti (ať už jste nezisková nebo zisková společnost). Za žádných okolností nebudeme sdílet ekonomické údaje, pouze vizualizaci zprávy, teplotní mapu a problémy s udržitelností. 
 
