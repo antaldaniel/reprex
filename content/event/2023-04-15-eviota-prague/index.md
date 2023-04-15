@@ -8,7 +8,7 @@ categories:
 event: "Eviota: Connected financial and sustainability reporting for music enterprises 🇨🇿  " 
 event_url: 
 
-location: Web Streaming (TBD)
+location: [Web streaming](https://meet.jit.si/EviotaPrague20230415)
 address:
   street: 
   city: Prague
