@@ -6,9 +6,9 @@ categories:
 - Public talk
 
 event: "Eviota: Connected financial and sustainability reporting for music enterprises 🇨🇿  " 
-event_url: 
+event_url: https://meet.jit.si/EviotaPrague20230415
 
-location: [Web streaming](https://meet.jit.si/EviotaPrague20230415)
+location: Web streaming (see event URL)
 address:
   street: 
   city: Prague
