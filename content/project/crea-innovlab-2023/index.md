@@ -5,7 +5,7 @@ subtitle: "Call for Innovation Labs"
 
 # Date this page was created.
 date: 2023-03-02T13:40:00+01:00
-lastmod: 2023-03-10T17:18:00+01:00
+lastmod: 2023-04-18T21:18:00+01:00
 
 # Project summary to display on homepage.
 summary: "We bring data-, sustainability-, rights management innovation, and novel distribution models nearer to the grassroots level of creation."
@@ -62,7 +62,16 @@ slides: "crea-innovlab-2023"
 
 <td style="text-align: center;">{{< figure src="/img/blogposts_2023/data_observatory_lab.webp" caption="Check out our [slides](/slides/crea-innovlab-2023/). We are still looking for certain [partners](/project/crea-innovlab-2023/#potential-partners)." numbered="false" >}}</td>
 
-We want to build a network of Innovation Labs, connecting labs and businesses that bring these novel scientific and innovation results nearer to civil society actors, individual creators, and microenterprises in services. We bring data-, sustainability-, rights management innovation, and novel distribution models nearer to the grassroots level of creation. We want to transform scientific and technical development into business development available for small creative organizations without a data engineering/science function.
+`DataInnoLab` is a cooperation of 6 innovative SMEs and startups, a non-profit cultural venue and non-profit cultural heritage organization and ESCP, a leading European Business school which aims to support two important Creative Europe strategic objectives.
+
+1.  `DataInnoLab` wants to increase the competitiveness and economic potential of the cultural and creative sectors, in particular the audio-visual sector, in a way that mainstreams environmental and social sustainability management.
+2. We also want to help the development and promotion of European cooperation on cultural diversity and heritage in a way that removes institutional, technical, and semantic barriers between the cooperation of the commercial music and audiovisual industry and the music and audiovisual heritage organizations and their supporting institutions.
+
+The DataInnoLab Consortium aims to provide business development tools for the music and audiovisual industry and its supporting heritage and other organizations to leverage the existing instruments of the Culture and Media Strand of the Creative Europe program and the broader New European Bauhaus instruments with higher market revenues and better access to green financing, green investments and insurance. 
+
+Our innovators bring into this project early stage products, prototypes, and open source software that can be further developed, packaged into services which are tested in multiple European markets, and eventually scaled for the entire EU internal market and beyond.
+ 
+In this project, European innovative startups and SMEs will work with the [ESCP Business School](/authors/escp), a transnational business school for higher education with urban campuses in Germany, France, Great Britain, Italy, Spain and Poland, and its prestigious Blue Factory, its transnational start-up incubator. Established in 1819, ESCP is the world's oldest business school and celebrated its 200th anniversary in 2019. ESCP Business School has particular expertise in three key academic areas, namely sustainability, entrepreneurship and digitalisation with a foundation of international management.
 
 {{< spoiler text="Our Proposal Data: Open Innovation Labs" >}}
 Project Acronym: `DataInnoLab`</br>
@@ -76,37 +85,23 @@ Proposal ID: `SEP-210944562`</br>
 
 ## WP 1 Coordination {#wp-coordination}
 
-1. Reprex aims to coordinate this project with a dedicated, experienced Creative Europe project manager who is familiar with the music and audiovisual creation.
+The project is coordinated by the  successful impact startup (Yes!Delft, JUMP Music Market Accelerator), Reprex. 
 
-2. Because of the project size and subsidy rate (60%) every partner must contribute to financing WP Project Coordination in proportion to their effective subsidies.
+## WP 2 Sustainability {#wp-sustainability}
 
-## WP Survey Recycling {#wp-survey-recycling}
+Our first innovation Work Package, WP2 Sustainability, starts with our priorities: we want to support music and film social and for-profit enterprises and public institutions with world-class ESG management and reporting. 
 
-1. Utilize the [survey harmonization](https://reprex.nl/project/surveyharmonies/) and recycling tools developed in music to be available for film, television, photography, and book publishing users. 
+## WP 3 Competitiveness {#wp-competitiveness}
 
-2. Extend harmonized question banks, and remove interoperability and semantic barriers to reuse data from previous audience and policy surveys for these CCSIs.
+In WP3, we develop a full digital lifecycle data management for independent music and film: we want to support integrated documentation, metadata management and machine-supported promotion of digitized (historical) music and film releases and new, digitally born creations.  To avoid the [Data Sisyphus](https://dataandlyrics.com/post/2021-07-08-data-sisyphus/) and the unnecessary parallel digital clutter, we create a semantically and technologically interoperable documentation system that allows a cheaper, more efficient metadata management for commercial and heritage rights management, cheaper and more effective, automated visibility with the utilization of the web 3 semantic (linked open data) layer of the world wide web. Instead of retyping and translating Estonian or Slovak documentation information in English into collective rights management and separate individual rights management system, library and archive systems, we build tools that are natural language independent and allow a cross-synchronization of existing information among collective, individual rights management and heritage institutions.
 
-3. Subsidize the initial costs in use to transfer from non-reusable market research to reusable, collaborative market research.
+## WP 4 Open Data {#wp-open-data}
 
+Our WP4 will play a perhaps less spectacular but very important role: to make sure that our WP2 sustainability and WP3 competitiveness are well supported with harmonised data.  WP4 is led by SINUS, a German qualitative and quantitative research company led by musicologists and musicians with a large portfolio of research work commissioned in the audiovisual, music and public policy sectors.
 
-## WP Heritage Reuse {#wp-heritage-reuse}
+## WP 5 Scaling Up {#wp-scale-up}
 
-1. Utilize the best practices from music archives, film archives, and private photography archives 
-to remove copyright law, ethical, interoperability, and semantic barriers to mix archival/heritage and new content in music, film, and photography (including in books.)
-
-2. Create a special-purpose record label and audiovisual distributor that specializes in difficult, out-of-commerce/archival/commercial derivative work distribution on global streaming platforms.
-
-3. Build a best practice for the legal and ethical public performance of derivative works that are made from archival/heritage (which were not deposited with the intent to be commercially used or widely circulated) and new creations.
-
-
-## WP AI & Big Data That Works For Everyone {#wp-big-data}
-
-1. Utilize the best practices from data feminism, music, and film distribution of niche, marginalized content, and create a general framework that reduces inequalities created by lower data representation (of women, small countries, small languages) that result in new injustice on algorithmic platforms. See [publication](https://reprex.nl/publication/european_visibilitiy_2022/).
-
-2. Build new music, film, and photography information services that reduce the data imbalances, and make small language (for example, Estonian) or historically underrepresented (for example, female artists) more likely to be recommended by AI-driven algorithmic platforms such as YouTube, Spotify, or Amazon.
-
-3. Create open source solutions and open knowledge that enables small, independent music, documentary, photography, and book publishers to build audiences, and monetize content with big data and AI algorithms that work for everyone, not only male artists, English language content, and mainstream works.
-
+Last, but not least, WP5 Dissemination and Scaling will ensure that what we develop in our virtual DataInnoLab in The Hague, Stockholm, Berlin, Bratislava, Amsterdam, Tallinn and Budapest, will be available all over Europe at least.
 
 ## Potential partners {#potential-partners}
 
@@ -127,5 +122,4 @@ to remove copyright law, ethical, interoperability, and semantic barriers to mix
 {{<youtube bgp-n55TKCk>}}
 
 ⚙️/ subtitles/ 🇳🇱 🇬🇧 🇧🇦 🇨🇿 🇭🇺 🇩🇪 🇱🇹 🇫🇷 🇸🇰 🇪🇸 🇹🇷 + Catalan.
-
 

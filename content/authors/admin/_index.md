@@ -43,7 +43,6 @@ social:
     link: https://www.linkedin.com/company/68855596/
   - icon: fingerprint
     icon_pack: fas
-    name: "@reprex@mastodon.nl"
     url: https://isni.org/isni/000000050973936X
 
 # Link to a PDF of your resume/CV from the About widget.
