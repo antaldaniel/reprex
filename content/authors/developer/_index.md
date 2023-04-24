@@ -56,10 +56,10 @@ email: ""
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
-  - Join us
+  - Team
 ---
 
-[Reprex](https://reprex.nl/) is a Dutch-American early stage startup based in the Netherlands specializing in making data reliable and accountable while delivering trustworthy analytics and AI solutions. Our diverse team works from several locations and countries; our ideal candidates are located in South Holland (the Hague/Rotterdam/Delft/Leiden), Western New York state/greater Toronto, Budapest, Bratislava, or Milano, where we have ongoing projects and team members, and thus more onboarding and team-building possibilities. That said, we are open to candidates from any location. We bridge industry and academia through various advanced statistical and ethical AI verification projects: while our R&D partners are leading universities, we aim to deploy our solutions in business environments. 
+[Reprex](https://reprex.nl/) is an impact startup based in the Netherlands specializing in making data reliable and accountable while delivering trustworthy analytics and AI solutions. Our diverse team works from several locations and countries; our ideal candidates are located in South Holland (the Hague/Rotterdam/Delft/Leiden). That said, we are open to candidates from any location. We bridge industry and academia through various advanced statistical and ethical AI verification projects: while our R&D partners are leading universities, we aim to deploy our solutions in business environments. 
 
 We welcome candidates from all backgrounds and mother tongues who are proficient in R and have a good working knowledge of the English language.
 
@@ -80,6 +80,28 @@ b) advanced in R programming and agnostic to actual packages
 c) excited to maintain and develop one or more of our packages
 
 All of our packages follow the modernization of the R language and are built on rlang and vctrs. All the packages use the tidyverse as a dependency, which creates a consistent user interface (i.e. dplyr, tidyr, tidyselect.)
+
+{{< spoiler text="How to apply?" >}}
+
+- [x] You will need a free  [Keybase](https://manual.dataobservatory.eu/tools.html#keybase) account and free [Github](https://manual.dataobservatory.eu/collaboration-tools.html#github) account for group working. If you do not have a GitHub account, you will be expected to make an account and accomplish the free practices on [this](https://manual.dataobservatory.eu/collaboration-tools.html#github) link. This is as an essential skill to work on open collaboration, open science or open source projects.
+
+- [x] Please download this file ([bio_template.md](https://ccsi.dataobservatory.eu/documents/bio_template.md)) and edit it according to the instruction in the file (they are invisible here on the website) in a text editor, such as NotePad, WordPad, VIM and send it back to as an .md file or .txt file. If you are not familiar with text editors, here is a [bio_template.docx](https://ccsi.dataobservatory.eu/documents/bio_template.docx) or [bio_template.rtf](https://ccsi.dataobservatory.eu/documents/bio_template.rtf) version. 
+
+- [x] In the bio template write a motivation letter: what would you like to learn and what would you like to do as your tiny project at Reprex? See a few examples at the end of this page (below our requirements) to get inspired!
+
+- [x] You will work up to 20 hours a week: please state in your application how many hours you would like to work. We will provide some flexibility for tests, exams, holidays. You will partly work remotely, and partly based in our inclusive environment of [Apollo 14](https://www.impactcity.nl/en/werken-in-apollo-14/), The Hague's Impact Hub for impact startups.
+
+- [x] Add a profile photo (at least 600px wide, not bigger than 3-4 megabytles). We will make publish this picture in black and white behind a circle mask. Make sure that the crop of your face is not too tight in a circle. To avoid different formats of portraits, they will be behind a circle mask, as on the [partners](https://ccsi.dataobservatory.eu/#partners) page. We will delete your photo if you will not be our intern, if yes, we will place it among our contributors profiles.
+
+Save the file as `your_name.md` or `your_name.rtf` and add the small profile profile photo as `your_name.png` or `your_name.jpg` to an email that you send to the attention of the Reprex team to the email address:
+
+`apply `[at] `reprex` [dot] `nl`
+
+Text file ❓ Photo❓Yes, we want to see if you are able to work with different, non-Microsoft/non-Apple specific, interoperable files, and if you are a human who got to this point in reading 😊 . We will delete all files ♻ of those candidates who will not become interns and make it to our [team](https://reprex.nl/people/)️.
+
+In the email, please write a few sentences about your motivation, availability and place some links to your work (GitHub repos or things you have done in R.)
+
+{{< /spoiler >}}
 
 ### Packages
 Please visit our [dataobservatory.eu](https://github.com/dataobservatory-eu/) github page, and check out our advice for [new contributors](https://github.com/dataobservatory-eu/new-contributors).
