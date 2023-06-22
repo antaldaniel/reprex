@@ -55,7 +55,7 @@ experience:
   - title: OpenMuse
     company: Sinus + OpenMuse Consortium
     company_url: 'https://reprex.nl/project/openmuse/'
-    company_logo: Horizon-Europe
+    company_logo: open_music_europe
     location: Berlin, Germany
     date_start: '2022-07-23'
     date_end: '2025-12-31'
