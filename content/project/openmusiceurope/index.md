@@ -236,7 +236,7 @@ gaps to the various data harmonization projects of GESAC and CISAC, and
 we will seek cooperation with these organizations and their members to
 find a secure and voluntary way to retrieve the data.
 
-In other cases, we will rely on on the 2019/1024/EU [Open Data
+In other cases, we will rely on the 2019/1024/EU [Open Data
 Directive]((https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32019L1024))
 to access, process, document, and disseminate the data.
 
