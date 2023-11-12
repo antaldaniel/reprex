@@ -3,7 +3,7 @@ title: "Categorizing Cultural & Creative Sectors: An Impossible Task?"
 subtitle: Panel discussion on the Creative FLIP closing event
 
 # Summary for listings and search engines
-summary: "Our next product is the development of an open source tool (and an app) that brings your reliable catalogue or collection information to the format of Wikidata."
+summary: "Creating a more flexible and useful business and occupational categorisations for the music and film industries."
 
 authors: ["Daniel Antal"]
  
@@ -25,6 +25,10 @@ links:
   icon_pack: fab
   name: Reprex
   url: https://www.linkedin.com/company/68855596/
+- icon: info
+  icon_pack: fas
+  name: Conference
+  url: /event/2023-11-12_creativeflip_brussels/
 
 tags:
   - ESG
@@ -42,7 +46,7 @@ image:
 
 <td style="text-align: center;">{{< figure src="img/blogposts_2023/clem-onojeghuo-QBvtgLdmTbQ-unsplash_2x1.png" caption="" numbered="false" >}}</td>
 
-I am honoured to be invited to the final event of the wonderful Creative FLIP program.  Our Digital Music Observatory in many ways gained momentum from the [CCS Ecosystems: Evidence-Driven CCI Policy & The Central & Eastern European Music Industry Report](https://music.dataobservatory.eu/post/2020-01-30-ceereport/) discussion in 2020, just before the terrible pandemic hit us all.
+I am honoured to be invited to the final event of the wonderful Creative FLIP program.  Our [Digital Music Observatory](https://music.dataobservatory.eu/) in many ways gained momentum from the [CCS Ecosystems: Evidence-Driven CCI Policy & The Central & Eastern European Music Industry Report](https://music.dataobservatory.eu/post/2020-01-30-ceereport/) discussion in 2020, just before the terrible pandemic hit us all.
 
 It is one of our most fundamental cognitive abilities to identify shared features or similarities of objects, events, or ideas and then to group ("categorise") these to make sense of the world. Without categorisation, learning, language, memory, and decision making (to name a few only) would be impossible. The production of cultural statistics also depends on categorisation, distinguishing what is to be measured and what is not.
 
