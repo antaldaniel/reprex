@@ -22,7 +22,7 @@ date_end: '2023-11-15T19:00:00+01:00'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-06-07T11:00:00+01:00'
+publishDate: '2023-11-12T17:00:00+01:00'
 
 authors: ["daniel_antal"]
 tags: ["ESCO", "Statistics", "SKCMDb"]

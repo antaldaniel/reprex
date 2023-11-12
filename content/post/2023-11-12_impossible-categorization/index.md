@@ -11,8 +11,8 @@ authors: ["daniel_antal"]
 projects: ''
 
 # Date published
-date: "2023-11-12T19:48:00+01:00"
-lastmod: "2023-11-12T18:22:00+01:00"
+date: "2023-11-12T17:48:00+01:00"
+lastmod: "2023-11-12T17:22:00+01:00"
 
 # Is this an unpublished draft?
 draft: false
