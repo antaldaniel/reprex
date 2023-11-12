@@ -25,7 +25,7 @@ all_day: false
 publishDate: '2023-06-07T11:00:00+01:00'
 
 authors: ["daniel_antal"]
-tags: ["Eviota", "ESG", "ESRS"]
+tags: ["ESCO", "Statistics", "SKCMDb"]
 
 # Is this a featured talk? (true/false)
 featured: false
