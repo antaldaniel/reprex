@@ -12,7 +12,7 @@ address:
   city: Budapest
   street: Múzeum krt. 14-16.
   postcode: 1088
-  country: Belgium
+  country: Hungary
 
 summary: Presentation of a subjective, open-source existing to the public database with Reprex's open-source tools
 

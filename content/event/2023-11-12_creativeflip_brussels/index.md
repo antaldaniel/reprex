@@ -78,5 +78,3 @@ Our discussion will focus on cultural-creative occupations and be organised arou
 - Is it possible to develop an occupational categorisation of the CCS that serves all purposes? If not, how do you deal with this dilemma?
 
 Are you in Brussels on 15-16 November? Interested? [Get in touch](https://reprex.nl/contact/).
-
-
