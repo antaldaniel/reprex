@@ -1,5 +1,5 @@
 ---
-title: Fényképeszek és műtermek adatai kutatóknak 
+title: Fényképeszek és műtermek adatai kutatóknak
 summary: A Magyar Nemzeti Múzeum Történeti Fotótára adatbázisának szemantikus gazdagítása
 authors: [daniel_antal]
 tags: [Open Collections Network]
