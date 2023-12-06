@@ -1,0 +1,29 @@
+---
+title: "Join the Observatory Stakeholder Network"
+date: "2023-12-06"
+output: html_document
+---
+
+You can join as a `private researcher` and become a data curator. As data curators, we will invite you to online and/or physical meetings to discuss your data needs and your professional opinion on our music data. We are also interested in starting new projects.
+
+Download this information in [pdf](/documents/Join_DMO_Stakeholder_Network.pdf)
+
+You can also join as an `institution` with your business, research centre or non-profit institution. In this case, we would like to have at least one data curator as a single connection point. We are happy to work with institutions.
+
+-  [x] As a private researcher, please download this file ([bio_template.md](https://ccsi.dataobservatory.eu/documents/bio_template.md)) and edit it according to the instructions in the file (they are invisible here on the website) in a text editor, such as NotePad, WordPad, VIM and send it back to as a .md file or .txt file. If you are unfamiliar with text editors, here is a [bio_template.docx](https://ccsi.dataobservatory.eu/documents/bio_template.docx) or [bio_template.rtf](https://ccsi.dataobservatory.eu/documents/bio_template.rtf) version.
+
+- [x]   Add a profile photo (at least 600px wide, preferably not bigger than 3-4 megabytes). We will publish this picture in black and white behind a circle mask. Make sure your face's crop is not too tight in a circle. To avoid different formats of portraits, they will be behind a circle mask, as on the [partners](https://ccsi.dataobservatory.eu/#partners) page.
+
+You must acknowledge that by sending us this information, we will place the information on our website.
+
+If you want to join your institution, please provide the following extra information:
+
+- [x]  Please fill out this form twice, once for at least one data curator in the institution and once with the institution's data, and send us a corporate/organisational logo, too. Place your logo on a larger white or transparent canvas in the middle if it is cropped very tight. To avoid different shapes of logos, they will be behind a circle mask, as on the [partners](https://ccsi.dataobservatory.eu/#partners) page.
+
+- [x]   Please name the person who can approve your institutional association with our observatory (for universities, it can be a department, school, research centre or the entire institution. The institutional form must be sent by this person's email, or the person must be included and named in CC. (We do not make any email addresses public.)
+
+In your email, please write a few sentences about your research interests and interests and a few paragraphs about your institution's interest in any of the four pillars of the planned **European Music Observatory** (Music Economy, Diversity & Circulation, Society, Citizenship and Sustainability, Innovation). If you would like to start a new pillar, write about that. We are happy to invite you to our ongoing project\'s events and consultations, including the [Open Music Europe](https://openmuse.eu/) Horizon Europe Research and Innovation Action. 
+
+For smaller organisations not supported by a university press publisher, we are happy to provide you with a Digital Music Observatory (Dutch) ISBN number so your publications can find their way to the global library catalogue. We can provide you with a DOI identifier for your public datasets and visualisation to make them visible in international repositories.
+
+Generally, we would like to make an intake interview based on this information and place it on our [blog](https://music.dataobservatory.eu/post/); this is an excellent opportunity to mention your work-in-progress and existing publications, visualisations, datasets in our observatory's data catalogue and bibliography and start to make a wider and measurable impact.
