@@ -112,7 +112,9 @@ While the CSRD Directive directly does not apply to most film production compani
 
 <td style="text-align: center;">{{< figure src="img/eviota/Music_Eviota_MusicAIRE_2x1.webp" caption="[MusicAIRE: Final Event](https://reprex.nl/event/2023-11-29_musicaire_brussels/)" numbered="false" >}}</td>
 
-`Eviota for Music` was developed with a microgrant within the Music Moves Europe Program's MusicAIRE project, is an MVP of connecting consistently IFRS-standard financial microdata (from general ledgers) with science-based benchmarks for double materiality testing, impact analysis, and impact estimation (when estimation is sufficient and direct measurement of the impact, for example, with gas sensors) is not required. Eviota's critical competitive advantage compared to other ESG solutions is that because of its top-down approach, it starts with a double materiality test and can rule out up to 95% of unnecessary data entry or data acquisition. The competitive advantage compared to current industry solutions, such as various CO2 calculators, is that it
+`Eviota for Music` was developed with a microgrant within the Music Moves Europe Program's MusicAIRE project, is an MVP of connecting consistently IFRS-standard financial microdata (from general ledgers) with science-based benchmarks for double materiality testing, impact analysis, and impact estimation (when estimation is sufficient and direct measurement of the impact, for example, with gas sensors) is not required. 
+
+Eviota's critical competitive advantage compared to other ESG solutions is that because of its top-down approach, it starts with a `double materiality test` and can rule out up to 95% of unnecessary data entry or data acquisition.  The competitive advantage compared to current film industry solutions, such as various CO2 calculators, is that it 
 
 -   [x] Eviota is able to work consistently with all five of the environmental impact groups under ESRS (i.e., water, biodiversity, pollution, waste management beyond climate change;)
 -   [x] It can also work with social sustainability impacts.
