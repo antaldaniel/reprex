@@ -13,12 +13,9 @@ title: Projects
 subtitle: ''
 
 content:
-  # Page type to display. E.g. project.
   page_type: project
-
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
-
   # Filter toolbar (optional).
   # Add or remove as many filters (`filter_button` instances) as you like.
   # To show all items, set `tag` to "*".
@@ -27,12 +24,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
+    - name: OpenProductions
+      tag: OpenProductions
     - name: Open Music Europe
       tag: Open Music Europe
     - name: Music Eviota
       tag: Music Eviota
-    - name: Data Observatory Labs
-      tag: Data Observatory Labs
     - name: CEEMID
       tag: CEEMID
 

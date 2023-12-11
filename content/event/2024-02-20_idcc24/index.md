@@ -2,7 +2,6 @@
 title: "IDCC24 Lightning Talk Session"
 subtitle: "Creating the Slovak Music Register for Coordinating Private and Public Data Infrastructure"
 
-
 categories:
 
 event: "IDCC24: Work on automating curation processes" 
