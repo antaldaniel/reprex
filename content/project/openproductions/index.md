@@ -103,7 +103,10 @@ Some datasets will always remain public; the knowledge model layer and formal on
 
 ## Application layer
 
-<td style="text-align: center;">{{< figure src="img/openproductions/ghg_scope3_2x1.webp" caption="While the CSRD Directive directly does not apply to most film production companies because of their small size, they will need to prepare to provide reliable information to remain in the value chain of large media companies or to access triple transition grants, green financing and green insurance." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="img/openproductions/ghg_scope3_2x1.webp" caption="We are developing collaborative and open source components to keep compliance costs affordable for non-profit, documentary film-makers and SMEs in the film, television and video supply chains." numbered="false" >}}</td>
+
+While the CSRD Directive directly does not apply to most film production companies because of their small size, they will need to prepare to provide reliable information to remain in the value chain of large media companies or to access triple transition grants, green financing and green insurance. 
+
 
 ### Eviota MVP
 
