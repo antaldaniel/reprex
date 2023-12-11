@@ -103,6 +103,8 @@ Some datasets will always remain public; the knowledge model layer and formal on
 
 ## Application layer
 
+<td style="text-align: center;">{{< figure src="img/openproductions/ghg_scope3_2x1.webp" caption="While the CSRD Directive directly does not apply to most film production companies because of their small size, they will need to prepare to provide reliable information to remain in the value chain of large media companies or to access triple transition grants, green financing and green insurance." numbered="false" >}}</td>
+
 ### Eviota MVP
 
 <td style="text-align: center;">{{< figure src="img/eviota/Music_Eviota_MusicAIRE_2x1.webp" caption="[MusicAIRE: Final Event](https://reprex.nl/event/2023-11-29_musicaire_brussels/)" numbered="false" >}}</td>
