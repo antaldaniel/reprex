@@ -27,7 +27,7 @@ content:
         icon: fa-solid fa-right-to-bracket
         icon_pack: fas
         text: "Test Open Productions"
-        url: /talk/futureproof-film-production-data-for-integrated-esg-reporting/
+        url: /project/openproductions/
     - title: ""
       content: '<br/><br/><br/><br/><br/>'
       align: left
@@ -54,19 +54,6 @@ content:
         icon_pack: fas
         text: "Smart Policy Documents"
         url: ./post/2023-03-06_reprex-opa/
-    - title: ""
-      content: '<br/><br/><br/><br/><br/>'
-      align: left
-      background:
-        position: top
-        color: '#555'
-        brightness: 0.9
-        media: /slides/slider/data_observatory_lab.webp
-      link:
-        icon: fa-solid fa-right-to-bracket
-        icon_pack: fas
-        text: "We are looking for partners"
-        url: ../project/crea-innovlab-2023/
     - title: ""
       content: '<br/><br/><br/><br/><br/>'
       align: left
