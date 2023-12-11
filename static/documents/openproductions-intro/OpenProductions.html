@@ -1,0 +1,472 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-GB" xml:lang="en-GB"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.3.433">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Daniel Antal">
+<meta name="dcterms.date" content="2023-12-11">
+<meta name="keywords" content="Indicators, Triple transition, ESRS, Reprex, OpenProductions">
+
+<title>OpenProductions</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="OpenProductions_files/libs/clipboard/clipboard.min.js"></script>
+<script src="OpenProductions_files/libs/quarto-html/quarto.js"></script>
+<script src="OpenProductions_files/libs/quarto-html/popper.min.js"></script>
+<script src="OpenProductions_files/libs/quarto-html/tippy.umd.min.js"></script>
+<script src="OpenProductions_files/libs/quarto-html/anchor.min.js"></script>
+<link href="OpenProductions_files/libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="OpenProductions_files/libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="OpenProductions_files/libs/bootstrap/bootstrap.min.js"></script>
+<link href="OpenProductions_files/libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="OpenProductions_files/libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+
+
+</head>
+
+<body>
+
+<div id="quarto-content" class="page-columns page-rows-contents page-layout-article">
+<div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+  <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#introducing-openproductions" id="toc-introducing-openproductions" class="nav-link active" data-scroll-target="#introducing-openproductions">Introducing OpenProductions</a></li>
+  <li><a href="#open-collaboration" id="toc-open-collaboration" class="nav-link" data-scroll-target="#open-collaboration">Open Collaboration</a></li>
+  <li><a href="#OP-KM-Layer" id="toc-OP-KM-Layer" class="nav-link" data-scroll-target="#OP-KM-Layer">Knowledge model layer</a></li>
+  <li><a href="#OP-Data-Layer" id="toc-OP-Data-Layer" class="nav-link" data-scroll-target="#OP-Data-Layer">Data layer</a></li>
+  <li><a href="#OP-App-Layer" id="toc-OP-App-Layer" class="nav-link" data-scroll-target="#OP-App-Layer">Application layer</a>
+  <ul class="collapse">
+  <li><a href="#eviota-mvp" id="toc-eviota-mvp" class="nav-link" data-scroll-target="#eviota-mvp">Eviota MVP</a></li>
+  </ul></li>
+  <li><a href="#open-source-for-scientific-review-and-audit" id="toc-open-source-for-scientific-review-and-audit" class="nav-link" data-scroll-target="#open-source-for-scientific-review-and-audit">Open source for scientific review and audit</a></li>
+  <li><a href="#OP-Educational-Layer" id="toc-OP-Educational-Layer" class="nav-link" data-scroll-target="#OP-Educational-Layer">Educational layer</a>
+  <ul class="collapse">
+  <li><a href="#business-administration-and-tertiary-education" id="toc-business-administration-and-tertiary-education" class="nav-link" data-scroll-target="#business-administration-and-tertiary-education">Business administration and tertiary education</a></li>
+  <li><a href="#vocational-training-and-post-secondary-education" id="toc-vocational-training-and-post-secondary-education" class="nav-link" data-scroll-target="#vocational-training-and-post-secondary-education">Vocational training and post-secondary education</a></li>
+  </ul></li>
+  <li><a href="#standardisation-layer" id="toc-standardisation-layer" class="nav-link" data-scroll-target="#standardisation-layer">Standardisation layer</a></li>
+  </ul>
+<div class="quarto-alternate-formats"><h2>Other Formats</h2><ul><li><a href="OpenProductions.pdf"><i class="bi bi-file-pdf"></i>PDF</a></li><li><a href="OpenProductions.docx"><i class="bi bi-file-word"></i>MS Word</a></li></ul></div></nav>
+</div>
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">OpenProductions</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Daniel Antal <a href="https://orcid.org/0000-0003-1689-0557" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+          </div>
+  </div>
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">11 December 2023</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+</header>
+
+<section id="introducing-openproductions" class="level2 unnumbered">
+<h2 class="unnumbered anchored" data-anchor-id="introducing-openproductions">Introducing OpenProductions</h2>
+<p><code>OpenProductions</code> is a collaborative project of <code>Reprex</code>, <code>ESCP</code>, <code>DAE</code>, <code>GreenEyes</code>, open for other partners to work with us. We have successfully competed in the EIT CCI KIC’s Breakthrough Lab competition and were selected for funding pending fulfilling various conditions. While our extremely high score in this competition gives us confidence in the professional quality of our project, it leaves the start date and funding of <code>OpenProductions</code> is an open question.</p>
+<p>We aim to support the film, television and video industry with solutions to create at acceptable costs in the entire value chain’s integrated reports. Integrated reports mean that large film producers and distributors, including TV channels, are able to consolidate and report data:</p>
+<ul class="task-list">
+<li><p><input type="checkbox" checked="">connected (or integrated) with their financial bookkeeping, accounting and reports;</p></li>
+<li><p><input type="checkbox" checked="">their own corporations as well as their suppliers (<code>Scope 3</code>)</p></li>
+<li><p><input type="checkbox" checked="">environmental impacts on climate change, water use, pollution, waste management, and recycling (standardised by ESRS <code>E1</code>-<code>E5</code>);</p></li>
+<li><p><input type="checkbox" checked="">the various aspects of social sustainability (standardised by ESRS <code>S1</code>-<code>S4</code>);</p></li>
+<li><p><input type="checkbox" checked="">and some governance issues, particularly copyright governance— because of the copyright infrastructure of film production, going beyond the needs of ESRS <code>G1</code>.</p></li>
+</ul>
+<p>The new requirement of integrated reporting — the auditable connection of economic activities and their financial footprint to five areas of environmental and four areas of social sustainability — requires a fundamental change in how the industry collects, records, stores, and reports knowledge and data about the production and post-production, the distribution and the archiving of its products, such as dramatic and documentary films, series, or various television programs.</p>
+<div class="cell">
+<div class="cell-output-display">
+<p><img src="png/integrated-reporting-2x1.png" class="img-fluid" width="647"></p>
+</div>
+</div>
+<p>These requirements will be in force from 2025 for large film production studios, streaming companies, and televisions stations in a way that will force their suppliers to provide them auditable data. The use of CO2 calculators that provide an estimate for the activities of each company in the production will be far from enough: there will be a need to report their suppliers (such as logistics firms, hotels) and of course, beyond CO2 and CH4 or other greenhouse gases, to report on dozens of more impacts.</p>
+</section>
+<section id="open-collaboration" class="level2">
+<h2 class="anchored" data-anchor-id="open-collaboration">Open Collaboration</h2>
+<p>We carry out an <code>open collaboration</code> in research and development in four layers or preparing intelligent, trustworthy AI-driven applications. By open collaboration, we mean the agile development methods of open source software and open knowledge products, like Wikibase, which allow constructive cooperation among large and small innovators, from the R&amp;D departments of big corporations and research institutes to startups and even citizen scientists. This open collaboration is coordinated by Reprex, a member of the Dutch AI PPP and a prize-winning startup that grew out of the world’s second-ranked university-backed incubator, the <code>Yes!Delft AI+Blockchain Lab</code>.</p>
+<p>As opposed to some competing products that are using machine learning without human oversight, we aim to support the work with legal professionals, qualified financial and sustainability reporting professionals and auditors with AI-driven applications that support their work. We do not want machine learning algorithms to guess or second-guess accounting software; we want to help accountants to connect their existing financial bookkeeping to exact environmental or social data.</p>
+<p>We aim to build a solution that allows us to connect to existing systems:</p>
+<ul class="task-list">
+<li><input type="checkbox" checked="">financial bookkeeping and accounting information as standardised by IFRS and the EU Accounting Directive,</li>
+<li><input type="checkbox" checked="">environmental bookkeeping, such as CO2 calculators,</li>
+<li><input type="checkbox" checked="">social bookkeeping, such as existing HR documentation services</li>
+<li><input type="checkbox" checked="">governance, such as rights management.</li>
+</ul>
+<p>And link them to:</p>
+<ul class="task-list">
+<li><input type="checkbox" checked="">standardised, science-based benchmarks and targets, particularly in the data warehouse of the European Environmental Agency,</li>
+<li><input type="checkbox" checked="">standardised survey data, questionbanks, to harmonise data collection on social sustainability indicators;</li>
+<li><input type="checkbox" checked="">global rights management databases;</li>
+<li><input type="checkbox" checked="">global archive catalogues and repositories.</li>
+</ul>
+<div class="cell">
+<div class="cell-output-display">
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="png/OP-schema-slide.png" class="img-fluid figure-img" width="960"></p>
+<figcaption class="figure-caption">See <a href="https://reprex.nl/slides/20231124_futureproof-open-productions/">slides</a> - press F for full screen mode</figcaption>
+</figure>
+</div>
+</div>
+</div>
+</section>
+<section id="OP-KM-Layer" class="level2">
+<h2 class="anchored" data-anchor-id="OP-KM-Layer">Knowledge model layer</h2>
+<p>Our <code>long-term goal</code> is to build formal computer ontologies, i.e., an ontology encompasses a representation, formal naming, and definitions of the categories, properties, and relations between the concepts, data, or entities in the following workflows:</p>
+<ul class="task-list">
+<li><p><input type="checkbox" checked="">Film, television and video production;</p></li>
+<li><p><input type="checkbox" checked="">Film, television and video post-production;</p></li>
+<li><p><input type="checkbox" checked="">Film, television and video distribution;</p></li>
+<li><p><input type="checkbox" checked="">Film, television and video archiving.</p></li>
+</ul>
+<p>The ontologies help supervise AI applications in our application layer to properly connect information about the budgets (plans) and actual economic, environmental, social, and governance (copyright) bookkeeping of projects. The aim of the ontologies is to connect to every process. element in the workflow relevant knowledge about the five groups of environmental impacts (climate change, water use, waste, recycling, pollution); the impact as defined in the ESRS <code>S1</code>-<code>S4</code> social sustainability standards, and specific governance issues.</p>
+<p>We believe that this layer of our work should be publicly funded and be seen as a public good. Foundational ontologies are usually developed with basic research grants— we are looking for potential Horizon Europe project’s to join in with 1-2 foundational ontology (metadata, data harmonisation, research data management) tasks for this reason.</p>
+<p>In the <code>short term</code>, we will curate existing ontologies and modify them to the needs of our first applications, based on our experience and exisitig Horizon Europe cooperation on music ontologies.</p>
+</section>
+<section id="OP-Data-Layer" class="level2">
+<h2 class="anchored" data-anchor-id="OP-Data-Layer">Data layer</h2>
+<p>Our long-term goal is the creation of the <code>Green Film Observatory</code>, a data observatory that contains all science-based benchmarks and targets for the EFRS <code>E1</code>-<code>E5</code>, <code>S1</code>-<code>S4</code>, <code>G1</code> and copyright governance.</p>
+<p>Our data governance is decentralised, allowing the mixing of public and private datasets. The more datasets are public, the better because it causes a huge multiplication of costs if various businesses, national associations, and research projects develop the same datasets in parallel. For example, we believe that the CO2 or CH4 methane coefficients for every year, country and potential (CPA) product or activity (NACE) in the supply chain should be available for all in our observatory instead of forcing every stakeholder to re-create this dataset.</p>
+<p>Some datasets will always remain public; the knowledge model layer and formal ontologies help connect the relevant private data (for example, accounts or account groups in the financial general ledger of a particular dramatic series production) with the potentially public data (country, year-specific CO2, CH4, H2O) coefficients for the account.</p>
+</section>
+<section id="OP-App-Layer" class="level2">
+<h2 class="anchored" data-anchor-id="OP-App-Layer">Application layer</h2>
+<div class="cell">
+<div class="cell-output-display">
+<p><img src="png/ghg_scope3_2x1.png" class="img-fluid" width="900"></p>
+</div>
+</div>
+<p>While the CSRD Directive directly does not apply to most film production companies because of their small size, they will need to prepare to provide reliable information to remain in the value chain of large media companies or to access triple transition grants, green financing and green insurance. We are developing collaborative and open source components to keep compliance costs affordable for non-profit, documentary film-makers and SMEs in the film, television and video supply chains.</p>
+<section id="eviota-mvp" class="level3">
+<h3 class="anchored" data-anchor-id="eviota-mvp">Eviota MVP</h3>
+<p><code>Eviota for Music</code> was developed with a microgrant within the Music Moves Europe Program’s MusicAIRE project, is an MVP of connecting consistently IFRS-standard financial microdata (from general ledgers) with science-based benchmarks for double materiality testing, impact analysis, and impact estimation (when estimation is sufficient and direct measurement of the impact, for example, with gas sensors) is not required.</p>
+<div class="cell">
+<div class="cell-output-display">
+<p><img src="png/Music_Eviota_MusicAIRE_2x1.png" class="img-fluid" width="960"></p>
+</div>
+</div>
+<p>The <code>Eviota</code> applications’ critical competitive advantage compared to other ESG solutions is that because of its top-down approach, it starts with a <code>double materiality test</code> and can rule out up to 95% of unnecessary data entry or data acquisition. The competitive advantage compared to current film industry solutions, such as various CO2 calculators, is that it</p>
+<ul class="task-list">
+<li><input type="checkbox" checked="">Eviota is able to work consistently with all five of the environmental impact groups under ESRS (i.e., water, biodiversity, pollution, waste management beyond climate change;)</li>
+<li><input type="checkbox" checked="">It can also work with social sustainability impacts.</li>
+</ul>
+</section>
+</section>
+<section id="open-source-for-scientific-review-and-audit" class="level2">
+<h2 class="anchored" data-anchor-id="open-source-for-scientific-review-and-audit">Open source for scientific review and audit</h2>
+<p>The Eviota applications rely on the methodology and some of the impact assessment models of <code>iotables</code>, our input-output economics, and economic, environmental, and social impact assessment scientific software, which has gone through several versions and peer-reviewed releases.</p>
+<div class="cell">
+<div class="cell-output-display">
+<p><img src="png/iotables_0_9_1_2x1.png" class="img-fluid" width="636"></p>
+</div>
+</div>
+<p>It has been under development since 2017 by Reprex and its co-founder, Daniel Antal. We keep this essential element of our application layer open to allow scientific, statistical peer-review and/or financial and sustainability audit to our code.</p>
+</section>
+<section id="OP-Educational-Layer" class="level2">
+<h2 class="anchored" data-anchor-id="OP-Educational-Layer">Educational layer</h2>
+<p>Our short and medium-term goal is to train managers in film, audiovisual and creative industries and small creators to integrate sustainability into their core business management activities with a strong focus on management control systems, i.e., how they plan, measure, review and report their film (post-)production, distribution, and archiving activities regarding both the economic/financial and the environmental and social aspects. Our partner in achieving this aim is ESCP, a leading European business school with a long track record in programs for media, cultural, and creative industries and a recent strong mission in sustainability management.</p>
+<p><code>OpenProductions</code> addresses a key question in management and accounting fields: integrating the new sustainability key performance indicators into the existing ways of measuring performance measurement systems and the practice of target setting and review for sustainability.</p>
+<section id="business-administration-and-tertiary-education" class="level3">
+<h3 class="anchored" data-anchor-id="business-administration-and-tertiary-education">Business administration and tertiary education</h3>
+<p>The ESCP department participating in <code>OpenProductions</code> has teaching expertise in the challenges related to the rise of sustainability reporting. Research into existing practices in the past ten years has found that the ever more extensive reports on emissions are not sufficiently tied to the core business objectives, and therefore, environmental and social issues are managed separately from financial and other core KPIs.</p>
+<p>We generate a knowledge exchange with top students where they become acquainted with a relevant solution to a core performance management problem and develop analysis and recommendations for <code>OpenProductions</code> users and clients. We do this in the context of a select number of ESCP Masters courses on performance measurement and management, where we survey different ways of integrating core (financial) and sustainability (ESG) systems.</p>
+<div class="cell">
+<div class="cell-output-display">
+<p><img src="png/ESCP-CFO-opening-slide.png" class="img-fluid" width="683"></p>
+</div>
+</div>
+<p>We introduce <code>OpenProductions</code> as a new and innovative approach to integrating these systems, achieving a real transition. We work with the students to develop the interpretation of the connected financial and sustainability reports for users in the creative and cultural industries; to analyse, critique and improve <code>OpenProductions</code>; and to carry out research related to the <code>OpenProductions</code> offering, such as comparing with other conceptual frameworks and technological solutions such as emissions calculators.</p>
+</section>
+<section id="vocational-training-and-post-secondary-education" class="level3">
+<h3 class="anchored" data-anchor-id="vocational-training-and-post-secondary-education">Vocational training and post-secondary education</h3>
+<p>While ESCP’s research activities focus on the level of business leadership, we are aware of the acute need to train administrative-level workers (business or sustainability assistants to more senior sustainability and production managers) to work with ESG applications.</p>
+<p><code>GreenEyes</code> has finished the execution of a vocational training program in Budapest in the <a href="https://open.mome.hu/sustainability-assistant/">MOME Open Platform</a> (the vocational training arm of the MOME University), with the support of the National Film Institute, with the first batch of 21 sustainability manager assistants who will be working in the EU’s largest production hub, Budapest.</p>
+<p>Based on the experience with the first training, we would like to find ways to make this training program available to other large film production clusters in Europe and, potentially, create a MOOC version of the course. Generally, our experience shows that even short-term, intensive vocational training can make a change and prepare the ground for applying <code>OpenProductions</code>, or any new ESG management tools.</p>
+</section>
+</section>
+<section id="standardisation-layer" class="level2">
+<h2 class="anchored" data-anchor-id="standardisation-layer">Standardisation layer</h2>
+<p>In some industries, the predecessor of <code>CSRD</code> (the Non-Financial Disclosure Directive) and the global standardisation of the GRI and GHG sustainability standards create solid experiences with integrated financial and sustainability reporting; this is not the case in the film, television and video industry or the music part of the audiovisual sectors. Introducing the industry-agnostic <code>E1</code>-<code>E5</code>, <code>S1</code>-<code>S4</code> and <code>G1</code> standards, which go way beyond the expectations of current CO2 calculators and other practices, will be a massive step for the industry in 2024/2025. We see that it was a wise move on behalf of the European Commission to delay the standardisation of further industry-specific standards.</p>
+<div class="cell">
+<div class="cell-output-display">
+<p><img src="png/future-invoice-hu.png" class="img-fluid" width="960"></p>
+</div>
+</div>
+<p>We are inviting various representative bodies of the audiovisual sector, for example, EFAD, DAE, and the European Audiovisual Observatory, to make a joint effort to create the necessary knowledge models databases and systematically review evidence of the introduction of the industry-specific ESRS (at the same time with other service industries) and make a joint action plan to participate in EFRAG’s industry-specific standardisation later.</p>
+</section>
+
+</main>
+<!-- /main column -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    text: function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+</body></html>

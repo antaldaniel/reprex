@@ -14,6 +14,10 @@ links:
   icon_pack: fab
   name: Reprex
   url: https://www.linkedin.com/company/68855596/
+- icon: book
+  icon_pack: fas
+  name: Download
+  url: /documents/openproductions-intro/OpenProductions.html
 - icon: handshake
   icon_pack: fas
   name: Contact
@@ -147,7 +151,7 @@ While ESCP's research activities focus on the level of business leadership, we a
 
 [GreenEyes](https://www.greeneyesproduction.com/) has finished the execution of a vocational training program in Budapest in the [MOME Open Platform](https://open.mome.hu/sustainability-assistant/) (the vocational training arm of the MOME University), with the support of the National Film Institute, with the first batch of 21 sustainability manager assistants who will be working in the EU's largest production hub, Budapest.
 
-Based on the experience with the first training, we would like to find ways to make this training program available to other large film production clusters in Europe and, potentially, create a MOOC version of the course. Generally, our experience shows that even short-term, intensive vocational training can make a change and prepare the ground for applying OpenProductions, or any new ESG management tools.
+Based on the experience with the first training, we would like to find ways to make this training program available to other large film production clusters in Europe and, potentially, create a MOOC version of the course. Generally, our experience shows that even short-term, intensive vocational training can make a change and prepare the ground for applying `OpenProductions`, or any new ESG management tools.
 
 ## Standardisation layer
 
