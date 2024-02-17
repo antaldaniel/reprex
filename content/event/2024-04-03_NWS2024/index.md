@@ -1,17 +1,17 @@
 ---
-title: "Listen Local and the Slovak Comprehensive Music Database: a public-private partnership (PPP) for the creation of a national music dataspace"
-subtitle: 
+title: "A Public-Private Partnership For the Creation of a National Music Dataspace"
+subtitle: Listen Local and the Slovak Comprehensive Music Database
 
 categories:
 
 event: "NWS2024" 
 event_url: https://nws.comp-rend.hu/programvazlat/
 
-location: Les Ateliers des Tanneurs
+location: Eszterházy Károly Katolikus Egyetem - Líceum
 address:
   city: Eger
   street: Eszterházy tér 1.
-  postcode: 
+  postcode: H-3300
   country: Hungary
 
 summary: Make the Slovak music sector and its heritage organisations more competitive with reducing the parallel procedures in documentation, data collection and processing.
@@ -25,7 +25,7 @@ all_day: false
 publishDate: '2024-02-16T17:00:00+01:00'
 
 authors: ["daniel_antal"]
-tags: ["ESCO", "Statistics", "SKCMDb"]
+tags: ["Data stewardship", "Dataspace", "SKCMDb"]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -52,10 +52,10 @@ links:
   icon_pack: fab
   name: Reprex
   url: https://www.linkedin.com/company/68855596/
-- icon: rss
-  icon_pack: fas
-  name: Blogpost
-  url: /post/2023-11-12_impossible-categorization/
+# icon: rss
+#  icon_pack: fas
+#  name: Blogpost
+#  url: 
 
 # Markdown Slides (optional).
 
