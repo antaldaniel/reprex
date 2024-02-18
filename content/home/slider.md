@@ -22,6 +22,19 @@ content:
         position: center
         color: '#555'
         brightness: 0.9
+        media: /slides/slider/IDCC24_1.png
+      link:
+        icon: fa-solid fa-right-to-bracket
+        icon_pack: fas
+        text: "Meet up on IDCC24"
+        url: /event/2024-02-20_idcc24/
+    - title: ""
+      content: '<br/><br/><br/><br/><br/>'
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.9
         media: /slides/slider/20231124_Slide3.webp
       link:
         icon: fa-solid fa-right-to-bracket

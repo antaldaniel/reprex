@@ -7,14 +7,14 @@ categories:
 event: "IDCC24: Work on automating curation processes" 
 event_url: https://dcc.ac.uk/events/idcc24/programme
 
-location:  Surgeons Quarter
+location:  Surgeons Quarter, 
 address:
   city: Edinburgh
   street: Nicolson Street
   postcode: EH8 9DW
   country: United Kingdom
 
-summary: Piloting the Global Pollinators Observatory and looking for partners for our idea about building a knowledge system that employs millions of bees into monitoring the ecosystem and the downstream of many food value chains. 
+summary: 
 
 # Talk start and end times.
 date: '2024-02-20T16:15:00+00:00'
@@ -55,7 +55,7 @@ links:
   url: https://www.linkedin.com/company/68855596/
 
 # Markdown Slides (optional).
-
+slides: 20240221_IDCC24
 ---
 
 [Open Music Europe](https://openmuse.eu/) is a Horizon Europe project that aims to build a working prototype of the planned European Music Observatory.

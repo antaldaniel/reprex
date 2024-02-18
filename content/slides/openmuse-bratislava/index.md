@@ -128,7 +128,7 @@ slides:
 ## Open Data Directive
 <br/><br/><br/><br/><br/><br/><br/></br></br>
 
-{{% fragment %}} Read more: [Open Data - The Gold Without the Rush](https://dataandlyrics.com/post/2021-06-18-gold-without-rush/){{% fragment %}} 
+{{% fragment %}} Read more: [Open Data - The Gold Without the Rush](https://dataandlyrics.com/post/2021-06-18-gold-without-rush/){{% / fragment %}} 
 
 ---
 

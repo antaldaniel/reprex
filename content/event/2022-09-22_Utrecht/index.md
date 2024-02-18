@@ -75,7 +75,7 @@ Reprex is a member of the Dutch AI Coalition's [Culture and Media Working Group]
 
 {{<spoiler text="Interested in the Dutch AI Coalition event?">}}
 If you are interested in those professional events, get in touch with us on  [Keybase](https://keybase.io/team/reprexcommunity) or via the [contact form](/#contact).
-{{/spoiler}}
+{{</spoiler>}}
 
 
 
