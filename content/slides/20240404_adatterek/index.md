@@ -1,11 +1,11 @@
 ---
 title: Adatterek
-summary: Networkshop 2024 Villámelőadás
+summary: 🇭🇺 Networkshop 2024 Villámelőadás
 authors: [daniel_antal]
 tags: ["Open Music Europe", "dataspace", "magyarul"]
 categories: []
 date: 2023-04-04T18:00:00+01:00
-lastmod: 2023-04-17T11:46:00+01:00
+lastmod: 2023-04-17T11:47:00+01:00
 slides:
   theme: white
   highlight_style: dracula
@@ -20,7 +20,7 @@ slides:
 
 - Következő: `️>` vagy `Space` |Előző :️`<`
 - Start: `Home` | Vége: `End`
-- Áttekintő: `Esc`|  
+- Áttekintő: `Esc`  
 - Zoom: `Alt + Click️`| Teljes képernyőn: `F`
 
 🖱 Kiemelt szöveg: [klikkelhető](https://reprex.nl/project/musiceviota/) 

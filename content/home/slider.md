@@ -34,6 +34,13 @@ content:
       background:
         position: center
         color: '#555'
+        media: /slides/slider/20240404_NSW_adatterek_1.webp
+    - title: ""
+      content: '<br/><br/><br/><br/><br/>'
+      align: left
+      background:
+        position: center
+        color: '#555'
         brightness: 0.9
         media: /slides/slider/20231124_Slide3.webp
       link:

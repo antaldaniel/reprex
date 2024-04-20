@@ -4,7 +4,7 @@ subtitle: Listen Local and the Slovak Comprehensive Music Database
 
 categories:
 
-event: "NWS2024" 
+event: "🇭🇺 NWS2024" 
 event_url: https://nws.comp-rend.hu/programvazlat/
 
 location: Eszterházy Károly Katolikus Egyetem - Líceum
@@ -52,6 +52,10 @@ links:
   icon_pack: fab
   name: Reprex
   url: https://www.linkedin.com/company/68855596/
+- icon: download
+  icon_pack: fas
+  name: PDF Presentation 🇭🇺
+  url: https://reprex.nl/documents/hu/Antal_D_Dataspace_Eger_20240405.pdf
 # icon: rss
 #  icon_pack: fas
 #  name: Blogpost
@@ -61,4 +65,6 @@ links:
 
 ---
 
-The aim of SKCMDb and the connecting Listen Local applications is to serve with the same, standardized and linked digital knowledge base the use needs of Slovak heritage organisations (Music Centrum Slovakia as a music archive and education institution, and the Slovak music libraries), the needs of Slovak rights management organisations, record label and music publishing enterprises, and the Slovak media authority (to enforce local content/diversity policies) and the statistical authority. We aim to make the Slovak music sector and its heritage organisations more competitive with reducing the parallel procedures in documentation, data collection and processing. After a successful pilot project in 2020-21 we started to scale up this project in 2023 into a comprehensive national program. In this work we utilize the novel legal instruments and methodologies of the European Data Strategy, particularly the new methods of connecting state/statistical infrastructure with private data infrastructure, and a cooperation among rights management organization and heritage organisations that reaches far beyond the identification of orphan works.
+The aim of SKCMDb and the connecting Listen Local applications is to serve with the same, standardized and linked digital knowledge base the use needs of Slovak heritage organisations (Music Centrum Slovakia as a music archive and education institution, and the Slovak music libraries), the needs of Slovak rights management organisations, record label and music publishing enterprises, and the Slovak media authority (to enforce local content/diversity policies) and the statistical authority. We aim to make the Slovak music sector and its heritage organisations more competitive with reducing the parallel procedures in documentation, data collection and processing. 
+
+After a successful pilot project in 2020-21 we started to scale up this project in 2023 into a comprehensive national program. In this work we utilize the novel legal instruments and methodologies of the European Data Strategy, particularly the new methods of connecting state/statistical infrastructure with private data infrastructure, and a cooperation among rights management organization and heritage organisations that reaches far beyond the identification of orphan works.
