@@ -1,13 +1,13 @@
 ---
-title: "Dataweek²⁴"
-subtitle: "Data-drive & Automated Compliance With PPP Data Sharing Spaces"
+title: "Dataweek²⁴: Data-driven Compliance with the Corporate Social Responsibility Directive"
+subtitle: "Reprex's solution with data sharing spaces facilitates data exchange in the supply change"
 
 categories:
 
 summary: Reprex is building a data sharing system, Reprexbase, which is built around Wikibase as a knowledge broker system. We design it in a way that it help compliance with ESG reporting and the new European Sustainability Reporting Standards.
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-06-06T17:22:00+01:00'
+publishDate: '2024-06-06T16:22:00+01:00'
 
 authors: ["daniel_antal"]
 tags: ["Dataweek", "Sustainability", "Dataspace", "ESG", "Reprexbase"]
