@@ -10,11 +10,24 @@ design:
   is_fullscreen: true
   # Automatically transition through slides?
   loop: true
-  # Duration of transition between slides (in ms)
+  # Duration of transition between slides (in ms) 
   interval: 3000
 
 content:
   slides:
+    - title: ""
+      content: '<br/><br/><br/><br/><br/>'
+      align: left
+      background:
+        position: center
+        color: '#555'
+        brightness: 0.9
+        media: /slides/20240605_D_Antal_CSRD_Automated_Compliance/20240606_D_Antal_Dataweek_CSRD_Compliance_1.png
+      link:
+        icon: fa-solid fa-right-to-bracket
+        icon_pack: fas
+        text: "Meet up on IDCC24"
+        url: /event/2024-02-20_idcc24/
     - title: ""
       content: '<br/><br/><br/><br/><br/>'
       align: left
@@ -35,6 +48,11 @@ content:
         position: center
         color: '#555'
         media: /slides/slider/20240404_NSW_adatterek_1.webp
+      link:
+        icon: fa-solid fa-right-to-bracket
+        icon_pack: fas
+        text: "Meet up on IDCC24"
+        url: /event/2024-02-20_idcc24/  
     - title: ""
       content: '<br/><br/><br/><br/><br/>'
       align: left
