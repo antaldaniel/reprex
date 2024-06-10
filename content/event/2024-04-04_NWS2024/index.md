@@ -1,5 +1,5 @@
 ---
-title: "From Slovakia Towards a European Music Dataspace"
+title: "Lightning Talk About the Slovak Music Dataspace"
 subtitle: "This presentation was made for Networkshop'24 in Hungarian"
 
 # Summary for listings and search engines
@@ -15,10 +15,9 @@ date: "2024-04-04T18:00:00+01:00"
 lastmod: "2024-06-10T15:30:00+01:00"
 
 # Talk start and end times.
-date: "2024-04-05T12:30:00+01:00"
-date_end:  "2024-04-05T13:00:00+01:00"
+date: "2024-04-04T18:00:00+01:00"
+date_end:  "2024-04-04T18:30:00+01:00"
 all_day: false
-
 
 location: Eszterházy Károly Katolikus Egyetem
 address:
@@ -47,18 +46,16 @@ tags:
   - Networkshop
   - Hungary
   - magyarul
-  - datapsace
+  - Dataspace
   
 # Featured image
 image:
   caption: 
   focal_point: "smart"
   preview_only: true
-
-slides: 20240405_networkshop
+  
 ---
-<td style="text-align: center;">{{< figure src="slides/dataspace/D_Antal_Dataspace_Eger_20240405_01.png" caption="" numbered="false" >}}</td>
 
-_This presentation was made in the Hungarian language. A similar presentation in English is available [here](/talk/dataweek/)_
+<td style="text-align: center;">{{< figure src="slides/dataspace/slide_music_data_space.png" caption="" numbered="false" >}}</td>
 
-Vajon miért nem ajánl a Spotify híres ajánlórendszere Szlovákiában szlovák embereknek elég szlovák zenét?  És miért akadoznak az egyébként is nem kielégítő számú meghallgatások után a kifizetések?  Ezek voltak azok a kérdések, amelyekre a Szlovák Művészeti Tanács kis összegű ösztöndíjával, a state51 támogatásával a Reprex és a SOZA válaszokat kezdett keresni 2020-ban. Azok az adatproblémák, amelyek a nem kielégítő eredményekre vezetnek, nem csak Szlovákiában, hanem lényegében minden kisebb nyelvterületen jelen vannak.
+_This Lightning talk about the advantages of thinking in datas (sharing) spaces was made in Hungarian for the audience of Networkshop '24. For an English language introduction to the topic in the same context see [Open Music Dataspace](https://music.dataobservatory.eu/documentation/background.html#sec-dataspace-definition)_.

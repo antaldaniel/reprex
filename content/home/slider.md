@@ -19,20 +19,21 @@ content:
       content: '<br/><br/><br/><br/><br/>'
       align: left
       background:
-        position: center
+        position: top
         color: '#555'
         brightness: 0.9
         media: /slides/20240605_D_Antal_CSRD_Automated_Compliance/20240606_D_Antal_Dataweek_CSRD_Compliance_1.png
       link:
+      link:
         icon: fa-solid fa-right-to-bracket
         icon_pack: fas
-        text: "Meet up on IDCC24"
-        url: /event/2024-02-20_idcc24/
+        text: "Slides"
+        url: ../slides/20240605_d_antal_csrd_automated_compliance/
     - title: ""
       content: '<br/><br/><br/><br/><br/>'
       align: left
       background:
-        position: center
+        position: top
         color: '#555'
         brightness: 0.9
         media: /slides/slider/IDCC24_1.png
@@ -45,7 +46,7 @@ content:
       content: '<br/><br/><br/><br/><br/>'
       align: left
       background:
-        position: center
+        position: top
         color: '#555'
         media: /slides/slider/20240404_NSW_adatterek_1.webp
       link:
