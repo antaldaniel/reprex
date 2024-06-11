@@ -27,8 +27,8 @@ content:
       link:
         icon: fa-solid fa-right-to-bracket
         icon_pack: fas
-        text: "Slides"
-        url: ../slides/20240605_d_antal_csrd_automated_compliance/
+        text: "Blogpost & Slides"
+        url: /post/2024-06-06_dataweek_csrd_compliance/
     - title: ""
       content: '<br/><br/><br/><br/><br/>'
       align: left
