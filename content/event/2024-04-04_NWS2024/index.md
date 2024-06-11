@@ -10,6 +10,9 @@ authors: ["daniel_antal"]
 # Link this post with a project
 projects: ''
 
+event: "Networkshop'24" 
+event_url: https://nws.comp-rend.hu/
+
 # Date published
 date: "2024-04-04T18:00:00+01:00"
 lastmod: "2024-06-10T15:30:00+01:00"
