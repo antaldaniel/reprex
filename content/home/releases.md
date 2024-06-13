@@ -23,7 +23,7 @@ experience:
   - title: tuRtle
     company: Synchronize datasets with global knowledge hubs
     company_url: 'https://turtle.dataobservatory.eu/'
-    company_logo: dataset_icon
+    company_logo: tuRtle_icon
     date_start: '2024-01-28'
     description: 'The new, very early stage tuRtle package helps the annotation of datasets created in the R statistical environment with the Resource Description Frameworks Turtle language for linking across the Internet.'
   - title: dataset
