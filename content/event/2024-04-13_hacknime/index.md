@@ -46,6 +46,7 @@ image:
   focal_point: "smart"
   preview_only: true
   
+slides: 20240413_bratislava_hachnime_reprex
 ---
 
 **The Ministry of Culture of the Slovak Republic does not have a register of all existing legal entities in the field of art, culture, and the creative industries, making it difficult to implement measures aimed at the entire sector. Its significance became fully apparent after the outbreak of the Covid-19 pandemic when the ministry needed to target governmental support, but it did not have a complete list of eligible entities.**
