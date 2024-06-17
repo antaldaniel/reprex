@@ -1,7 +1,7 @@
 ---
 title: ELTE Digital Heritage Meetup
 subtitle: Towards a federated European music dataspace
-summary: "Magyar nyelvű előadás." 
+summary: "Magyar nyelvű előadás a szlovák zenei adattér tanulságairól és replikációs lehetőségeiről." 
 authors: [daniel_antal]
 tags: ["Open Music Observatory", "ELTE", "magyarul", "Dataspace"]
 categories: []
@@ -13,47 +13,47 @@ slides:
 
 ---
 
-{{< slide background-image="20240613_eltedh_reprex_01.png" background-position="top">}}
+{{< slide background-image="20240613_eltedh_reprex_1.png" background-position="top">}}
 
 ---
 
-## Slide navigation
+## Diák navigálása
 
-The slides are best viewed with 
-**fullscreen** mode:</br>
-press Ⓕ
-- Next: `️>` or `Space` | Previous :️`<`
-- Start: `Home` | Finish: `End`
-- Overview: `Esc`|  
+Az előadás a legjobban a
+**fullscreen** üzemmódban követhető:</br>
+nyomja le az Ⓕ betűt
+- Következő: `>` vagy `Space` |Előző :️`<`
+- Start: `Home` | Vége: `End`
+- Áttekintő nézet: `Esc`|  
 <!--- Speaker notes: Ⓢ    [include only if speaker notes are present]-
 - Zoom: `Alt + Click 🖱️`-->
 
 
 ---
 
-{{< slide background-image="20240613_eltedh_reprex_02.png" background-position="top">}}
+{{< slide background-image="20240613_eltedh_reprex_2.png" background-position="top">}}
 
 ---
 
-{{< slide background-image="20240613_eltedh_reprex_03.png" background-position="top">}}
+{{< slide background-image="20240613_eltedh_reprex_3.png" background-position="top">}}
 
 ---
-{{< slide background-image="20240613_eltedh_reprex_04.png" background-position="top">}}
+{{< slide background-image="20240613_eltedh_reprex_4.png" background-position="top">}}
 
 ---
-{{< slide background-image="20240613_eltedh_reprex_05.png" background-position="top">}}
+{{< slide background-image="20240613_eltedh_reprex_5.png" background-position="top">}}
 
 ---
-{{< slide background-image="20240613_eltedh_reprex_06.png" background-position="top">}}
+{{< slide background-image="20240613_eltedh_reprex_6.png" background-position="top">}}
 
 ---
-{{< slide background-image="20240613_eltedh_reprex_07.png" background-position="top">}}
+{{< slide background-image="20240613_eltedh_reprex_7.png" background-position="top">}}
 
 ---
-{{< slide background-image="20240613_eltedh_reprex_08.png" background-position="top">}}
+{{< slide background-image="20240613_eltedh_reprex_8.png" background-position="top">}}
 
 ---
-{{< slide background-image="20240613_eltedh_reprex_09.png" background-position="top">}}
+{{< slide background-image="20240613_eltedh_reprex_9.png" background-position="top">}}
 
 ---
 {{< slide background-image="20240613_eltedh_reprex_10.png" background-position="top">}}
