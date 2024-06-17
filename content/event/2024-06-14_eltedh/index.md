@@ -58,7 +58,7 @@ links:
 
 
 # Markdown Slides (optional).
-slides: 20240405_networkshop
+slides: 20240613_eltedh
 ---
 <td style="text-align: center;">{{< figure src="slides/dataspace/slide_sk_data_enrich_and_dissmeninate.png" caption="" numbered="false" >}}</td>
 
@@ -66,4 +66,8 @@ _This presentation will be made in the Hungarian language. A similar presentatio
 
 Vajon miért nem ajánl a Spotify híres ajánlórendszere Szlovákiában szlovák embereknek elég szlovák zenét?  És miért akadoznak az egyébként is nem kielégítő számú meghallgatások után a kifizetések?  Ezek voltak azok a kérdések, amelyekre a Szlovák Művészeti Tanács kis összegű ösztöndíjával, a state51 támogatásával a Reprex és a SOZA válaszokat kezdett keresni 2020-ban. Azok az adatproblémák, amelyek a nem kielégítő eredményekre vezetnek, nem csak Szlovákiában, hanem lényegében minden kisebb nyelvterületen jelen vannak.
 
-A Szlovák Zenei Adattér egy Horizon Europe programban finanszírozott mintaprojekt, amelyben különböző közgyűjteményi és magán jogkezelői adatok és metaadatok összekapcsolására kerül sor. Az adatkapcsolás jogi, szervezési és szemantikai megoldásai a zenei területtől függetlenül hasznosíthatók különböző jogi státuszú könyvtári-, levéltári-, múzeumi és magán adatbázisok összekapcsolására. 
+A Szlovák Zenei Adattér egy Horizon Europe programban finanszírozott mintaprojekt, amelyben különböző közgyűjteményi és magán jogkezelői adatok és metaadatok összekapcsolására kerül sor. Az adatkapcsolás jogi, szervezési és szemantikai megoldásai a zenei területtől függetlenül hasznosíthatók különböző jogi státuszú könyvtári-, levéltári-, múzeumi és magán adatbázisok összekapcsolására.
+
+Az előadás ennek az oldalnak a tetején a `Slides` gombra kattintva indítható el.
+
+Az előadás célja kettős volt: egyrészt szeretnénk olyan zenei adattulajdonosokat találni, akik láthatóbbá és használhatóbbá szeretnék tenni a gyűjteményeiket Magyarországon. A másodlagos cél az előadásban bemutatott nyílt forráskodú technikák és nyílt adatok kulturájának a terjesztése Magyarországon.
