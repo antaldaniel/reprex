@@ -1,7 +1,7 @@
 ---
 title: ELTE Digital Heritage Meetup
 subtitle: Towards a federated European music dataspace
-summary: "Magyar nyelvű előadás." 
+summary: "Magyar nyelvű előadás az ELTE Adatgazdász Képzéséhez kapcsolódóan." 
 authors: [daniel_antal]
 tags: ["Open Music Observatory", "ELTE", "magyarul", "Dataspace"]
 categories: []

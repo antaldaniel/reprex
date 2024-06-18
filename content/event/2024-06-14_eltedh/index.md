@@ -1,6 +1,6 @@
 ---
 title: "Federating the Slovak Music Dataspace: Replication in Hungary"
-subtitle: ELTE Digital Heritage Meetup
+subtitle: ELTE Data Stewardship Meetup
 projects: []
 categories:
 
@@ -16,7 +16,7 @@ address:
 
 summary: A discussion on the exploitation and replication possibilities of the Slovak Music Dataspace for Hungarian digital heritage and music experts.
 
-abstract: 'This informal meetup is going to be held in the Hungarian language at the ELTE Digital Heritage Department.'
+abstract: 'This informal meetup is going to be held in the Hungarian language at the ELTE Digital Humanities Department.'
 
 # Talk start and end times.
 date: '2024-06-14T14:00:00+01:00'
