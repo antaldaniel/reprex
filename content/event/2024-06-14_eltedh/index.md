@@ -68,6 +68,6 @@ Vajon miért nem ajánl a Spotify híres ajánlórendszere Szlovákiában szlov�
 
 A Szlovák Zenei Adattér egy Horizon Europe programban finanszírozott mintaprojekt, amelyben különböző közgyűjteményi és magán jogkezelői adatok és metaadatok összekapcsolására kerül sor. Az adatkapcsolás jogi, szervezési és szemantikai megoldásai a zenei területtől függetlenül hasznosíthatók különböző jogi státuszú könyvtári-, levéltári-, múzeumi és magán adatbázisok összekapcsolására.
 
-Az előadás ennek az oldalnak a tetején a `Slides` gombra kattintva indítható el.
+{{< cta cta_text="Előadás diák megtekintése magyarul" cta_link="/slides/20240613_eltedh" cta_new_tab="false" cta_alt_text="Angol nyelvű projektleírás" cta_alt_link="https://music.dataobservatory.eu/documentation/" cta_alt_new_tab="false" >}}
 
 Az előadás célja kettős volt: egyrészt szeretnénk olyan zenei adattulajdonosokat találni, akik láthatóbbá és használhatóbbá szeretnék tenni a gyűjteményeiket Magyarországon. A másodlagos cél az előadásban bemutatott nyílt forráskodú technikák és nyílt adatok kulturájának a terjesztése Magyarországon.
