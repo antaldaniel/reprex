@@ -3,8 +3,8 @@ title: "Building a music data sharing space with Wikibase"
 summary: 
 authors: [daniel_antal]
 tags: [Wikidata, Wikibase, Open Music Europe, SKCMDb]
-date: '2024-09-21T14:00:00+02:00'
-lastmod: '2024-09-21T14:00:00+02:00'
+date: '2024-09-21T14:00:00+00:00'
+lastmod: '2024-09-21T14:00:00+00'
 slides:
   theme: white
   highlight_style: dracula

@@ -27,8 +27,8 @@ content:
       link:
         icon: fa-solid fa-right-to-bracket
         icon_pack: fas
-        text: "Talks"
-        url: /event/2024-09-21_wikimedia_cee/
+        text: "Slides"
+        url: /slides/20240921_wikimedia_cee/
     - title: ""
       content: '<br/><br/><br/><br/><br/>'
       align: left
