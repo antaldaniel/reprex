@@ -24,7 +24,7 @@ date: '2024-09-21T14:00:00+02:00'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-09-21T14:00:00+02:00'
+publishDate: '2024-09-21T14:00:00'
 
 authors: ["daniel_antal"]
 tags: ["Slovakia", "Open Music Observatory", "Dataspace", "Wikipedia", "Wikidata"]
