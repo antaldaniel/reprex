@@ -22,6 +22,33 @@ content:
         position: top
         color: '#555'
         brightness: 0.9
+        media: /img/slides/SKCMDb_Wikimedia_CEE_Meeting_2024_01.png
+      link:
+      link:
+        icon: fa-solid fa-right-to-bracket
+        icon_pack: fas
+        text: "Talks"
+        url: /event/2024-09-21_wikimedia_cee/
+    - title: ""
+      content: '<br/><br/><br/><br/><br/>'
+      align: left
+      background:
+        position: top
+        color: '#555'
+        brightness: 0.9
+        media: /slides/slider/IDCC24_1.png
+      link:
+        icon: fa-solid fa-right-to-bracket
+        icon_pack: fas
+        text: "Meet up on IDCC24"
+        url: /event/2024-02-20_idcc24/
+    - title: ""
+      content: '<br/><br/><br/><br/><br/>'
+      align: left
+      background:
+        position: top
+        color: '#555'
+        brightness: 0.9
         media: /slides/20240605_D_Antal_CSRD_Automated_Compliance/20240606_D_Antal_Dataweek_CSRD_Compliance_1.png
       link:
       link:
