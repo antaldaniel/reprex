@@ -8,7 +8,7 @@ date: 2024-11-19T17:16:00+01:00
 lastmod: 2024-11-19T17:16:00+01:00
 
 # Project summary to display on homepage.
-summary: "We bring data-, sustainability-, rights management innovation, and novel distribution models nearer to the grassroots level of creation."
+summary: ""
 
 # Tags: can be used for filtering projects.
 tags: ["SKCMDb", "Open Music Observatory", "music", "film"]
@@ -24,25 +24,14 @@ slides: ""
 authors: ["admin"]
 
 links:
-- icon: mastodon
-  icon_pack: fab
-  name: "@reprex@mastodon.nl"
-  url: https://mastodon.nl/web/@reprex/
 - icon: linkedin
   icon_pack: fab
   name: Digital Music Observatory
   url: https://www.linkedin.com/company/79286750/
 - icon: linkedin
   icon_pack: fab
-  name: Cult Creative Sect Industries Obs
-  url: https://www.linkedin.com/company/79286750/
-- icon: linkedin
-  icon_pack: fab
   name: Reprex
   url: https://www.linkedin.com/company/68855596/
-- icon: empty
-  name: 🇪🇺 CREA-CROSS-2023-INNOVLAB
-  url: https://culture.ec.europa.eu/calls/call-for-innovation-labs
 
 # Links (optional).
 url_pdf: ""
@@ -60,11 +49,9 @@ image:
 slides: "crea-innovlab-2023"
 ---
 
-<td style="text-align: center;">{{< figure src="/img/blogposts_2023/data_observatory_lab.webp" caption="Check out our [slides](/slides/crea-innovlab-2023/). We are still looking for certain [partners](/project/crea-innovlab-2023/#potential-partners)." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/png/omo/20240605_D_Antal_Dataweek_OMO_3.png" caption="Download our feasibility study from <https://doi.org/10.5281/zenodo.6427514>." numbered="false" >}}</td>
 
 In 2020, we studied the effect of increasingly AI-driven streaming platforms on the Slovak music repertoire. We realised that music is being recommended by algorithms, not only to subscribers of YouTube or Spotify but also to radio editors, concert promoters and festival organisers. This led to the conclusion that rights management organisations (CMOs) and music information centres (MICs) must improve their practices to remain competitive and visible.
-
-<td style="text-align: center;">{{< figure src="/png/omo/20240605_D_Antal_Dataweek_OMO_3.png" caption="Download our feasibility study from <https://doi.org/10.5281/zenodo.6427514>." numbered="false" >}}</td>
 
 In the Open Music Europe project[^1], we are building a data infrastructure that aims to coordinate music knowledge (in our demonstration example, Slovak music) stored in various institutional silos and systems. We wanted to "plug in" the database of the MIC Slovak Music Centre (MCS) into a global data system like Wikipedia or Spotify and, at the same time, connect it with the Slovak CMO SOZA and public libraries. This process is overseen by a data science company, Reprex.
 
