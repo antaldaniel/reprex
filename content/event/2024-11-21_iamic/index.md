@@ -35,7 +35,7 @@ featured: true
 image:
   caption: ''
   focal_point: Center
-  preview_only: true
+  preview_only: false
 
 url_code: ''
 url_pdf: ''
@@ -58,7 +58,7 @@ links:
 
 
 # Markdown Slides (optional).
-slides: 20240921_wikimedia_cee
+slides: ""
 ---
 
 Wikimedia CEE Meeting 2024 (#WMCEE) is an annual conference centered on Wikimedia projects (Wikipedia and other related projects) in countries of Central and Eastern Europe (more recently, also in Central Asia). It features presentations on Wikimedia projects, other wikis, free/open source software, free knowledge and free content, and these topics' social and technical aspects.
