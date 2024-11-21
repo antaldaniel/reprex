@@ -1,5 +1,5 @@
 ---
-title: "Iamic"
+title: "SKCMDb Preseentation on IAMIC 2024"
 subtitle: A use case to extend the world's largest open database
 projects: []
 categories:
@@ -61,6 +61,10 @@ links:
 slides: ""
 ---
 
-Wikimedia CEE Meeting 2024 (#WMCEE) is an annual conference centered on Wikimedia projects (Wikipedia and other related projects) in countries of Central and Eastern Europe (more recently, also in Central Asia). It features presentations on Wikimedia projects, other wikis, free/open source software, free knowledge and free content, and these topics' social and technical aspects.
+
+Wikimedia CEE Meeting 2024 (#WMCEE) is an annual conference centered on Wikimedia projects (Wikipedia and other related projects) in countries of Central and Eastern Europe (more recently, also in Central Asia). It features presentations on Wikimedia projects, other wikis, free/open source software, free knowledge and free content, and these topics' social and technical asp
 
 {{< cta cta_text="Slides" cta_link="/slides/20240921_wikimedia_cee" cta_new_tab="false" cta_alt_text="Conference" cta_alt_link="https://meta.wikimedia.org/wiki/Wikimedia_CEE_Meeting_2024" cta_alt_new_tab="false" >}}
+
+
+<td style="text-align: center;">{{< figure src="/jpg/skcmdb/IAMIC-HC-2024-poster.jpg" caption="Download the poster in [pdf](/documents/poster/IAMIC-HC-2024-poster.pdf)" numbered="false" >}}</td>
