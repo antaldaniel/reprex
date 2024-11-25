@@ -22,8 +22,20 @@ content:
         position: top
         color: '#555'
         brightness: 0.9
-        media: /img/slides/SKCMDb_Wikimedia_CEE_Meeting_2024_01.png
+        media: /slides/slider/01_Slides_D_Antal_IAMIC_20241121.png
       link:
+        icon: fa-solid fa-right-to-bracket
+        icon_pack: fas
+        text: "Slides"
+        url: /slides/20241121_iamic_vienna/
+    - title: ""
+      content: '<br/><br/><br/><br/><br/>'
+      align: left
+      background:
+        position: top
+        color: '#555'
+        brightness: 0.9
+        media: /img/slides/SKCMDb_Wikimedia_CEE_Meeting_2024_01.png
       link:
         icon: fa-solid fa-right-to-bracket
         icon_pack: fas
