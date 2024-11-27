@@ -1,5 +1,5 @@
 ---
-title: "SKCMDb Preseentation on IAMIC 2024"
+title: "SKCMDb Presentation on IAMIC 2024"
 subtitle: A use case to extend the world's largest open database
 projects: []
 categories:
