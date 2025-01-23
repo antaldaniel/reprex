@@ -69,7 +69,7 @@ As opposed to some competing products that are using machine learning without hu
 
 We aim to build a solution that allows us to connect to existing systems: 
 - [x] financial bookkeeping and accounting information as standardised by IFRS and the EU Accounting Directive;
-- [x] environmental bookkeeping, such as CO2 calculators;
+- [x] environmental bookkeeping, such as CO₂ calculators;
 - [x] social bookkeeping, such as existing HR documentation services;
 - [x] governance, such as rights management.
 
@@ -101,9 +101,9 @@ In the `short term`, we will curate existing ontologies and modify them to the n
 
 Our long-term goal is the creation of the `Green Film Observatory`, a data observatory that contains all science-based benchmarks and targets for the EFRS `E1`-`E5`, `S1`-`S4`, `G1` and copyright governance.
 
-Our data governance is decentralised, allowing the mixing of public and private datasets. The more datasets are public, the better because it causes a huge multiplication of costs if various businesses, national associations, and research projects develop the same datasets in parallel. For example, we believe that the CO2 or CH4 methane coefficients for every year, country and potential (CPA) product or activity (NACE) in the supply chain should be available for all in our observatory instead of forcing every stakeholder to re-create this dataset.
+Our data governance is decentralised, allowing the mixing of public and private datasets. The more datasets are public, the better because it causes a huge multiplication of costs if various businesses, national associations, and research projects develop the same datasets in parallel. For example, we believe that the CO₂ or CH4 methane coefficients for every year, country and potential (CPA) product or activity (NACE) in the supply chain should be available for all in our observatory instead of forcing every stakeholder to re-create this dataset.
 
-Some datasets will always remain public; the knowledge model layer and formal ontologies help connect the relevant private data (for example, accounts or account groups in the financial general ledger of a particular dramatic series production) with the potentially public data (country, year-specific CO2, CH4, H2O) coefficients for the account.
+Some datasets will always remain public; the knowledge model layer and formal ontologies help connect the relevant private data (for example, accounts or account groups in the financial general ledger of a particular dramatic series production) with the potentially public data (country, year-specific CO₂, CH4, H₂O) coefficients for the account.
 
 ## Application layer
 
@@ -118,7 +118,7 @@ While the CSRD Directive directly does not apply to most film production compani
 
 `Eviota for Music` was developed with a microgrant within the Music Moves Europe Program's MusicAIRE project, is an MVP of connecting consistently IFRS-standard financial microdata (from general ledgers) with science-based benchmarks for double materiality testing, impact analysis, and impact estimation (when estimation is sufficient and direct measurement of the impact, for example, with gas sensors) is not required. 
 
-Eviota's critical competitive advantage compared to other ESG solutions is that because of its top-down approach, it starts with a `double materiality test` and can rule out up to 95% of unnecessary data entry or data acquisition.  The competitive advantage compared to current film industry solutions, such as various CO2 calculators, is that it 
+Eviota's critical competitive advantage compared to other ESG solutions is that because of its top-down approach, it starts with a `double materiality test` and can rule out up to 95% of unnecessary data entry or data acquisition.  The competitive advantage compared to current film industry solutions, such as various CO₂ calculators, is that it 
 
 -   [x] Eviota is able to work consistently with all five of the environmental impact groups under ESRS (i.e., water, biodiversity, pollution, waste management beyond climate change;)
 -   [x] It can also work with social sustainability impacts.
@@ -155,6 +155,6 @@ Based on the experience with the first training, we would like to find ways to m
 
 ## Standardisation layer
 
-In some industries, the predecessor of `CSRD` (the Non-Financial Disclosure Directive) and the global standardisation of the GRI and GHG sustainability standards create solid experiences with integrated financial and sustainability reporting; this is not the case in the film, television and video industry or the music part of the audiovisual sectors. Introducing the industry-agnostic `E1`-`E5`, `S1`-`S4` and `G1` standards, which go way beyond the expectations of current CO2 calculators and other practices, will be a massive step for the industry in 2024/2025. We see that it was a wise move on behalf of the European Commission to delay the standardisation of further industry-specific standards.
+In some industries, the predecessor of `CSRD` (the Non-Financial Disclosure Directive) and the global standardisation of the GRI and GHG sustainability standards create solid experiences with integrated financial and sustainability reporting; this is not the case in the film, television and video industry or the music part of the audiovisual sectors. Introducing the industry-agnostic `E1`-`E5`, `S1`-`S4` and `G1` standards, which go way beyond the expectations of current CO₂ calculators and other practices, will be a massive step for the industry in 2024/2025. We see that it was a wise move on behalf of the European Commission to delay the standardisation of further industry-specific standards.
 
-We are inviting various representative bodies of the audiovisual sector, for example, EFAD, [DAE](https://dae-europe.org/), and the European Audiovisual Observatory, to make a joint effort to create the necessary knowledge models databases and systematically review evidence of the introduction of the industry-specific ESRS (at the same time with other service industries) and make a joint action plan to participate in EFRAG's industry-specific standardisation later.
+We are inviting various representative bodies of the audiovisual sector, for example, EFAD, [DAE](https://dae-europe.org/) to make a joint effort to create the necessary knowledge models databases and systematically review evidence of the introduction of the industry-specific ESRS (at the same time with other service industries) and make a joint action plan to participate in EFRAG's industry-specific standardisation later.
