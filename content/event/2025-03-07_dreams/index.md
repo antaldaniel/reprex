@@ -1,31 +1,32 @@
 ---
-title: "SKCMDb Presentation on IAMIC 2024"
-subtitle: A use case to extend the world's largest open database
+title: "Finno-Ugric Data Sharing Space"
+subtitle: "Federating Open Knowledge About Contemporary and Historic Cultural Practices in the Wikibase System"
+
 projects: []
 categories:
 
-event: IAMIC Conference 2024
-event_url: https://www.wienmodern.at/2024-iamic-conference-2024-en-4180
+event: Digital Dreams And Practices
+event_url: https://dhnb.eu/conferences/dhnb2025/
 
-location: "Music Austria, Vienna"
+location: "Estonian National Museum"
 address:
-  city: Vienna
-  street: Stiftgasse 29
-  postcode: 1070
-  country: Austria
+  city: Tartu
+  street: Muuseumi tee 2
+  postcode: 60532
+  country: Estonia
 
-summary: Presenting an open knowledge system to connect music information centers with libraries, archives, rights management agencies, the Europeana, ECCCH, open data platforms and digital services.
+summary: "We started experimenting with the legal, organisational, semantic and technical challenges of creating a genuinely trustworthy, AI-supported data-sharing space that can find and connect tangible and intangible elements of the Finno-Ugric cultural universes."
 
 # Talk start and end times.
-date: '2024-11-21T10:30:00+01:00'
-#date_end: '2024-06-14T15:30:00+01:00'
+date: '2025-03-07T10:30:00+02:00'
+date_end: '2025-03-07T11:00:00+02:00'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-11-19T10:30:00+01:00'
+publishDate: '2025-02-03T08:30:00+02:00'
 
 authors: ["daniel_antal"]
-tags: ["Slovakia", "Open Music Observatory", "Dataspace", "Wikidata"]
+tags: ["Dataspace", "Finno-Ugric", "Dataspace", "Wikidata", "Lexeme"]
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -51,14 +52,14 @@ links:
   url: https://www.linkedin.com/company/79286750/
 - icon: music
   icon_pack: fas
-  name: IAMIC 2024
+  name: IAMIC 2023
   url: https://www.wienmodern.at/2024-iamic-conference-2024-en-4180
 
 # Markdown Slides (optional).
 slides: "20241121_iamic_vienna"
 ---
 
-Most music is being recommended by algorithms, not only to subscribers of YouTube or Spotify but also to radio editors, concert promoters and festival organisers. This led to the conclusion that rights management organisations (CMOs) and music information centres (MICs) must improve their practices to remain competitive and visible. Using modern data-enriching techniques, we ensure that they have the most accurate 360° views of the repertoire they represent. We also guarantee that digital streaming services and search engines are informed about precise and up-to-date knowledge. 
+We started experimenting with the legal, organisational, semantic and technical challenges of creating a genuinely trustworthy, AI-supported data-sharing space that can find and connect tangible and intangible elements of the Finno-Ugric cultural universes. We were also seeking a better governance model for oversight for the custodians of these endangered, shrinking universes in their language and with little technical knowledge, partly as alternatives to the established Wikipedia to the open knowledge incubation method for small linguistic minorities.
 
 See our presentation made in the IAMIC 2024 conference in Vienna:
 
