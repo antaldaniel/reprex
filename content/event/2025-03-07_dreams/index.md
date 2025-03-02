@@ -78,8 +78,10 @@ See our presentation made in the DNBH 2025 conference in Tartu:
  
 [Read more](/project/skcmdb/) or take a look at our conference poster below:
 
-<td style="text-align: center;">{{< figure src="/jpg/dreams/dreams-reprex-poster-2025.jpg" caption="Download the poster in [pdf](/documents/poster/IAMIC-HC-2024-poster.pdf)" numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/jpg/dreams/dreams-reprex-poster-2025.jpg" caption="Download the poster in [pdf](/documents/poster/dreams-reprex-poster-2025.pdf)" numbered="false" >}}</td>
 
+
+<td style="text-align: center;">{{< figure src="https://commons.wikimedia.org/wiki/File:Road_Sign_Livonian_Coast_in_Latvian_and_Livonian_on_P131.jpg" caption="We are making available private collections on Wikimedia Commons, archive.org, and other open knowledge platforms." numbered="false" >}}</td>
 
 
 
