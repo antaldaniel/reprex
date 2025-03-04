@@ -24,10 +24,10 @@ slides: ""
 authors: ["admin"]
 
 links:
-- icon: linkedin
-  icon_pack: fab
-  name: Digital Music Observatory
-  url: https://www.linkedin.com/company/79286750/
+- icon: database
+  icon_pack: fas
+  name: Finno-Ugric Data Sharing Space
+  url: https://reprexbase.eu/fu/index.php?title=Main_Page
 - icon: linkedin
   icon_pack: fab
   name: Reprex
@@ -85,17 +85,25 @@ private systems like Wikidata, Wikimedia Commons, the Spotify or YouTube API.
 Semantic interoperability means that our system understands public and private 
 cultural APIs.
 
-
 `Q2` **How can we find new knowledge about the historical or contemporary Khanti-Manysi music tradition?**
+
+The organisational interoperability is necessary to create systems that can support application from diverse collections and organisations. We must understand that archivists, rights managers, librarians, museologists, NGOs, private collectors, festival organisers often work with the same data but in a different job or workflow. We do not only need to understand which things belong to the Khanti-Manysi universe, but also how a librarian or a streaming service would handle that part of the cultural universe.
 
 `Q3` **Which songs refer to dreams in their title or lyrics, regardless of language?**
 
-Starting with a playlist dataset of songs on Spotify, we enrich it with metadata in a way that we can serve first language-independent, then language-specific inferences and queries. In our conference presentation we will explain this by helping a curator who in our 14 language playlist wants to find songs about „imagining events while sleeping” or about a „dream”.
+Starting with a playlist dataset of songs on Spotify, we enrich it with metadata in a way that we can serve first language-independent, then language-specific inferences and queries. In our conference presentation we will explain this by helping a curator who in our 14 language playlist wants to find songs about „imagining events while sleeping” or about a „dream”. (Check out our [dreams playlist](https://open.spotify.com/playlist/6KxCdrO9iqSTQnr8KHHmtr) on Spotify.)
 
 
 `Q4` **What should be the linguistically correct description of a curated list of Samoyedic musical pieces in the Liv language?**
 
+<td style="text-align: center;">{{< figure src="/media/slides/dnbh2025/20250306_D_Antal_Tartu_generating_descriptions.png" caption="" numbered="false" >}}</td>
+
 Our system generates semantic statements from trustworthy metadata. The semantic statements are then translated to natural language descriptions. We aim for a level of fluency that is suitable for users within the Finno-Ugric communities. This tool can improve the curation and governance of open knowledge projects that cannot recruit many reviewers with a high level of language competency to give an effective oversight for a knowledge base or an AI application.
+
+
+
+
+<td style="text-align: center;">{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Road_Sign_Livonian_Coast_in_Latvian_and_Livonian_on_P131.jpg/800px-Road_Sign_Livonian_Coast_in_Latvian_and_Livonian_on_P131.jpg?20250302191717" caption="We are making available private collections on <a href="https://commons.wikimedia.org/wiki/File:Road_Sign_Livonian_Coast_in_Latvian_and_Livonian_on_P131.jpg">Wikimedia Commons</a>, archive.org, and other open knowledge platforms." numbered="false" >}}</td>
 
 ## Background
 

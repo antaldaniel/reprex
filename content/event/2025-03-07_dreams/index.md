@@ -42,10 +42,14 @@ url_slides: ''
 url_video: ''
 
 links:
-- icon: x
+- icon: database
+  icon_pack: fas
+  name: Finno-Ugric Data Sharing Space
+  url: https://reprexbase.eu/fu/index.php?title=Main_Page
+- icon: linkedin
   icon_pack: fab
-  name: "@dataandlyrics"
-  url: https://twitter.com/dataandlyrics
+  name: Reprex
+  url: https://www.linkedin.com/company/68855596/
 - icon: linkedin
   icon_pack: fab
   name: Open Music Observatory
@@ -59,7 +63,7 @@ links:
 slides: "20241121_iamic_vienna"
 ---
 
-We started experimenting with the legal, organisational, semantic and technical challenges of creating a genuinely trustworthy, AI-supported data-sharing space that can find and connect tangible and intangible elements of the Finno-Ugric cultural universes. We were also seeking a better governance model for oversight for the custodians of these endangered, shrinking universes in their language and with little technical knowledge, partly as alternatives to the established Wikipedia to the open knowledge incubation method for small linguistic minorities.
+{{% callout note %}} We started experimenting with the legal, organisational, semantic and technical challenges of creating a genuinely trustworthy, AI-supported data-sharing space that can find and connect tangible and intangible elements of the Finno-Ugric cultural universes. We were also seeking a better governance model for oversight for the custodians of these endangered, shrinking universes in their language and with little technical knowledge, partly as alternatives to the established Wikipedia to the open knowledge incubation method for small linguistic minorities.{{% /callout %}}
 
 Meet up with some of our team members, Daniel Antal, Britt-Kathleen Mere, Ieva Pigoze, Bogáta Tímár, and Ieva Vīvere during the conference, and do not forget to check out our presentation at the LP05 Session, Digital Insights in Cultural Research, on Mar 6, 2025 10:30 AM — 11:00 AM, or meet up with Kata Gábor and Dániel Antal in Paris, Anna Mester and Mihály Nagy in Budapest in subsequent workshops.
 
@@ -94,7 +98,8 @@ The organisational interoperability is necessary to create systems that can supp
 
 `Q3` **Which songs refer to dreams in their title or lyrics, regardless of language?**
 
-Starting with a playlist dataset of songs on Spotify, we enrich it with metadata in a way that we can serve first language-independent, then language-specific inferences and queries. In our conference presentation we will explain this by helping a curator who in our 14 language playlist wants to find songs about „imagining events while sleeping” or about a „dream”.
+Starting with a playlist dataset of songs on Spotify, we enrich it with metadata in a way that we can serve first language-independent, then language-specific inferences and queries. In our conference presentation we will explain this by helping a curator who in our 14 language playlist wants to find songs about „imagining events while sleeping” or about a „dream”. Starting with a playlist dataset of songs on Spotify, we enrich it with metadata in a way that we can serve first language-independent, then language-specific inferences and queries. In our conference presentation we will explain this by helping a curator who in our 14 language playlist wants to find songs about „imagining events while sleeping” or about a „dream”. (Check out our [dreams playlist](https://open.spotify.com/playlist/6KxCdrO9iqSTQnr8KHHmtr) on Spotify.)
+
 
 
 `Q4` **What should be the linguistically correct description of a curated list of Samoyedic musical pieces in the Liv language?**
@@ -102,7 +107,7 @@ Starting with a playlist dataset of songs on Spotify, we enrich it with metadata
 Our system generates semantic statements from trustworthy metadata. The semantic statements are then translated to natural language descriptions. We aim for a level of fluency that is suitable for users within the Finno-Ugric communities. This tool can improve the curation and governance of open knowledge projects that cannot recruit many reviewers with a high level of language competency to give an effective oversight for a knowledge base or an AI application.
 
 
-<td style="text-align: center;">{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Road_Sign_Livonian_Coast_in_Latvian_and_Livonian_on_P131.jpg/800px-Road_Sign_Livonian_Coast_in_Latvian_and_Livonian_on_P131.jpg?20250302191717" caption="We are making available private collections on Wikimedia Commons, archive.org, and other open knowledge platforms." numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Road_Sign_Livonian_Coast_in_Latvian_and_Livonian_on_P131.jpg/800px-Road_Sign_Livonian_Coast_in_Latvian_and_Livonian_on_P131.jpg?20250302191717" caption="We are making available private collections on <a href="https://commons.wikimedia.org/wiki/File:Road_Sign_Livonian_Coast_in_Latvian_and_Livonian_on_P131.jpg">Wikimedia Commons</a>, archive.org, and other open knowledge platforms." numbered="false" >}}</td>
 
 
 
