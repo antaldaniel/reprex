@@ -93,17 +93,11 @@ The organisational interoperability is necessary to create systems that can supp
 
 Starting with a playlist dataset of songs on Spotify, we enrich it with metadata in a way that we can serve first language-independent, then language-specific inferences and queries. In our conference presentation we will explain this by helping a curator who in our 14 language playlist wants to find songs about „imagining events while sleeping” or about a „dream”. (Check out our [dreams playlist](https://open.spotify.com/playlist/6KxCdrO9iqSTQnr8KHHmtr) on Spotify.)
 
-
 `Q4` **What should be the linguistically correct description of a curated list of Samoyedic musical pieces in the Liv language?**
 
 <td style="text-align: center;">{{< figure src="/media/slides/dnbh2025/20250306_D_Antal_Tartu_generating_descriptions.png" caption="" numbered="false" >}}</td>
 
 Our system generates semantic statements from trustworthy metadata. The semantic statements are then translated to natural language descriptions. We aim for a level of fluency that is suitable for users within the Finno-Ugric communities. This tool can improve the curation and governance of open knowledge projects that cannot recruit many reviewers with a high level of language competency to give an effective oversight for a knowledge base or an AI application.
-
-
-
-
-<td style="text-align: center;">{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Road_Sign_Livonian_Coast_in_Latvian_and_Livonian_on_P131.jpg/800px-Road_Sign_Livonian_Coast_in_Latvian_and_Livonian_on_P131.jpg?20250302191717" caption="We are making available private collections on <a href="https://commons.wikimedia.org/wiki/File:Road_Sign_Livonian_Coast_in_Latvian_and_Livonian_on_P131.jpg">Wikimedia Commons</a>, archive.org, and other open knowledge platforms." numbered="false" >}}</td>
 
 ## Background
 
@@ -129,8 +123,7 @@ conceptualisation, replication and federation practices, barriers to new
 geographical coverage areas, further scientific disciplines, and the
 tacit knowledge of smaller subcultural and minority communities.
 
-<td style="text-align: center;">{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Road_Sign_Livonian_Coast_in_Latvian_and_Livonian_on_P131.jpg/800px-Road_Sign_Livonian_Coast_in_Latvian_and_Livonian_on_P131.jpg?20250302191717" caption="We are making available private collections on Wikimedia Commons, archive.org, and other open knowledge platforms." numbered="false" >}}</td>
-
+<td style="text-align: center;">{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Road_Sign_Livonian_Coast_in_Latvian_and_Livonian_on_P131.jpg/800px-Road_Sign_Livonian_Coast_in_Latvian_and_Livonian_on_P131.jpg?20250302191717" caption="We are making available private collections on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Road_Sign_Livonian_Coast_in_Latvian_and_Livonian.jpg), archive.org, and other open knowledge platforms." numbered="false" >}}</td>
 
 We would like to present a small scale dataspace as an interoperable,
 interdisciplinary, and area-relevant explicit knowledge base and
