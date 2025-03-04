@@ -61,27 +61,48 @@ slides: "20241121_iamic_vienna"
 
 We started experimenting with the legal, organisational, semantic and technical challenges of creating a genuinely trustworthy, AI-supported data-sharing space that can find and connect tangible and intangible elements of the Finno-Ugric cultural universes. We were also seeking a better governance model for oversight for the custodians of these endangered, shrinking universes in their language and with little technical knowledge, partly as alternatives to the established Wikipedia to the open knowledge incubation method for small linguistic minorities.
 
-
 Meet up with some of our team members, Daniel Antal, Britt-Kathleen Mere, Ieva Pigoze, Bogáta Tímár, and Ieva Vīvere during the conference, and do not forget to check out our presentation at the LP05 Session, Digital Insights in Cultural Research, on Mar 6, 2025 10:30 AM — 11:00 AM, or meet up with Kata Gábor and Dániel Antal in Paris, Anna Mester and Mihály Nagy in Budapest in subsequent workshops.
 
-See our presentation made in the DNBH 2025 conference in Tartu:
-
-{{< cta cta_text="Slides" cta_link="/slides/20241121_iamic_vienna/" cta_new_tab="false" cta_alt_text="Conference" cta_alt_link="https://www.wienmodern.at/2024-iamic-conference-2024-en-4180" cta_alt_new_tab="false" >}}
-
-- [x] We want to ensure that a MICs and CMOs have the most accurate information about music. Whenever data is missing or new information has yet to reach their database, we try to look up the data from reliable sources and ensure that it arrives automatically in their system (to be reviewed by a knowledgeable human curator).
-
-- [x]  Make all music in Slovakia visible on all global music systems, encyclopaedia, Europeana and the European Cultural Heritage Cloud. Enable people to locate sheets of works for sale or public lending and show where people can listen to the music in various formats.
-
-- [x]  Provide the information in a dual format: enable a MIC to provide machine-readable, standardised, RDF annotated data to directly support the recommender systems of Spotify, YouTube, Deezer and other platforms.
-
-- [x]  Provide CMOs with a framework to make their members more visible to digital streaming platforms by enrichment, control and processing of available metadata and to also inform radio stations about the potential recordings that count into their local content, thus promoting local CMO members.
- 
-[Read more](/project/skcmdb/) or take a look at our conference poster below:
+[Read more](/project/finnougricdataspace/) or take a look at our conference poster below:
 
 <td style="text-align: center;">{{< figure src="/jpg/dreams/dreams-reprex-poster-2025.jpg" caption="Download the poster in [pdf](/documents/poster/dreams-reprex-poster-2025.pdf)" numbered="false" >}}</td>
 
 
-<td style="text-align: center;">{{< figure src="https://commons.wikimedia.org/wiki/File:Road_Sign_Livonian_Coast_in_Latvian_and_Livonian_on_P131.jpg" caption="We are making available private collections on Wikimedia Commons, archive.org, and other open knowledge platforms." numbered="false" >}}</td>
+See our presentation made in the DNBH 2025 conference in Tartu:
+
+{{< cta cta_text="Slides will be here from Wed" cta_link="/slides/20241121_iamic_vienna/" cta_new_tab="false" cta_alt_text="Conference" cta_alt_link="https://www.wienmodern.at/2024-iamic-conference-2024-en-4180" cta_alt_new_tab="false" >}}
+
+## What are the competencies of the system that we are building?
+
+We are designing a data sharing space that can confidently work with the metadata schemas, ontologies of all GLAM institutions (public libraries and archive, museums) as well as private services like Bandcamp, YouTube, Flickr, Spotify, name registration services, or radio playlisting services. Applying the European Interoperability Framework extended to privately-held data, we ensure that our users have an accurate 360° view of the digital heritage in their custody or interest, and we guarantee that research or streaming services properly use the elements of these cultural universes.
+
+
+`Q1` **Which recordings of contemporary musical work and traditional music were 
+released in the Liv and Samoyedic languages in 2012?**
+
+A data (sharing) space is a system that integrates data whenever needed or permitted. 
+The Statistical Data and Metadata eXchange, European Open Science Cloud, Europeana, 
+the European Collaborative Cloud for Cultural Heritage (ECCCH) will be connected with 
+private systems like Wikidata, Wikimedia Commons, the Spotify or YouTube API. 
+Semantic interoperability means that our system understands public and private 
+cultural APIs.
+
+
+`Q2` **How can we find new knowledge about the historical or contemporary Khanti-Manysi music tradition?**
+
+The organisational interoperability is necessary to create systems that can support application from diverse collections and organisations. We must understand that archivists, rights managers, librarians, museologists, NGOs, private collectors, festival organisers often work with the same data but in a different job or workflow. We do not only need to understand which things belong to the Khanti-Manysi universe, but also how a librarian or a streaming service would handle that part of the cultural universe.
+
+`Q3` **Which songs refer to dreams in their title or lyrics, regardless of language?**
+
+Starting with a playlist dataset of songs on Spotify, we enrich it with metadata in a way that we can serve first language-independent, then language-specific inferences and queries. In our conference presentation we will explain this by helping a curator who in our 14 language playlist wants to find songs about „imagining events while sleeping” or about a „dream”.
+
+
+`Q4` **What should be the linguistically correct description of a curated list of Samoyedic musical pieces in the Liv language?**
+
+Our system generates semantic statements from trustworthy metadata. The semantic statements are then translated to natural language descriptions. We aim for a level of fluency that is suitable for users within the Finno-Ugric communities. This tool can improve the curation and governance of open knowledge projects that cannot recruit many reviewers with a high level of language competency to give an effective oversight for a knowledge base or an AI application.
+
+
+<td style="text-align: center;">{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Road_Sign_Livonian_Coast_in_Latvian_and_Livonian_on_P131.jpg/800px-Road_Sign_Livonian_Coast_in_Latvian_and_Livonian_on_P131.jpg?20250302191717" caption="We are making available private collections on Wikimedia Commons, archive.org, and other open knowledge platforms." numbered="false" >}}</td>
 
 
 

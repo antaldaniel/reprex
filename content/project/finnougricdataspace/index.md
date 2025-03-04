@@ -11,7 +11,7 @@ lastmod: 2024-11-19T17:16:00+01:00
 summary: "We would like to present the concept and a demo of a Finno-Ugric Data Sharing Space as a knowledge base and a trustworthy AI application, and a replication of our Slovak Comprehensive Music Database created with a data sharing space in 2020-2024."
 
 # Tags: can be used for filtering projects.
-tags: ["SKCMDb", "Open Music Observatory", "music", "Finno-Ugric"]
+tags: ["knowledge graph", "dataspace", "Finno-Ugric"]
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -55,17 +55,55 @@ slides: ""
 We would like to present the concept and a demo of a *Finno-Ugric Data
 Sharing Space* as a knowledge base and a trustworthy AI
 application, and a replication of our *Slovak Comprehensive Music
-Database*[1] created with a data sharing space in 2020-2024 . Our
+Database*[^1] created with a data sharing space in 2020-2024 . Our
 application follows the novel AI and data regulatory requirements and
-recommendations [2], particularly human-in-control and human-in-the-loop
+recommendations[^2], particularly human-in-control and human-in-the-loop
 procedures, with a particular emphasis on community stewardship and
 control.
 
+<td style="text-align: center;">{{< figure src="/jpg/dreams/dreams-reprex-poster-2025.jpg" caption="Download the poster in [pdf](/documents/poster/dreams-reprex-poster-2025.pdf)" numbered="false" >}}</td>
+
+
+We started experimenting with the legal, organisational, semantic and technical 
+challenges of creating a genuinely trustworthy, AI-supported data-sharing space that 
+can find and connect tangible and intangible elements of the Finno-Ugric cultural 
+universes. We were also seeking a better governance model for oversight for the 
+custodians of these endangered, shrinking universes in their language and with 
+little technical knowledge, partly as alternatives to the established Wikipedia 
+to the open knowledge incubation method for small linguistic minorities.
+
+
+## What are the competencies of the system that we are building?
+
+`Q1` **Which recordings of contemporary musical work and traditional music were 
+released in the Liv and Samoyedic languages in 2012?**
+
+A data (sharing) space is a system that integrates data whenever needed or permitted. 
+The Statistical Data and Metadata eXchange, European Open Science Cloud, Europeana, 
+the European Collaborative Cloud for Cultural Heritage (ECCCH) will be connected with 
+private systems like Wikidata, Wikimedia Commons, the Spotify or YouTube API. 
+Semantic interoperability means that our system understands public and private 
+cultural APIs.
+
+
+`Q2` **How can we find new knowledge about the historical or contemporary Khanti-Manysi music tradition?**
+
+`Q3` **Which songs refer to dreams in their title or lyrics, regardless of language?**
+
+Starting with a playlist dataset of songs on Spotify, we enrich it with metadata in a way that we can serve first language-independent, then language-specific inferences and queries. In our conference presentation we will explain this by helping a curator who in our 14 language playlist wants to find songs about „imagining events while sleeping” or about a „dream”.
+
+
+`Q4` **What should be the linguistically correct description of a curated list of Samoyedic musical pieces in the Liv language?**
+
+Our system generates semantic statements from trustworthy metadata. The semantic statements are then translated to natural language descriptions. We aim for a level of fluency that is suitable for users within the Finno-Ugric communities. This tool can improve the curation and governance of open knowledge projects that cannot recruit many reviewers with a high level of language competency to give an effective oversight for a knowledge base or an AI application.
+
+## Background
+
 Our work in Slovakia aims to prototype work for a future European Music
-Observatory [3]. It is a significant extension of the similar work of a
-best practice presented on DHNB 2023[4]. We extend the legal,
+Observatory [^3]. It is a significant extension of the similar work of a
+best practice presented on DHNB 2023[^4]. We extend the legal,
 organisational and semantic interoperability towards privately owned
-music streaming platforms, music businesses and NGOs[5]. For the first
+music streaming platforms, music businesses and NGOs[^5]. For the first
 time we connected a national copyright registry (Slovak Performing and
 Mechanical Rights Society) parallel to the authority control of a
 national library. We included the Wikimedia Slovensko, a custodian of
@@ -82,6 +120,9 @@ silo barriers among different institutions’ data as well as with our
 conceptualisation, replication and federation practices, barriers to new
 geographical coverage areas, further scientific disciplines, and the
 tacit knowledge of smaller subcultural and minority communities.
+
+<td style="text-align: center;">{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Road_Sign_Livonian_Coast_in_Latvian_and_Livonian_on_P131.jpg/800px-Road_Sign_Livonian_Coast_in_Latvian_and_Livonian_on_P131.jpg?20250302191717" caption="We are making available private collections on Wikimedia Commons, archive.org, and other open knowledge platforms." numbered="false" >}}</td>
+
 
 We would like to present a small scale dataspace as an interoperable,
 interdisciplinary, and area-relevant explicit knowledge base and
@@ -100,7 +141,7 @@ Our novel research has already made inroads into this area:
 
 -   We want to show that our mature knowledge base concerning Slovak
     music can be federated with area-specific ethnomusicological
-    knowledge from the Latvian Folk Archive, and through the recent
+    knowledge from the Archives of Latvian Folklore, and through the recent
     community curated collections on the living music tradition of
     Finno-Ugric minorities.
 
@@ -146,15 +187,15 @@ Pigozne, Ieva, and Dániel Antal. 2024. ‘<span class="nocase">Linked Open
 Datasets on Garments from the Latgale Region</span>’. Zenodo.
 <https://doi.org/10.5281/zenodo.13971707>.
 
-[1] Antal (2020)
+[^1]: Antal (2020)
 
-[2] EBU and Gaia-X (2022)
+[^2]: EBU and Gaia-X (2022)
 
-[3] Our work in Slovakia is funded by the *Open Music Europe* Horizon
+[^3]: Our work in Slovakia is funded by the *Open Music Europe* Horizon
 Europe project Open Music Europe (2023) and aim to fulfil the
 requirements set in European Commission et al. (2020).
 
-[4] Fagerving (2023)
+[^4]: Fagerving (2023)
 
 [5] Antal, Grochal, and Varvantakis (2024)
 
