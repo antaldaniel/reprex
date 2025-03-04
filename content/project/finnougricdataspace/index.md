@@ -64,6 +64,7 @@ control.
 <td style="text-align: center;">{{< figure src="/jpg/dreams/dreams-reprex-poster-2025.jpg" caption="Download the poster in [pdf](/documents/poster/dreams-reprex-poster-2025.pdf)" numbered="false" >}}</td>
 
 
+{{% callout note %}}
 We started experimenting with the legal, organisational, semantic and technical 
 challenges of creating a genuinely trustworthy, AI-supported data-sharing space that 
 can find and connect tangible and intangible elements of the Finno-Ugric cultural 
@@ -71,6 +72,7 @@ universes. We were also seeking a better governance model for oversight for the
 custodians of these endangered, shrinking universes in their language and with 
 little technical knowledge, partly as alternatives to the established Wikipedia 
 to the open knowledge incubation method for small linguistic minorities.
+{{% /callout %}}
 
 
 ## What are the competencies of the system that we are building?

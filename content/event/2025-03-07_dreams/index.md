@@ -56,8 +56,6 @@ slides: "20241121_iamic_vienna"
 
 {{% callout note %}} We started experimenting with the legal, organisational, semantic and technical challenges of creating a genuinely trustworthy, AI-supported data-sharing space that can find and connect tangible and intangible elements of the Finno-Ugric cultural universes. We were also seeking a better governance model for oversight for the custodians of these endangered, shrinking universes in their language and with little technical knowledge, partly as alternatives to the established Wikipedia to the open knowledge incubation method for small linguistic minorities.{{% /callout %}}
 
-{{% callout note %}} We started experimenting with the legal, organisational, semantic and technical challenges of creating a genuinely trustworthy, AI-supported data-sharing space that can find and connect tangible and intangible elements of the Finno-Ugric cultural universes. We were also seeking a better governance model for oversight for the custodians of these endangered, shrinking universes in their language and with little technical knowledge, partly as alternatives to the established Wikipedia to the open knowledge incubation method for small linguistic minorities.{{% /callout %}}
-
 Meet up with some of our team members, Daniel Antal, Britt-Kathleen Mere, Ieva Pigoze, Bogáta Tímár, and Ieva Vīvere during the conference, and do not forget to check out our presentation at the LP05 Session, Digital Insights in Cultural Research, on Mar 6, 2025 10:30 AM — 11:00 AM, or meet up with Kata Gábor and Dániel Antal in Paris, Anna Mester and Mihály Nagy in Budapest in subsequent workshops.
 
 [Read more](/project/finnougricdataspace/) or take a look at our conference poster below:
