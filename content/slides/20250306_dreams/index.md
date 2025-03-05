@@ -68,60 +68,60 @@ The best is to view slides in **full screen (F) mode**.
 
 ---
 
-{{< slide background-image="D_Antal_20250306_Tartu_010.png" background-position="center">}}
+{{< slide background-image="D_Antal_20250306_Tartu_10.png" background-position="center">}}
 <br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
 ---
 
-{{< slide background-image="D_Antal_20250306_Tartu_011.png" background-position="center">}}
+{{< slide background-image="D_Antal_20250306_Tartu_11.png" background-position="center">}}
 <br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
 ---
 
-{{< slide background-image="D_Antal_20250306_Tartu_012.png" background-position="center">}}
-<br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
-
----
-
-{{< slide background-image="D_Antal_20250306_Tartu_013.png" background-position="center">}}
+{{< slide background-image="D_Antal_20250306_Tartu_12.png" background-position="center">}}
 <br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
 
 ---
 
-{{< slide background-image="D_Antal_20250306_Tartu_014.png" background-position="center">}}
+{{< slide background-image="D_Antal_20250306_Tartu_13.png" background-position="center">}}
 <br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
 
 ---
 
-{{< slide background-image="D_Antal_20250306_Tartu_015.png" background-position="center">}}
-<br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
-
----
-{{< slide background-image="D_Antal_20250306_Tartu_016.png" background-position="center">}}
-<br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
-
----
-{{< slide background-image="D_Antal_20250306_Tartu_017.png" background-position="center">}}
-<br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
-
----
-{{< slide background-image="D_Antal_20250306_Tartu_018.png" background-position="center">}}
-<br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
-
----
-{{< slide background-image="D_Antal_20250306_Tartu_019.png" background-position="center">}}
-<br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
-
----
-{{< slide background-image="D_Antal_20250306_Tartu_020.png" background-position="center">}}
+{{< slide background-image="D_Antal_20250306_Tartu_14.png" background-position="center">}}
 <br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
 
 ---
 
-{{< slide background-image="D_Antal_20250306_Tartu_021.png" background-position="center">}}
+{{< slide background-image="D_Antal_20250306_Tartu_15.png" background-position="center">}}
+<br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
+
+---
+{{< slide background-image="D_Antal_20250306_Tartu_16.png" background-position="center">}}
+<br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
+
+---
+{{< slide background-image="D_Antal_20250306_Tartu_17.png" background-position="center">}}
+<br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
+
+---
+{{< slide background-image="D_Antal_20250306_Tartu_18.png" background-position="center">}}
+<br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
+
+---
+{{< slide background-image="D_Antal_20250306_Tartu_19.png" background-position="center">}}
+<br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
+
+---
+{{< slide background-image="D_Antal_20250306_Tartu_20.png" background-position="center">}}
 <br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
 
 ---
 
-{{< slide background-image="D_Antal_20250306_Tartu_022.png" background-position="center">}}
+{{< slide background-image="D_Antal_20250306_Tartu_21.png" background-position="center">}}
+<br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
+
+---
+
+{{< slide background-image="D_Antal_20250306_Tartu_22.png" background-position="center">}}
 <br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
 
 
