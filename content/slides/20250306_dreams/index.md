@@ -120,20 +120,16 @@ The best is to view slides in **full screen (F) mode**.
 {{< slide background-image="D_Antal_20250306_Tartu_21.png" background-position="center">}}
 <br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
 
----
-
-{{< slide background-image="D_Antal_20250306_Tartu_22.png" background-position="center">}}
-<br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
-
 
 ---
+
 ### Questions?
 
-<p style="font-size:85%" > Kérdezzen: <a href="https://reprex.nl/#contact" target="_blank">Email</a> |
+<p style="font-size:85%" > Ask: <a href="https://reprex.nl/#contact" target="_blank">Email</a> |
 <a href="https://keybase.io/team/reprexcommunity" target="_blank">Keybase</a> 
 </p>
 <p style="font-size:85%" > LinkedIn: 
-<a href="https://www.linkedin.com/in/antaldaniel/" target="_blank">Antal Dániel</a> |
+<a href="https://www.linkedin.com/in/antaldaniel/" target="_blank">Daniel Antal, CFA</a> |
 <a href="https://www.linkedin.com/company/68855596" target="_blank">Reprex</a> </p>
 
 
