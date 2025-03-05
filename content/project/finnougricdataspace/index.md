@@ -77,6 +77,8 @@ to the open knowledge incubation method for small linguistic minorities.
 
 ## What are the competencies of the system that we are building?
 
+{{< cta cta_text="Slides Preview (still edited)" cta_link="/slides/20250306_dreams/" cta_new_tab="false" cta_alt_text="Conference" cta_alt_link="https://dhnb.eu/conferences/dhnb2025/" cta_alt_new_tab="false" >}}
+
 `Q1` **Which recordings of contemporary musical work and traditional music were 
 released in the Liv and Samoyedic languages in 2012?**
 

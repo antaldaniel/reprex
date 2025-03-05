@@ -51,7 +51,7 @@ links:
   url: https://dhnb.eu/conferences/dhnb2025/
 
 # Markdown Slides (optional).
-slides: "20241121_iamic_vienna"
+slides: "20250306_dreams"
 ---
 
 {{% callout note %}} We started experimenting with the legal, organisational, semantic and technical challenges of creating a genuinely trustworthy, AI-supported data-sharing space that can find and connect tangible and intangible elements of the Finno-Ugric cultural universes. We were also seeking a better governance model for oversight for the custodians of these endangered, shrinking universes in their language and with little technical knowledge, partly as alternatives to the established Wikipedia to the open knowledge incubation method for small linguistic minorities.{{% /callout %}}
@@ -65,7 +65,7 @@ Meet up with some of our team members, Daniel Antal, Britt-Kathleen Mere, Ieva P
 
 See our presentation made in the DNBH 2025 conference in Tartu:
 
-{{< cta cta_text="Slides will be here from Wed" cta_link="/slides/20241121_iamic_vienna/" cta_new_tab="false" cta_alt_text="Conference" cta_alt_link="https://www.wienmodern.at/2024-iamic-conference-2024-en-4180" cta_alt_new_tab="false" >}}
+{{< cta cta_text="Slides Preview (still edited)" cta_link="/slides/20250306_dreams/" cta_new_tab="false" cta_alt_text="Conference" cta_alt_link="https://dhnb.eu/conferences/dhnb2025/" cta_alt_new_tab="false" >}}
 
 ## What are the competencies of the system that we are building?
 
