@@ -71,10 +71,12 @@ The best is to view slides in **full screen (F) mode**.
 
 {{< slide background-image="D_Antal_20250306_Tartu_10.png" background-position="center">}}
 <br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
+
 ---
 
 {{< slide background-image="D_Antal_20250306_Tartu_11.png" background-position="center">}}
 <br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
+
 ---
 
 {{< slide background-image="D_Antal_20250306_Tartu_12.png" background-position="center">}}
@@ -96,22 +98,27 @@ The best is to view slides in **full screen (F) mode**.
 <br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
 
 ---
+
 {{< slide background-image="D_Antal_20250306_Tartu_16.png" background-position="center">}}
 <br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
 
 ---
+
 {{< slide background-image="D_Antal_20250306_Tartu_17.png" background-position="center">}}
 <br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
 
 ---
+
 {{< slide background-image="D_Antal_20250306_Tartu_18.png" background-position="center">}}
 <br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
 
 ---
+
 {{< slide background-image="D_Antal_20250306_Tartu_19.png" background-position="center">}}
 <br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
 
 ---
+
 {{< slide background-image="D_Antal_20250306_Tartu_20.png" background-position="center">}}
 <br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
 
@@ -119,7 +126,6 @@ The best is to view slides in **full screen (F) mode**.
 
 {{< slide background-image="D_Antal_20250306_Tartu_21.png" background-position="center">}}
 <br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
-
 
 ---
 
