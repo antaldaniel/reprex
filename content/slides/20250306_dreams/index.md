@@ -61,6 +61,7 @@ The best is to view slides in **full screen (F) mode**.
 
 {{< slide background-image="D_Antal_20250306_Tartu_08.png" background-position="center">}}
 <br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
+
 ---
 
 {{< slide background-image="D_Antal_20250306_Tartu_09.png" background-position="center">}}
