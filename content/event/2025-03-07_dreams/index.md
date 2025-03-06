@@ -42,13 +42,21 @@ url_slides: ''
 url_video: ''
 
 links:
+- icon: linkedin
+  icon_pack: fab
+  name: Reprex
+  url: https://www.linkedin.com/company/68855596/
 - icon: database
   icon_pack: fas
   name: Finno-Ugric Data Sharing Space
-- icon: music
+- icon: info
   icon_pack: fas
   name: DNBH2025
   url: https://dhnb.eu/conferences/dhnb2025/
+- icon: music
+  icon_pack: fas
+  name: "dreams playlist for DNBH2025"
+  url: https://open.spotify.com/playlist/6KxCdrO9iqSTQnr8KHHmtr
 
 # Markdown Slides (optional).
 slides: "20250306_dreams"

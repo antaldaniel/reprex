@@ -19,7 +19,7 @@ external_link: ""
 # Special chars . . . —
 # Slides (optional).
 #   Otherwise, set `slides: ""`.
-slides: ""
+slides: "20250306_dreams"
 
 authors: ["admin"]
 
@@ -27,7 +27,14 @@ links:
 - icon: database
   icon_pack: fas
   name: Finno-Ugric Data Sharing Space
-  url: https://reprexbase.eu/fu/index.php?title=Main_Page
+- icon: info
+  icon_pack: fas
+  name: DNBH2025
+  url: https://dhnb.eu/conferences/dhnb2025/
+- icon: music
+  icon_pack: fas
+  name: "dreams playlist for DNBH2025"
+  url: https://open.spotify.com/playlist/6KxCdrO9iqSTQnr8KHHmtr
 - icon: linkedin
   icon_pack: fab
   name: Reprex
