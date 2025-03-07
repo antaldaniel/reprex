@@ -71,6 +71,8 @@ Meet up with some of our team members, Daniel Antal, Britt-Kathleen Mere, Ieva P
 <td style="text-align: center;">{{< figure src="/jpg/dreams/dreams-reprex-poster-2025.jpg" caption="Download the poster in [pdf](/documents/poster/dreams-reprex-poster-2025.pdf)" numbered="false" >}}</td>
 
 
+
+
 See our presentation made in the DNBH 2025 conference in Tartu:
 
 {{< cta cta_text="Slides Preview (still edited)" cta_link="/slides/20250306_dreams/" cta_new_tab="false" cta_alt_text="Conference" cta_alt_link="https://dhnb.eu/conferences/dhnb2025/" cta_alt_new_tab="false" >}}
@@ -99,6 +101,9 @@ The organisational interoperability is necessary to create systems that can supp
 `Q3` **Which songs refer to dreams in their title or lyrics, regardless of language?**
 
 Starting with a playlist dataset of songs on Spotify, we enrich it with metadata in a way that we can serve first language-independent, then language-specific inferences and queries. In our conference presentation we will explain this by helping a curator who in our 14 language playlist wants to find songs about „imagining events while sleeping” or about a „dream”. Starting with a playlist dataset of songs on Spotify, we enrich it with metadata in a way that we can serve first language-independent, then language-specific inferences and queries. In our conference presentation we will explain this by helping a curator who in our 14 language playlist wants to find songs about „imagining events while sleeping” or about a „dream”. (Check out our [dreams playlist](https://open.spotify.com/playlist/6KxCdrO9iqSTQnr8KHHmtr) on Spotify.)
+
+<td style="text-align: center;">{{< figure src="/media/png/dataspace/finnougric/20250306_D_Antal_Tartu_dreamsplaylist.png" caption="" numbered="false" >}}</td>
+
 
 `Q4` **What should be the linguistically correct description of a curated list of Samoyedic musical pieces in the Liv language?**
 

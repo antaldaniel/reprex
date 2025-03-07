@@ -104,6 +104,9 @@ The organisational interoperability is necessary to create systems that can supp
 
 Starting with a playlist dataset of songs on Spotify, we enrich it with metadata in a way that we can serve first language-independent, then language-specific inferences and queries. In our conference presentation we will explain this by helping a curator who in our 14 language playlist wants to find songs about „imagining events while sleeping” or about a „dream”. (Check out our [dreams playlist](https://open.spotify.com/playlist/6KxCdrO9iqSTQnr8KHHmtr) on Spotify.)
 
+<td style="text-align: center;">{{< figure src="/media/png/dataspace/finnougric/20250306_D_Antal_Tartu_dreamsplaylist.png" caption="" numbered="false" >}}</td>
+
+
 `Q4` **What should be the linguistically correct description of a curated list of Samoyedic musical pieces in the Liv language?**
 
 <td style="text-align: center;">{{< figure src="/media/slides/dnbh2025/20250306_D_Antal_Tartu_generating_descriptions.png" caption="" numbered="false" >}}</td>
