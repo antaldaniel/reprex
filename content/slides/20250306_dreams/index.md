@@ -89,6 +89,13 @@ The best is to view slides in **full screen (F) mode**.
 
 ---
 
+{{< slide background-image="20250306_D_Antal_Tartu_dreamsplaylist.png" background-position="center">}}
+<br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
+<smaller>
+Click <a href="https://reprexbase.eu/fu/index.php?title=Item:Q3714">here</a> and <a href="https://open.spotify.com/playlist/6KxCdrO9iqSTQnr8KHHmtr">here</a> 
+</smaller>
+---
+
 {{< slide background-image="D_Antal_20250306_Tartu_14.png" background-position="center">}}
 <br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
 
