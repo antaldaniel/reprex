@@ -25,7 +25,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2025-03-02T08:30:00+02:00'
 
-authors: ["daniel_antal", "Gábor, Kata"]
+authors: ["daniel_antal", "Gábor, Kata", "Mester, Anna", "Nagy, Mihály", "Ieva Pigozne", "Ieva Vivere"]
 tags: ["Dataspace", "Finno-Ugric", "Dataspace", "Wikidata", "Lexeme"]
 
 # Is this a featured talk? (true/false)
@@ -49,6 +49,7 @@ links:
 - icon: database
   icon_pack: fas
   name: Finno-Ugric Data Sharing Space
+  url: https://reprexbase.eu/fu/index.php
 - icon: info
   icon_pack: fas
   name: DNBH2025

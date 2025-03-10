@@ -5,7 +5,7 @@ subtitle: ""
 
 # Date this page was created.
 date: 2024-11-19T17:16:00+01:00
-lastmod: 2024-11-19T17:16:00+01:00
+lastmod: 2025-03-10T16:10:00+02:00
 
 # Project summary to display on homepage.
 summary: "We would like to present the concept and a demo of a Finno-Ugric Data Sharing Space as a knowledge base and a trustworthy AI application, and a replication of our Slovak Comprehensive Music Database created with a data sharing space in 2020-2024."
@@ -27,6 +27,7 @@ links:
 - icon: database
   icon_pack: fas
   name: Finno-Ugric Data Sharing Space
+  url: https://reprexbase.eu/fu/index.php
 - icon: info
   icon_pack: fas
   name: DNBH2025
