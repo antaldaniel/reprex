@@ -37,6 +37,8 @@
     Oversight](#from-infrastructure-to-oversight)
 - [References](#references)
 
+ 
+
 # Motivation and Background
 
 [<img src="png/wikibase/fu_opening_page_20250401.png"
@@ -131,10 +133,10 @@ through Wikidata and hosted via Wikimedia Commons. This curatorial model
 rebalances the representation of cultural minorities without diluting
 the editorial integrity of Wikipedia.
 
-<img
-src="https://reprex.nl/media/jpg/dreams/dreams-reprex-poster-2025_hu51661e0f756b9d3138ea612a8422b121_3152777_1200x1200_fit_q75_h2_lanczos.webp"
-data-fig-align="center"
+<img src="jpg/dreams-reprex-poster-2025.jpg" data-fig-align="center"
 alt="Our unfunded project was presented as a conference paper and as a poster in the Digital Dreams And Practices conference (Digital Humanities in the Nordic &amp; Baltic Countries 2025) conference; it will be avialable as a peer reviewed publication later this year. You can download the poster in pdf. https://reprex.nl/documents/poster/dreams-reprex-poster-2025.pdf" />
+
+ 
 
 # Prototype for PPP Knowledge Incubation Into the Wikimedia Ecosystem
 
@@ -143,6 +145,8 @@ alt="Our unfunded project was presented as a conference paper and as a poster in
 To guide the design and implementation of the Finno-Ugric Data Sharing
 Space, we define the following key competencies the platform must
 address:
+
+ 
 
 ### Q1: Define the Scope of the Cultural Universe
 
@@ -197,6 +201,8 @@ resource—complementary to but distinct from global projects.
 >
 > - Link to associated artefacts, songs, photos, or oral histories from
 >   this location.
+
+ 
 
 ### Q2: Bridge Institutional and Linguistic Silos
 
@@ -259,6 +265,8 @@ training*, to meaningfully engage with their heritage.
 >
 > - Optionally generate a multilingual summary of the findings and
 >   enable further semantic enrichment.
+
+ 
 
 ### Q3: Translate Information into Structured, Interoperable Knowledge
 
@@ -348,6 +356,8 @@ ex:voemmorski_village a crm:E53_Place ;
     crm:P89_falls_within ex:setomaa_region .
 ```
 
+ 
+
 ### Q4: Translate Structured Knowledge into Human-Readable Language
 
 Many small communities lack trained librarians, information
@@ -427,6 +437,8 @@ Expected features
 > > Museum under the catalogue ID *ERM Fk 213:172*. The record is
 > > available at <https://opendata.muis.ee/object/610034>.”
 
+
+
 ### Q5: Enable Legal and Technical Interoperability Across Public and Private Knowledge Sources
 
 Much of the cultural heritage of small and stateless communities is held
@@ -442,8 +454,7 @@ other open repositories. Our goal is to create *an inclusive
 data-sharing model* that recognizes the distributed nature of cultural
 custody in small communities.
 
-<img
-src="png/slides/D_Antal_20250306_Tartu/D_Antal_20250306_Tartu_20.png"
+<img src="png/slides/D_Antal_20250306_Tartu_20.png"
 data-fig-align="center" />
 
 To goal of or Finno-Ugric Data Sharing Space offer legally respectful,
@@ -513,6 +524,8 @@ of the heritage landscape.
 >
 > - For Wikimedia, only materials with compatible licensing (e.g., CC
 >   BY-SA) are directly transferred to Commons or Wikidata
+
+ 
 
 ## Competency Questions: Involving Wikipedians and the Wikimedia Ecosystem
 
@@ -651,6 +664,8 @@ Wikibase Cloud or Suit solutions.
 > - Allow these outputs to feed back into future *encyclopedic articles
 >   or WikiGLAM exhibitions* in Liv, Seto, Mari, or multilingual format.
 
+ 
+
 ### Q7: Use Computational Linguistics to Enrich Lexicographic Resources via Lexeme and Wiktionary Integration
 
 The Liv, Seto, and Mari languages are primarily oral, with limited
@@ -707,6 +722,8 @@ outputs* that:
 > semi-automatically populate Wikidata’s Lexeme extension and Wiktionary
 > entries, supporting formal documentation and visibility of Liv, Seto,
 > and Mari languages?*
+
+ 
 
 ### Q8: Create Interpretive Layers That Complement Wikipedia’s Notability Criteria
 
@@ -778,6 +795,8 @@ institutions, and a clear URI for citation and long-term access.
 > seamstress. But together, they form a *culturally rich narrative* that
 > deserves preservation and visibility.
 
+ 
+
 # Policy Alignment and Ethical Governance
 
 While the Finno-Ugric Data Sharing Space introduces technical
@@ -838,6 +857,8 @@ generation, and review workflows that center community consent.
 In this sense, the Finno-Ugric Data Sharing Space is not just a
 technical platform—it is a prototype for *community-led knowledge
 governance* in the digital age.
+
+ 
 
 # References
 
