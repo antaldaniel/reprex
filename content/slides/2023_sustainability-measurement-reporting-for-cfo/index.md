@@ -25,6 +25,8 @@ slides:
 
 ## Slide navigation
 
+PRESS 🇫 KEY ON YOUR KEYBOARD 
+
 - Next: `️>` or `Space` | Previous :️`<`
 - Start: `Home` | Finish: `End`
 - Overview: `Esc`|  Speaker notes: `S`
