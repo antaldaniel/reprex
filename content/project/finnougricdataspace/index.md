@@ -19,6 +19,10 @@ links:
   icon_pack: fas
   name: DNBH2025
   url: https://dhnb.eu/conferences/dhnb2025/
+- icon: book
+  icon_pack: fas
+  name: "Long-form Project Documentation"
+  url: https://reprex.nl/documents/fu/fu
 - icon: music
   icon_pack: fas
   name: "dreams playlist for DNBH2025"
@@ -66,7 +70,7 @@ editor_options:
 
 # Motivation and Background
 
-<td style="text-align: center;">{{< figure src="/png/fuds/wikibase/fu_opening_page_20250401.png" caption="Please check out the demo version of the Finno-Ugric Dataspace <https://reprexbase.eu/fu/index.php?title=Main_Page>" numbered="false" >}}</td>
+<td style="text-align: center;">{{< figure src="/png/fuds/wikibase/fu_opening_page_20250401.png" caption="Please check out the demo version of the [Finno-Ugric Dataspace](https://reprexbase.eu/fu/index.php?title=Main_Page) or read the long-form [project description](https://reprex.nl/documents/fu/fu)." numbered="false" >}}</td>
 
 The `Finno-Ugric Data Sharing Space` builds on a prior project that unified all known music ever recorded or produced in Slovakia (Ministerstvo kultúry SR and Open Music Europe 2023) together with a Wikipedian-in-residence. Although Slovak music represents a relatively compact cultural domain, the relevant information was scattered across multiple public and private institutions, each with its own metadata structures, languages, and access constraints. This earlier work demonstrated that, even within a narrowly defined cultural area, knowledge integration is complex and labor-intensive---but also highly impactful when successful. By coordinating diverse stakeholders and aligning their data practices, we created a shared knowledge infrastructure that respected institutional contexts while enabling broader discovery, reuse, and enrichment.
 

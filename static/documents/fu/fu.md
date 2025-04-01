@@ -525,7 +525,7 @@ of the heritage landscape.
 > - For Wikimedia, only materials with compatible licensing (e.g., CC
 >   BY-SA) are directly transferred to Commons or Wikidata
 
- 
+
 
 ## Competency Questions: Involving Wikipedians and the Wikimedia Ecosystem
 
@@ -544,7 +544,7 @@ like Spotify, retaining links to their rich descriptive ecosystems
 community annotation, translation, and contextualization.
 
 <table>
-<caption>Playlists</caption>
+<caption>Contemporary and Non-Traditional Cultural Expressions</caption>
 <colgroup>
 <col style="width: 50%" />
 <col style="width: 50%" />
@@ -608,7 +608,7 @@ title="Item:Q2631">Erzya Moksha Playlist</a>.</p></td>
 </tbody>
 </table>
 
-Playlists
+Contemporary and Non-Traditional Cultural Expressions
 
 To goal of the FUD is to empower Wikipedians, citizen scientists and
 activists to contribute culturally and linguistically meaningful content
