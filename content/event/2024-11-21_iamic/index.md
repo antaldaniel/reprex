@@ -58,24 +58,35 @@ links:
 slides: "20241121_iamic_vienna"
 ---
 
-Most music is being recommended by algorithms, not only to subscribers of YouTube or Spotify but also to radio editors, concert promoters and festival organisers. This led to the conclusion that rights management organisations (CMOs) and music information centres (MICs) must improve their practices to remain competitive and visible. Using modern data-enriching techniques, we ensure that they have the most accurate 360° views of the repertoire they represent. We also guarantee that digital streaming services and search engines are informed about precise and up-to-date knowledge. 
+Today, most music is recommended by algorithms—not only to subscribers of platforms like YouTube and Spotify, but also to radio editors, concert promoters, and festival organisers. This shift has led to the conclusion that *collective management organisations (CMOs)* and *music information centres (MICs)* must modernise their metadata and publishing practices to remain visible and competitive in the digital age.
 
-See our presentation made in the IAMIC 2024 conference in Vienna:
+Using advanced data enrichment techniques, our platform helps ensure that these institutions have the most accurate, 360° view of the repertoire they represent. We also ensure that digital streaming services and search engines are updated with precise, reliable, and machine-readable musical metadata.
+
+See our presentation made in the *IAMIC 2024* conference in Vienna:
 
 {{< cta cta_text="Slides" cta_link="/slides/20241121_iamic_vienna/" cta_new_tab="false" cta_alt_text="Conference" cta_alt_link="https://www.wienmodern.at/2024-iamic-conference-2024-en-4180" cta_alt_new_tab="false" >}}
 
-- [x] We want to ensure that a MICs and CMOs have the most accurate information about music. Whenever data is missing or new information has yet to reach their database, we try to look up the data from reliable sources and ensure that it arrives automatically in their system (to be reviewed by a knowledgeable human curator).
+Our goal is to ensure that MICs and CMOs maintain the most up-to-date information about musical works. Whenever data is missing or outdated, we retrieve it from authoritative sources and deliver it automatically into their systems—ready for review by human curators.
 
-- [x]  Make all music in Slovakia visible on all global music systems, encyclopaedia, Europeana and the European Cultural Heritage Cloud. Enable people to locate sheets of works for sale or public lending and show where people can listen to the music in various formats.
+We aim to make all music in Slovakia visible across global music discovery platforms, encyclopaedias, Europeana, and the `European Cultural Heritage Cloud`. This includes helping users locate sheet music for sale or loan, as well as showing where each piece can be heard—whether via streaming, radio, or public archives.
 
-- [x]  Provide the information in a dual format: enable a MIC to provide machine-readable, standardised, RDF annotated data to directly support the recommender systems of Spotify, YouTube, Deezer and other platforms.
+To achieve this, we provide:
 
-- [x]  Provide CMOs with a framework to make their members more visible to digital streaming platforms by enrichment, control and processing of available metadata and to also inform radio stations about the potential recordings that count into their local content, thus promoting local CMO members.
- 
+-   [x] We want to ensure that a MICs and CMOs have the most accurate information about music. Whenever data is missing or new information has yet to reach their database, we try to look up the data from reliable sources and ensure that it arrives automatically in their system (to be reviewed by a knowledgeable human curator).
+
+-   [x] Make all music in Slovakia visible on all global music systems, encyclopaedia, Europeana and the European Cultural Heritage Cloud. Enable people to locate sheets of works for sale or public lending and show where people can listen to the music in various formats.
+
+-   [x] Provide the information in a dual format: enable a MIC to provide machine-readable, standardised, RDF annotated data to directly support the recommender systems of Spotify, YouTube, Deezer and other platforms.
+
+-   [x] Provide CMOs with a framework to make their members more visible to digital streaming platforms by enrichment, control and processing of available metadata and to also inform radio stations about the potential recordings that count into their local content, thus promoting local CMO members.
+
 [Read more](/project/skcmdb/) or take a look at our conference poster below:
 
-<td style="text-align: center;">{{< figure src="/jpg/skcmdb/IAMIC-HC-2024-poster.jpg" caption="Download the poster in [pdf](/documents/poster/IAMIC-HC-2024-poster.pdf)" numbered="false" >}}</td>
+<td style="text-align: center;">
 
+{{< figure src="/jpg/skcmdb/IAMIC-HC-2024-poster.jpg" caption="Download the poster in pdf" numbered="false" >}}
+
+</td>
 
 
 
