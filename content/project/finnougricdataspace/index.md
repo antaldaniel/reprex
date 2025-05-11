@@ -2,7 +2,7 @@
 title: "The Finno-Ugric Data Sharing Space"
 subtitle: "A Prototype for Multilingual Cultural Knowledge Incubation with Advanced Data Governance and Wikimedia Integration" 
 date: 2024-11-19T17:16:00+01:00
-lastmod: 2025-04-01T21:09:00+01:00
+lastmod: 2025-05-11T15:05:00+01:00
 summary: "We would like to present the concept and a demo of a Finno-Ugric Data Sharing Space as a knowledge base and a trustworthy AI application, and a replication of our Slovak Comprehensive Music Database created with a data sharing space in 2020-2024."
 # Tags: can be used for filtering projects.
 tags: ["knowledge graph", "dataspace", "Finno-Ugric"]
