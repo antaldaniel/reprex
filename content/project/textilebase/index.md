@@ -2,7 +2,7 @@
 title: "TextileBase"
 subtitle: "A platform to collect, connect, and share meta- and research data on material, visual, and textual sources of historical clothing" 
 date: 2025-05-11T17:15:10+01:00
-# lastmod: 2025-05-11T15:29:00+01:00
+lastmod: 2025-05-11T15:29:00+01:00
 summary: "The main goal of TextileBase is to help dress history scholars and practitioners by creating a gateway to linked data that have been collected and stored by researchers and memory institutions."
 # Tags: can be used for filtering projects.
 tags: ["knowledge graph", "dataspace", "garments", "textiles"]
