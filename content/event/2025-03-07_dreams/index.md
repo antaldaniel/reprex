@@ -58,6 +58,10 @@ links:
   icon_pack: fas
   name: "Long-form Project Documentation"
   url: https://reprex.nl/documents/fu/fu
+- icon: z
+  icon_pack: fab
+  name: Zenodo Community
+  url: https://zenodo.org/communities/finnougricdataspace/
 - icon: music
   icon_pack: fas
   name: "dreams playlist for DNBH2025"

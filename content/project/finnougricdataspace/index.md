@@ -27,6 +27,10 @@ links:
   icon_pack: fas
   name: "dreams playlist for DNBH2025"
   url: https://open.spotify.com/playlist/6KxCdrO9iqSTQnr8KHHmtr
+- icon: z
+  icon_pack: fab
+  name: Zenodo Community
+  url: https://zenodo.org/communities/finnougricdataspace/
 - icon: linkedin
   icon_pack: fab
   name: Reprex
