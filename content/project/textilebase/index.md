@@ -54,3 +54,15 @@ The first published dataset, [Linked Open Datasets on Garments from the Latgale 
 -   Check out the properties (relations) in the data model: [ListProperties](https://reprexbase.eu/textilebase/index.php?title=Special:ListProperties "Special:ListProperties")
 
 -   See every entry in the database: [All items](https://reprexbase.eu/textilebase/index.php?title=Special:AllPages&from=&to=&namespace=120)
+
+**How TextileBase Works**
+
+`TextileBase` is an intelligent, modular system designed to support collaborative textile research and data sharing. Its main interface is a user-friendly Wikibase instance---built on the same software that powers Wikimedia projects---which allows researchers and textile enthusiasts to record, link, and validate knowledge.
+
+Behind the scenes, `TextileBase` integrates advanced methods from digital humanities. It uses an ontological data model based on CIDOC-CRM, RiC, and DCTERMS, ensuring semantic interoperability with museum, archive, and library systems.
+
+`TextileBase` s supported by a graph database and an experimental SPARQL endpoint. This enables translation of its structured data into linked data graphs, which can be enriched and exchanged with heritage institutions.
+
+The system is multilingual by design. By leveraging international thesauri and computational linguistics, `TextileBase` supports cross-language discovery---essential in regions like Latvia, where historical textile records exist in multiple languages and scripts, and artefacts have travelled widely across Europe.
+
+Data import and export are powered by Reprex's data curation and cleaning libraries. This modular design supports workflow automation and the integration of diverse, hard-to-find, multimodal sources. `TextileBase` is built to scale: it is cost-efficient, open-source, and adaptable for academic, commercial, or industry research teams of any size.
