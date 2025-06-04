@@ -22,6 +22,19 @@ content:
         position: top
         color: '#555'
         brightness: 0.9
+        media: /slides/slider/OpenProductions_20250604_01.png
+      link:
+        icon: fa-solid fa-right-to-bracket
+        icon_pack: fas
+        text: "AI for audiovisual productions"
+        url: /project/openproductions/
+    - title: ""
+      content: '<br/><br/><br/><br/><br/>'
+      align: left
+      background:
+        position: top
+        color: '#555'
+        brightness: 0.9
         media: /slides/slider/D_Antal_20250306_Tartu_01.png
       link:
         icon: fa-solid fa-right-to-bracket
