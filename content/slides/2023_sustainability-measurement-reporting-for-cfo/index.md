@@ -14,25 +14,25 @@ slides:
 {{< slide background-image="2023_03_10_music_eviota_escp.webp" background-position="center">}}
 <br/><br/><br/><br/><br/><br/><br/></br></br></br></br>
 
+
+---
+
+## Slide navigation
+
+PRESS 🇫 ON YOUR KEYBOARD (full screen mode)
+
+- forward: `️>` or `[spacebar]` | back :️`<`
+- home: `Home` and to the end: `End`
+- Overview: `Esc` or zoom with `Alt + Click️`
+
+🖱 beige letters: [clickable link](https://reprex.nl/)
+
 ---
 
 {{< slide background-image="key_takeaway_double_materiality.webp" background-position="center">}}
 #### Key Takaway for the CFO
 <p style="font-size:75%"  align="justify">"The basic accounting and reporting principle of materiality is extended. I need to keep an eye on accounts that have an economic, sustainability, or dual materiality."</p>
 <br/><br/><br/><br/><br/><br/><br/></br></br></br>
-
----
-
-## Slide navigation
-
-PRESS 🇫 KEY ON YOUR KEYBOARD 
-
-- Next: `️>` or `Space` | Previous :️`<`
-- Start: `Home` | Finish: `End`
-- Overview: `Esc`|  Speaker notes: `S`
-- Zoom: `Alt + Click️`|  Fullscreen: `F`
-
-🖱 Highlighted text: [clickable link](https://reprex.nl/project/musiceviota/) (to our project page.)  Best viewed in **Fullscreen mode**.
 
 ---
 
