@@ -41,7 +41,7 @@ editor_options:
 
 <td style="text-align: center;">
 
-{{< figure src="/png/dataspace/textilebase/Textilebase_four_images.png" caption="Entry examples from [Linked Open Datasets on Garments from the Latgale Region](/post/2025-04-07_latgalean_dataset/), from right to left: [Q142](https://reprexbase.eu/textilebase/index.php?title=Item:Q142), [Q180](https://reprexbase.eu/textilebase/index.php?title=Item:Q180), [Q179](https://reprexbase.eu/textilebase/index.php?title=Item:Q179), [Q181](https://reprexbase.eu/textilebase/index.php?title=Item:Q181)." numbered="false" >}}
+{{< figure src="/png/dataspace/textilebase/Textilebase_four_images.png" caption="Entry examples from Linked Open Datasets on Garments from the Latgale Region, from right to left: [Q142](https://reprexbase.eu/textilebase/Item:142), [Q180](https://reprexbase.eu/textilebase/Item:Q180), [Q179](https://reprexbase.eu/textilebase/Item:Q179), [Q181](https://reprexbase.eu/textilebase/Item:Q181)." numbered="false" >}}
 
 </td>
 
@@ -67,7 +67,7 @@ TextileBase seeks to streamline this process—making it **faster, cheaper, and 
 
 <td style="text-align: center;">
 
-{{< figure src="/png/dataspace/textilebase/Leather_shoes_with_fur_front_side_Mõniste_Rural_Life_Museum.jpg" caption="These fury leather shoes are a very rare specimen, and they are on display in the Mõniste Rural Life Museum. They do have a local inventory number, but none of the items of this small and excellent museum is available on Internet of Things. By adding artefact photographs, a DOI or an ISCC identifier, and giving a permanent identifier for this artefact, we can connect it with other leader shoes, other Seto garments that are found in far away collections (TextileBase Q256).  For example, Aladár Bán collected a somewhat similar shoe in Setomaa in 1911. Finding that artefact in the digital collection of the Hungarian Ethnographic Museum in Budapest under the inventory number NM97021 and the rather specialist and bit archaic title „bocskor” is even a challenge for native speakers of that language.  It is connected to the other Seto footwear as TextileBase Q348." numbered="false" >}}
+{{< figure src="/png/dataspace/textilebase/Leather_shoes_with_fur_front_side_Mõniste_Rural_Life_Museum.jpg" caption="These fury leather shoes are a very rare specimen, and they are on display in the Mõniste Rural Life Museum. They do have a local inventory number, but none of the items of this small and excellent museum is available on Internet of Things. By adding artefact photographs, a DOI or an ISCC identifier, and giving a permanent identifier for this artefact, we can connect it with other leader shoes, other Seto garments that are found in far away collections (TextileBase [Q256](https://reprexbase.eu/textilebase/Item:Q256)). For example, Aladár Bán collected a somewhat similar shoe in Setomaa in 1911. Finding that artefact in the digital collection of the Hungarian Ethnographic Museum in Budapest under the inventory number [NM97021](https://gyujtemeny.neprajz.hu/neprajz.01.01.php?bm=1&kv=3300296&nks=1) and the rather specialist and bit archaic title „bocskor” is even a challenge for native speakers of that language. It is connected to the other Seto footwear as TextileBase [Q348](https://reprexbase.eu/textilebase/Item:Q348)." numbered="false" >}}
 
 </td>
 
@@ -79,7 +79,7 @@ That’s why **secondary sources**—such as period photographs, illustrations, 
 
 <td style="text-align: center;">
 
-{{< figure src="/png/dataspace/textilebase/028747_ERM_Fk213_172_028747_original_detail.jpg" caption="The Trousers of a Seto man in the village of Võmmorski in Setomaa municipality (TextileBase Q331) is a detail from the photo collection of the Estonian National Museum’s item Johannes Pääsuke: Seto men in the village of Võmmorski in Setomaa municipality (1913). The original photo: Setu mehed Võmmorski külas Setomaa vallas, ERM Fk 213:172, Eesti Rahva Muuseum (in TextileBase Q332)." numbered="false" >}}
+{{< figure src="/png/dataspace/textilebase/028747_ERM_Fk213_172_028747_original_detail.jpg" caption="The Trousers of a Seto man in the village of Võmmorski in Setomaa municipality (TextileBase [Q331](https://reprexbase.eu/textilebase/Item:Q331)) is a detail from the photo collection of the Estonian National Museum’s item Johannes Pääsuke: Seto men in the village of Võmmorski in Setomaa municipality (1913). The original photo: *Setu mehed Võmmorski külas Setomaa vallas*, [ERM Fk 213:172](https://www.muis.ee/museaalview/610034), Eesti Rahva Muuseum (in TextileBase [Q332](https://reprexbase.eu/textilebase/Item:Q332))." numbered="false" >}}
 
 </td>
 
@@ -91,7 +91,7 @@ For example, Livonian communities in present-day Latvia were largely assimilated
 
 <td style="text-align: center;">
 
-{{< figure src="/png/dataspace/textilebase/museovirasto.7A2CD646E25259E28BA4B2F260F9864B-0-6x4_middle.jpg" caption="The Livonian skirt (in the National Museum of Finland: SU4106:383; in TextileBase Q347) has a provenance information of Venäjä, Kuurinmaa, Pissen, Piza; which means roughly Russia, Courland, Pissen, Piza (Q346](https://reprexbase.eu/textilebase/Item:Q346)). This is Finnish language information recorded in the early 20th century about the Courland region of Imperial Russia using the Baltic German and by now moribound Livonian village name. That village is known today as Miķeļtornis in Latvian (local Livonian spelling: Pizā), Courland is known as Kurzeme, and of course, the country is Latvia." numbered="false" >}}
+{{< figure src="/png/dataspace/textilebase/museovirasto.7A2CD646E25259E28BA4B2F260F9864B-0-6x4_middle.jpg" caption="The Livonian skirt (in the National Museum of Finland: [SU4106:383](https://www.finna.fi/Record/museovirasto.7A2CD646E25259E28BA4B2F260F9864B); in TextileBase [Q347]((https://reprexbase.eu/textilebase/Item:Q347)) has a provenance information of Venäjä, Kuurinmaa, Pissen, Piza; which means roughly Russia, Courland, Pissen, Piza ([Q346](https://reprexbase.eu/textilebase/Item:Q346)). This is Finnish language information recorded in the early 20th century about the Courland region of Imperial Russia using the Baltic German and by now moribound Livonian village name. That village is known today as [Miķeļtornis](https://reprexbase.eu/textilebase/Item:Q346) in Latvian (local Livonian spelling: Pizā), Courland is known as Kurzeme, and of course, the country is Latvia." numbered="false" >}}
 
 </td>
 
@@ -129,7 +129,7 @@ This approach connects dispersed knowledge—across time, languages, and borders
 
 <td style="text-align: center;">
 
-{{< figure src="/png/dataspace/textilebase/20250605_TextileBase_02.png" caption="Try out `TextileBase`: connect your artefacts, photographs, bibliographic sources, drafts, conference presentations, publications with other multimodal, textual, visual information about textiles and dress history and utilise the power of collaborative, AI-supported research." numbered="false" >}}
+{{< figure src="/png/dataspace/textilebase/20250605_TextileBase_02.png" caption="Try out TextileBase: connect your artefacts, photographs, bibliographic sources, drafts, conference presentations, publications with other multimodal, textual, visual information about textiles and dress history and utilise the power of collaborative, AI-supported research." numbered="false" >}}
 
 </td>
 
