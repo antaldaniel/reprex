@@ -17,17 +17,17 @@ slides:
 
 ---
 
-## Slide navigation
+## Slide Navigation (press F)
 
-The slides are best viewed with 
-**fullscreen** mode:</br>
-press Ⓕ
-- Next: `️>` or `Space` | Previous :️`<`
-- Start: `Home` | Finish: `End`
-- Overview: `Esc`|  
-<!--- Speaker notes: Ⓢ    [include only if speaker notes are present]-
-- Zoom: `Alt + Click 🖱️`-->
 
+Enter full screen mode: press the `F` key on your keyboard
+
+
+- forward: `️>` or `[spacebar]` | back :️`<`
+- home: `Home` and to the end: `End`
+- Overview: `Esc` or zoom with `Alt + Click️`
+
+🖱 blue letters: [clickable link](https://reprex.nl/)
 
 ---
 

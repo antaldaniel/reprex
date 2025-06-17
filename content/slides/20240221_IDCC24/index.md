@@ -16,14 +16,16 @@ slides:
 
 ---
 
-## Slide navigation
+## Slide Navigation (press F)
 
-- Next: `️>` or `Space` | Previous :️`<`
-- Start: `Home` | Finish: `End`
-- Overview: `Esc`|  Speaker notes: `S`
-- Zoom: `Alt + Click️`|  Fullscreen: `F`
+Enter full screen mode: `F`
 
-🖱 Highlighted text: [clickable link](https://reprex.nl/project/musiceviota/) (to our project page.) Best view with **Full screen**.
+
+- forward: `️>` or `[spacebar]` | back :️`<`
+- home: `Home` and to the end: `End`
+- Overview: `Esc` or zoom with `Alt + Click️`
+
+🖱 blue letters: [clickable link](https://reprex.nl/)
 
 ---
 
