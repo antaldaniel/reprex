@@ -46,10 +46,6 @@ links:
 #slides: 20240605_D_Antal_CSRD_Automated_Compliance
 ---
 
-
-
-If you've ever searched for an artist and come up empty because of a misspelled name, tried to match product listings across marketplaces, figured out what went wrong when you printed a label on an envelope and it came back via the postal service a few days later, or untangled data records across language variants — congratulations. You've encountered the metadata nightmare.
-
 And if you want to fix these errors, you may find that you are back to the **Data Sisyphus**.
 
 When you build systems in the cloud, or in your local architecture, at one point you will realise that naming things — places, people, products — or updating their whereabouts is probably the most time-consuming, most expensive, and most error-prone workflow.
@@ -87,10 +83,6 @@ Depending on the record, it might appear as:
 -  Mazirbė (Lithuanian)
 
 {{% /callout %}}
-
-
-
-
 
 This kind of variation isn’t just a cultural footnote — it breaks databases, mismatches search results, and silently corrupts analytics.
 
