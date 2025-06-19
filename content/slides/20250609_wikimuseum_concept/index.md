@@ -5,7 +5,7 @@ summary: Yes
 authors: [daniel_antal]
 tags: [Open Collections Network, Wikibase, WikimediaCEE]
 date: '2025-06-09T16:20:00+01:00'
-lastmod: '2025-06-09T16:20:00+01:00'
+lastmod: '2025-06-09T16:21:00+01:00'
 slides:
   theme: white
   highlight_style: dracula
