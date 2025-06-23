@@ -17,7 +17,7 @@ featured: true
 image:
   caption: ''
   focal_point: Center
-  preview_only: true
+  preview_only: false
 
 url_code: ''
 url_pdf: ''
@@ -58,29 +58,23 @@ We recently built a multilingual gazetteer — essentially a reconciled database
 
 But here’s the twist: the very same problems we tackled here are the ones plaguing the music industry, global e-commerce platforms, and enterprise software stacks.
 
-Mazirbe is a small, big place. It definitely exists, and it is the cultural center of a small nation: the Livonians. Yet, when you are looking for clothing, music, or photographs that should come from Mazirbe in a relevant database, you often find nothing. Not even the place.
-
 <td style="text-align: center;">
 {{< figure src="/png/identifiers/geonames_lielirbe_2x1.png" caption="This is Gross-Irben 👉 [Lielirbe / Īra / Irben / Suur-Irben](https://reprexbase.eu/fu/Item:Q4429) 👉 [Familiar with RDF: see in TTL](https://reprexbase.eu/fu/Special:EntityData/Q4429.ttl); Klein-Irben will be near Gross-Irben, and Irē is almost Īra!"  numbered="false" >}}
 </td>
 
+Mazirbe is a small, big place. It definitely exists, and it is the cultural center of a small nation: the Livonians. Yet, when you are looking for clothing, music, or photographs that should come from Mazirbe in a relevant database, you often find nothing. Not even the place.
 
 {{% callout note %}}
 #### But Mazirbe exists! 
 Depending on the record, it might appear as:
--   Mazirbe (Latvian)
+-   Mazirbe (Latvian) •  Irē (Livonian) • Мазирбе (Russian) • Klein-Irben (German) • Suur-Irben (Finnish-German hybrid) •
+Мазирбе (Russian) •  Mazirbė (Lithuanian)
 
--   Irē (Livonian)
+<td style="text-align: center;">
+{{< figure src="/webp/identifiers/old_map_of_courland.webp" caption="[Meyer‘s Zeitungsatlas 050 – Russland- Gouvernement Sankt Petersburg, Esthland, Liefland, Kurland](https://upload.wikimedia.org/wikipedia/commons/0/04/Meyer%E2%80%98s_Zeitungsatlas_050_%E2%80%93_Russland-_Gouvernement_Sankt_Petersburg%2C_Esthland%2C_Liefland%2C_Kurland.jpg)"  numbered="false" >}}
+</td>
 
--   Мазирбе (Russian)
 
--  Klein-Irben (German)
-
--  Suur-Irben (Finnish-German hybrid)
-
--  Мазирбе (Russian)
-
--  Mazirbė (Lithuanian)
 
 {{% /callout %}}
 
