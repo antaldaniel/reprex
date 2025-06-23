@@ -67,11 +67,11 @@ slides: "20250306_dreams"
 The time shown on the page is preliminary, we are reaching out to our colleagues and friends to find a suitable date. 
 {{% /callout %}}
 
-
 We would like to have a light, summer seminar/webinar with our colleagues, friends and interested stakeholders on TextileBase.
 
-We would like to introduce in very short, live demonstrations with clickable links what we do. 
+We would like to introduce in very short, live demonstrations with clickable links what we do. 👉🏾 [`TextileBase` project page](https://reprex.nl/project/textilebase/)
 
+## Topics For Discussion
 {{% callout note %}} 
 1. What is TextileBase? How can it connect knowledge and data across musuems, archives, libraries, repositories, Europeana, ECCCH, Wikidata?
 
