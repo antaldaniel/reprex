@@ -151,6 +151,8 @@ Inspired by Wikimedia Estonia’s multi-language, open-access model, we propose 
 
 This approach connects dispersed knowledge—across time, languages, and borders—into a shared digital space. Please take a look at our early-stage prototype of the collaborative museum:
 
+👉🏾  Presentation [The Concept of a WikiMuseum: WikiMuseum = GLAM Wiki + Wikibase + Data Sharing Space](https://reprex.nl/slides/20250609_wikimuseum_concept/) press **F** for full-screen view
+
 👉🏻  <https://et.wikipedia.org/wiki/Vikipeedia:GLAM/Seto_Traditional_Culture_Heritage/1>
 
 <td style="text-align: center;">
