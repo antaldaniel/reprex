@@ -74,7 +74,7 @@ Behind the scenes, `TextileBase` integrates advanced methods from digital humani
 
 `TextileBase` is supported by a graph database and an experimental SPARQL endpoint. This enables translation of its structured data into linked data graphs, which can be enriched and exchanged with heritage institutions.
 
-The system is multilingual by design. By leveraging international thesauri and computational linguistics, `TextileBase` supports cross-language discovery—essential in regions like Latvia, where historical textile records exist in multiple languages and scripts, and artefacts have travelled widely across Europe.
+The system is multilingual by design. By leveraging international thesauri and computational linguistics, `TextileBase` supports cross-language discovery—essential in countries or regions where historical textile records exist in multiple languages and scripts, and artefacts have travelled widely across Europe.
 
 Data import and export are powered by Reprex's data curation and cleaning libraries. This modular design supports workflow automation and the integration of diverse, hard-to-find, multimodal sources. `TextileBase` is built to scale: it is cost-efficient, open-source, and adaptable for academic, commercial, or industry research teams of any size.
 
@@ -96,7 +96,7 @@ TextileBase seeks to streamline this process—making it **faster, cheaper, and 
 
 <td style="text-align: center;">
 
-{{< figure src="/png/dataspace/textilebase/Leather_shoes_with_fur_front_side_Mõniste_Rural_Life_Museum.jpg" caption="These furry leather shoes are a very rare specimen, and they are on display in the Mõniste Rural Life Museum. They do have a local inventory number, but none of the items of this small and excellent museum is available on the Internet of Things. By adding artefact photographs, a DOI, or an ISCC identifier, and giving a permanent identifier for this artefact, we can connect it with other leather shoes, other Seto garments that are found in faraway collections (TextileBase [Q256](https://reprexbase.eu/textilebase/Item:Q256)). For example, Aladár Bán collected a somewhat similar shoe in Setomaa in 1911. Finding that artefact in the digital collection of the Hungarian Ethnographic Museum in Budapest under the inventory number [NM97021](https://gyujtemeny.neprajz.hu/neprajz.01.01.php?bm=1&kv=3300296&nks=1) and the rather specialist and a bit archaic title „bocskor” is even a challenge for native speakers of that language. It is connected to the other Seto footwear as TextileBase [Q348](https://reprexbase.eu/textilebase/Item:Q348)." numbered="false" >}}
+{{< figure src="/png/dataspace/textilebase/Leather_shoes_with_fur_front_side_Mõniste_Rural_Life_Museum.jpg" caption="These furry leather shoes are a very rare specimen, and they are on display in the Mõniste Rural Life Museum. They do have a local inventory number, but none of the items of this small and excellent museum is available on the Internet of Things. By adding artefact photographs, a DOI, or an ISCC identifier, and giving a permanent identifier for this artefact, we can connect it with other leather shoes, other Seto garments that are found in faraway collections (TextileBase [Q256](https://reprexbase.eu/textilebase/Item:Q256)). For example, Aladár Bán collected a somewhat similar shoe in Setomaa in 1911. Finding that artefact in the digital collection of the Hungarian Ethnographic Museum in Budapest under the inventory number [NM97021](https://gyujtemeny.neprajz.hu/neprajz.01.01.php?bm=1&kv=3300296&nks=1) and the rather specialist and a bit archaic title „bocskor” is even a challenge for native speakers of that language. It is connected to traditional footwear as TextileBase [Q348](https://reprexbase.eu/textilebase/Item:Q348)." numbered="false" >}}
 
 </td>
 
@@ -104,7 +104,7 @@ TextileBase seeks to streamline this process—making it **faster, cheaper, and 
 
 Historical collecting practices were often biased. Textiles worn by everyday people—peasants, laborers, minority groups—were rarely preserved. Instead, most surviving collections reflect the lives of elites or were gathered during ethnographic expeditions with colonial or exoticizing perspectives.
 
-That’s why **secondary sources**—such as period photographs, illustrations, and books—are so valuable. They often unintentionally document everyday garments, offering insights missed by early collectors.
+That’s why **secondary sources**—such as period photographs, illustrations, and books—are so valuable. They often document everyday garments, offering insights missed by early collectors.
 
 <td style="text-align: center;">
 
