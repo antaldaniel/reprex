@@ -5,7 +5,7 @@ summary: Yes
 authors: [daniel_antal]
 tags: [Open Collections Network, Wikibase, WikimediaCEE]
 date: '2025-06-09T16:20:00+01:00'
-lastmod: '2025-06-09T16:21:00+01:00'
+lastmod: '2025-06-24T14:23:00+01:00'
 slides:
   theme: white
   highlight_style: dracula
@@ -36,7 +36,7 @@ Enter full screen mode: `F`
 
 ### Building Blocks
 
-- **Wikimuseum**: [exhibitions](https://et.wikipedia.org/wiki/Vikipeedia:GLAM), example: [Estonian](https://et.wikisource.org/wiki/Eesti_Loodusmuuseum/N%C3%A4itus/M%C3%BCstiline_%C3%BCrgmeri), [English](https://et.wikisource.org/wiki/Eesti_Loodusmuuseum/N%C3%A4itus/M%C3%BCstiline_%C3%BCrgmeri/ENG)
+- **Wikimuseum**: [exhibitions](https://et.wikipedia.org/wiki/Vikipeedia:GLAM), example: [Estonian](https://et.wikisource.org/wiki/Eesti_Loodusmuuseum/N%C3%A4itus/M%C3%BCstiline_%C3%BCrgmeri), [English](https://et.wikisource.org/wiki/Eesti_Loodusmuuseum/N%C3%A4itus/M%C3%BCstiline_%C3%BCrgmeri/ENG) and our developing cross-country, cross-institutional [exhibition prototype](https://et.wikipedia.org/wiki/Vikipeedia:GLAM/Seto_Traditional_Culture_Heritage).
 - **The Finno-Ugric Data Sharing Space**: [description](https://reprex.nl/project/finnougricdataspace/), [Wikibase](https://reprexbase.eu/fu/Main_Page).
 - Our presented solution and sample virtual exhibitions will be finalised in July-August 2025.
 
