@@ -8,11 +8,12 @@ categories:
 event: TextileBase Seminars 1
 event_url: ""
 
-location: "TBD"
+
+location: ELTE Digitális Bölcsészet Tanszék
 address:
   city: Budapest
-  street: 
-  postcode: 
+  street: Múzeum krt. 6-8. II. emelet. 206.
+  postcode: H-1088
   country: Hungary
 
 summary: "We started experimenting with the legal, organisational, semantic and technical challenges of creating a genuinely trustworthy, AI-supported data-sharing space that can find and connect tangible and intangible elements of the Finno-Ugric cultural universes."
@@ -64,27 +65,39 @@ slides: "20250306_dreams"
 ---
 
 {{% callout note %}} 
-The time shown on the page is preliminary, we are reaching out to our colleagues and friends to find a suitable date. 
+Please register via the [contact form](https://reprex.nl/contact/) or via email.
+For those who cannot make it this day, we offer an alternative online webinar. 
+The start time is 15.00 Central European Summer Time, 14.00 GMT and 16.00 EET. If you physically attend, please arrive a few minutes early. 
 {{% /callout %}}
 
-We would like to have a light, summer seminar/webinar with our colleagues, friends and interested stakeholders on TextileBase.
+We warmly invite colleagues, friends, and stakeholders interested in cultural
+heritage data, digital humanities, and AI-supported research to a light and lively 
+summer seminar on two interconnected initiatives:
+[`TextileBase`](https://reprex.nl/project/textilebase/) – our linked open data platform for dress history – and the evolving
+[Finno-Ugric Data Sharing Space](/project/finnougricdataspace/) with a glimpse into
+a bit more futuristic multi-modal, multi-language graph with data, images, music, 
+audiovisual.
 
-We would like to introduce in very short, live demonstrations with clickable links what we do. 👉🏾 [`TextileBase` project page](https://reprex.nl/project/textilebase/)
+This informal gathering is not about theoretical publications (although we’re happy to send you preprints!). 
+It’s about showcasing how things actually work, especially when archival depth 
+is shallow and data quality is mixed. There’s a big difference between writing 
+about data integration in a computer lab — and actually building tools that work 
+for researchers and cultural institutions across languages, countries, 
+and platforms.
 
 ## Topics For Discussion
 {{% callout note %}} 
-1. What is TextileBase? How can it connect knowledge and data across musuems, archives, libraries, repositories, Europeana, ECCCH, Wikidata?
+Each speaker will present a short, live demo or walkthrough (10–12 minutes), followed by Q&A and a casual hybrid meet-up.
 
-2. Technical features: Wikibase Suite for manual editing. SPARQL endpoint. Sampo-UI for researcher comfort.
+Daniel Antal: What is TextileBase? Connecting knowledge across museums, archives, libraries, repositories, Europeana, ECCCH, Wikidata.
 
-3. Use case: The Latgalean dataset took years to create. We already have a Seto and Livonian dataset in weeks. 
+Anna Márta Mester: Technical, but not Deep Dive: Using the Wikibase Suite, SPARQL endpoints, and Sampo-UI for comfortable scholarly research.
 
-4. Using AI & Computational Linguistics for automated research, data enrichment and novel insights.
+Ieva Pigozne: Use Case: From years to weeks — how Latgalean data curation paved the way for rapid digitisation of Seto and Livonian datasets.
 
-5. The WikiMuseum concept: co-curating international virtual exhibitions with dispersed collections.
+Kata Gábor: AI for Cultural Heritage: From multilingual NLP to image annotation and ontology enrichment in noisy or sparse data environments.
 
-Each block is expected to last 10-12 minutes, with immediate questions, followed by a hybrid coffee, meet & drinks. 
-{{% /callout %}}
+Asmah Frederico: WikiMuseum: A vision for co-curated, multilingual virtual exhibitions with dispersed physical collections.{{% /callout %}}
 
 ### Wikibase Interfaces
 <td style="text-align: center;">
