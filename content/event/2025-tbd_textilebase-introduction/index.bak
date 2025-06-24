@@ -1,5 +1,5 @@
 ---
-title: "Introduction TextileBase"
+title: "TextileBase: Introduction"
 subtitle: "Federating Open Knowledge About Textiles & Dress History"
 
 projects: []
@@ -72,11 +72,12 @@ The start time is 15.00 Central European Summer Time, 14.00 GMT and 16.00 EET. I
 
 We warmly invite colleagues, friends, and stakeholders interested in cultural
 heritage data, digital humanities, and AI-supported research to a light and lively 
-summer seminar on two interconnected initiatives:
-[`TextileBase`](https://reprex.nl/project/textilebase/) – our linked open data platform for dress history – and the evolving
-[Finno-Ugric Data Sharing Space](/project/finnougricdataspace/) with a glimpse into
-a bit more futuristic multi-modal, multi-language graph with data, images, music, 
-audiovisual.
+summer seminar on three interconnected initiatives.
+
+- Our main focus is on [`TextileBase`](https://reprex.nl/project/textilebase/) – our linked open data platform for dress history 
+- We show a glimpse of our futuristic multi-modal, multi-language graph with data, images, music, 
+audiovisual [`Finno-Ugric Data Sharing Space`](/project/finnougricdataspace/), as a way to connect clothing history into a broader regional knowledge platform.
+- And the [`Wikimuseum concept`](https://reprex.nl/slides/20250609_wikimuseum_concept/) for wider impact, co-curated collections and exhibitions.
 
 This informal gathering is not about theoretical publications (although we’re happy to send you preprints!). 
 It’s about showcasing how things actually work, especially when archival depth 
@@ -97,7 +98,7 @@ Ieva Pigozne: Use Case: From years to weeks — how Latgalean data curation pave
 
 Kata Gábor: AI for Cultural Heritage: From multilingual NLP to image annotation and ontology enrichment in noisy or sparse data environments.
 
-Asmah Frederico: WikiMuseum: A vision for co-curated, multilingual virtual exhibitions with dispersed physical collections.{{% /callout %}}
+Asmah Frederico: [WikiMuseum](https://reprex.nl/slides/20250609_wikimuseum_concept/): A vision for co-curated, multilingual virtual exhibitions with dispersed physical collections.{{% /callout %}}
 
 ### Wikibase Interfaces
 <td style="text-align: center;">
