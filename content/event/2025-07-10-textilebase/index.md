@@ -19,8 +19,8 @@ address:
 summary: "We started experimenting with the legal, organisational, semantic and technical challenges of creating a genuinely trustworthy, AI-supported data-sharing space that can find and connect tangible and intangible elements of the Finno-Ugric cultural universes."
 
 # Talk start and end times.
-date: '2025-07-03T15:00:00+02:00'
-date_end: '2025-07-03T16:30:00+02:00'
+date: '2025-07-10T15:00:00+02:00'
+date_end: '2025-07-10T16:30:00+02:00'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
