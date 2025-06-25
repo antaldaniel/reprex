@@ -94,7 +94,7 @@ Daniel Antal: What is TextileBase? Connecting knowledge across museums, archives
 
 Anna Márta Mester: Technical, but not Deep Dive: Using the Wikibase Suite, SPARQL endpoints, and Sampo-UI for comfortable scholarly research. 
 
-Ieva Pigozne: Use Case: From years to weeks — how Latgalian data curation paved the way for rapid digitisation of Seto and Livonian datasets. Sneak peek: [Finno-Ugric clothing](http://135.181.91.51:3006/en/garments/faceted-search/table?page=0)
+Ieva Pigozne: Use Case: From years to weeks — how Latgalian data curation paved the way for rapid digitisation of Seto and Livonian datasets. Sneak peek: [Finno-Ugric clothing](http://135.181.91.51:3006/en/garments/faceted-search/table?page=0).
 
 Kata Gábor: AI for Cultural Heritage: From multilingual NLP to image annotation and ontology enrichment in noisy or sparse data environments.
 
