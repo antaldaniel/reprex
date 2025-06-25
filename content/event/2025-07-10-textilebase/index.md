@@ -66,7 +66,7 @@ slides: "20250306_dreams"
 
 {{% callout note %}} 
 The July 10 is a hybrid event that you can attend either in person or online. Please register via the [contact form](https://reprex.nl/contact/) or via email.
-For those who cannot visit this event, we offer an alternative online webinar. (Please fill out your availability [here](https://doodle.com/meeting/organize/id/dB9WEnkb)
+For those who cannot visit this event, we offer an alternative online webinar. (Please fill out your availability [here](https://doodle.com/meeting/organize/id/dB9WEnkb)).
 The start time is 15.00 Central European Summer Time, 14.00 GMT and 16.00 EET. If you physically attend, please arrive a few minutes early. 
 {{% /callout %}}
 
@@ -92,9 +92,9 @@ Each speaker will present a short, live demo or walkthrough (10–12 minutes), f
 
 Daniel Antal: What is TextileBase? Connecting knowledge across museums, archives, libraries, repositories, Europeana, ECCCH, Wikidata.
 
-Anna Márta Mester: Technical, but not Deep Dive: Using the Wikibase Suite, SPARQL endpoints, and Sampo-UI for comfortable scholarly research.
+Anna Márta Mester: Technical, but not Deep Dive: Using the Wikibase Suite, SPARQL endpoints, and Sampo-UI for comfortable scholarly research. 
 
-Ieva Pigozne: Use Case: From years to weeks — how Latgalian data curation paved the way for rapid digitisation of Seto and Livonian datasets.
+Ieva Pigozne: Use Case: From years to weeks — how Latgalian data curation paved the way for rapid digitisation of Seto and Livonian datasets. Sneak peek: [Finno-Ugric clothing](http://135.181.91.51:3006/en/garments/faceted-search/table?page=0)
 
 Kata Gábor: AI for Cultural Heritage: From multilingual NLP to image annotation and ontology enrichment in noisy or sparse data environments.
 
