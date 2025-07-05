@@ -19,14 +19,14 @@ address:
 summary: "We started experimenting with the legal, organisational, semantic and technical challenges of creating a genuinely trustworthy, AI-supported data-sharing space that can find and connect tangible and intangible elements of the Finno-Ugric cultural universes."
 
 # Talk start and end times.
-date: '2025-07-03T15:00:00+02:00'
-date_end: '2025-07-03T16:30:00+02:00'
+date: '2025-07-10T15:00:00+02:00'
+date_end: '2025-07-10T16:30:00+02:00'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2025-06-23T14:52:00+02:00'
 
-authors: ["daniel_antal", "Ieva Pigozne", "Mester, Anna", "Nagy, Mihály", "Gábor, Kata"]
+authors: ["daniel_antal", "Ieva Pigozne", "Mester, Anna", "Nagy, Mihály", "Gábor, Kata", "Frederico, Asmah"]
 tags: ["Dataspace", "TextileBase", "Dataspace", "Wikidata", "Lexeme"]
 
 # Is this a featured talk? (true/false)
@@ -65,8 +65,8 @@ slides: "20250306_dreams"
 ---
 
 {{% callout note %}} 
-Please register via the [contact form](https://reprex.nl/contact/) or via email.
-For those who cannot make it this day, we offer an alternative online webinar. 
+The July 10 is a hybrid event that you can attend either in person or online. Please register via the [contact form](https://reprex.nl/contact/) or via email.
+For those who cannot visit this event, we offer an alternative online webinar. (Please fill out your availability [here](https://doodle.com/meeting/organize/id/dB9WEnkb)).
 The start time is 15.00 Central European Summer Time, 14.00 GMT and 16.00 EET. If you physically attend, please arrive a few minutes early. 
 {{% /callout %}}
 
@@ -92,13 +92,13 @@ Each speaker will present a short, live demo or walkthrough (10–12 minutes), f
 
 Daniel Antal: What is TextileBase? Connecting knowledge across museums, archives, libraries, repositories, Europeana, ECCCH, Wikidata.
 
-Anna Márta Mester: Technical, but not Deep Dive: Using the Wikibase Suite, SPARQL endpoints, and Sampo-UI for comfortable scholarly research.
+Anna Márta Mester: Technical, but not Deep Dive: Using the Wikibase Suite, SPARQL endpoints, and Sampo-UI for comfortable scholarly research. 
 
-Ieva Pigozne: Use Case: From years to weeks — how Latgalean data curation paved the way for rapid digitisation of Seto and Livonian datasets.
+Ieva Pigozne: Use Case: From years to weeks — how Latgalian data curation paved the way for rapid digitisation of Seto and Livonian datasets. Sneak peek: [Finno-Ugric clothing](http://135.181.91.51:3006/en/garments/faceted-search/table?page=0).
 
 Kata Gábor: AI for Cultural Heritage: From multilingual NLP to image annotation and ontology enrichment in noisy or sparse data environments.
 
-Asmah Frederico: [WikiMuseum](https://reprex.nl/slides/20250609_wikimuseum_concept/): A vision for co-curated, multilingual virtual exhibitions with dispersed physical collections.{{% /callout %}}
+Asmah Federico: [WikiMuseum](https://reprex.nl/slides/20250609_wikimuseum_concept/): A vision for co-curated, multilingual virtual exhibitions with dispersed physical collections.{{% /callout %}}
 
 ### Wikibase Interfaces
 <td style="text-align: center;">
@@ -109,7 +109,8 @@ In machine-readable format: <https://reprexbase.eu/textilebase/Special:EntityDat
 
 ### SPARQL Endpoint
 We will place here a few sampe querries:
-<http://135.181.91.51:3030/#/dataset/textilebase/query>
+- [Latgalian Garments Dataset](http://135.181.91.51:3030/#/dataset/textilebase/query?query=PREFIX%20rdf%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F1999%2F02%2F22-rdf-syntax-ns%23%3E%0APREFIX%20xsd%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2001%2FXMLSchema%23%3E%0APREFIX%20rdfs%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2000%2F01%2Frdf-schema%23%3E%0APREFIX%20owl%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2002%2F07%2Fowl%23%3E%0APREFIX%20wikibase%3A%20%3Chttp%3A%2F%2Fwikiba.se%2Fontology%23%3E%0APREFIX%20skos%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2F2004%2F02%2Fskos%2Fcore%23%3E%0APREFIX%20schema%3A%20%3Chttp%3A%2F%2Fschema.org%2F%3E%0APREFIX%20cc%3A%20%3Chttp%3A%2F%2Fcreativecommons.org%2Fns%23%3E%0APREFIX%20geo%3A%20%3Chttp%3A%2F%2Fwww.opengis.net%2Font%2Fgeosparql%23%3E%0APREFIX%20prov%3A%20%3Chttp%3A%2F%2Fwww.w3.org%2Fns%2Fprov%23%3E%0APREFIX%20wd%3A%20%3Chttps%3A%2F%2Freprexbase.eu%2Fentity%2F%3E%0APREFIX%20data%3A%20%3Chttps%3A%2F%2Freprexbase.eu%2Ftextilebase%2FSpecial%3AEntityData%2F%3E%0APREFIX%20s%3A%20%3Chttps%3A%2F%2Freprexbase.eu%2Fentity%2Fstatement%2F%3E%0APREFIX%20ref%3A%20%3Chttps%3A%2F%2Freprexbase.eu%2Freference%2F%3E%0APREFIX%20v%3A%20%3Chttps%3A%2F%2Freprexbase.eu%2Fvalue%2F%3E%0APREFIX%20wdt%3A%20%3Chttps%3A%2F%2Freprexbase.eu%2Fprop%2Fdirect%2F%3E%0APREFIX%20wdtn%3A%20%3Chttps%3A%2F%2Freprexbase.eu%2Fprop%2Fdirect-normalized%2F%3E%0APREFIX%20p%3A%20%3Chttps%3A%2F%2Freprexbase.eu%2Fprop%2F%3E%0APREFIX%20ps%3A%20%3Chttps%3A%2F%2Freprexbase.eu%2Fprop%2Fstatement%2F%3E%0APREFIX%20psv%3A%20%3Chttps%3A%2F%2Freprexbase.eu%2Fprop%2Fstatement%2Fvalue%2F%3E%0APREFIX%20psn%3A%20%3Chttps%3A%2F%2Freprexbase.eu%2Fprop%2Fstatement%2Fvalue-normalized%2F%3E%0APREFIX%20pq%3A%20%3Chttps%3A%2F%2Freprexbase.eu%2Fprop%2Fqualifier%2F%3E%0APREFIX%20pqv%3A%20%3Chttps%3A%2F%2Freprexbase.eu%2Fprop%2Fqualifier%2Fvalue%2F%3E%0APREFIX%20pqn%3A%20%3Chttps%3A%2F%2Freprexbase.eu%2Fprop%2Fqualifier%2Fvalue-normalized%2F%3E%0APREFIX%20pr%3A%20%3Chttps%3A%2F%2Freprexbase.eu%2Fprop%2Freference%2F%3E%0APREFIX%20prv%3A%20%3Chttps%3A%2F%2Freprexbase.eu%2Fprop%2Freference%2Fvalue%2F%3E%0APREFIX%20prn%3A%20%3Chttps%3A%2F%2Freprexbase.eu%2Fprop%2Freference%2Fvalue-normalized%2F%3E%0APREFIX%20wdno%3A%20%3Chttps%3A%2F%2Freprexbase.eu%2Fprop%2Fnovalue%2F%3E%0APREFIX%20txb%3A%20%3Chttps%3A%2F%2Freprexbase.eu%2Ftextilebase%2FItem%3A%3E%0A%0ASELECT%20%3Firi%20%3Flabel%20%3Fdescription%20%3FtypeLabel%20%3FkeeperLabel%20%3Fuser%20%3Flocation%20%3FspatialRelation%20WHERE%20%7B%0A%20%20%3Fgarment%20wdt%3AP5%20wd%3AQ141%20.%0A%0A%20%20BIND%28IRI%28REPLACE%28STR%28%3Fgarment%29%2C%20%22https%3A%2F%2Freprexbase.eu%2Fentity%2F%22%2C%20%22https%3A%2F%2Freprexbase.eu%2Ftextilebase%2FItem%3A%22%29%29%20AS%20%3Firi%29%0A%0A%20%20%3Fgarment%20rdfs%3Alabel%20%3Flabel%20.%0A%20%20FILTER%28LANG%28%3Flabel%29%20%3D%20%22en%22%29%0A%0A%20%20OPTIONAL%20%7B%20%3Fgarment%20schema%3Adescription%20%3Fdescription%20.%20FILTER%28LANG%28%3Fdescription%29%20%3D%20%22en%22%29%20%7D%0A%0A%20%20%23%20TYPE%20from%20P3%20or%20P4%2C%20show%20its%20label%0A%20%20OPTIONAL%20%7B%0A%20%20%20%20%7B%20%3Fgarment%20wdt%3AP3%20%3Ftype%20.%20%7D%0A%20%20%20%20UNION%0A%20%20%20%20%7B%20%3Fgarment%20wdt%3AP4%20%3Ftype%20.%20%7D%0A%20%20%20%20%3Ftype%20rdfs%3Alabel%20%3FtypeLabel%20.%0A%20%20%20%20FILTER%28LANG%28%3FtypeLabel%29%20%3D%20%22en%22%29%0A%20%20%7D%0A%0A%20%20%23%20Keeper%20%28P65%29%0A%20%20OPTIONAL%20%7B%0A%20%20%20%20%3Fgarment%20wdt%3AP65%20%3Fkeeper%20.%0A%20%20%20%20%3Fkeeper%20rdfs%3Alabel%20%3FkeeperLabel%20.%0A%20%20%20%20FILTER%28LANG%28%3FkeeperLabel%29%20%3D%20%22en%22%29%0A%20%20%7D%0A%0A%20%20%23%20User%20%28P28%29%0A%20%20OPTIONAL%20%7B%0A%20%20%20%20%3Fgarment%20wdt%3AP28%20%3Fuser%20.%0A%20%20%7D%0A%0A%20%20%23%20Location%20from%20any%20property%20pointing%20to%20Q45%0A%20%20OPTIONAL%20%7B%0A%20%20%20%20%3Fgarment%20%3FspatialRelation%20wd%3AQ45%20.%0A%20%20%20%20wd%3AQ45%20rdfs%3Alabel%20%3Flocation%20.%0A%20%20%20%20FILTER%28LANG%28%3Flocation%29%20%3D%20%22en%22%29%0A%20%20%7D%0A%7D%0ALIMIT%20100%0A)
+
 
 ### Sampo UI
 
