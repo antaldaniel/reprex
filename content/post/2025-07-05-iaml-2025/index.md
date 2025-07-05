@@ -27,18 +27,14 @@ url_slides: ''
 url_video: ''
 
 links:
-- icon: database
+- icon: clipboard
   icon_pack: fas
-  name: "Finno-Ugric Data Sharing Space"
-  url: https://reprexbase.eu/fu/Main_Page
-- icon: z
+  name: Poster
+  url: https://zenodo.org/records/15814286
+- icon: tv
   icon_pack: fas
-  name: "Zenodo"
-  url: https://zenodo.org/records/15668712
-- icon: file-pdf
-  icon_pack: fas
-  name: "Download"
-  url: https://zenodo.org/records/15668712/files/Remapping_the_Livonian_Coast.pdf?download=1
+  name: Sampo Semantic Browser (beta)
+  url: http://135.181.91.51:3007/en/
 - icon: linkedin
   icon_pack: fab
   name: Reprex
@@ -97,27 +93,13 @@ Our platform is open-source, built on FAIR principles and the
 European Interoperability Framework. We use tools like Wikibase, Blazegraph, 
 Sampo-UI, and R—packaged to work for libraries with limited technical capacity.
 
+<td style="text-align: center;">
+{{< figure src="/png/skcmdb/skcmdb-library-access.png" caption="Sneak peak: [http://135.181.91.51:3007/en/](http://135.181.91.51:3007/en/)" numbered="false" >}}
+</td>
+
 If you care about interoperability, cultural equity, and the future of 
 library relevance in the streaming era—this is your moment to get involved.
 
-Read more at [link] or contact us directly at [email].
+Not present at `IAML2025`? Please [contact us](https://reprex.nl/contact/) directly.
+
 Let’s ensure music libraries remain vital entry points to Europe’s rich and evolving cultural soundscape.
-
-
-
-{{% callout note %}}
-#### But Mazirbe exists! 
-Depending on the record, it might appear as:
--   Mazirbe (Latvian) •  Irē (Livonian) • Мазирбе (Russian) • Klein-Irben (German) • Suur-Irben (Finnish-German hybrid) •
-Мазирбе (Russian) •  Mazirbė (Lithuanian)
-
-<td style="text-align: center;">
-{{< figure src="/webp/identifiers/old_map_of_courland.webp" caption="[Meyer‘s Zeitungsatlas 050 – Russland- Gouvernement Sankt Petersburg, Esthland, Liefland, Kurland](https://upload.wikimedia.org/wikipedia/commons/0/04/Meyer%E2%80%98s_Zeitungsatlas_050_%E2%80%93_Russland-_Gouvernement_Sankt_Petersburg%2C_Esthland%2C_Liefland%2C_Kurland.jpg)"  numbered="false" >}}
-</td>
-
-
-
-{{% /callout %}}
-
-
-👉 <https://reprex.nl/post/2021-07-08-data-sisyphus/>
