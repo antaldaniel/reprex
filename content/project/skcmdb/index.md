@@ -5,7 +5,7 @@ subtitle: "Find All Music Ever Made in Slovakia"
 
 # Date this page was created.
 date: 2024-11-19T17:16:00+01:00
-lastmod: 2024-11-19T17:16:00+01:00
+lastmod: 2025-07-05T17:06+02:00
 
 # Project summary to display on homepage.
 summary: ""
@@ -24,14 +24,30 @@ slides: ""
 authors: ["admin"]
 
 links:
-- icon: linkedin
-  icon_pack: fab
-  name: Digital Music Observatory
-  url: https://www.linkedin.com/company/79286750/
+- icon: info
+  icon_pack: fas
+  name: Project Information
+  url: /project/skcmdb/
+- icon: clipboard
+  icon_pack: fas
+  name: Poster
+  url: https://zenodo.org/records/15814286
+- icon: tv
+  icon_pack: fas
+  name: Sampo Semantic Browser (beta)
+  url: http://135.181.91.51:3007/en/
+- icon: database
+  icon_pack: fas
+  name: SKCMDb (demo)
+  url: 
 - icon: linkedin
   icon_pack: fab
   name: Reprex
   url: https://www.linkedin.com/company/68855596/
+- icon: question
+  icon_pack: fas
+  name: Ask a question!
+  url: https://reprex.nl/contact/
 
 # Links (optional).
 url_pdf: ""
@@ -48,6 +64,46 @@ image:
   
 slides: "crea-innovlab-2023"
 ---
+
+
+{{< figure src="/posters/IAML-reprex-poster-2025.png" caption="Please visit our poster and talk with our team members, Daniel Antal, Anna Márta Mester (librarian-data steward) and Anna Zilkova (chairperson of IAML Slovakia) on 8 July 2025 10:30–11:00 in the Gallery. You can download our poster in PDF [here](https://zenodo.org/records/15814286)." numbered="false" >}}
+
+Check out the entry examples related to Albrecht's: [Missa in C (printed, Hudobné centrum)](https://reprexbase.eu/skcmdb/Item:Q485) with library and webshop access points, and linked data on the composition itself [Q479](https://reprexbase.eu/skcmdb/Item:Q479), linked to its recorded manifestations. 
+
+## Early Data Access 
+
+### Wikibase Interfaces
+<td style="text-align: center;">
+{{< figure src="/png/skcmdb/skcmdb-missa-in-c-print.png" caption="Check out the entry examples related to Albrecht's [Missa in C (printed, Hudobné centrum)](https://reprexbase.eu/skcmdb/Item:Q485) with library and webshop access points, and linked data on the composition itself [Q479](https://reprexbase.eu/skcmdb/Item:Q479), linked to its recorded manifestations." numbered="false" >}}
+</td>
+
+In machine-readable TTL format: <https://reprexbase.eu/skcmdb/Special:EntityData/Q485.ttl>
+In [XML](https://reprexbase.eu/skcmdb/Special:EntityData/Q485.rdf) or 
+[JSON](https://reprexbase.eu/skcmdb/Special:EntityData/Q485.json), 
+[JSON-LD](https://reprexbase.eu/skcmdb/Special:EntityData/Q485.jsonld), 
+[N-Triples](https://reprexbase.eu/skcmdb/Special:EntityData/Q485.nt).
+
+### SPARQL Endpoint
+<http://135.181.91.51:3030/#/dataset/skcmdb/query>; requires password.
+
+### Sampo Semantic Browser
+
+<td style="text-align: center;">
+{{< figure src="/png/skcmdb/skcmdb-library-access.png" caption="Sneak peak: [http://135.181.91.51:3007/en/](http://135.181.91.51:3007/en/)" numbered="false" >}}
+</td>
+
+### Next steps
+
+The Slovak pilot illustrates how libraries and national music centres can take a
+central role in a decentralised European Music Observatory that federates with the 
+EU Open Data Portal, Europeana, ECCCH, DARIAH, and Zenodo. 
+This poster accompanies a companion contribution on the [Finno-Ugric Data Sharing Space](https://reprex.nl/project/finnougricdataspace/), 
+including the LīvMDb (Livonian Music Database), which explores how smaller 
+regional repertoires can be embedded in broader, multimodal cultural 
+graphs—advancing the vision of a European Music Observatory as a complement 
+to the European Cultural Heritage Cloud.
+
+## Project History
 
 <td style="text-align: center;">
 

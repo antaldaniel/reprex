@@ -15,7 +15,9 @@ address:
   postcode: 5020
   country: Austria
 
-summary: ""
+summary: "We invite IAML members—national libraries, regional centres, municipal collections,
+and independent music librarians—to join us in building a federated, 
+decentralised European Music Observatory."
 
 # Talk start and end times.
 date: '2025-07-07T16:00:00+02:00'
@@ -41,23 +43,31 @@ url_slides: ''
 url_video: ''
 
 links:
-- icon: linkedin
-  icon_pack: fab
-  name: Reprex
-  url: https://www.linkedin.com/company/68855596/
-- icon: database
-  icon_pack: fas
-  name: SKMMDb (demo)
-  url: 
 - icon: info
   icon_pack: fas
   name: Project Information
   url: /project/skcmdb/
-- icon: z
+- icon: clipboard
+  icon_pack: fas
+  name: Poster
+  url: https://zenodo.org/records/15814286
+- icon: tv
+  icon_pack: fas
+  name: Sampo Semantic Browser (beta)
+  url: http://135.181.91.51:3007/en/
+- icon: database
+  icon_pack: fas
+  name: SKCMDb (demo)
+  url: 
+- icon: linkedin
   icon_pack: fab
-  name: Zenodo Community
-  url: https://zenodo.org/communities/music_observatory/
-
+  name: Reprex
+  url: https://www.linkedin.com/company/68855596/
+- icon: question
+  icon_pack: fas
+  name: Ask a question!
+  url: https://reprex.nl/contact/
+  
 # Markdown Slides (optional).
 slides: "20250306_dreams"
 ---
@@ -66,12 +76,14 @@ slides: "20250306_dreams"
 16:00–17:30 Our presentation takes place in the session of 
 **Music Libraries of Tomorrow: Reaching out to Wider Audiences** at the 
 Mozarteum University E.001 HS Thomas Bernhard room.
+
+We want invite IAML members—national libraries, regional centres, municipal collections,
+and independent music librarians—to join us in building a federated, 
+decentralised European Music Observatory. 👉 [Help Us Build a Truly Inclusive European Music Observatory (invitation blogpost)](/post/2025-07-05-iaml-2025/)
 {{% /callout %}}
 
-
-
 Our presentation at **IAML 2025** introduces the *Slovak Comprehensive Music Database*
-(SKCMDb), a national pilot within [Open Music Europe](https://openmuse.eu/). 
+(**SKCMDb**), a national pilot within [Open Music Europe](https://openmuse.eu/). 
 It offers a pragmatic, scalable solution to a widespread challenge: aligning 
 metadata from libraries, archives, rights organisations, and digital distributors 
 without centralisation or heavy infrastructure.
@@ -89,6 +101,8 @@ metadata curation, authority control, and digital service design, and those
 seeking low-cost, high-impact pathways to public-private interoperability 
 in cultural heritage.
 
+{{< figure src="/posters/IAML-reprex-poster-2025.png" caption="Please visit our poster and talk with our team members, Daniel Antal, Anna Márta Mester (librarian-data steward) and Anna Zilkova (chairperson of IAML Slovakia) on 8 July 2025 10:30–11:00 in the Gallery. You can download our poster in PDF [here](https://zenodo.org/records/15814286)." numbered="false" >}}
+
 Check out the entry examples related to Albrecht's: [Missa in C (printed, Hudobné centrum)](https://reprexbase.eu/skcmdb/Item:Q485) with library and webshop access points, and linked data on the composition itself [Q479](https://reprexbase.eu/skcmdb/Item:Q479), linked to its recorded manifestations. 
 
 ### Wikibase Interfaces
@@ -105,8 +119,21 @@ In [XML](https://reprexbase.eu/skcmdb/Special:EntityData/Q485.rdf) or
 ### SPARQL Endpoint
 <http://135.181.91.51:3030/#/dataset/skcmdb/query>; requires password.
 
-### Sampo semantic browser
+### Sampo Semantic Browser
 
 <td style="text-align: center;">
 {{< figure src="/png/skcmdb/skcmdb-library-access.png" caption="Sneak peak: [http://135.181.91.51:3007/en/](http://135.181.91.51:3007/en/)" numbered="false" >}}
 </td>
+
+### Next steps
+
+The Slovak pilot illustrates how libraries and national music centres can take a
+central role in a decentralised European Music Observatory that federates with the 
+EU Open Data Portal, Europeana, ECCCH, DARIAH, and Zenodo. 
+This poster accompanies a companion contribution on the [Finno-Ugric Data Sharing Space](https://reprex.nl/project/finnougricdataspace/), 
+including the LīvMDb (Livonian Music Database), which explores how smaller 
+regional repertoires can be embedded in broader, multimodal cultural 
+graphs—advancing the vision of a European Music Observatory as a complement 
+to the European Cultural Heritage Cloud.
+
+
