@@ -69,11 +69,11 @@ links:
   url: https://reprex.nl/contact/
   
 # Markdown Slides (optional).
-slides: "20250306_dreams"
+slides: "20250707-reprex-iaml2025"
 ---
 
 {{% callout note %}} 
-16:00–17:30 Our presentation takes place in the session of 
+16:00–17:30 Our [presentation](/slides/20250707-reprex-iaml2025/) takes place in the session of 
 **Music Libraries of Tomorrow: Reaching out to Wider Audiences** at the 
 Mozarteum University E.001 HS Thomas Bernhard room.
 

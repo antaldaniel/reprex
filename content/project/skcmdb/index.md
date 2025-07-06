@@ -11,15 +11,12 @@ lastmod: 2025-07-05T17:06+02:00
 summary: ""
 
 # Tags: can be used for filtering projects.
-tags: ["SKCMDb", "Open Music Observatory", "music", "film"]
+tags: ["SKCMDb", "Open Music Observatory", "music", "score"]
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
 # Special chars . . . —
-# Slides (optional).
-#   Otherwise, set `slides: ""`.
-slides: ""
 
 authors: ["admin"]
 
@@ -62,7 +59,8 @@ image:
   focal_point: "Center"
   preview_only: true
   
-slides: "crea-innovlab-2023"
+#   Otherwise, set `slides: ""`.
+slides: "20250704-skcmdb"
 ---
 
 
