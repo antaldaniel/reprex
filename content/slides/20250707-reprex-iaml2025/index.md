@@ -5,7 +5,7 @@ summary: Yes
 authors: [daniel_antal]
 tags: [IAML, Open Music Observatory, SKCMDb, music, dataspace]
 date: '2025-07-06T09:05+02:00'
-lastmod: '2025-07-06T09:06+02:00'
+lastmod: '2025-07-07T12:30+02:00'
 slides:
   theme: white
   highlight_style: dracula
