@@ -12,7 +12,7 @@ slides:
   
 ---
 
-{{< slide background-image="01_20250707-Reprex-IAML2025.png" background-position="center" >}}
+{{< slide background-image="01_20250707-D_Antal_IAML.png" background-position="center" >}}
 
 ---
 
@@ -30,11 +30,11 @@ Enter full screen mode:  on your keyboard
 
 ---
 
-{{< slide background-image="02_20250707-Reprex-IAML2025.png" background-position="center" >}}
+{{< slide background-image="02_20250707-D_Antal_IAML.png" background-position="center" >}}
 
 ---
 
-{{< slide background-image="03_20250707-Reprex-IAML2025.png" background-position="center" >}}
+{{< slide background-image="03_20250707-D_Antal_IAML.png" background-position="center" >}}
 
 ---
 
@@ -48,131 +48,119 @@ Enter full screen mode:  on your keyboard
 
 ---
 
-{{< slide background-image="04_20250707-Reprex-IAML2025.png" background-position="center" >}}
+{{< slide background-image="04_20250707-D_Antal_IAML.png" background-position="center" >}}
 
 ---
 
-{{< slide background-image="05_20250707-Reprex-IAML2025.png" background-position="center" >}}
+{{< slide background-image="05_20250707-D_Antal_IAML.png" background-position="center" >}}
 
 ---
 
-{{< slide background-image="06_20250707-Reprex-IAML2025.png" background-position="center" >}}
+{{< slide background-image="06_20250707-D_Antal_IAML.png" background-position="center" >}}
 
 ---
 
-{{< slide background-image="07_20250707-Reprex-IAML2025.png" background-position="center" >}}
+{{< slide background-image="07_20250707-D_Antal_IAML.png" background-position="center" >}}
 
 ---
 
-{{< slide background-image="08_20250707-Reprex-IAML2025.png" background-position="center" >}}
+{{< slide background-image="08_20250707-D_Antal_IAML.png" background-position="center" >}}
 
 ---
 
-{{< slide background-image="09_20250707-Reprex-IAML2025.png" background-position="center" >}}
+{{< slide background-image="09_20250707-D_Antal_IAML.png" background-position="center" >}}
 
 ---
 
-{{< slide background-image="10_20250707-Reprex-IAML2025.png" background-position="center" >}}
+{{< slide background-image="10_20250707-D_Antal_IAML.png" background-position="center" >}}
 
 ---
 
-{{< slide background-image="11_20250707-Reprex-IAML2025.png" background-position="center" >}}
+{{< slide background-image="11_20250707-D_Antal_IAML.png" background-position="center" >}}
 
 ---
 
-{{< slide background-image="12_20250707-Reprex-IAML2025.png" background-position="center" >}}
+{{< slide background-image="12_20250707-D_Antal_IAML.png" background-position="center" >}}
 
 ---
 
-{{< slide background-image="12_20250707-Reprex-IAML2025.png" background-position="center" >}}
+{{< slide background-image="12_20250707-D_Antal_IAML.png" background-position="center" >}}
 
 ---
 
-{{< slide background-image="13_20250707-Reprex-IAML2025.png" background-position="center" >}}
+{{< slide background-image="13_20250707-D_Antal_IAML.png" background-position="center" >}}
 
 ---
 
-{{< slide background-image="14_20250707-Reprex-IAML2025.png" background-position="center" >}}
+{{< slide background-image="14_20250707-D_Antal_IAML.png" background-position="center" >}}
 
 ---
 
-{{< slide background-image="15_20250707-Reprex-IAML2025.png" background-position="center" >}}
+{{< slide background-image="15_20250707-D_Antal_IAML.png" background-position="center" >}}
 
 ---
-{{< slide background-image="16_20250707-Reprex-IAML2025.png" background-position="center" >}}
+{{< slide background-image="16_20250707-D_Antal_IAML.png" background-position="center" >}}
 
 ---
-{{< slide background-image="17_20250707-Reprex-IAML2025.png" background-position="center" >}}
+{{< slide background-image="17_20250707-D_Antal_IAML.png" background-position="center" >}}
 
 ---
-{{< slide background-image="18_20250707-Reprex-IAML2025.png" background-position="center" >}}
+{{< slide background-image="18_20250707-D_Antal_IAML.png" background-position="center" >}}
 
 ---
-{{< slide background-image="19_20250707-Reprex-IAML2025.png" background-position="center" >}}
+{{< slide background-image="19_20250707-D_Antal_IAML.png" background-position="center" >}}
 
 ---
-{{< slide background-image="20_20250707-Reprex-IAML2025.png" background-position="center" >}}
+{{< slide background-image="20_20250707-D_Antal_IAML.png" background-position="center" >}}
 
 ---
-{{< slide background-image="21_20250707-Reprex-IAML2025.png" background-position="center" >}}
+{{< slide background-image="21_20250707-D_Antal_IAML.png" background-position="center" >}}
 
 ---
-{{< slide background-image="22_20250707-Reprex-IAML2025.png" background-position="center" >}}
+{{< slide background-image="22_20250707-D_Antal_IAML.png" background-position="center" >}}
 
 ---
-{{< slide background-image="23_20250707-Reprex-IAML2025.png" background-position="center" >}}
+{{< slide background-image="23_20250707-D_Antal_IAML.png" background-position="center" >}}
 
 ---
-{{< slide background-image="24_20250707-Reprex-IAML2025.png" background-position="center" >}}
+{{< slide background-image="24_20250707-D_Antal_IAML.png" background-position="center" >}}
 
 ---
-{{< slide background-image="25_20250707-Reprex-IAML2025.png" background-position="center" >}}
+{{< slide background-image="25_20250707-D_Antal_IAML.png" background-position="center" >}}
 
 ---
-{{< slide background-image="26_20250707-Reprex-IAML2025.png" background-position="center" >}}
+{{< slide background-image="26_20250707-D_Antal_IAML.png" background-position="center" >}}
 
 ---
-{{< slide background-image="27_20250707-Reprex-IAML2025.png" background-position="center" >}}
+{{< slide background-image="27_20250707-D_Antal_IAML.png" background-position="center" >}}
 
 ---
-{{< slide background-image="28_20250707-Reprex-IAML2025.png" background-position="center" >}}
+{{< slide background-image="28_20250707-D_Antal_IAML.png" background-position="center" >}}
 
 ---
-{{< slide background-image="29_20250707-Reprex-IAML2025.png" background-position="center" >}}
+{{< slide background-image="29_20250707-D_Antal_IAML.png" background-position="center" >}}
 
 ---
-{{< slide background-image="30_20250707-Reprex-IAML2025.png" background-position="center" >}}
+{{< slide background-image="30_20250707-D_Antal_IAML.png" background-position="center" >}}
 
 ---
-{{< slide background-image="31_20250707-Reprex-IAML2025.png" background-position="center" >}}
-
----
-
-{{< slide background-image="32_20250707-Reprex-IAML2025.png" background-position="center" >}}
+{{< slide background-image="31_20250707-D_Antal_IAML.png" background-position="center" >}}
 
 ---
 
-{{< slide background-image="33_20250707-Reprex-IAML2025.png" background-position="center" >}}
+{{< slide background-image="32_20250707-D_Antal_IAML.png" background-position="center" >}}
 
 ---
 
-{{< slide background-image="34_20250707-Reprex-IAML2025.png" background-position="center" >}}
+{{< slide background-image="33_20250707-D_Antal_IAML.png" background-position="center" >}}
 
 ---
 
-{{< slide background-image="35_20250707-Reprex-IAML2025.png" background-position="center" >}}
+{{< slide background-image="34_20250707-D_Antal_IAML.png" background-position="center" >}}
 
 ---
 
-{{< slide background-image="36_20250707-Reprex-IAML2025.png" background-position="center" >}}
-
----
-
-{{< slide background-image="37_20250707-Reprex-IAML2025.png" background-position="center" >}}
-
----
-
-{{< slide background-image="38_20250707-Reprex-IAML2025.png" background-position="center" >}}
+{{< slide background-image="35_20250707-D_Antal_IAML.png" background-position="center" >}}
 
 ---
 
