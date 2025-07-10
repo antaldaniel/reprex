@@ -7,8 +7,7 @@ summary: "The main goal of TextileBase is to help dress history scholars and pra
 # Tags: can be used for filtering projects.
 tags: ["knowledge graph", "dataspace", "garments", "textiles"]
 external_link: ""
-#   Otherwise, set `slides: ""`.
-slides: ""
+
 authors: ["admin"]
 links:
 - icon: database
@@ -31,7 +30,7 @@ image:
   caption: "Seto garments in the Obinitsa Museum, Setomaa, Estonia"
   focal_point: "Center"
   preview_only: false
-slides: ""
+slides: intro-textilebase
 editor_options: 
   markdown: 
     wrap: 72

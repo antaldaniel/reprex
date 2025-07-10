@@ -44,7 +44,7 @@ links:
   url: https://www.linkedin.com/company/68855596/
 
 # Markdown Slides (optional).
-#slides: 20240605_D_Antal_CSRD_Automated_Compliance
+slides: intro-textilebase
 ---
 
 <td style="text-align: center;">
