@@ -1,6 +1,6 @@
 ---
-title: "Help Us Build a Truly Inclusive European Music Observatory"
-subtitle: "An invitation to music librarians and IAML members"
+title: "Federating Music Library Data in Hungary – A Call to Action"
+subtitle: "A post about our IAML2025 presentation and an invitation for Hungarian data federation pilots"
 
 summary: "Exploring how music library services can modernize to rival major platforms, improve sheet music access for all musicians, and connect communities to local music despite limited resources."
 
@@ -9,7 +9,7 @@ date: '2025-07-21T08:45:00+02:00'
 lastmod: '2025-07-21T08:45:00+02:00'
 
 authors: [daniel_antal"]
-tags: ["metadata", "libraries", "Open Music Observatory", "Hungary"]
+tags: ["metadata", "libraries", "Open Music Observatory", "Hungary", "IAML"]
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -31,7 +31,7 @@ links:
   url: https://zenodo.org/records/15814286
 - icon: tv
   icon_pack: fas
-  name: Sampo Semantic Browser (beta)
+  name: Slovak Demo (beta)
   url: http://135.181.91.51:3007/en/
 - icon: linkedin
   icon_pack: fab
