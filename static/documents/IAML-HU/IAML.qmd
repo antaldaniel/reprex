@@ -1,0 +1,39 @@
+---
+title: "IAML"
+format: html
+editor: visual
+---
+
+**Hogyan lehetne modernizálni a zenei könyvtári szolgáltatásokat, hogy versenyképesek legyenek a Spotify, YouTube, vagy Apple Music Classical szolgáltatási szintjével? Hogyan lehetne azt elérni, hogy egy zeneiiskolai hallgató, pedagógus, amatőr vagy professzionális zenész könnyen megtalálja egy érdekes mű kottáját? Hogy az iskolások a településük, régiójuk zenéjét pedagógusok vagy helyi zenészek és könyvtárosok segítségével fel tudják fedezni? Mindezt figyelembe véve az egyetemi- és közkönvytárak világszerte szűkös anyagi lehetőségeit…**
+
+Antal Dániel, az IAML Magyarország új tagja, eredetileg könyvtáros kolléganőjével, Mester Annával és az IAML Szlovákia vezetőjéve, Anna Žilkovával az IAML 2025 kongresszuson az *Slovak Comprehensive Music Database (*[SKCMDb](https://reprex.nl/project/skcmdb/)*)* mögötti adatmegosztási tér jogi, szervezési, és információtudományi kérdéseiről tartottak előadást és poszterprezentációt. Erről a munkáról a magyar szakmai közösség egy vvel ezelőtt a „Networkshop 2024: az oktatás, a kutatás és a közgyűjtemények digitális transzformációja felsőfokon” című konferencián és annak konferencia-kötetében hallhatott és olvashatott ([A szlovák adatkicserélési tér magyarországi föderációjának lehetőségei](https://zenodo.org/records/14640180).)
+
+Az IAML kongresszuson már egy élő demó szolgáltatás kipróbálására, szakmai kritikájára, és továbbfejlesztésére kerestünk nemzetközi partnereket. Szerencsénkre Salzburg földrajzi és kulturális közelsége miatt sok magyar szakember társaságában.
+
+![Munkánk bemutatója az előadásunk után, az IAML 2025 poszter szekciójában zenei metaadatszakértők és könyvtárosok számára. Fotó: Anna Žilková.](images/2025-07-08_IAML_poster.jpg)
+
+Munkánk ambíciózus célja az, hogy egy szemantikus adatbázison keresztül elérhető legyen minden zene, ami a modern Szlovákia területén született. Az adatbázishoz könnyen kezelhető grafikus felületeket, és az intézményi felhasználóknak, vagyis könyvtáraknak, archívumoknak, jogkezelőknek, zenei terjesztőknek API kapcsolatot biztosítunk. Az adatbázis összeköti az ismert zeneműveket és változatokat, kéziratos és publikált kottákat, illetve az ismert demó, regisztrációs célú, archívumi és kereskedelmi forgalomban lévő hangfelvételeket. A zeneművek és manifesztációk szerzőit, előadóit szeretnék továbbá azokkal a másodlagos könyvtári és levéltári forrásokkal összekapcsolni, amelyek zenetudományi kontextusba helyezik mindezt.
+
+Szlovákiában a helyi zenei alap, zenei információs központ, és az Artisjus testvérszervezetének, a SOZA-nak az adatait integráljuk. Ez lehetővé teszi egyfelől a könvytári katalógusok minőségének a javítását (mű szintű katalogizálás, hibák javítása, elvault kiadói vagy földrajzi adatok frissítése.) Így javulhat a végfelhasználó kiszolgálása, például, mivel a katalógusban nem csak egy szerző “összes művei” vagy “válogatott szonátái” találhatók meg, de pontosan megmutatható, hogy egy zenei streaming szolgáltatáson éppen hallgatott mű pontosan melyik tétellel kölcsönözhető ki.
+
+Már élő demó szolgáltatásunk egyben segíti a helyi művek és zenészek újrafelfedezését. A felhasználók megtalálhatják régiójuk vagy városuk zeneszerzőit, előadóit, és lokalizálhatják azok elérhető műveit a helyi vagy egy távolabbi szlovák zenei könyvtárban.
+
+Egy esettanulmányunkban a Lett Folklór Archívumából kiemeltünk nagyközönség számára nem ismert [hangfelvételeket](https://reprexbase.eu/fu/Item:Q4743), lefordítottuk a metadaataikat, és kiadtuk őket a Spotify platformon; mindezt összekötött etnográfia és a zenetudományi leírásokkal, és [Wikipedia oldalaival](https://hu.wikipedia.org/wiki/Hilda_Gr%C4%ABva), ezáltal megteremtve ezeknek a lív, latgalái és lett népdaloknak a tényleges felfedezhetőségét az egyébként túlzsúfolt digitális térben.
+
+![Poszterünk letölthető a Zenodo [repozitóriumból](https://zenodo.org/records/15814286). Lásd még: [A szlovák adatkicserélési tér magyarországi föderációjának lehetőségei](https://zenodo.org/records/14640180).](images/IAML-reprex-poster-2025.png){fig-align="center"}
+
+Az IAML 2025 előadásunk Salzburgban és [poszterünk](https://zenodo.org/records/15814286) az alábbi kérdéseket járta körül
+
+-   Hogyan képzelhető el az adatcsere és annak jogi, műveleti szabályozása közintézmények (például zenei könyvtárak és archívumok) és magánintézmények, például zenei jogkezelők, terjesztők, és streaming szolgáltatók között?
+
+-   Hogyan lehet a könyvtárak és partnereik redundáns adatolási, dokumentáció munkaterhét csökkenti az adatcsere lehetőségével?
+
+-   Hogyan lehet mélyebb, szemantikusan gazdagabb könyvtári szolgáltatások fejleszteni megfizethető, könnyen kezelhető, nyílt forráskódú eszközökkel?
+
+-   Munkánknak mely eredményei gyarapíthatják a könyvtártudomány ismereteit a könyvtári, levéltári, múzeumi, tudományos és magán adatrendszerek közötti átjárhatóságról, standardizálásról?
+
+Munkánkat az Európai Unió Horizon Europe programja támogatja az [Open Music Europe](https://openmuse.eu/) projekt keretében. A célunk az, hogy az előző évtizedben elképzelt, de soha meg nem valósult centralizált *Európai Zenei Obszervatórium* helyett az *Open Music Observatory* beindításával a meglévő adatrendszerek felhasználásával, a meglévő helyi, nemzeti és pán-európai adatbázisok tulajdonjogának tiszteletben tartásával egy decentralizált alternatívát nyújtsunk az európai zenei ökoszisztéma több és jobb minőségű adattal való ellátására.
+
+![Hozzáférés egy adott mű kottáihoz különböző közcélú webáruházakban és szlovákiai egyetemi- és közkönyvtárakban. Demó: <http://135.181.91.51:3007/en/>](images/skcmdb-library-access.png){fig-align="center"}
+
+Eszközeink nyítottak és örömmel segítjük azok kipróbálását magyar könyvtári vagy gyűjteménykezelési belső folyamatok minőségének javítására, vagy költségének csökkentésére. Szeretnénk augusztus végén vagy szeptember elején Budapesten egy nyilvános szakmai szemináriumon is bemutatni, megvitatni munkánk eredményeit az IAML Magyarország tagjaival.

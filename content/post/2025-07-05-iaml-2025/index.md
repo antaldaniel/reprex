@@ -100,9 +100,9 @@ Sampo-UI, and R—packaged to work for libraries with limited technical capacity
 If you care about interoperability, cultural equity, and the future of 
 library relevance in the streaming era—this is your moment to get involved.
 
-Not present at `IAML2025`? 
-👉 [Presentation](/slides/20250707-reprex-iaml2025/)
-👉 [Poster](https://zenodo.org/records/15814286)
+Not present at `IAML2025`?</br>
+👉 [Presentation](/slides/20250707-reprex-iaml2025/)</br>
+👉 [Poster](https://zenodo.org/records/15814286)</br>
 👉 Please [contact us](https://reprex.nl/contact/) directly.
 
 Let’s ensure music libraries remain vital entry points to Europe’s rich and evolving cultural soundscape.
