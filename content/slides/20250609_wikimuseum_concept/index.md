@@ -9,7 +9,6 @@ lastmod: '2025-06-24T14:23:00+01:00'
 slides:
   theme: white
   highlight_style: dracula
-  
 ---
 
 {{< slide background-image="01_20250609_Wikimuseum.png" background-position="center" >}}
