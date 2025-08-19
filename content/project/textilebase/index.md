@@ -128,5 +128,5 @@ Inspired by Wikimedia Estonia’s multi-language, open-access model, we propose 
 
 👉🏾 [Subscribe (PDF)](https://reprex.nl/documents/textilebase/txb-offering.pdf)  
 
-👉🏼 [Get in touch)](https://reprex.nl/contact/)  
+👉🏼 [Get in touch](https://reprex.nl/contact/)  
 
