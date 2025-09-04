@@ -18,8 +18,8 @@ address:
 summary: "A practical one-day workshop on how small labels, libraries, and private collectors can benefit from the new Open Music Europe / OpenMusE data sharing infrastructure, with a focus on the Slovak and Hungarian music data spaces."
 
 # Talk start and end times.
-date: '2025-09-12T10:00:00+02:00'
-date_end: '2025-09-12T16:00:00+02:00'
+date: '2025-09-12T15:00:00+02:00'
+date_end: '2025-09-12T16:30:00+02:00'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -60,7 +60,7 @@ links:
   url: /event/2025-07-07-iaml2025/
 ---
 
-Join us on **12 September 2025** at the **House of Hungarian Music, Budapest** for a hands-on workshop on how **small labels, music libraries, and private collectors** can connect their catalogues and archives to the new **Open Music Europe / OpenMusE data sharing space**.
+Join us on **12 September 2025** at the **House of Hungarian Music, Budapest** for a hands-on workshop on how **small labels, music libraries, and private collectors** can connect their catalogues and archives to the new Open Music Europe / OpenMusE data sharing space.
 
 We will show how the **Slovak and Hungarian music data spaces** — federated through the **Open Music Observatory** — make it easier to:
 
@@ -90,6 +90,6 @@ The event language is **Hungarian**, with support available in **English**.  Fur
 - 📍 **Location:** House of Hungarian Music, Városliget, Budapest  
 - 🕑 **Time:** 10:00–16:00 (followed by informal networking)  
 
-Participation is free, but **registration is required** as places are limited.  
+Participation is free, but [registration is required](https://docs.google.com/forms/d/1AovCrxFfxFpZUmH4yRzqQNbaQiJJTvi65BaGOUnjiC8/edit) as places are limited.  The language of the event is Hungarian. We appreciate if you write on the registration form a few sentences about what you collect, what type of collections you manage, and what is your primary interest.
 
 👉 [Register here](#) (link to be added)  
