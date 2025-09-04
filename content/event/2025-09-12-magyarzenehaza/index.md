@@ -23,7 +23,7 @@ date_end: '2025-09-12T16:00:00+02:00'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-09-ö4T14:40:00+02:00'
+publishDate: '2025-09-04T12:40:00+02:00'
 
 authors: ["daniel_antal"]
 tags: ["Dataspace", "SKCMDb", "Open Music Europe", "Metadata", "Wikibase", "IAML"]
