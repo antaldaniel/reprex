@@ -63,7 +63,7 @@ TextileBase connects these fragments into one network: a **living map of dress h
 {{< spoiler text=" 👉 Build on shared knowledge: Technical details & offering" >}}
 
 - [TextileBase website](https://reprexbase.eu/textilebase/)  
-- [TextileBase methodology preprint]()
+- [TextileBase methodology preprint](https://reprex.nl/documents/textilebase/txb-preprint.pdf)
 - [TextileBase Introduction Seminar](https://reprex.nl/event/2025-07-10-textilebase/)
 - [TextileBase technical specifications (PDF)](https://reprex.nl/documents/textilebase/txb-tech-specs.pdf)  
 - [TextileBase subscription packages (PDF)](https://reprex.nl/documents/textilebase/txb-offering.pdf)  
