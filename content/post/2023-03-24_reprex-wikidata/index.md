@@ -23,7 +23,7 @@ featured: false
 links:
 - icon: database
   icon_pack: fas
-  name: Digital Music Observatory
+  name: Open Music Observatory
   url: https://music.dataobservatory.eu/
 - icon: folder
   icon_pack: far
@@ -35,7 +35,7 @@ links:
   url: https://www.linkedin.com/company/68855596/
 
 tags:
-  - Digital Music Observatory
+  - Open Music Observatory
   - Open Collections Network
   - Wikidata
   - Linked open data
