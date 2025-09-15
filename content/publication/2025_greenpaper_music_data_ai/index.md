@@ -55,5 +55,5 @@ It has been released early in line with the principles of **Open Policy Analysis
 ## Participate
 
 We invite stakeholders from music, cultural heritage, and AI governance communities to **comment and contribute** to this draft.  
-Please visit the [Zenodo record](https://zenodo.org/record/xxxxxxx) or the [Open Music Europe website](https://openmuse.eu/) for more information.  
+Please visit the [Zenodo record](https://zenodo.org/records/17075796) or the [Open Music Europe website](https://openmuse.eu/) for more information.  
 
