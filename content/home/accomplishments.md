@@ -26,6 +26,12 @@ experience:
     company_logo: textilebase
     date_start: '2024-09-01'
     description: "TextileBase links museum, archive, and research records on garments into a multilingual knowledge graph to support dress history, cultural heritage, and sustainable fashion."
+  - title: FUDSS
+    company: Reprex
+    company_url: ../observatories/finno-ugric/
+    company_logo: FUDSS_logo
+    date_start: '2025-03-06'
+    description: "We built the Finno-Ugric Data Sharing Space as a federated platform that solves some of the hardest data challenges — linking scattered, multilingual, public and private collections while respecting local knowledge and legal frameworks. By stress-testing our methods in this complex cultural setting, we developed tools directly applicable to equally difficult business data problems across borders and industries."    
   - title: Smart Policy Documents Monitor National Policy
     company: Slovak Ministry of Culture
     company_url: ../post/2023-03-06_reprex-opa/
@@ -41,32 +47,15 @@ experience:
     location: The Hague, Netherlands
     date_start: '2022-09-10'
     date_end: '2022-11-15'
-    description: 'We want to bring the future European Music Observatory, and various SGD related international data projects to the Hague.'
-
-#description: |2-
-# Responsibilities include:
-#        * Analysing
-#        * Modelling
-#        * Deploying
-
-  - title: Listen Local Lithuania
-    company: MXF
-    company_url: 'https://reprex.nl/project/openmuse/'
-    company_logo: mxf
-    location: Vilnius, Lithuania
-    date_start: '2022-09-07'
-    date_end: '2023-02-28'
-    description: 'Integration of knowledge about the Lithuanian commercially released music in the world. Help Lithuanian artists and music providers to find locally relevant content and increase market share.'
-
+    description: 'Our automated data observatory concept supported by a data-sharing space wins the audience prize.'
   - title: OpenMuse
-    company: Sinus + OpenMuse Consortium
-    company_url: 'https://reprex.nl/project/openmuse/'
+    company: Open Music Europe Consortium
+    company_url: 'https://openmuse.eu/'
     company_logo: open_music_europe
     location: Berlin, Germany
     date_start: '2022-07-23'
     date_end: '2025-12-31'
-    description: 'Launch our research automation tools from data collection to dissemination for scientific, business and policy partners, including OPA-compatible smart policy documents for music economy, music diversity, music innovation policies and ESG reporting.'
-    
+    description: 'We initiated a Horizon Europe Research and Innovation action to launch our research automation tools from data collection to dissemination for scientific, business and policy partners.'
   - title: Eviota
     company: Inova+ & European Music Council
     company_url: 'https://musicaire.eu/2022/07/12/final-list-of-awarded-projects/'

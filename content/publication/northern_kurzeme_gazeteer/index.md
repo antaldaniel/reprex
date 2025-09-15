@@ -17,13 +17,18 @@ abstract:  "This paper presents a multilingual, semantically linked gazetteer of
 summary:  "We presents a multilingual, semantically linked gazetteer of historical and contemporary settlements along the Livonian coast of Northern Kurzeme for linking locations to music."
 
 # Is this a selected publication? (true/false)
-featured:  true
+featured:  false
 
 publication: In [Finno-Ugric Data Sharing Space](https://reprexbase.eu/fu/)
 
 # Projects (optional).
 projects: 
- - OpenMuse
+ - Open Music Europe
+ 
+tags:
+  - Open Music Europe
+  - TextileBase
+  - Finno-Ugric Data Sharing Space
 
 # Slides (optional).
 #   `content/slides/example-slides.md`.

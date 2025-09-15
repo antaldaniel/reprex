@@ -39,8 +39,8 @@ main:
     weight: 31
     parent: Solutions
     url: '#observatories'
-  - name: Apps
-    url: '#apps'
+  - name: Systems
+    url: '#systems'
     weight: 32
     parent: Solutions
   - name: Software

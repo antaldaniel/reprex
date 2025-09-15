@@ -9,7 +9,7 @@ weight: 10 # Order that this section will appear.
 title: |
   REPREX  
   Big Data For All
-hero_media: img/reprex/DAntal_BoriD_2_20221028_sqc.jpg
+hero_media: png/reprex/Reprex_summary_with_text_white_narrower_sq.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'

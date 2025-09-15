@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Applications
+title: Systems
 subtitle: 
 
 content:
@@ -27,9 +27,9 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Smart Policy Documents
-    tag: Smart Policy Documents
-  - name: Eviota
+  - name: Future-Proof Systems
+    tag: Future-Proof Systems
+  - name: Scope 3 ESG
     tag: Eviota
   - name: Listen Local
     tag: Listen Local

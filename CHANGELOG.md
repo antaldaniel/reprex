@@ -7,6 +7,7 @@
 - Changed authors/admin/index.md, i.e. Reprex profile.
 - Merge Solutions and Data Sharing Spaces
 - about/observatories/ is removed until rewrite
+- Change apps to systems
 
 ## Team
 
