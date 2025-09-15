@@ -17,13 +17,13 @@ abstract:  "Our paper argues that fair competition in music streaming is restric
 summary:  "Urgent consideration should be given to a user-centric payment system, as well as greater transparency of the factors underpinning playlist creation and of negotiated agreements"
 
 # Is this a selected publication? (true/false)
-featured:  true
+featured:  false
 
 publication: In [CPI Antitrust Chronicle](https://www.competitionpolicyinternational.com/)
 
 # Projects (optional).
 projects: 
- - OpenMuse
+ - Open Music Observatory
 
 # Slides (optional).
 #   `content/slides/example-slides.md`.

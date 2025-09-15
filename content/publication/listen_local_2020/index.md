@@ -14,7 +14,6 @@ authors:
 #  - 'Equal contribution'
 
 date: '2020-12-27T11:00:00'
-doi: ''
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2020-12-27T11:00:00'
@@ -47,7 +46,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: "https://zenodo.org/record/6427514/files/Listen_Local_Feasibility_Study_2020_EN.pdf?download=1"
-url_preprint: ""
+url_preprint: "https://zenodo.org/records/6427514"
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -56,7 +55,9 @@ url_slides: ''
 url_source: ''
 url_video: ''
 
-# Featured image
+# Digital Object Identifier (DOI)
+doi: "10.5281/zenodo.6427514"
+
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: ''

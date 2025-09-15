@@ -20,5 +20,6 @@ design:
 
 <br>
 
-The `Reprex` is a Netherlands-based data science startup founded in 2020. We help to decrease the inequalities caused by big data and AI, and we thrive to make an impact on the UN SDG agenda. </br>
-We are finalists in The Hague Innovators Award 2022 competition.
+`Reprex` is a Netherlands-based AI and automation company founded in 2020. We build data-sharing spaces and knowledge bases that feed AI systems with trustworthy data and guardrails so their outcomes are reliable, explainable, and aligned with human oversight. Our solutions support back-office operations, CAPEX planning, research automation, and market analysis. Growing out of the Yes!Delft incubator and recognised with several innovation awards, we work internationally while advancing the UN Sustainable Development Goals (SDGs).
+
+

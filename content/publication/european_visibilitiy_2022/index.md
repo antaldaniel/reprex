@@ -16,9 +16,9 @@ publication: In *Journal of Intellectual Property, Information Technology and El
 publication_short: In *JIPITEC*
 
 # Abstract and optional shortened version.
-abstract:  "While the US have already taken steps to provide an integrated data space for music as of 1 January 2021, the EU is facing major obstacles not only in the field of music but also in other creative industry sectors. Weighing costs and benefits, there can be little doubt that new data improvement initiatives and sufficient investment in a better copyright data infrastructure should play a central role in EU copyright policy. A trade-off between data harmonisation and interoperability on the one hand, and transparency and accountability of content recommender systems on the other, could pave the way for successful new initiatives."
+abstract: "This influential article analyses how Europe can strengthen the visibility and accessibility of its cultural and creative works by improving copyright data infrastructures. It highlights the risks of poor metadata, the opportunities of Article 17 of the CDSM Directive, and the importance of trustworthy systems for licensing and remuneration. The music sector, where fragmented metadata leads to lost royalties and unfair competition, provides key examples. The work continues to inform our projects on trustworthy AI, data governance, and cultural data spaces."
 
-abstract_short:  "The lacking strategy to organize data and metadata in a multilingual Europe puts creators opens up the biggest cultural market of the world to American competition."
+abstract_short: "A highly cited article on copyright data and metadata policies, with strong implications for Europe’s music industry and cultural data spaces."
 
 # Is this a selected publication? (true/false)
 featured:  true
@@ -53,20 +53,21 @@ math:  true
 
 # Featured image
 image:
-  # Caption (optional)
-  caption:  ""
+  # Caption
+  caption:  "Cited reference work on copyright metadata and Europe’s cultural industries"
 
   # Focal point (optional)
   # Options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
-  focal_point:  "Left"
+  focal_point:  "Top"
 ---
 
-In the European Strategy for Data, the European Commission highlighted the EU’s ambition to acquire a leading role in the data economy. At the same time, the Commission conceded that the EU would have to increase its pools of quality data available for use and re-use. In the creative industries, this need for enhanced data quality and interoperability is particularly strong. Without data improvement, unprecedented opportunities for monetising the wide variety of EU creative and making this content available for new technologies, such as artificial intelligence training systems, will most probably be lost. The problem has a worldwide dimension. While the US have already taken steps to provide an integrated data space for music as of 1 January 2021, the EU is facing major obstacles not only in the field of music but also in other creative industry sectors. Weighing costs and benefits, there can be little doubt that new data improvement initiatives and sufficient investment in a better copyright data infrastructure should play a central role in EU copyright policy. A trade-off between data harmonisation and interoperability on the one hand, and transparency and accountability of content recommender systems on the other, could pave the way for successful new initiatives.
+This article, published in *JIPITEC* in 2022, remains one of our most cited works on copyright, metadata, and cultural policy.  
 
-The published article:
-https://www.jipitec.eu/issues/jipitec-13-1-2022/5515
+The paper shows how **fragmented copyright metadata** undermines the visibility of European creative works, causes **royalty losses** for artists, and limits the ability of European industries to compete globally in emerging areas like **AI training** and **recommender systems**.  
 
-## Preprint version 
+Using the **music industry** as a central case study, the article highlights why improved metadata and licensing infrastructures are vital. Its findings directly connect to our current projects on **trustworthy AI, cultural data spaces, and fair remuneration systems**.  
 
-The earlier preprint version on [SSRN](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3785272) our for {{% staticref "media/publications/SSRN-id3785272.pdf" "newtab" %}}direct download{{% /staticref %}} here on Data & Lyrics.
-Senftleben, Martin and Margoni, Thomas and Antal, Daniel and Bodó, Balázs and Gompel, Stef van and Handke, Christian and Kretschmer, Martin and Poort, Joost and Quintais, João and Schwemer, Sebastian Felix, _Ensuring the Visibility and Accessibility of European Creative Content on the World Market - The Need for Copyright Data Improvement in the Light of New Technologies and the Opportunity Arising from Article 17 of the CDSM Directive_ (February 12, 2021). Available at SSRN: [https://ssrn.com/abstract=3785272](https://ssrn.com/abstract=3785272) or [http://dx.doi.org/10.2139/ssrn.3785272](http://dx.doi.org/10.2139/ssrn.3785272)
+📄 **Read the published version** in JIPITEC: [Full text PDF](https://www.jipitec.eu/jipitec/article/view/345/338)  
+📄 **Preprint version** available on SSRN: [SSRN abstract](https://ssrn.com/abstract=3785272)  
+
+---

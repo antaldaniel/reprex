@@ -16,7 +16,7 @@ abstract: "The results of the first Hungarian, Slovak, Croatian and Czech music 
 abstract_short: "The results of the first Hungarian, Slovak, Croatian and Czech music industry reports are compared with Armenian, Austrian, Bulgarian, Lithuanian, Serbian and Slovenian data and findings."
 
 # Is this a featured publication? (true/false)
-featured: true
+featured: false
 
 # Projects (optional).
 projects:
