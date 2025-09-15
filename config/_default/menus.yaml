@@ -4,9 +4,6 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
-    url: ''
-    weight: 1
   - name: About
     url: ''
     weight: 10
@@ -18,10 +15,6 @@ main:
   - name: About Our Observatories
     url: ../about/observatories
     weight: 12
-    parent: Reprex
-  - name: "In A Minute: Slides"
-    url: /#slider
-    weight: 13
     parent: Reprex
   - name: Accomplishments
     url: '#accomplishments'
@@ -81,20 +74,21 @@ main:
   - name: Publications
     url: publication
     weight: 80
-  - name: Projects
-    url: "#projects"
-    weight: 60
   - name: Publications
     url: '#featured'
     weight: 70
     identifier: Publications
+  - name: Blog
+    url: /post/
+    weight: 71
+    parent: Publications
   - name: Featured
     url: '#featured'
-    weight: 70
+    weight: 72
     parent: Publications
   - name: All Publications
     url: publication
-    weight: 72
+    weight: 73
     parent: Publications
   - name: Contact & Events
     url: '#contact'

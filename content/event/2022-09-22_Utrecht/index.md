@@ -34,6 +34,7 @@ authors: []
 tags: 
  - Listen Local
  - Netherlands
+ - Open Music Observatory
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -48,8 +49,6 @@ url_slides: ''
 url_video: ''
 
 # Markdown Slides (optional).
-#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
-#   Otherwise, set `slides = ""`.
 slides:
 
 # Projects (optional).

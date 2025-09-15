@@ -25,7 +25,7 @@ all_day: false
 publishDate: '2023-12-08T17:33:00+01:00'
 
 authors: ["daniel_antal"]
-tags: ["SKCMDb", "Edinburgh", "Data Curation", "Digital Music Observatory"]
+tags: ["SKCMDb", "Edinburgh", "Data Curation", "Open Music Observatory"]
 
 # Is this a featured talk? (true/false)
 featured: false

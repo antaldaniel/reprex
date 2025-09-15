@@ -5,7 +5,7 @@ date: 2025-05-11T15:05:10+01:00
 lastmod: 2025-08-19T17:40:00+02:00
 summary: "TextileBase helps scholars, museums, and businesses connect, share, and reuse data about textiles and dress history."
 # Tags: can be used for filtering projects.
-tags: ["knowledge graph", "dataspace", "garments", "textiles"]
+tags: ["knowledge graph", "dataspace", "garments", "textiles", "TextileBase"]
 external_link: ""
 
 authors: ["admin"]

@@ -7,12 +7,11 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 20
 
 title: "Data Sharing Spaces"
 short_abstract: "Connecting public and private databases across legal, organisational, semantic, and technical boundaries"
 subtitle: "Our Data Sharing Spaces implement the European Interoperability Framework (EIF) to connect diverse datasets on an as-needed, as-permitted basis. They enable organisations to share trustworthy data securely while respecting legal and technical differences."
-
 
 content:
   # Page type to display. E.g. project.
@@ -30,15 +29,11 @@ content:
   - name: All
     tag: '*'
   - name: Music
-    tag: Music
-  - name: Competition
-    tag: Competition
-  - name: Cultural Creative
-    tag: Creative industries
-  - name: Green Deal
-    tag: Climate change
-  - name: Economy
-    tag: economy
+    tag: Open Music Observatory
+  - name: TextileBase
+    tag: TextileBase
+  - name: Regional
+    tag: FUDSS
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

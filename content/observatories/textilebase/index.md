@@ -2,6 +2,7 @@
 title: TextileBase
 summary: A collaborative data space linking artefacts, images, and texts to preserve and reuse knowledge on historical clothing and sustainable textiles.
 tags:
+- TextileBase
 - Textiles
 - Knowledge graph
 - Cultural heritage

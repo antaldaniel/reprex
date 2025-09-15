@@ -2,13 +2,14 @@
 title: Finno-Ugric Data Sharing Space
 summary: A collaborative platform to reconnect dispersed Finno-Ugric cultural heritage across museums, libraries, archives, and community collections.
 tags:
+- FUDSS
 - Cultural heritage
 - Data spaces
 - Multilingualism
 - Collaboration
 
-date: "2024-03-15T00:00:00Z"
-lastmod: "2025-02-15T00:00:00Z"
+date: "2025-02-15T00:00:00Z"
+lastmod: "2025-09-14T12:00:00Z"
 
 external_link: ""
 
@@ -24,7 +25,7 @@ links:
 - icon: z
   icon_pack: fab
   name: Zenodo Community
-  url: https://zenodo.org/communities/finno-ugric-dss/
+  url: https://zenodo.org/communities/finnougricdataspace/
 - icon: linkedin
   icon_pack: fab
   name: Reprex

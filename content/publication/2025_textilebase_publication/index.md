@@ -17,7 +17,7 @@ abstract_short: "TextileBase preprint: linking garments, artefacts, and texts in
 featured: true
 
 projects: ["TextileBase"]
-tags: ["textiles", "knowledge graph", "cultural heritage", "digital humanities"]
+tags: ["textiles", "knowledge graph", "cultural heritage", "digital humanities", "TextileBase"]
 
 url_pdf: "https://doi.org/10.5281/zenodo.16914850"
 url_preprint: "https://doi.org/10.5281/zenodo.16914850"

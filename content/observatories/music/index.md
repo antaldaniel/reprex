@@ -2,6 +2,7 @@
 title: Open Music Observatory
 summary: A collaborative platform to improve metadata, copyright, and economic data in Europe’s music sector, supporting fair remuneration, transparency, and trustworthy AI.
 tags:
+- Open Music Observatory
 - Music industry
 - Data spaces
 

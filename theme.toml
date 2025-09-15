@@ -2,7 +2,7 @@ name = "Research Group"
 license = "MIT"
 licenselink = "https://github.com/wowchemy/starter-hugo-research-group/blob/main/LICENSE.md"
 description = "The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form."
-homepage = "https://github.com/wowchemy/starter-hugo-research-group"
+homepage = "https://github.com/HugoBlox/theme-research-group"
 demosite = "https://research-group.netlify.app/"
 tags = ["academic",
         "university",

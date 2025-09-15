@@ -27,12 +27,10 @@ featured:  true
 #projects:  ["market-report"]
 
 # Slides (optional).
-#   `content/slides/example-slides.md`.
-#   Otherwise, set `slides:  ""`.
 slides:  ""
 
 # Tags (optional).
-tags:  ["Metadata", "Trustworthy AI", "Royalties"]
+tags:  ["Metadata", "Trustworthy AI", "Royalties", "Open Music Observatory"]
 
 # Links (optional).
 url_pdf:  "https://www.jipitec.eu/issues/jipitec-13-1-2022/5515/senftleben_pdf.pdf"
