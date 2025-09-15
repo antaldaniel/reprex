@@ -12,10 +12,6 @@ main:
     url: ../author/reprex/
     weight: 11
     parent: Reprex
-  - name: About Our Observatories
-    url: ../about/observatories
-    weight: 12
-    parent: Reprex
   - name: Accomplishments
     url: '#accomplishments'
     weight: 12
@@ -39,38 +35,22 @@ main:
     url: '#services'
     weight: 30
     identifier: Solutions
+  - name: Data Sharing Spaces &#128279
+    weight: 31
+    parent: Solutions
+    url: '#observatories'
   - name: Apps
     url: '#apps'
-    weight: 31
+    weight: 32
     parent: Solutions
   - name: Software
     url: '#releases'
-    weight: 32
+    weight: 33
     parent: Solutions
   - name: Code
     url: '/category/r-bloggers/'
     weight: 34
     parent: Solutions
-  - name: Data Sharing Spaces
-    url: ""
-    weight: 40
-    identifier: Data
-  - name: Overview
-    url: '#observatories'
-    weight: 40
-    parent: Data
-  - name: Open Music Observatory &#128279;
-    url: 'https://music.dataobservatory.eu'
-    weight: 41
-    parent: Data
-  - name: TextileBase &#128279;
-    url: /observatories/textilebase/
-    weight: 42
-    parent: Data
-  - name: Finno-Ugric Data Sharing Space &#128279;
-    url: 'https://greendeal.dataobservatory.eu'
-    weight: 43
-    parent: Data
   - name: Publications
     url: publication
     weight: 80

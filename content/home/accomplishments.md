@@ -20,6 +20,12 @@ date_format: Jan 2006
 # Experiences.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: TextileBase
+    company: Reprex
+    company_url: ../observatories/textilebase/
+    company_logo: textilebase
+    date_start: '2024-09-01'
+    description: "TextileBase links museum, archive, and research records on garments into a multilingual knowledge graph to support dress history, cultural heritage, and sustainable fashion."
   - title: Smart Policy Documents Monitor National Policy
     company: Slovak Ministry of Culture
     company_url: ../post/2023-03-06_reprex-opa/

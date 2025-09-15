@@ -68,9 +68,6 @@ social:
 #   icon_pack: ai
 #   link: files/cv.pdf
 
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
@@ -81,7 +78,7 @@ Founder of Reprex, a company dedicated to building trustworthy data and AI.
 
 Daniel has been writing code since childhood, learned the early foundations of AI in the last century, and today I advise C-level executives on navigating modern AI challenges. His focus: transforming messy, incomplete, or biased data into a reliable foundation—because without clean data, even the best algorithms fail.
 
-Across Europe, whether on stage at AI conferences, in boardrooms, or at hackathons, I share practical insights on how organizations can create real value with AI.
+Across Europe, whether on stage at AI conferences, in boardrooms, or at hackathons, he shares practical insights on how organizations can create real value with AI.
 
 👉 If your algorithm doesn’t have clean data, [Reprex](https://reprex.nl/) can fix it—or find the right data for you.
 
