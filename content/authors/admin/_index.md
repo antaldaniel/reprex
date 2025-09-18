@@ -59,30 +59,28 @@ user_groups:
   - Observatories
 ---
 
-**Reprex** is a Netherlands-based AI and automation company founded in 2020.  
-We build **data-sharing spaces and knowledge bases** that feed AI systems with **trustworthy data** and **guardrails** so their outcomes are reliable, explainable, and aligned with human oversight.  
+Reprex is a Netherlands-based AI and automation company.  
+We deliver **measurable business value** in back-office operations, CAPEX planning, research automation, and market analysis—always aligned with the **UN Sustainable Development Goals (SDGs)**.  
 
-Our solutions support:  
-- back-office operations,  
-- CAPEX planning,  
-- research automation,  
-- and market analysis.  
+{{< icon name="hand-point-right" pack="fas" >}} We achieve this with a trusted data and AI stack:  
+- **Data curation & integration** — combining scattered public and private sources  
+- **Validation & annotation** — cleaning and enriching data for reliability, usable across both legacy and new systems  
+- **Knowledge graphs** — connecting databases across legal and organisational boundaries  
+- **Data sharing spaces** — hubs where databases interoperate and share data *as-needed, as-permitted*  
+- **Guardrails for AI** — keeping AI outputs explainable, transparent, and under human oversight  
+
+Together, these capabilities let organisations **scale smarter with data they can trust**.  
+
+---
 
 Growing out of the **Yes!Delft incubator** and recognised with several **innovation awards**, we now work internationally while advancing the **UN Sustainable Development Goals (SDGs)**.  
 
 ---
 
-{{< icon name="hand-point-right" pack="fas" >}} See our {{< staticref "/#services" "newtab" >}}services{{< /staticref >}}:  
-[data curation](/service/data-curation/),  
-[open data access](/service/open-data/),  
-[survey harmonization](/software/retroharmonize/),  
-[reproducible research](/service/research/),  
-and validated [trustworthy AI applications](/service/trustworthy-ai/).  
+{{< icon name="rss" pack="fas" >}} Follow {{< staticref "/#news" "newtab" >}}our news and announcements {{< /staticref >}} or the more comprehensive  
+{{< staticref "https://reprex.substack.com/" "newtab" >}}Substack Blog{{< /staticref >}}
 
-{{< icon name="download" pack="fas" >}} Download our {{< staticref "/docs/reprex_introduction.pdf" "newtab" >}}company introduction{{< /staticref >}}.  
-
-{{< icon name="rss" pack="fas" >}} Follow {{< staticref "/#news" "newtab" >}}our news{{< /staticref >}} or the more comprehensive  
-{{< staticref "https://dataandlyrics.com/" "newtab" >}}*Data & Lyrics*{{< /staticref >}} blog.  
+{{< icon name="comments" pack="fas" >}} Meet us on professional {{< staticref "/#talks" "newtab" >}} conferences and meetups {{< /staticref >}}.  
 
 {{< icon name="phone" pack="fas" >}}  Contact {{< staticref "/#contact" "newtab" >}}us{{< /staticref >}}.  
 
