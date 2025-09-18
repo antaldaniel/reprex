@@ -6,9 +6,7 @@
 widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
-title: |
-  REPREX  
-  Big Data For All
+title: Big Data For All
 hero_media: png/reprex/Reprex_summary_with_text_white_narrower_sq.png
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -20,6 +18,6 @@ design:
 
 <br>
 
-`Reprex` is a Netherlands-based AI and automation company founded in 2020. We build data-sharing spaces and knowledge bases that feed AI systems with trustworthy data and guardrails so their outcomes are reliable, explainable, and aligned with human oversight. Our solutions support back-office operations, CAPEX planning, research automation, and market analysis. Growing out of the Yes!Delft incubator and recognised with several innovation awards, we work internationally while advancing the UN Sustainable Development Goals (SDGs).
+We make messy, fragmented, and biased data reliable and transparent. By merging public and private sources into secure data-sharing spaces, we give AI the trustworthy foundations it needs. The result: reliable analytics and scalable AI solutions that power smarter decisions in operations, planning, research, and markets.
 
-
+{{< icon name="hand-point-right" pack="fas" >}} {{< staticref "https://reprex..nl/author/reprex/" "newtab" >}}business card{{< /staticref >}}
