@@ -20,4 +20,8 @@ design:
 
 We make messy, fragmented, and biased data reliable and transparent. By merging public and private sources into secure data-sharing spaces, we give AI the trustworthy foundations it needs. The result: reliable analytics and scalable AI solutions that power smarter decisions in operations, planning, research, and markets.
 
+<<<<<<< HEAD
 {{< icon name="hand-point-right" pack="fas" >}} {{< staticref "./author/reprex/" "newtab" >}}business card{{< /staticref >}}
+=======
+{{< icon name="hand-point-right" pack="fas" >}} {{< staticref "https://reprex..nl/author/reprex/" "newtab" >}}business card{{< /staticref >}}
+>>>>>>> 9a7facbcc6c6cbe0079dc3d310b9514816825237
