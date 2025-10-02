@@ -22,7 +22,7 @@ date: '2025-09-28T14:00:00+02:00'
 #date_end: '2024-06-14T15:30:00+01:00'
 all_day: false
 
-# Schedule page publish date (NOT talk date).
+# Schedule page publish date
 publishDate: '2025-09-28T14:00:00+02:00'
 
 authors: ["daniel_antal", "Ivo Kruusamägi", "Asmah Federico", "Ieva Pigozne"]
@@ -61,13 +61,29 @@ slides: ""
 14:30–15:00 Our [presentation](/slides/20250928-wikimuseum-ceem2025/) took place in the session  
 **GLAM Cooperation and Community Exhibitions** at Wikimedia CEE Meeting 2025 in Thessaloniki.
 
-We invite Wikimedia communities, GLAM partners, and digital humanists to join us in building a multilingual, interoperable Wikimuseum and extending the Finno-Ugric Data Sharing Space.\
+We invite Wikimedia communities, data curators, AI specialists, GLAM partners, 
+and digital humanists to join us in building a multilingual,
+interoperable Wikimuseum and extending the Finno-Ugric Data Sharing Space.\
 👉 [Read more about this data sharing space](/observatories/finno-ugric/)
 {{% /callout %}}
 
-Our talk introduced the **Wikimuseum** concept: collaborative, multilingual exhibitions that bring together museum objects, archival documents, photographs, and private collections into Wikimedia-powered virtual showcases. As a case study, we presented the **Livonian garment exhibition**, where dispersed artefacts from Finland, Estonia, and Latvia were digitally reunited for the first time in a century.
+Our talk introduced the **Wikimuseum** concept: collaborative, multilingual exhibitions that 
+bring together museum objects, archival documents, photographs, and private collections into 
+Wikimedia-powered virtual showcases. As a case study, we presented the 
+**Livonian garment exhibition**, where dispersed artefacts from Finland, Estonia, and 
+Latvia were digitally reunited for the first time in a century.
 
-We also showed how this approach interlinks with the **Finno-Ugric Data Sharing Space (FUDSS)**, a federated Wikibase-driven dataspace designed for small, endangered, or diasporic heritage communities. The DSS applies the **European Interoperability Framework** to cultural data, connecting CIDOC-CRM museum records, DCTERMS library metadata, and Wikibase lexemes, while respecting local epistemologies and multilingual vocabularies.
+We also showed how this approach interlinks with the **Finno-Ugric Data Sharing Space (FUDSS)**,
+a demonstration of a rather complex system built around open knowledge
+graphs and a showcase of a particularly challenging data governance and curation use case involving
+FAIR and SAFE standards, different jurisdictions, rarely used languages. 
+
+ 
+Our federated Wikibase-driven dataspace designed for small, endangered, or 
+diasporic heritage communities. The DSS applies the **European Interoperability Framework** to 
+cultural data, connecting CIDOC-CRM museum records, DCTERMS library metadata, 
+and Wikibase lexemes, while respecting local epistemologies 
+and multilingual vocabularies.
 
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSV6uGYs_lP9AOCehB_klihsqEesISF0SR7dQFD3t97gJgZuTccdorJbCyOx9igfpwhz7EmLkQ7t7Z-/pubembed?start=true&loop=false&delayms=3000" frameborder="0" width="600" height="366" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
