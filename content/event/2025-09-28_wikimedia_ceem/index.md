@@ -1,5 +1,5 @@
 ---
-title: "Building a music data sharing space with Wikibase"
+title: "WikiMuseum = GLAM Wiki + Wikibase + Data Sharing Space"
 subtitle: How can we make GLAM institutions and private collectors work with each other on joint Wikimedia GLAM on a joint exhibition?
 projects: []
 categories:
@@ -58,8 +58,8 @@ slides: ""
 
 
 {{% callout note %}} 
-14:30–15:00 Our [presentation](/slides/20250928-wikimuseum-ceem2025/) took place in the session  
-**GLAM Cooperation and Community Exhibitions** at Wikimedia CEE Meeting 2025 in Thessaloniki.
+14:30–15:00 Our presentation took place in the session  
+[GLAM Cooperation and Community Exhibitions](https://meta.wikimedia.org/wiki/Wikimedia_CEE_Meeting_2025/Programme) at Wikimedia CEE Meeting 2025 in Thessaloniki.
 
 We invite Wikimedia communities, data curators, AI specialists, GLAM partners, 
 and digital humanists to join us in building a multilingual,
@@ -84,7 +84,6 @@ diasporic heritage communities. The DSS applies the **European Interoperability 
 cultural data, connecting CIDOC-CRM museum records, DCTERMS library metadata, 
 and Wikibase lexemes, while respecting local epistemologies 
 and multilingual vocabularies.
-
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSV6uGYs_lP9AOCehB_klihsqEesISF0SR7dQFD3t97gJgZuTccdorJbCyOx9igfpwhz7EmLkQ7t7Z-/pubembed?start=true&loop=false&delayms=3000" frameborder="0" width="600" height="366" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
