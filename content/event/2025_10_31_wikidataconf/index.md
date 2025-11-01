@@ -49,7 +49,7 @@ links:
 - icon: youtube
   icon_pack: fab
   name: Recorded Livestream
-  url: https://www.youtube.com/live/zUnDL8jZU5M?start=7680
+  url: https://www.youtube.com/live/zUnDL8jZU5M?start=7879
 - icon: download
   icon_pack: fas
   name: DOI:10.5281/zenodo.17496740
@@ -97,11 +97,12 @@ provide better mapping of cultural objects, permissions, duties and rights relat
 
 You can watch the presentation here:
 
-<iframe width="600" height="338" 
-  src="https://www.youtube.com/live/zUnDL8jZU5M?start=7680" 
-  title="Wikidata Conf 2025 presentation" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-  allowfullscreen>
+<iframe width="560" height="315" 
+   src="https://www.youtube.com/embed/zUnDL8jZU5M?si=hjLsr85fvmqSni0x&amp;start=7879"
+   title="YouTube video player" 
+   frameborder="0" 
+   allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; 
+   picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" 
+   allowfullscreen>
 </iframe>
 
