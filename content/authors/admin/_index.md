@@ -89,4 +89,6 @@ Growing out of the **Yes!Delft incubator** and recognised with several **innovat
 **Company details**  
 - Registration number: `80205275` (KvK Chamber of Commerce)  
 - Founding document: `000046572589` (vestigingnummer)  
-- VAT number: `NL 861587893B01`  
+- VAT number: `NL 861587893B01`
+- ISNI: `[000000050973936X](https://isni.org/isni/000000050973936X)`
+- QID: `[Q134606556](https://www.wikidata.org/wiki/Q134606556)`
