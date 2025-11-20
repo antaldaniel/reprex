@@ -69,13 +69,15 @@ We deliver **measurable business value** in back-office operations, CAPEX planni
 - **Data sharing spaces** — hubs where databases interoperate and share data *as-needed, as-permitted*  
 - **Guardrails for AI** — keeping AI outputs explainable, transparent, and under human oversight  
 
-Together, these capabilities let organisations **scale smarter with data they can trust**.  
+Together, these capabilities let organisations **scale smarter with data they can trust**.  Please subscribe to our 
+premium blog,</br> 
+> [Connect to the AI Grid - How non-tech companies can turn data and knowledge into capital](https://aigrid.substack.com/)
+
+where offer executive training, use cases, training material on how to avoid introducing AI that burns capital or works against you.
 
 ---
 
 Growing out of the **Yes!Delft incubator** and recognised with several **innovation awards**, we now work internationally while advancing the **UN Sustainable Development Goals (SDGs)**.  
-
----
 
 {{< icon name="rss" pack="fas" >}} Follow {{< staticref "/#news" "newtab" >}}our news and announcements {{< /staticref >}} or the more comprehensive  
 {{< staticref "https://reprex.substack.com/" "newtab" >}}Substack Blog{{< /staticref >}}
@@ -90,5 +92,5 @@ Growing out of the **Yes!Delft incubator** and recognised with several **innovat
 - Registration number: `80205275` (KvK Chamber of Commerce)  
 - Founding document: `000046572589` (vestigingnummer)  
 - VAT number: `NL 861587893B01`
-- ISNI: `[000000050973936X](https://isni.org/isni/000000050973936X)`
-- QID: `[Q134606556](https://www.wikidata.org/wiki/Q134606556)`
+- ISNI: `000000050973936X`
+- QID: `Q134606556`

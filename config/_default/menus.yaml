@@ -39,17 +39,21 @@ main:
     weight: 31
     parent: Solutions
     url: '#observatories'
+  - name: Connect to the AI Grid
+    weight: 32
+    parent: Solutions
+    url: https://aigrid.substack.com/
   - name: Systems
     url: '#systems'
-    weight: 32
+    weight: 33
     parent: Solutions
   - name: Software
     url: '#releases'
-    weight: 33
+    weight: 34
     parent: Solutions
   - name: Code
     url: '/category/r-bloggers/'
-    weight: 34
+    weight: 35
     parent: Solutions
   - name: Publications
     url: publication
