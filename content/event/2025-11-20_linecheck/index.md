@@ -47,10 +47,14 @@ links:
   icon_pack: fab
   name: Open Music Observatory
   url: https://www.linkedin.com/company/79286750/
+- icon: download
+  icon_pack: fas
+  name: Presentation
+  url: https://zenodo.org/records/17669739
 - icon: L
   icon_pack: fas
-  name: Wikidata Conf 2025
-  url: https://www.wikidata.org/wiki/Event:WikidataCon_2025
+  name: LineCheck 2025
+  url: https://www.linecheck.it/
 
 
 # Markdown Slides (optional).
@@ -61,10 +65,11 @@ slides: ""
 {{% callout note %}} 
 **Panel topics**\
 How does music shape the social and cultural fabric of Europe? What can patterns of music consumption reveal about policies, inclusion, and everyday life? Music is not only a mirror of culture, but also a living indicator of how communities evolve and interact. Today, the growing availability of music-related data opens new perspectives to understand the social value of music and its potential to build fairer and more sustainable ecosystems. When used responsibly, data can help policymakers, researchers, and professionals identify gaps, measure impact, and support better decision-making. By turning open data into collective knowledge, projects like OpenMusE aim to bring more transparency, visibility, and fairness to Europe’s music landscape, bridging analysis, policy, and creativity. Can data really become a common good for music? And how can openness drive the next phase of Europe’s cultural development?
-
 {{% /callout %}}
 
 
 The presentation introduces the Open Music Observatory (OMO), a federated, open-data infrastructure designed to repair long-standing metadata gaps in Europe’s music ecosystem. Building on the vision set by the feasibility study for the European Music Observatory, we show how fragmented, hidden, restricted, and unharmonised data can be aligned through shared standards and collaborative curation. Using Slovakia as a pilot case, we demonstrate how public and private stakeholders can jointly improve the visibility of national repertoire, reduce metadata errors that cause lost royalties, and strengthen cultural diversity in streaming and discovery systems.
 
 We will present the OMO federation model, its Slovak deployment (SK Music Dataspace), and the ways institutions and developers can interact with the system: manual curation via Wikibase interfaces, automated ingestion through APIs, and compliant AI access through the Model Context Protocol. The talk highlights how interoperable data supports fairer recommendation systems, better attribution, improved royalty flows, and new research possibilities—illustrating how open, ethical data infrastructures can help smaller repertoires thrive in a globalised digital marketplace.
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7397575618814541824?collapsed=1" height="684" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
