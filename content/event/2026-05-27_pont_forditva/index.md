@@ -14,7 +14,7 @@ address:
   postcode: H-1088
   country: Hungary
 
-ummary: "This presentation explores how multilingual knowledge graphs, metadata repair, and translation workflows can reconnect dispersed Finno-Ugric cultural heritage collections with contemporary communities and researchers."
+summary: "This presentation explores how multilingual knowledge graphs, metadata repair, and translation workflows can reconnect dispersed Finno-Ugric cultural heritage collections with contemporary communities and researchers."
 
 abstract: "The presentation examines archival visibility, translation, and metadata repair through examples drawn from Estonian, Hungarian, and Finnish Finno-Ugric collections. Many Mari, Seto, Võro, Udmurt, and Moldavian Csángó materials entered museum and archival collections more than a century ago using inconsistent linguistic standards, phonetic transcriptions, and monolingual cataloguing practices that are often difficult to interpret today, even for specialists or source communities themselves.
 <br/>
