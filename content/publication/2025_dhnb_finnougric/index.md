@@ -66,4 +66,27 @@ projects:
 slides:
 ---
 
-This paper presents the design and early implementation of the Finno-Ugric Data Sharing Space (DSS), a multilingual, community-driven prototype for linking cultural heritage data across institutional and geographic boundaries. Rather than a finished infrastructure, the DSS should be read as a blueprint and exploratory model—developed as a thought experiment with minimal resources but grounded in our prior work on music metadata governance involving both public and private actors. We use this experimental setting to review structural problems in existing Finno-Ugric knowledge systems: the negative outcomes of Wikipedia’s Livonian and Mari initiatives, the dispersion of diasporic knowledge, and the limitations of national GLAM infrastructures. Building on empirical literature and our own governance practice, we propose a lightweight federated infrastructure built on Wikibase and open ontologies, which enables multilingual vocabularies, contextual annotation, and ethical data linking without flattening local epistemologies. Case studies of Seto textile collections and the Hõimulõimed multilingual song archive illustrate how the prototype supports cultural reconstruction and participatory enrichment. While not an institutional solution, the DSS demonstrates how a semantically rich, community-anchored model can serve as a testbed for broader applications in low-scale cultural ecosystems.
+This paper presents the design and early implementation of the 
+[Finno-Ugric Data Sharing Space](https://finnougric.net/en/) (DSS), a multilingual, 
+community-driven prototype for linking cultural heritage data across 
+institutional and geographic boundaries.
+
+{{< cta cta_text="Download" cta_link="https://doi.org/10.5617/dhnbpub.12939" 
+cta_new_tab="false" cta_alt_text="Conference website" 
+cta_alt_link="https://dhnb.eu/conferences/dhnb2025/" cta_alt_new_tab="false" >}}
+
+Rather than a finished infrastructure, the DSS should be read as a blueprint and
+exploratory model—developed as a thought experiment with minimal resources but 
+grounded in our prior work on music metadata governance involving both public 
+and private actors. We use this experimental setting to review structural problems 
+in existing Finno-Ugric knowledge systems: the negative outcomes of 
+Wikipedia’s Livonian and Mari initiatives, the dispersion of diasporic knowledge, 
+and the limitations of national GLAM infrastructures. Building on empirical 
+literature and our own governance practice, we propose a lightweight federated
+infrastructure built on Wikibase and open ontologies, which enables multilingual 
+vocabularies, contextual annotation, and ethical data linking without flattening 
+local epistemologies. Case studies of Seto textile collections and the
+Hõimulõimed multilingual song archive illustrate how the prototype supports
+cultural reconstruction and participatory enrichment. While not an institutional
+solution, the DSS demonstrates how a semantically rich, community-anchored model
+can serve as a testbed for broader applications in low-scale cultural ecosystems.

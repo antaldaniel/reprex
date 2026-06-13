@@ -36,41 +36,55 @@ editor_options:
 
 </td>
 
-The **Eviota project** aims to develop sustainability reports directly linked to the financial accounts of companies, NGOs, and civil society organisations. The initial phase focuses on estimating greenhouse gas emissions and air pollutants. Our goal is to generate reliable, expenditure-based estimates of the carbon and pollution footprint of music-related social enterprises—an approach we refer to as *connected financial and sustainability reporting*.or `double materiality reporting.`
+The **Eviota project** aims to develop sustainability reports directly linked to
+the financial accounts of companies, NGOs, and civil society organisations.
+The initial phase focuses on estimating greenhouse gas emissions and air pollutants. 
+Our goal is to generate reliable, expenditure-based estimates of the carbon 
+and pollution footprint of music-related social enterprises—an approach we 
+refer to as *connected financial and sustainability reporting*.or 
+`double materiality reporting.`
 
 Creating connected or `double materiality` reports has many advantages:
 
--   [x] It demonstrates to consumers, donors, and buyers that the organisation is committed to sustainable growth.
--   [x] It enables the organisation to apply for grants aimed at improving sustainability.
--   [x] Within the EU, it increases eligibility for green loans, green insurance, and green investments.
--   [x] Large corporations—including music event sponsors—may require credible sustainability metrics from their supply chain.
+- [x] It demonstrates to consumers, donors, and buyers that the organisation is
+committed to sustainable growth.
+- [x] It enables the organisation to apply for grants aimed at improving 
+sustainability.
+- [x] Within the EU, it increases eligibility for green loans, green insurance, 
+and green investments.
+- [x] Large corporations—including music event sponsors—may require credible 
+sustainability metrics from their supply chain.
 
 There are several challenges we aim to overcome in this project.
 
--   [ ] Connected financial and sustainability reports are complex, require extensive data,\
-    and are currently mandatory only for 'large' corporations. Just as small enterprises\
-    can file simplified tax returns and financial reports, we aim to create a\
-    `simplified, low-cost, connected financial and sustainability report`\
-    for micro- and small organisations.
+- [ ] Connected financial and sustainability reports are complex, require 
+extensive data, and are currently mandatory only for 'large' corporations. Just as small enterprises\
+  can file simplified tax returns and financial reports, we aim to create a\
+  `simplified, low-cost, connected financial and sustainability report`\
+  for micro- and small organisations.
 
--   [ ] Due to their complexity, these reports are time-consuming and expensive to produce.\
-    The European Commission estimates the average cost at approximately €10,000 per organisation.
+- [ ] Due to their complexity, these reports are time-consuming and expensive to produce.\
+  The European Commission estimates the average cost at approximately €10,000 per organisation.
 
--   [ ] We follow the `principle of double materiality`, as defined by EFRAG and the CSRD.\
-    This means our reports reflect both the organisation’s impact on society and the environment\
-    (*impact materiality*), and the effects of sustainability risks on the organisation’s own financial health\
-    (*financial materiality*). This dual perspective is essential for aligning sustainability information\
-    with core financial disclosures.
+- [ ] We follow the `principle of double materiality`, as defined by EFRAG and the CSRD.\
+  This means our reports reflect both the organisation’s impact on society and the environment\
+  (*impact materiality*), and the effects of sustainability risks on the organisation’s own financial health\
+  (*financial materiality*). This dual perspective is essential for aligning sustainability information\
+  with core financial disclosures.
 
-In the European music sector, only a few large organisations are active.\
-As a result, there is little regulatory pressure for music enterprises to engage in\
-sustainability reporting—meaning they currently miss out on the associated benefits outlined above.
+In the European music sector, only a few large organisations are active. 
+As a result, there is little regulatory pressure for music enterprises to 
+engage in sustainability reporting—meaning they currently miss out on the 
+associated benefits outlined above.
 
 {{<toc>}}
 
 ## Our approach
 
-Most sustainability calculators are complex, relying on a wide range of data inputs from within the company. Our mission is to reduce this complexity—while maintaining accuracy—by identifying meaningful simplifications based on practical experience.
+Most sustainability calculators are complex, relying on a wide range of data 
+inputs from within the company. Our mission is to reduce this complexity—while 
+maintaining accuracy—by identifying meaningful simplifications based on practical
+experience.
 
 Rather than asking for dozens of indicators, we compare all spending (upstream supply chain) and all income (downstream value chain) with benchmark data from comparable organisations in the same country and sector for the reference year.
 
@@ -99,13 +113,13 @@ We start from a document that every company has and that requires no additional 
 
 A trial balance lists the balances of all general ledger accounts at a specific point in time. It includes all major financial categories—assets, liabilities, equity, revenues, expenses, gains, and losses. Its primary function is to ensure that all debit and credit entries recorded in the general ledger are balanced.
 
--   [x] **No extra management time required**: the trial balance is already generated by your accountant. We do not need the full ledger—only the annual summaries of revenues and expenses.
+- [x] **No extra management time required**: the trial balance is already generated by your accountant. We do not need the full ledger—only the annual summaries of revenues and expenses.
 
--   [x] **It is objective**: the trial balance reflects actual spending, with no estimation or interpretation needed.
+- [x] **It is objective**: the trial balance reflects actual spending, with no estimation or interpretation needed.
 
--   [x] **It is widely standardised**: trial balances follow a fairly uniform structure across Europe and most countries globally (with the exception of the United States and a few others).
+- [x] **It is widely standardised**: trial balances follow a fairly uniform structure across Europe and most countries globally (with the exception of the United States and a few others).
 
--   [x] **It ensures consistency**: using the same source document as your accountant preserves the financial-sustainability **connectivity principle**. For example, if your financial report states that you spent €1,000 on energy, we will base our emissions calculation on the volume of energy corresponding to that amount, ensuring alignment between financial and environmental reporting.
+- [x] **It ensures consistency**: using the same source document as your accountant preserves the financial-sustainability **connectivity principle**. For example, if your financial report states that you spent €1,000 on energy, we will base our emissions calculation on the volume of energy corresponding to that amount, ensuring alignment between financial and environmental reporting.
 
 {{< /spoiler >}}
 
@@ -125,7 +139,7 @@ We rely on the `trial balance` (see [examples](https://www.wallstreetmojo.com/tr
 
 Currently, your accountant prepares two documents that are legally required and typically published together as your (Simplified) Annual Report. In Europe, all micro- and small enterprises produce this report, which consists of:
 
-1.  The annual (simplified) balance sheet\
+1.  The annual (simplified) balance sheet
 2.  The annual (simplified) profit and loss statement
 
 Using exactly the same underlying data—i.e. the trial balance—and adding sustainability information, we introduce a third document:
@@ -151,13 +165,13 @@ Using exactly the same underlying data—i.e. the trial balance—and adding sus
 
 The report is technically a **non-financial disclosure (NFD)** that complements your annual financial report, which currently includes the balance sheet and profit and loss statement. You may add a sustainability report as a third, optional component.
 
--   [ ] The creation of an NFD is not mandatory for small- and medium-sized enterprises (SMEs) and NGOs, which typically produce simplified financial reports.
+- [ ] The creation of an NFD is not mandatory for small- and medium-sized enterprises (SMEs) and NGOs, which typically produce simplified financial reports.
 
--   [x] The sustainability report consists of two paragraphs of factual text, accompanied by a table and a chart illustrating the greenhouse gas emissions (or other pollutants) associated with your organisation’s activities.
+- [x] The sustainability report consists of two paragraphs of factual text, accompanied by a table and a chart illustrating the greenhouse gas emissions (or other pollutants) associated with your organisation’s activities.
 
--   [x] A sustainability report is an essential first step towards factual sustainability management and avoiding greenwashing. By understanding how your activities—including purchases from suppliers—generate emissions (or contribute to issues like the gender pay gap), you can plan to reduce negative impacts and enhance positive ones.
+- [x] A sustainability report is an essential first step towards factual sustainability management and avoiding greenwashing. By understanding how your activities—including purchases from suppliers—generate emissions (or contribute to issues like the gender pay gap), you can plan to reduce negative impacts and enhance positive ones.
 
--   [x] We collaborate with expert advisors to ensure that your actions and sustainability claims are credible. This enables you to communicate transparently and confidently with your customers, audience, donors, grant agencies, banks, insurers, or investors.
+- [x] We collaborate with expert advisors to ensure that your actions and sustainability claims are credible. This enables you to communicate transparently and confidently with your customers, audience, donors, grant agencies, banks, insurers, or investors.
 
 {{< spoiler text="Why Eviota?" >}}
 <td style="text-align: center;">{{< figure src="/img/eviota/eviota-bifasciata.png" caption="" numbered="false" >}}</td>
@@ -168,15 +182,15 @@ The first step in protecting our planet is to objectively identify where your or
 
 ## Methodology {#methodology}
 
--   [x] We follow the [CPA classification](https://ec.europa.eu/eurostat/ramon/nomenclatures/index.cfm?TargetUrl=LST_NOM_DTL&StrNom=CPA_2008&StrLanguageCode=EN&IntPcKey=&StrLayoutCode=HIERARCHIC&IntCurrentPage=1) for categorising suppliers and corporate buyers. Some categories—such as `B MINING AND QUARRYING`—are aggregated, meaning we cannot distinguish between specific mining activities. In service industries, this level of detail is not required.
+- [x] We follow the [CPA classification](https://ec.europa.eu/eurostat/ramon/nomenclatures/index.cfm?TargetUrl=LST_NOM_DTL&StrNom=CPA_2008&StrLanguageCode=EN&IntPcKey=&StrLayoutCode=HIERARCHIC&IntCurrentPage=1) for categorising suppliers and corporate buyers. Some categories—such as `B MINING AND QUARRYING`—are aggregated, meaning we cannot distinguish between specific mining activities. In service industries, this level of detail is not required.
 
--   [x] We use the same national accounts data as EU and UN institutions rely on to monitor compliance with the Paris Agreement. Our categories are based on the System of National Accounts (SNA), harmonised at EU and global level. In 2022, we worked with EU member states and candidate countries; the software will be adapted for global use in 2023 and beyond.
+- [x] We use the same national accounts data as EU and UN institutions rely on to monitor compliance with the Paris Agreement. Our categories are based on the System of National Accounts (SNA), harmonised at EU and global level. In 2022, we worked with EU member states and candidate countries; the software will be adapted for global use in 2023 and beyond.
 
--   [x] Our sustainability methodology is grounded in the [Global GHG Accounting & Reporting Standard for the Financial Industry](https://carbonaccountingfinancials.com/standard).
+- [x] Our sustainability methodology is grounded in the [Global GHG Accounting & Reporting Standard for the Financial Industry](https://carbonaccountingfinancials.com/standard).
 
--   [x] We follow EFRAG’s *Proposals for a Relevant and Dynamic EU Sustainability Reporting Standard Setting* ([PDF download](https://www.efrag.org/Assets/Download?assetUrl=%2Fsites%2Fwebpublishing%2FSiteAssets%2FEFRAG%2520PTF-NFRS_MAIN_REPORT.pdf)), which will underpin future mandatory sustainability reporting standards in Europe.
+- [x] We follow EFRAG’s *Proposals for a Relevant and Dynamic EU Sustainability Reporting Standard Setting* ([PDF download](https://www.efrag.org/Assets/Download?assetUrl=%2Fsites%2Fwebpublishing%2FSiteAssets%2FEFRAG%2520PTF-NFRS_MAIN_REPORT.pdf)), which will underpin future mandatory sustainability reporting standards in Europe.
 
--   [x] We support small music organisations with sustainability reporting—particularly where detailed data or standards currently exist only for greenhouse gas emissions.
+- [x] We support small music organisations with sustainability reporting—particularly where detailed data or standards currently exist only for greenhouse gas emissions.
 
 The **Music Eviota** project is supported by [MusicAIRE](https://musicaire.eu/).
 
@@ -203,9 +217,9 @@ Correct and reliable sustainability management will offer financial advantages, 
 While **music-sector MSMEs** (micro, small, and medium-sized enterprises) and **civil society organisations (CSOs)** will be exempt from mandatory sustainability reporting,\
 they can still benefit from voluntary compliance and credible reporting. Our solution provides tangible benefits for music MSMEs and CSOs:
 
--   [x] A **size-appropriate tool** for sustainability management and reporting—starting with greenhouse gas emissions, and expanding to water usage, pollution, biodiversity, and recycling across the full value chain. For example, it can flag environmental risks in a festival’s supplier base (e.g., transport, catering, security).
+- [x] A **size-appropriate tool** for sustainability management and reporting—starting with greenhouse gas emissions, and expanding to water usage, pollution, biodiversity, and recycling across the full value chain. For example, it can flag environmental risks in a festival’s supplier base (e.g., transport, catering, security).
 
--   [x] **Extendibility to social sustainability**. Our prior research shows that live music, which relies on a large workforce, often suffers from underrepresentation and discrimination against women in technical and managerial roles. Our system can flag risks such as gender pay gaps and provide benchmarks for internal improvements.
+- [x] **Extendibility to social sustainability**. Our prior research shows that live music, which relies on a large workforce, often suffers from underrepresentation and discrimination against women in technical and managerial roles. Our system can flag risks such as gender pay gaps and provide benchmarks for internal improvements.
 
 Our review of ESG risk management confirms that compliance is not only useful for securing better loan and insurance terms (particularly relevant for live events), but is also increasingly expected by event sponsors and audiences.
 
@@ -220,23 +234,24 @@ While some music organisations already publish sustainability reports, these are
 ## Future plans: Social Sustainability and Anti-Bribary {#future-plans}
 
 <td style="text-align: center;">
-
-{{< figure src="/img/eviota/eviota_regulatory_goals.png" caption="In 2022/23 we focus on reporting GHG emissions and following the Paris Climate Agreement. We are making experiments on data sources to include other sustainability gols related to water use, biodiversity, social sustainability and anti-bribary." numbered="false" >}}
-
+{{< figure src="/img/eviota/eviota_regulatory_goals.png" 
+caption="In 2022/23 we focus on reporting GHG emissions and following the Paris Climate Agreement. We are making experiments on data sources to include other sustainability gols related to water use, biodiversity, social sustainability and anti-bribary." numbered="false" >}}
 </td>
 
 ## MusicAIRE Green Recovery in the Music Sector {#greenrecovery}
 
 <td style="text-align: center;">
-
-{{< figure src="/img/logos/MusicAIRE_logo_black.png" caption="Co-funded by the European Union" numbered="false" >}}
-
+{{< figure src="/img/logos/MusicAIRE_logo_black.png" 
+    caption="Co-funded by the European Union" numbered="false" >}}
 </td>
 
-The objective of the *MusicAIRE GREEN Recovery Programme* is to increase environmental sustainability and ecological awareness within the music sector. Its focus is on greening the industry—particularly live performances, festivals, and touring—while also supporting innovative start-ups that seek to reduce the environmental impact of online data storage and music distribution.
+The objective of the *MusicAIRE GREEN Recovery Programme* is to increase 
+environmental sustainability and ecological awareness within the music sector.
+Its focus is on greening the industry—particularly live performances, festivals, 
+and touring—while also supporting innovative start-ups that seek to reduce the 
+environmental impact of online data storage and music distribution.
 
 <td style="text-align: center;">
-
-{{< figure src="/img/logos/EN_Co-Funded_by_the_EU_POS.png" caption="Co-funded by the European Union" numbered="false" >}}
-
+{{< figure src="/img/logos/EN_Co-Funded_by_the_EU_POS.png" 
+    caption="Co-funded by the European Union" numbered="false" >}}
 </td>

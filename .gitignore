@@ -7,3 +7,4 @@ public/
 .DS_store
 resources/_gen/images
 reprex.Rproj
+.positai
