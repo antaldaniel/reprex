@@ -31,8 +31,8 @@ content:
       tag: Open Music Europe
     - name: Music Eviota
       tag: Music Eviota
-    - name: CEEMID
-      tag: CEEMID
+    - name: [proclaim]
+      tag: PROCLAIM
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
