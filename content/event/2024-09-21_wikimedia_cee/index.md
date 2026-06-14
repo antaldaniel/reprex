@@ -16,7 +16,7 @@ address:
 
 summary: Wikimedia CEE Meeting 2024 (#WMCEE) is an annual conference centered on Wikimedia projects (Wikipedia and other related projects) in countries of Central and Eastern Europe (more recently, also in Central Asia). It features presentations on Wikimedia projects, other wikis, free/open source software, free knowledge and free content, and these topics' social and technical aspects.
 
-abstract: 'This informal meetup is going to be held in the Hungarian language at the ELTE Digital Humanities Department.'
+abstract: 'Wikimedia CEE Meeting 2024 (#WMCEE) is an annual conference centered on Wikimedia projects (Wikipedia and other related projects) in countries of Central and Eastern Europe (more recently, also in Central Asia)'
 
 # Talk start and end times.
 date: '2024-09-21T14:00:00+02:00'
